@@ -1,0 +1,1174 @@
+{
+    "niK-GkBZ_RIFscfy-nH1rg": {
+        "keywords": {
+            "bigrams": [
+                "old_time",
+                "meat_deli",
+                "time_meat",
+                "butcher_shop",
+                "customer_service",
+                "cut_meat",
+                "twice_baked",
+                "piece_meat",
+                "buy_meat",
+                "house_rolls"
+            ],
+            "unigrams": [
+                "meat",
+                "time",
+                "old",
+                "deli",
+                "place",
+                "good",
+                "quality",
+                "staff",
+                "local",
+                "meats"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "none",
+                "Ambience": {
+                    "casual": false,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "Caters": false,
+                "Delivery": false,
+                "Good For Groups": false,
+                "Good for Kids": false,
+                "Has TV": false,
+                "Noise Level": "average",
+                "Outdoor Seating": false,
+                "Parking": {
+                    "garage": false,
+                    "lot": true,
+                    "street": false,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 2,
+                "Take-out": true,
+                "Takes Reservations": false,
+                "Waiter Service": false,
+                "Wheelchair Accessible": true,
+                "Wi-Fi": "no"
+            },
+            "business_id": "niK-GkBZ_RIFscfy-nH1rg",
+            "categories": [
+                "Food",
+                "Specialty Food",
+                "Delis",
+                "Meat Shops",
+                "Restaurants"
+            ],
+            "city": "Champaign",
+            "full_address": "2018 S Neil St\nChampaign, IL 61820",
+            "hours": {
+                "Friday": {
+                    "close": "18:00",
+                    "open": "10:00"
+                },
+                "Monday": {
+                    "close": "18:00",
+                    "open": "10:00"
+                },
+                "Saturday": {
+                    "close": "18:00",
+                    "open": "10:00"
+                },
+                "Thursday": {
+                    "close": "18:00",
+                    "open": "10:00"
+                },
+                "Tuesday": {
+                    "close": "18:00",
+                    "open": "10:00"
+                },
+                "Wednesday": {
+                    "close": "18:00",
+                    "open": "10:00"
+                }
+            },
+            "latitude": 40.091899,
+            "longitude": -88.2452807,
+            "name": "Old Time Meat & Deli Shoppe",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media1.fl.yelpcdn.com/bphoto/qRT2S0lAclFBDwxLpzrDRg/ms.jpg",
+            "review_count": 29,
+            "stars": 5,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "if you think you've been buying great cuts of meat from a grocery store in the c-u area, i will tell you you haven't and that it's time you visit old time and see what a quality piece of meat tastes like. We do not buy much meat but when we do it is only from Old Time Meat and Deli! Combine old-school butchery with top-shelf customer service with the best of our local meat availability here conveniently in the center of town, and you get Old Time Meat & Deli Shop located at 2018 S Neil St. Champaign, Illinois 61820 ",
+        "reviews": [
+            {
+                "review": "This is a really good meat store, with some excellent marinated chicken choices too. All top quality meats  along with Amish chicken (it is delicious and not expensive). The staff is very helpful and friendly. They also have a small selection of fresh fish. I've had the cod and it was great. Also can recommend the pickles from the pickle barrel :)",
+                "reviewer_id": "-FqXwGg8isV0ap9U1q7p6g",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.404774011293713,
+                    "positive_probability": 0.5952259887062834
+                },
+                "stars": 4
+            },
+            {
+                "review": "Best place around to buy quality meats.  I always go here when meat is to be the star of a meal.  Prime meats sometimes don't look quite as nice as I'd hope, but overall the product is far beyond any local supermarket.",
+                "reviewer_id": "1Q2Ea4vyB90zRqwAHjfCDg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.04850143857066002,
+                    "positive_probability": 0.9514985614293374
+                },
+                "stars": 4
+            },
+            {
+                "review": "This place is so awesome!  Very fresh cuts of meat, great customer service, knowledgeable employees, what more can you ask for?!  They are always willing to go the extra mile here.  On one occasion, I bought meat for a stir fry, and the employee offered to cut up the meat for me without me even having to ask.  Another time I was looking for salmon fillets and the fish had just gotten there and one of the employees cut me a fillet.  I highly recommend this place!",
+                "reviewer_id": "4qaviROg6YclcYkzjq5tMA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.009116673571874108,
+                    "positive_probability": 0.9908833264281276
+                },
+                "stars": 5
+            },
+            {
+                "review": "Knowledgeable, friendly staff.  Sirloin patties and the twice baked potatoes are my go-to choices here.  Will make a special trip for them.  Good stuff.",
+                "reviewer_id": "4YSr2lR8i4sVywgi-Y1CLw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.24431151155114209,
+                    "positive_probability": 0.7556884884488569
+                },
+                "stars": 5
+            },
+            {
+                "review": "Large variety of high quality fresh meat. The staff here are excellent at making a recommendation if you are unsure the difference between cuts. They also have other fresh items to complete your meal (twice baked potatoes are a must!) as well as frozen meats and \"Beef House\" rolls.I only wish they were open Sunday's too!",
+                "reviewer_id": "60juruDHOc7-yhc2bE2Elw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.05576930002421694,
+                    "positive_probability": 0.9442306999757863
+                },
+                "stars": 5
+            },
+            {
+                "review": "I never thought I'd review a butcher, but that's how good Old Time is. Top-notch ingredients. Excellent supplies for BBQ/smoking. The staff knows their stuff - I've walked in and said \"What am I in the mood to make this weekend?\" and they answer me thoroughly and don't look annoyed at all (which, honestly, they completely could because that's annoying of me to ask).I'm kind of surprised they don't have better cheese, given how great everything else is, but I can't deduct for that.",
+                "reviewer_id": "7cU03OKZgmjNLLLGpbBiOw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5560398060958445,
+                    "positive_probability": 0.4439601939041578
+                },
+                "stars": 5
+            },
+            {
+                "review": "There's nothing I like more than a well marbled NY strip. OK - maybe a tender free range chicken. Any piece of meat I have purchased from Old Time has not let me down. Well, the Dietz & Watson deli meats are wonderful but still pale in comparison to Boar's Head (available at the IGA over on Mattis). It's all fresh, favorful and kosher! If your deep freezer is empty - you can save a ton when you buy in bulk.It's the local butcher shop me and my fiancee had been waiting for. And after three years of being open for business, Old Time Meat & Deli is rarely crowded and I can never figure out why. It's a good thing for customers in the know...",
+                "reviewer_id": "7zSppEZd2C6ASpNeBebxAA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0713073792005145,
+                    "positive_probability": 0.9286926207994813
+                },
+                "stars": 4
+            },
+            {
+                "review": "Aw, yeah! I never will go to County Market for my meat shopping again! Old Time can meet almost all of your meat eating needs and they do have a customer appreciation card where you get 10% off your next purchase when you purchase $200 worth at the store. Their sausages are quite good and their special flavors (applewursts you should try for sure!) change but they still have the classic bratwursts and mild and spicy italian sausage. Their flank steak is also good and their bulk italian sausage is also worth your while especially if you make spaghetti sauce from scratch. My complaint is that their hours and location could be better. Their staff is always helpful and they can help with getting special meat cuts.",
+                "reviewer_id": "9i-36HhVvgCcjGA2xsCmCw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0023805926527959123,
+                    "positive_probability": 0.9976194073472068
+                },
+                "stars": 4
+            },
+            {
+                "review": "Awesome butcher shop! I worked at the best family owned butcher shop in the Chicago area for many years and this shop is first class!  Awesome meat case with great steaks, marinated chicken and homemade sausage.  Friendly and helpful staff. I will stop back the next time I'm passing thru. Just wish they were open on Sunday so I could load up my cooler!",
+                "reviewer_id": "_gTKw_ID9tIWEY2kR2haPQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.011554934881173236,
+                    "positive_probability": 0.988445065118823
+                },
+                "stars": 5
+            },
+            {
+                "review": "This place is the best.  The customer service is fantastic, the quality is terrific, and the prices reasonable.  If you need meat there is no better place in the area.  We do not buy much meat but when we do it is only from Old Time Meat and Deli!",
+                "reviewer_id": "_zMf23RHZlIQl-6YBE4M6A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2757802935524088,
+                    "positive_probability": 0.7242197064475892
+                },
+                "stars": 5
+            },
+            {
+                "review": "This place is THE BEST place to get meat in the C-U area.  Their staff is friendly and knowledable; it's just the kind of place you'd think would be packed in a place like Champaign.  Not only do they have a good selection of beef and pork, but you can pick up side dishes (and Beef House Rolls, win!).  They'll also cut you something special if you ask.  Definitely stop off on your way home via Neil Street and you won't be disappointed!",
+                "reviewer_id": "bZ0mTBSqb-pWXgxxMbZUbA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.032053980802289696,
+                    "positive_probability": 0.9679460191977131
+                },
+                "stars": 5
+            },
+            {
+                "review": "Really awesome deli here in town! The staff is friendly and the meats are delicious. They even have a neat assortment of odds and ends inside to explore as well. Definitely worth checking out as bbq season gets rolling!",
+                "reviewer_id": "CW9eu3ONnfBr4psEamEa-w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.08372339406027679,
+                    "positive_probability": 0.916276605939724
+                },
+                "stars": 5
+            },
+            {
+                "review": "I use this when I can't get to the Meat Science Lab. I've tried their ground chicken for some Mediterranean kebabs and found they only sell it frozen. That was a bit of a bummer, but when it was thawed it was a creepy chicken paste, nothing like I've ever seen.They do have a good selection of meat in the deli case as well as some marinated items. When items are on special, they have some pretty great prices.",
+                "reviewer_id": "JgHGyWS2emyHq6aq144SLQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.24034519047602762,
+                    "positive_probability": 0.7596548095239702
+                },
+                "stars": 4
+            },
+            {
+                "review": "I love this place! Staff is great very knowledgeable every cut of meat i have ever gotten has been top quality. Oh and did i mention the twice baked potatoes?!",
+                "reviewer_id": "kgVY6G_--VFqoXiUwvLi6g",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5266888735478897,
+                    "positive_probability": 0.4733111264521098
+                },
+                "stars": 5
+            },
+            {
+                "review": "Super friendly people at this meat shop! Everyone is very helpful and they have such a wide variety of items. They also offer Boar's Head deli meats which are delish! I like that they also have some already made items like pork stuffed with wild rice and a large variety of marinated chicken breasts. Yummy!",
+                "reviewer_id": "kRqk2li5lEm8R2EcYDrXBQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.06577862212045078,
+                    "positive_probability": 0.9342213778795503
+                },
+                "stars": 5
+            },
+            {
+                "review": "This is a wonderful butchershop. Deli selections limited to standards of ham, turkey, chicken with good selection of cheeses. Prices reasonable considering the quality.",
+                "reviewer_id": "oipvGyW6VzPaoZdVgoC8JA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.47635563044770146,
+                    "positive_probability": 0.5236443695522986
+                },
+                "stars": 5
+            },
+            {
+                "review": "Ye Old Time Meat and Deli Shoppe is one of the only places in champaign that I have no reservations about giving 5 stars.  It is SPOTLESSLY clean inside, and full of tip top meats!  The staff have always been nice and helpful when I've been there, and I'm pretty sure it's the only place in CU that has rack of lamb.",
+                "reviewer_id": "sleEMt44E1StWrjz3mcujQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5764517626140949,
+                    "positive_probability": 0.42354823738590514
+                },
+                "stars": 5
+            },
+            {
+                "review": "It's so nice to have a locally owned butcher. The customer service is outstanding and the prices are affordable. My favorites: Amish turkeys for thanksgiving (pre-order)... free range, affordable (for free range), and delicious! Fresh ground beef for very juicy burgersFresh sausage, especially the kielbasa which is heaven",
+                "reviewer_id": "TpLA3XSBxKXIfvE4ZCcQcw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.03681224447889662,
+                    "positive_probability": 0.9631877555211025
+                },
+                "stars": 5
+            },
+            {
+                "review": "i don't even know where to start with old time meat and deli because i have too many good things to say about it. absolutely delicious cuts of all sorts of meat? check.employees who are helpful and actually know everything about their products? check.the best yeast rolls i have ever found anywhere? check.fresh bones for my dogs to chomp on? check.and the list goes on.....this is the only place in all of central illinois i will buy meat from. they get their meats and rolls (not deli meat) from local amish communities, and it is obvious that they take great pride in all that they sell.  every cut of meat i have had from here, whether it be ground chuck, a pork chop, spiral ham or rib-roast, has been absolutely amazing. and their bacon is to die for. the best bacon i have ever had. i'm drooling just thinking about it. yum.if you think you've been buying great cuts of meat from a grocery store in the c-u area, i will tell you you haven't and that it's time you visit old time and see what a quality piece of meat tastes like. you will never be disappointed.",
+                "reviewer_id": "wQk4gneiQeM466IymN4wRQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2554676891988409,
+                    "positive_probability": 0.7445323108011718
+                },
+                "stars": 5
+            },
+            {
+                "review": "Why did it take us so long to discover Old Time? It is amazing, I will never buy meat or fish at the supermarket again! I particularly like the knowledgeable staff, the smell of BBQ, and the extensive range of high quality products they sell. The best beef I have seen outside of Texas and New Zealand!",
+                "reviewer_id": "wtsl05RJj5f6YBDQPEwP2w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2826432023460436,
+                    "positive_probability": 0.7173567976539578
+                },
+                "stars": 5
+            },
+            {
+                "review": "I'm a student without a car and I walk a few miles round-trip and taking the bus just to come to Old Time for all my deli and meat needs. Though their selection is pretty extensive, ranging from USDA prime cuts, homemade plates, seafood, frozen stuff, a barrel of pickles, variety of cheeses, etc. The place has the family/homey vibe and that's what seems to set it apart from the very institutionalized food that students like me are used to on and close to campus. But I've matured enough in taste to realize that quality food usually doesn't come from Walmart or Meijer, and that the trek to Old Time is worth it even in the dead of winter for the friendly service, local feel, and most importantly, exceptional food.I've had quite a few things from here, I particularly enjoy the deli roast beef and pepperoni. As far as meats go I'm a big fan of the petite sirloins and also the filets. I've got a couple crab cakes in the freezer that I haven't tried yet but look amazing. The large twice-baked or loaded potatoes are absolutely to die for! The only things I don't much care for here are the coleslaw and provolone cheese, the latter is the \"picante\" provolone and it isn't the same as what I get back home, it seems.The prices to me are maybe a little higher than average, but you definitely get what you pay for in terms of quality and you know the money is in local hands. Quality and locality are two factors that I often consider to overshadow price and should be especially important aspects to anyone who cares about what they eat. Regardless, Old Time is the water in the figurative desert when it comes to having quality meat, seafood and other food items in the Champaign-Urbana area.",
+                "reviewer_id": "XzIKZTb4I-7wW4BjKwV2Mw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 7.995300858738126e-06,
+                    "positive_probability": 0.9999920046991325
+                },
+                "stars": 5
+            },
+            {
+                "review": "WE LOVE(D) THIS PLACE.  And, I mean... who doesn't.  Ever since we moved I've been lamenting the fact that I can't find a good butcher.  But, anything you need at Old Time, they can get it for you.  Even rare game, a lot of times.  Once, I had them get me some quail.  They also got me buffalo burger when I wanted it (and they weren't carrying it).  And the quality, too!  For the price you're paying at a Walmart, I mean... just skip it!  Never buy that nasty meat again.  Old Time'll do your 80/20 Chuck for your burgers, they'll do your bone-in ribeyes, they'll give you a pork butt, or shoulder!  I mean.. whatever.  For such reasonable prices, it's a wonder everyone doesn't shop there.Oh wait, they do! =D  You can tell just by the parking lot.  There are two lots that sort of bump up to the front and side easements, but these lots are pretty small (like 7-12 cars per, I'd guess).  There are times you actually have to wait for a space to open up so you can park and run in.  And it's not unusual for someone to be all cattywampus in a space or NINE (I'm looking at you, SUVs =P), so!  Parking can be a bit tricky.I wanted to mention that it's not all just fresh meat from their deli case, either!   They've got cheeses, desserts (frozen and fresh), OH, and the best part of all, I can't believe I almost forgot this!  They carry the Beef House rolls!  They're in the freezer section, in paper bags, but they're perfectly PERFECT.  Take a few home to keep in the freezer for when an uninvited guest shows up for dinner.  They'll praise your pastry prowess! ;DJust pure, honest good stuffs, from some people who really know themselves some food!",
+                "reviewer_id": "YtbXNQJEJAHZK_2DFXSa6w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.003416169179869784,
+                    "positive_probability": 0.9965838308201173
+                },
+                "stars": 5
+            },
+            {
+                "review": "This place has been around forever, and as a life-time local let me testify: Short of driving an hour out of town to one of the local farms in the surrounding towns, you will simply NOT find a better source of meet. Now those local farmers do come into town for our markets and they do stock their wares at the local Co-Op, but none of that feels like visiting a butcher. Combine old-school butchery with top-shelf customer service with the best of our local meat availability here conveniently in the center of town, and you get Old Time Meat & Deli Shop located at 2018 S Neil St. Champaign, Illinois 61820Custom cut of meat? No problem. Availability during the holidays? Not an issue. Need advice on your next kitchen adventure? They got you covered. Just want some hot, tasty, smoked meat products? They have that too.",
+                "reviewer_id": "z1j82SUJdYD-U6PBwuIsww",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7433423889392695,
+                    "positive_probability": 0.2566576110607214
+                },
+                "stars": 5
+            },
+            {
+                "review": "The prime cuts from here are so good, both my wife and I have become too \"spoiled\" to enjoy several of our former favorite steakhouses - preferring to stay home and cook these ourselves.The staff are extremely knowledgeable and are willing to help with advice, getting a fresh cut, trimming to order, or anything else that might conceivably make you happier with them as a butcher.I can not recommend this shop enough.",
+                "reviewer_id": "zjmnKn2vc6t6F2PUyi_HQg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.00032780667904573635,
+                    "positive_probability": 0.9996721933209467
+                },
+                "stars": 5
+            },
+            {
+                "review": "I first went looking for a good butcher shop after getting sick of the poor quality meat found in grocery stores. Every piece of meat I've had here has been delicious. They also have fish and some interesting game meats, though I haven't tried either.You can also get some lunch food here. If you are lucky enough to go by when they are smoking some meat in their outdoor pig-shaped grill, the smell is intoxicating. Their deli selection is small, but I find they have everything I need. The people here are very friendly, and you'll notice the same people working most of the time. It has a very nice local feel that beats going to a grocery chain hands down.",
+                "reviewer_id": "ZMp_SSu_ESiGOV7jwxUmtQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.055603802992213576,
+                    "positive_probability": 0.9443961970077905
+                },
+                "stars": 5
+            }
+        ],
+        "similar_restaurants": [
+            "qJlrHs5iyFOLA7Wly-M0pg",
+            "yZwl-dXM4SpEDEiihrfZnw",
+            "YkKEsYsSpOkDBbHBGKuWQA",
+            "p8GMdsCCy-NV_wZuDaU2Jw",
+            "R3dSeFD8k_Z-EHNLlUELiw",
+            "Z4ZP0LwHhG8SMTkvEcVvpg",
+            "0P0XckSv_2_ZNKoYlhT4Gw",
+            "caK31Iq3TClNCRB9WH9lhQ",
+            "bkbOmsZ9cOggOnpKsxOyiQ",
+            "SeQv-RJ2rS070NvSRh_siQ"
+        ]
+    },
+    "qJlrHs5iyFOLA7Wly-M0pg": {
+        "keywords": {
+            "bigrams": [
+                "world_harvest",
+                "love_place",
+                "olive_oil",
+                "check_expiration",
+                "selection_cheeses",
+                "great_selection",
+                "food_stores",
+                "international_food",
+                "prices_reasonable",
+                "olive_oils"
+            ],
+            "unigrams": [
+                "selection",
+                "world",
+                "place",
+                "store",
+                "cheese",
+                "food",
+                "chocolate",
+                "foods",
+                "tea",
+                "find"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "none",
+                "Ambience": {
+                    "casual": true,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "Caters": false,
+                "Delivery": true,
+                "Good For": {
+                    "breakfast": false,
+                    "brunch": false,
+                    "dessert": false,
+                    "dinner": false,
+                    "latenight": false,
+                    "lunch": true
+                },
+                "Good For Groups": false,
+                "Good for Kids": true,
+                "Has TV": false,
+                "Noise Level": "quiet",
+                "Outdoor Seating": false,
+                "Parking": {
+                    "garage": false,
+                    "lot": true,
+                    "street": false,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 2,
+                "Take-out": true,
+                "Takes Reservations": false,
+                "Waiter Service": false,
+                "Wheelchair Accessible": true,
+                "Wi-Fi": "no"
+            },
+            "business_id": "qJlrHs5iyFOLA7Wly-M0pg",
+            "categories": [
+                "Food",
+                "Ethnic Food",
+                "Delis",
+                "Restaurants",
+                "Specialty Food"
+            ],
+            "city": "Champaign",
+            "full_address": "519 E University Ave\nChampaign, IL 61820",
+            "hours": {
+                "Friday": {
+                    "close": "21:00",
+                    "open": "10:00"
+                },
+                "Monday": {
+                    "close": "21:00",
+                    "open": "10:00"
+                },
+                "Saturday": {
+                    "close": "21:00",
+                    "open": "10:00"
+                },
+                "Sunday": {
+                    "close": "19:00",
+                    "open": "11:00"
+                },
+                "Thursday": {
+                    "close": "21:00",
+                    "open": "10:00"
+                },
+                "Tuesday": {
+                    "close": "21:00",
+                    "open": "10:00"
+                },
+                "Wednesday": {
+                    "close": "21:00",
+                    "open": "10:00"
+                }
+            },
+            "latitude": 40.1163619,
+            "longitude": -88.2307583,
+            "name": "World Harvest Foods",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media2.fl.yelpcdn.com/bphoto/OsdgyByYzUuvO1B_iVj8rQ/ms.jpg",
+            "review_count": 48,
+            "stars": 4.5,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "Just when I thought I'd seen all of the international food stores in the Champaign area, I found World Harvest! It is also a great place to get delicious chocolate and olives. I love the selection of teas and olive oils. ",
+        "reviews": [
+            {
+                "review": "They have a wonderful selection of cheeses, especially Western European styles. Another strong point is the chocolate... they even the hard-to-find Callebaut baking chocolate.Their selection of olive oil, balsamic and sherry vinegars is unmatched.The only (mild) disappointment I have is that they don't have fresh, locally-baked flatbreads, like you see in similar places in larger cities.",
+                "reviewer_id": "0nTPhIUU7tjD2dc9JO5uZQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.00580562152191838,
+                    "positive_probability": 0.9941943784780832
+                },
+                "stars": 5
+            },
+            {
+                "review": "Great place for international foods in champaign",
+                "reviewer_id": "2rOIJo1WPfN1FKlO7_LzHQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4282162068099059,
+                    "positive_probability": 0.5717837931900948
+                },
+                "stars": 5
+            },
+            {
+                "review": "Now this is more like it! This store is full of amazing treats. Chocolate, cheese, frozen goods- everything you want, but don't really need, but will buy anyway! The owners/staffers here are so friendly and welcoming. On my first visit here, the owner invited me to come back the next day for a cheese tasting. It was like he had known me for years. All of my dearest friends know how much I love cheese! (for a more in-depth look at my life, click the link http://youtu.be/GxqycijBUn0 )They don't sell fresh meat or produce here- it's not that kind of store. This is your place for specialty items- treat yo self!",
+                "reviewer_id": "2SfK5gFyg_y-bpXrTDQ43w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.040563643734374065,
+                    "positive_probability": 0.9594363562656248
+                },
+                "stars": 5
+            },
+            {
+                "review": "I was looking for some ingredients for a south asian dish I was making and I was hoping World Harvest had it otherwise I would have to make a trip to Chicago's Devon Avenue. At first, I was nervous bringing my kids grocery shopping with me since the aisles are a little tight and everything is so neatly stacked and organized. My biggest fear was my kiddos knocking things down. The carts are small otherwise I would have put both of them in there to contain them. My worries soon disappeared when a lady working behind the counter engaged my toddlers in a conversation while I quickly found the items I was looking for. The staff is friendly and welcoming and there is a great selection of goods.",
+                "reviewer_id": "9A5hhrcF9QhSK4HtU45kuw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.12589664645754328,
+                    "positive_probability": 0.8741033535424493
+                },
+                "stars": 4
+            },
+            {
+                "review": "Ok so this is a late review y'all. Love this place. Sure olives from all four corners of the world - but yuppie cheese at the deli counter? Umm yes! I was so high maintenance way back in June 2015 when I was trying to act like I knew my way around such things. The gal - I never got her name - was no helpful. Real sleepy though - kept yawning but I snapped her out of that with my plucky yet clueless customer visit that day.",
+                "reviewer_id": "AHatFAiG0cEc-tXMFaHeRg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.13423321633274535,
+                    "positive_probability": 0.8657667836672607
+                },
+                "stars": 4
+            },
+            {
+                "review": "World Harvest is a little gem of a business in Champaign. They have such a diverse and complete variety of products from around the world, including ethnic foods, teas, jams, oils, spices, seeds, nuts, sweets, confectioneries, cheeses, meats, and even beauty products, it's definitely worth a visit. The owner is friendly, and he also owns Istanbul mediterranean restaurant in Champaign at the Crossing, which is a fresh and delightful winner of a business. It seems everything he is doing, he is doing right.",
+                "reviewer_id": "ApioERn8BQGE-HWEEZMM_A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0015431761876309423,
+                    "positive_probability": 0.998456823812364
+                },
+                "stars": 5
+            },
+            {
+                "review": "Amazing store. From your general Western European candies and coffees to exotic Balkan relishes, it truly lives up to its name of 'World Harvest'. The cheese selection is amazing, and they have Basque-Pyrenees Ossau Iraty which alone is worth going for. Also they have a smattering of desserts, I tried some of the walnut baklava and it was as authentically turkish as it would get. Staff are all kind. Best.",
+                "reviewer_id": "aX8hmnedCsrLJ7HmD8hwvQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.10030277054467376,
+                    "positive_probability": 0.8996972294553219
+                },
+                "stars": 5
+            },
+            {
+                "review": "Just went in here for the first time the other day and snagged a ton of chocolate that was on sale and it was DELICIOUS! There's also a big tea selection, lots of spices, and tons of other stuff that looked really interesting. It was definitely on the pricy side, but well worth it if you want to try something new.",
+                "reviewer_id": "BvGV9lMMUmB5hLWkNlY3vw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.121154758259008,
+                    "positive_probability": 0.878845241740995
+                },
+                "stars": 4
+            },
+            {
+                "review": "This place is where my love of cheese and wine is satisfied. It is also a great place to get delicious chocolate and olives. Me and my boyfriend are both a huge fan of this place. They also have a tasting on saturdays.",
+                "reviewer_id": "BZtmsneNdoYDtvG1NQuzWA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9142772414641955,
+                    "positive_probability": 0.08572275853580615
+                },
+                "stars": 5
+            },
+            {
+                "review": "Best in town! Let's go all around the world! You will find every ingredient you want for cooking and much more. It is one of my favorite places here in town :)",
+                "reviewer_id": "CnZJAb8yjkxz3lW4hBWxtQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4992318080492469,
+                    "positive_probability": 0.5007681919507528
+                },
+                "stars": 5
+            },
+            {
+                "review": "i like world harvest.  i don't love it.  they have amazing baklava.  i mean... uh.maze.ing.  i could eat it all day long.  however, if you get the deli food... it's just... meh.  i got a couple falafel sandwiches that were promptly heated  up in a microwave.  the hummus has a strange flavor that i can't put my finger on.  i haven't eaten tuna in about 25 years, but honestly, this hummus tasted like tuna smells.  just kinda strange. i don't prefer it over other places in town.  i certainly wouldn't go out of my way to get it.the selection in this store is overwhelming.  any AND every kind of ethnic or health food is contained on these shelves.  if you can't find it somewhere else, you can probably find it here.  there is a wide selection of spices and dried beans and spices.  lots of gluten free alternatives for pasta and flour.  i was surprised by how many raw vegan things there were, actually.  however, one raw bar was almost $5, and even, raw \"boutique\" prices... $5 is kind of steep.  lots of things in here are on the expensive side.i would come in again if i need something unique that i couldn't find anywhere else, but this would not be my dedicated shopping site.  the service is super nice, though.",
+                "reviewer_id": "CPcJRsqLzTLEj6oPrtFtYw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9342405928132715,
+                    "positive_probability": 0.06575940718673268
+                },
+                "stars": 3
+            },
+            {
+                "review": "Food is pretty expensive, huge variety though - always check the expiration dates they tend to have so much stuff that a lot doesn't get bought before they expire from my observation. Also just bought a box of cookies which were packaged separately inside - the seal on both packages was broken - they tasted good but just wanted to make people aware (Les Galettes Caramel de La Mere Poulard).",
+                "reviewer_id": "CTin0Hb_7NgV4P_QrSxRSg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0345225181566014,
+                    "positive_probability": 0.9654774818433978
+                },
+                "stars": 4
+            },
+            {
+                "review": "Best selection of groceries in town, hands down. Tea, coffee, cheese, chocolates, olives, pickles, spices, gelato, marzipan. . . basically everything good in life can be found here in spades. AND the staff is incredibly kind and helpful (and remarkably good looking, taboot). I'm always pleasantly surprised when I stop in here, whether it's for a delicious treat or that hard-to-find ingredient. . . oh, and the baklava's devine.",
+                "reviewer_id": "D6APwUVDZd_f4p9XiVpA7Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.010911277957011094,
+                    "positive_probability": 0.9890887220429901
+                },
+                "stars": 5
+            },
+            {
+                "review": "There's so much stuff here it's almost overwhelming! Its a little difficult to find things but the staff is super friendly and helpful. They have a huge selection of cheeses at the front. There's also lots of chocolate and exotic spices. I came here for paneer. I was a little disappointed that they only had frozen paneer but everything else was so bountiful that the trip was well worth it.",
+                "reviewer_id": "D98vylCT1fLKBIU6iAKxhw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2771027887880255,
+                    "positive_probability": 0.7228972112119708
+                },
+                "stars": 5
+            },
+            {
+                "review": "World Harvest is definitely my favorite import/specialty foods store in C-U. The staff is super friendly, the place is clean, and the prices are generally pretty reasonable. And the cheese...mmmm...the cheese. They have an awesome selection of cheeses, all of which they're happy to let you sample. Most importantly, they have Lurpak (a popular brand of Danish butter). Mmmmmm....butter.",
+                "reviewer_id": "H7T9CVhsfjt_1LbI0RAo4Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.033058476378213554,
+                    "positive_probability": 0.966941523621784
+                },
+                "stars": 5
+            },
+            {
+                "review": "This store is CU's foodie mecca and for good reason- it  has everything! Primarily tailored for the needs of international students and former city-dwellers, this is the place to get everything from ghee to chevre. Only here can I indulge my desire for German Kinder chocolate, Dutch Roka cheese crispies, Middle Eastern Zaatar, and Norwegian lingonberries. They also have a good selection of local foods from nearby farms and bakeries. Prices are far more reasonable than big stores like Cost Plus World Market or similar Chicago stores. For gifts or gourmet food, this is the best place in CU!",
+                "reviewer_id": "HqaXK9toBpQdcz-0-rVwKw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.004251940123391281,
+                    "positive_probability": 0.9957480598766172
+                },
+                "stars": 5
+            },
+            {
+                "review": "I'm not going to repeat what the other reviewers have said about the selection and the great cheeses and the tasty halal/kosher local meats -- it's all true.The place also has all kinds of cool cosmetics and grooming products from other countries. They have several different kinds of henna, powdered and in tubes, ranging from poor quality to good quality. They have some cool Islamic items like tooth cleaning materials made from traditional miswak, fancy imported dates, and Arab keffiyeh scarves. They have this aromatic Lebanese soap made from olives and imported oils and tinctures I had never heard of before. It's really cool. And omg it's cheeeeeeeeeeeeeeeeeeap!",
+                "reviewer_id": "irnzN5lDB32mVrSPiPw7nw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8950161696075278,
+                    "positive_probability": 0.10498383039247204
+                },
+                "stars": 5
+            },
+            {
+                "review": "This place has stuff I can't get anywhere else and even has some gluten free flours & pastas. I came here looking for Besan (chickpea flour) and walked out with $30 in chocolate & olive oil in addition to the flour I was looking for.I have been back a couple more times for cheese and french soda.I love that I can get food I miss from my travels!",
+                "reviewer_id": "JZAN96a6UKd5a2cL15ydyg (1)",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9804050152898476,
+                    "positive_probability": 0.019594984710154847
+                }
+            },
+            {
+                "review": "This place has stuff I can't get anywhere else and even has some gluten free flours & pastas. I came here looking for Besan (chickpea flour) and walked out with $30 in chocolate & olive oil in addition to the flour I was looking for.I have been back a couple more times for cheese and french soda.I love that I can get food I miss from my travels!",
+                "reviewer_id": "JZAN96a6UKd5a2cL15ydyg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9804050152898476,
+                    "positive_probability": 0.019594984710154847
+                },
+                "stars": 4
+            },
+            {
+                "review": "This is a really neat store to browse, and if you're looking for a specialty ingredient you'll probably find it here.  However, consider other options before you actually buy something.  It's almost definitely cheaper elsewhere.  If you don't feel like shopping around or stopping at multiple stores to get what you need, just be aware that you're paying extra for the convenience of a one-stop-shop.  Also, check expiration dates.  I forgot to do so last time I shopped here, and ended up with some lovely stale food.  I do like to stop here and buy a few things as an occasional indulgence, but in general it's just too expensive.Their halva is fantastic, though--seriously, the best.",
+                "reviewer_id": "kltu5MyodHXondt_qvdAHw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9445301973143192,
+                    "positive_probability": 0.05546980268568586
+                },
+                "stars": 3
+            },
+            {
+                "review": "Just when I thought I'd seen all of the international food stores in the Champaign area, I found World Harvest! The employees were courteous and very helpful! When I asked for a special mexican dessert that I've only found in my home town, I was surprised when the owner came out and asked me if I would bring the wrapper of the dessert so that he could try to have it ordered! I was also fascinated by the variety of foods, drinks, sauces, chocolate, you-name-it. They even have a lot of organic items. I definately recommend shopping here!",
+                "reviewer_id": "kXhFuI3Kgkb5OAIUE7eQdg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.060868532602179,
+                    "positive_probability": 0.9391314673978124
+                },
+                "stars": 5
+            },
+            {
+                "review": "this store has a decent imported candy selection and some nice specialty treats, but a mediocre produce section and no fresh meats. Fine if you want a last minute gift for your grandma.",
+                "reviewer_id": "M6jRu66oqS3eFrSFMmMSkA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8290835626935611,
+                    "positive_probability": 0.17091643730643488
+                },
+                "stars": 3
+            },
+            {
+                "review": "I do not want Sriracha sauce.  I need sriracha sauce.  Also baklava, organic chocolate, gouda with basil and garlic and maybe some ginger beer.  All of which World Harvest is more than prepared to sell me.  They have a nice selection of the yuppie luxury items I'd expect in such a store - olive oil, mustard, chocolate, dried pasta, etc.  Basically everything I'd think of as \"contraband\" if there was a war on.  And while I can't speak for 100% of the store-made goods, I will say that the cashew baklava is mighty fine stuff.  Plus, the prices on all of it seem very reasonable.I took off a star because... I'm a snob.  Because I want more.  I'd like a bigger cheese selection with more of a display and some fois gras.  Not that kibbi isn't also excellent, but I'd like you to indulge my stuffwhitepeoplelike attitude just a tad bit more please.  The store could also stand to have a couple hundred more square feet, perhaps filled with a nice wine selection.  There really aren't enough places to buy a decent Malbec in this town, maybe this place could be one?All in all, an excellent establishment that I will never be able to just walk past.  Surely one piece of baklava can't hurt me.",
+                "reviewer_id": "odaCy-6SKGjrh63x-rC0TQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0004814097952057313,
+                    "positive_probability": 0.9995185902047921
+                },
+                "stars": 4
+            },
+            {
+                "review": "If I lived in Champaign, I would be in trouble.  World Harvest is amazing.  Take every single ethnic market you can find and put them all together.  Add an olive bar, artisan cheeses, fresh baked breads, and all of the worldly chocolate you can handle (including kinder chocolate and Mozart balls) and you have World Harvest.  They not only have spices and dry noodles, but a large selection of frozen ethnic foods, a wall of balsamic vinegars and olive (as well as other) oils, ad did I mention the chocolates?They also had a bulk nut and dried fruit selection to choose from.  Jordan Almonds scare me... but I digress.The bakery items looked freshly made, and the staff was very friendly.  They will let you try any of the deli, cheese, or olive selections before you purchase.",
+                "reviewer_id": "OIsiWVC3p8gDZ8rP-bdFVw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4034852885055851,
+                    "positive_probability": 0.5965147114944216
+                },
+                "stars": 5
+            },
+            {
+                "review": "This place reminds me of this insane NYC spice store with every spice in the world. It's overwhelming! Aisle after aisle of spices! All kinds of rices, jams, etc. I bought some Greek mountain tea that I've been wanting to try. This store should be in Chicago, or one like it. If you are driving by Champaign, this place is worth a pit stop. It's always fun to just look at food crap.",
+                "reviewer_id": "OUEg6hI15YzMykC3QhUBfA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3842502573964578,
+                    "positive_probability": 0.6157497426035397
+                },
+                "stars": 5
+            },
+            {
+                "review": "I love this place.  They have expanded and it just keeps getting better.  They have a wide assortment of international foods, especially Indian, Mexican, Middle Eastern.  They have a great selection of olive oils, pasta, tea, jellies and jams, condiments, and candies.  Saturday is cheese and olive tasting and they have a wonderful selection of both.  Prices are very reasonable and the quality is high.  The owner, Mohammed, is a very friendly, kind, gracious, helpful man who is a pleasure to know.  I can't say enough good things about this store and its owner.  Go there.  Walk the aisles.  Sample the cheese and olives.  Stock your cart or basket with a wide array of goodies.  You will become a regular just as I have.",
+                "reviewer_id": "OZCzq4BvNGdTpBE2iUg0Tw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.014775076961001943,
+                    "positive_probability": 0.9852249230390041
+                },
+                "stars": 5
+            },
+            {
+                "review": "This place is a great retreat if you're looking for finer foods than the local campus fare. The ladies and gents at the counter are always willing to let you try a sample before you buy any of their pastries and cheese. They also make a mean baklava (with pistachios, to boot). My only critique would be that the Asian goods and foods are waaay overpriced. If you're willing to dig around a bit, there are some great Asian food stores in the area, like Am-Ko, Green Onion and Far East. Otherwise, I would definitely come here for the  luxury chocolate, cookies and organic sugar substitutes. A great little international shop, known especially for its Mediterranean food and knowledgeable staff.",
+                "reviewer_id": "pD0ntLKZOopi2KmaVxSw_A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.032303618758883844,
+                    "positive_probability": 0.9676963812411215
+                },
+                "stars": 4
+            },
+            {
+                "review": "While I certainly appreciated the variety of ethnic food that World Harvest offers, I was very disturbed to find two small dead worms on a box of Spanish rice I was about to buy (at first I thought it was two grains of rice which made me even more disturbed). That is just not acceptable for a grocery store. If you are going there, be sure to look over all of your items before purchasing.",
+                "reviewer_id": "Pfrk90EB3xQvPZqwvS_5Pw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.002160233140645973,
+                    "positive_probability": 0.9978397668593569
+                },
+                "stars": 2
+            },
+            {
+                "review": "The freshest Feta cheese. The hugest selection of Thai and Indian grocery items. Nice/pretty/intelligent/ethnic/artsy girls behind the counter who elaborately answer every single dumb question that I invent about olives or cheese. This place makes dreams come true! I LOVE you World Harvest Foods!",
+                "reviewer_id": "PY6a5DTygDqf52eQMtii5w",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8298566174960962,
+                    "positive_probability": 0.1701433825039041
+                },
+                "stars": 5
+            },
+            {
+                "review": "I love the selection of teas and olive oils. There is a difference in olive oil; like there is in wine. They are not created equal. I also have requested teas and different oils and they have found them for me. I love this place.",
+                "reviewer_id": "Q__spCPFx_FWOakdghfaww",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.03473047661431741,
+                    "positive_probability": 0.9652695233856811
+                },
+                "stars": 5
+            },
+            {
+                "review": "Check on expiration date... But otherwise awesome...They have a great variety of international food. Best place to get Argentinian food (Dulce de leche, yerba mate, masa de empenadas y tarta)...",
+                "reviewer_id": "Qa6zh0pjR0OqRGvPKFaPGA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2198850446095843,
+                    "positive_probability": 0.7801149553904136
+                },
+                "stars": 4
+            },
+            {
+                "review": "Absolutely the best selection of random imported foods you'll find in the C-U area, topped off with a friendly and helpful staff.  It's pricey for Champaign, but that's the nature of international foods hand-selected and accumulated just for you.Absolutely GIANT tea section, which has me in heaven every time I visit.  We used to go to the tea shop downtown, but World Harvest has them so woefully beat that we don't bother anymore (which honestly makes me a bit sad, as the tea shop is an institution in my memories growing up... I suppose that's where it'll live from now on).",
+                "reviewer_id": "tw3PFgey15p0ruFRVoFidw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9581597485570416,
+                    "positive_probability": 0.04184025144296745
+                },
+                "stars": 5
+            },
+            {
+                "review": "I think it is has  great selection and I felt welcome...I was given a hair care tip..mustard oil....very cool",
+                "reviewer_id": "TXx9DpLh1Bd1EGFP0bAxMw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3979565258297648,
+                    "positive_probability": 0.6020434741702362
+                },
+                "stars": 5
+            },
+            {
+                "review": "Shopping here is a joy. So many international-type food stores are focused on one country or region at the expense of all others. This place has everything. EVERYTHING. The cheeses! the cookies! the spices! the strange canned foods from around the world! Plus, halal meats and everything. Oh what fun.",
+                "reviewer_id": "uKgbjPhcrS2pi9hS39Az6A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.30166577532538913,
+                    "positive_probability": 0.6983342246746115
+                },
+                "stars": 5
+            },
+            {
+                "review": "Really nice clerks, and an outstanding selection of groceries and goodies from all over the world. Hundreds of olives and cheeses, chocolates and teas, pastas and spices. Always a must-visit when I visit Champaign.  Delicious baklava and lady fingers!",
+                "reviewer_id": "VlYk1osWjBdhzkBl2kkr5A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.06380760666247218,
+                    "positive_probability": 0.9361923933375274
+                },
+                "stars": 4
+            },
+            {
+                "review": "This review pertains strictly to the menu.  The store itself is quite charming, and it does indeed have a variety of foods that are very excIting.  Based on other reviews, we stopped through to pick up lunch.  What an unfortunate mistake for us.  The menu features fairly-priced Mediterranean foods that sounded great.  We ordered the baba ganoush and falafel sandwiches and a vegetarian platter.  The falafel was microwaved and lost any texture it might have had when first prepared.  It had no distinguishable flavor.  The baba was so smoky, that I couldn't finish the sandwich.  Three bites overwhelmed my palette completely.  We had already purchased the dessert and gave them a shot, because they were aesthetically very pleasing.  Unfortunately, the birds nest was soft (so sad) and the date cookie was crumbled and poorly prepared.  I've never thrown away so much food.  Maybe we came on an off day, but based on our experience, my recommendation is to shut it down.  You've got a great store, why compromise your credibility with this food?",
+                "reviewer_id": "Vy0T4nLj6oIp1unUcU4PkQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.03863146683922283,
+                    "positive_probability": 0.961368533160759
+                },
+                "stars": 1
+            },
+            {
+                "review": "I love this place!  Upon my move to Urbana from Boston, I immediately went to World Harvest.  They have absolutely every odd ingredient I've looked for there.  They have Castelvetrano olives, which I thought would be impossible to find in CU.  Lots of delicious cheeses, which they will always let you try before you buy.  Sometimes they give away free chocolate!  What more could you want?",
+                "reviewer_id": "WYFd2Wv2u6HWtmFA9aRF-g",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6389011454571888,
+                    "positive_probability": 0.361098854542812
+                },
+                "stars": 5
+            },
+            {
+                "review": "I'm here just to talk about the tea. OMG the tea. As an international food store, they have brands of tea that you won't find in a typical grocery store. The have a whole aisle just of tea. Both sides! And two end caps! There were so many brands and kinds that I had to remind myself that I can definitely come back, and no need to buy all the tea. The price ranged from $4-$8 for a box of 20 bags of tea. They had bulk tea, and about 8 specific tea flavors (not brands) were on sale. Unfortunately, none of those appealed to me, but I'll check back again!The owner is so nice! He chatted me up, asked me what I was studying, if I'm new to the area. Definitely made me feel welcome.",
+                "reviewer_id": "xoN39PtpDN2UQws_L-PBXQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.024811876294541506,
+                    "positive_probability": 0.9751881237054669
+                },
+                "stars": 5
+            },
+            {
+                "review": "Travel the world in a little shop whether it be via cheese, chocolate, spices, teas, jams, or exotic drinks. Try the bulk bins for nuts, seeds, grains and spices if you need a little of something for a recipe but you don't want to buy a huge container of it.",
+                "reviewer_id": "YoPW8tMhI5qFogajExJZXw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5909582196569768,
+                    "positive_probability": 0.40904178034302197
+                },
+                "stars": 5
+            },
+            {
+                "review": "Wow...Wow...  All I can say is I can't believe I didn't stop in sooner.  I've been in town for 4 years and just discovered World Harvest.The owner and staff are very welcoming and helpful, which shows that they take pride in their business.  There is a very extensive selection of food from all over the world, with a delicious looking deli/cheese selection as well.  I was able to find an Eastern European bread that I've been looking for, a great looking frozen Indian dish, and my favorite French biscuits, all in one trip.  Unlike some other places, this store is clean and well organized.  I really look forward to coming back again.",
+                "reviewer_id": "ZRWDnvo07YZxxtrDYWf02A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0047463923376930605,
+                    "positive_probability": 0.9952536076623051
+                },
+                "stars": 5
+            }
+        ],
+        "similar_restaurants": [
+            "niK-GkBZ_RIFscfy-nH1rg",
+            "yZwl-dXM4SpEDEiihrfZnw",
+            "R3dSeFD8k_Z-EHNLlUELiw",
+            "cab8Jri_Zdz2487hG5em6w",
+            "IZOKtFjm_hiL4OGmCq2NNA",
+            "4UG9uGnByKgoiuVpC0DthA",
+            "YkKEsYsSpOkDBbHBGKuWQA",
+            "6UftUvNBqANqybf8wpWeNA",
+            "-1oj6-fkP-iO6OyW8QBqPg",
+            "1A_4WE4hdpdU3pG6PWUOVw"
+        ]
+    },
+    "yZwl-dXM4SpEDEiihrfZnw": {
+        "keywords": {
+            "bigrams": [
+                "favorite_sub",
+                "sub_place",
+                "jersey_mike",
+                "customer_service",
+                "sub_par",
+                "love_place",
+                "jimmy_john",
+                "bread_dry",
+                "two_different",
+                "store_campus"
+            ],
+            "unigrams": [
+                "sub",
+                "sandwiches",
+                "mike",
+                "place",
+                "sandwich",
+                "subway",
+                "way",
+                "good",
+                "bread",
+                "worth"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "none",
+                "Ambience": {
+                    "casual": true,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "Delivery": false,
+                "Drive-Thru": false,
+                "Good For": {
+                    "breakfast": false,
+                    "brunch": false,
+                    "dessert": false,
+                    "dinner": false,
+                    "latenight": false,
+                    "lunch": true
+                },
+                "Good For Groups": true,
+                "Good for Kids": true,
+                "Has TV": true,
+                "Noise Level": "average",
+                "Outdoor Seating": false,
+                "Parking": {
+                    "garage": false,
+                    "lot": false,
+                    "street": false,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 1,
+                "Take-out": true,
+                "Takes Reservations": false,
+                "Waiter Service": false,
+                "Wi-Fi": "free"
+            },
+            "business_id": "yZwl-dXM4SpEDEiihrfZnw",
+            "categories": [
+                "Delis",
+                "Fast Food",
+                "Sandwiches",
+                "Restaurants"
+            ],
+            "city": "Champaign",
+            "full_address": "505 E. Green Street\nSte 3\nChampaign, IL 61820",
+            "hours": {
+                "Friday": {
+                    "close": "21:00",
+                    "open": "10:00"
+                },
+                "Monday": {
+                    "close": "21:00",
+                    "open": "10:00"
+                },
+                "Saturday": {
+                    "close": "21:00",
+                    "open": "10:00"
+                },
+                "Sunday": {
+                    "close": "21:00",
+                    "open": "10:00"
+                },
+                "Thursday": {
+                    "close": "21:00",
+                    "open": "10:00"
+                },
+                "Tuesday": {
+                    "close": "21:00",
+                    "open": "10:00"
+                },
+                "Wednesday": {
+                    "close": "21:00",
+                    "open": "10:00"
+                }
+            },
+            "latitude": 40.1099251,
+            "longitude": -88.2314617,
+            "name": "Jersey Mike's Subs",
+            "neighborhoods": [],
+            "open": false,
+            "photo": "https://s3-media1.fl.yelpcdn.com/bphoto/iHV153Cmy4Jy7vIj8elmuA/ms.jpg",
+            "review_count": 13,
+            "stars": 3.5,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "Big size literally was good enough for 2 meals Jersey Mike's has its own little atmosphere. Sandwiches here are the way sub's ought to be. Fresh sliced deli meats and cheese, great bread, and copious amounts of toppings. ",
+        "reviews": [
+            {
+                "review": "Probably my favorite sub place on green street! If you're on campus at U of I, it's worth the walk over. Sandwiches are decent sized. White bread or wheat bread. Both are good. Meat is freshly sliced. Veggies always fresh. Order you sub Mike's Way--it's worth it!",
+                "reviewer_id": "-DT5p9_ewd_jQOM3TAj2kQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3619129372464609,
+                    "positive_probability": 0.6380870627535378
+                },
+                "stars": 5
+            },
+            {
+                "review": "Good while they lasted.They are no longer at this location.",
+                "reviewer_id": "7ZESoMS8JssvHjbrrIUuXg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5014333039707108,
+                    "positive_probability": 0.49856669602928894
+                },
+                "stars": 4
+            },
+            {
+                "review": "Definitely my favorite sub place. Whatever you do, make sure you get your sandwich \"Mike's Way.\" It is amazing and tops Jimmy Johns and Subway in my book, hands down. The staff has always been very friendly as well whenever I have been in here.",
+                "reviewer_id": "_zJ1Rv0t6v9vayUh5gDd4Q",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7225485762105326,
+                    "positive_probability": 0.2774514237894682
+                },
+                "stars": 5
+            },
+            {
+                "review": "Worst sandwich store on campus. I tried two different sandwiches here on two different occasions and both times, the sandwiches SUCKED. The bread is too dry and tastes worse than storebought bread. The sandwiches are drowsed in olive oil/vinegar and do not taste very good.",
+                "reviewer_id": "Dxhyi5b0obJZurIxrpTCVQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6060025414251674,
+                    "positive_probability": 0.39399745857483126
+                },
+                "stars": 1
+            },
+            {
+                "review": "Wow. Smallest water cups I've ever seen in my life (they're as big as shot glasses). The subs are fairly good, but they cost so much money that it's not really worth it.",
+                "reviewer_id": "eFIlrOz3TnuZQeh2Y1e17Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.04735218486789226,
+                    "positive_probability": 0.9526478151321065
+                },
+                "stars": 3
+            },
+            {
+                "review": "I've recently grown to love this place. And I'm definitely a fan of the customer service and atmosphere.It's nice that they prepare the sandwiches and cut the meats fresh in front of you.The first two times I went I was not impressed by the food.. I had the cheesesteak and also a wrap. Both of which are nothing extraordinary. Actually, the wrap was pretty pathetic portion-wise for how much they charged for it.My recent experiences have been nothing but stellar. I have got the NUMBER 9 every time. Roast beef, turkey, bacon, chesse, and Mike's way always makes it an amazing meal. The staff are super customer service oriented too. They were making the wrong order for me and just combined the two sandwiches like I asked - which resulted in a Mike's Gargantuan more or less. Another time, it was near closing and they forgot to put bacon on my #9 and my friend's. So, I told them and they literally gave me with a pound of bacon for my trouble.All in all, my experiences with Jersey Mike's makes it a wonderful option for sandwiches.",
+                "reviewer_id": "I1Wv4Z_2nCMtxQ4l9dNQiA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0010508005262416808,
+                    "positive_probability": 0.9989491994737519
+                },
+                "stars": 4
+            },
+            {
+                "review": "I chose to try Jersey Mike's because ain't nothin' better than a good sandwich. It was on my way and not crowded at all: A+. I got the Super Sub (provolone, ham, prosciuttini and cappacuolo) on white and a small drink. It was just under $9. My first thought was this looks like a glorified Blimpie. They slice the rectangular loaves of meat to order and make the sandwich in front of you. The topping selection is okay. They had jalapenos so I was set. Upon trying my super sub, I was not impressed. Actually, my sandwich tasted just like a Blimpie Best. Half of it went into the garbage and I sincerely regretting not ordering the mini sub size. This place is not quite comparable to Subway, maybe a step above? The fountain Pepsi burned my throat and was AWESOME. Highlight of my meal. Based on my sub-par sandwich experience, I don't plan on coming back.",
+                "reviewer_id": "JgHGyWS2emyHq6aq144SLQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6747067572104991,
+                    "positive_probability": 0.3252932427894987
+                },
+                "stars": 2
+            },
+            {
+                "review": "Jersey Mike's has its own little atmosphere. The customer service is great and the workers are really friendly despite what other reviews may say. I've been here at least 3 times so far. I've tried the turkey & provolone and the Italian sandwich (only cold sandwiches). This is like a lower quality version of Subway to me and the sandwiches are pricer. A regular 6 inch is almost $6 compared to Subway at about $4+ The bread can be kind of dry. I suggest getting it \"Mike's way\" which is the addition of vinegar, oil, and some spices. Despite the sandwiches being a little sub par and not having much to offer they are still very fulfilling. For a female I definitely would recommend getting the regular. Something about this place, I'll be back.",
+                "reviewer_id": "kwQ7FNfDJ8Jz27EU-_wg0g",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.47081261507443395,
+                    "positive_probability": 0.5291873849255747
+                },
+                "stars": 3
+            },
+            {
+                "review": "You can keep your Jimmy John's, and your Subway too.  Dobt even come near me with your Quiznos either. Sandwiches here are the way sub's ought to be. Fresh sliced deli meats and cheese, great bread, and copious amounts of toppings.   I don't get here often but when I do, its a treat.",
+                "reviewer_id": "lH1rXk40kv2suZan17llhg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9586136275192685,
+                    "positive_probability": 0.04138637248072955
+                },
+                "stars": 4
+            },
+            {
+                "review": "I've been eating subs for many, many years, I'm 67. When I first ordered here, I didn't know anything about their food, so I ordered a #13, original Italian, because that's my benchmark of a sub shop. My favorite sub in Chicago is Fontano's, a little grocery place near UIC campus. The JM sub ties Fontano's for excellence in a sandwich. Subway, Jimmy John's and Quizno's shouldn't even be mentioned in the same breath with JM's. The only problem is that the Champaign store is on campus, and right now there are very few places to park. But it's well worth walking a few blocks.",
+                "reviewer_id": "PbNJ09Y1E1hjx9mORJrYzg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0054949897531866975,
+                    "positive_probability": 0.9945050102468178
+                },
+                "stars": 5
+            },
+            {
+                "review": "Terrible food. I ordered a Buffalo Chicken wrap and they gave me lettuce and chicken and squirted some Buffalo sauce on it. Nothing that cannot be done at home in less than 5 mins. It's worse than subway and more expensive.",
+                "reviewer_id": "SUa2mMjTZk_azkOIIPjgDA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.08182046878998225,
+                    "positive_probability": 0.9181795312100157
+                },
+                "stars": 1
+            },
+            {
+                "review": "Me & my husband love this place. Taste like sub place in Chicago. I get the Italian & my husband gets chipotle cheese steak their awesome! Big size literally was good enough for 2 meals",
+                "reviewer_id": "VkVmMJUsJ74s94fQSP3yRQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6584502628226968,
+                    "positive_probability": 0.3415497371773023
+                },
+                "stars": 5
+            }
+        ],
+        "similar_restaurants": [
+            "Uw1DZhEtTmLzMcXmdpR8Pw",
+            "SQASst3NU4tA-t4cmWLILA",
+            "uhzZM-WwNsaVuvGRjv3mXw",
+            "elwuxXreWA3IVAW5qNOw3g",
+            "j9N_fG1PVCSY-3HY1TRQ5Q",
+            "mSTjlawGZcbg8YBQx9UxFg",
+            "leH24AjTrmcImAbsdh4HFQ",
+            "Fb3Pl0PO_ojEyChkM_SApA",
+            "ey7-ihj-OjM4sEOwWTc06Q",
+            "PYG1nrz2yYDSQk3W-vYwAA"
+        ]
+    }
+}

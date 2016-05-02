@@ -1,0 +1,1893 @@
+{
+    "IZOKtFjm_hiL4OGmCq2NNA": {
+        "keywords": {
+            "bigrams": [
+                "vegan_restaurant",
+                "vegan_food",
+                "dancing_dog",
+                "dirty_dog",
+                "lavender_cake",
+                "chocolate_chip",
+                "chocolate_cake",
+                "fish_chips",
+                "place_great",
+                "tofu_scramble"
+            ],
+            "unigrams": [
+                "vegan",
+                "food",
+                "place",
+                "great",
+                "good",
+                "menu",
+                "dog",
+                "restaurant",
+                "time",
+                "think"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "beer_and_wine",
+                "Ambience": {
+                    "casual": true,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "Caters": false,
+                "Delivery": false,
+                "Good For": {
+                    "breakfast": false,
+                    "brunch": false,
+                    "dessert": false,
+                    "dinner": false,
+                    "latenight": false,
+                    "lunch": true
+                },
+                "Good For Groups": true,
+                "Good for Kids": true,
+                "Has TV": false,
+                "Noise Level": "quiet",
+                "Outdoor Seating": false,
+                "Parking": {
+                    "garage": true,
+                    "lot": false,
+                    "street": false,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 2,
+                "Take-out": true,
+                "Takes Reservations": false,
+                "Waiter Service": true,
+                "Wi-Fi": "free"
+            },
+            "business_id": "IZOKtFjm_hiL4OGmCq2NNA",
+            "categories": [
+                "Food",
+                "Vegetarian",
+                "Juice Bars & Smoothies",
+                "Vegan",
+                "Restaurants"
+            ],
+            "city": "Urbana",
+            "full_address": "126 W Main St\nUrbana, IL 61801",
+            "hours": {
+                "Friday": {
+                    "close": "20:00",
+                    "open": "11:00"
+                },
+                "Monday": {
+                    "close": "20:00",
+                    "open": "11:00"
+                },
+                "Saturday": {
+                    "close": "20:00",
+                    "open": "11:00"
+                },
+                "Sunday": {
+                    "close": "14:00",
+                    "open": "11:00"
+                },
+                "Thursday": {
+                    "close": "20:00",
+                    "open": "11:00"
+                },
+                "Tuesday": {
+                    "close": "20:00",
+                    "open": "11:00"
+                },
+                "Wednesday": {
+                    "close": "20:00",
+                    "open": "11:00"
+                }
+            },
+            "latitude": 40.112757,
+            "longitude": -88.2085029,
+            "name": "The Dancing Dog Eatery & Juicery",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media2.fl.yelpcdn.com/bphoto/C7QIQ57fVm2kO6UdXOyN1Q/ms.jpg",
+            "review_count": 33,
+            "stars": 4.5,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "Their soup of the day (veggie chili) was great and their tofu scrambled burrito was out of this world. Great place for vegan food, will be back for sure! YOU DON'T HAVE TO BE VEGAN TO LIKE IT. ",
+        "reviews": [
+            {
+                "review": "My friend and I came in for lunch one afternoon and I am so glad that we did! I was very excited to try an all-vegan menu. I enjoyed their broccoli soup, a fresh glass of orange juice, and the dancing dog nachos. Everything was great from service to taste. My orange juice and soup were exceptional!The ambiance that afternoon was very calm and perfect for the two of us. I love the decor and the wait staff is very kind! I finished my meal with a freshly baked chocolate chip cookie - which was easily one of the best cookies I've ever had. Definitely recommend!",
+                "reviewer_id": "-yYFnBCAVc3mgFt7m3syTw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.014484166878821056,
+                    "positive_probability": 0.9855158331211802
+                },
+                "stars": 5
+            },
+            {
+                "review": "I don't know, I liked the food here but I was also somewhat let down because I hold vegetarian and vegan food to a higher standard than what they seem to serve here. The food here is alright but it has so much more potential to be great, and more flavorful, especially for such a price. I think they need to become more creative and up their standards here until they can be compared to the trendy vegetarian restaurants in Chicago.",
+                "reviewer_id": "3NU4UJWlsVIl6kSYouaFxA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.05624719612993224,
+                    "positive_probability": 0.9437528038700683
+                },
+                "stars": 3
+            },
+            {
+                "review": "Wonderful vegan food! The tacos, quinoa salad, bruschetta and hummus are all delicious! The desserts; specifically the mousse was great. The wait staff was very friendly. Whether vegan or carnivore this place is a great spot.",
+                "reviewer_id": "4ltqEIRZk7eVVjgIdKhT9w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.40673566902739916,
+                    "positive_probability": 0.5932643309725989
+                },
+                "stars": 5
+            },
+            {
+                "review": "I wandered in from the biting cold to find a cozy eatery with so many vegan choices. It's a vegan's dream to find a restaurant with this many options. And the atmosphere was warm, colourful, & inviting. The tofu scramble burrito ($8.50) is so good! Tofu scramble with black beans, roasted red peppers, cheddar cheeze. There are hints of curry, black beans, & potatoes in every tasty bite. The burrito is rather large & they don't skimp on the scramble. Yet, I was able to consume all of it because I have an enormous appetite that I justify with biking everywhere. It's served with fries, salsa & guacamole. The burrito comes with the choice of a side & I chose fries because I have a fetish for quality fries. These fries did not disappoint. They were potatoey, crisp on the outside, & lightly salted. I had all this with a Tingler ($4.95, 8oz) - a concoction of spinach, kale, beets, carrots, cucumber, parsley, ginger, lemon, line, orange & apple juices. Everything was delicious but the whole time, I was making eyes at the lavender cake so of course I had to have a slice ($4.95). After the first bite, I was contemplating getting a whole cake for myself. I departed full & happy. It was a fantastic brunch/lunch/whatever at Dancing Dog",
+                "reviewer_id": "8O97RbJ486J3qQVOq98Obg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0001753640168126604,
+                    "positive_probability": 0.9998246359832033
+                },
+                "stars": 5
+            },
+            {
+                "review": "Not a lot of vegan places in the area, certainly a gem in town. Good vegan food and awesome dessert!",
+                "reviewer_id": "A3Vyf2gAC4z6BhFiO1WTGg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.07018640808595217,
+                    "positive_probability": 0.9298135919140483
+                },
+                "stars": 4
+            },
+            {
+                "review": "Urbana has a vegan restaurant! Definitely a fan. Their desserts were GOOD; my favorite is the carrot cupcake! You must try it if you go! Their food is very tasty; however, I'm hoping in the future that they can expand their menu to include some creative vegan dishes that don't depend on fake-meat. There's a plethora of options available! Until then, I'm sure this will satisfy any vegan and NON-VEGAN's taste buds. :)",
+                "reviewer_id": "bILKQuls9XyCmUgXU-25iQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.07137453513958682,
+                    "positive_probability": 0.9286254648604158
+                },
+                "stars": 4
+            },
+            {
+                "review": "I came in nutrient-deficient, craving fruits and veggies. I've been back a couple of times and really enjoy their smoothies.  A couple reviews mention the smoothies are overpriced, but I think they're quite reasonable, given the high quality (real, fresh) ingredients -- if you want to save money, go to the local mega smoothie franchise and enjoy your blend of ice and artificial high-fructose concentrate something-or-other, but personally I'm glad places like this exist!",
+                "reviewer_id": "bJsVht7Ayo1KNVFVca7N0w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.016924519239437736,
+                    "positive_probability": 0.9830754807605641
+                },
+                "stars": 5
+            },
+            {
+                "review": "We came in after yoga last Saturday for lunch. It was surprisingly busy. It's good to see an urbana business doing well.  When I saw the menu,  I was disappointed to see that most of it consists of things from the vegan frozen section at the grocery store - things that are just as convenient for me to make at home for a fraction of the price since the prices are a little inflated here in my opinion. We got the soup and the tempeh salad sandwich and ordered a beer and a smoothie while we waited. For some reason, our waitress felt it necessary to apologize 3 or 4 times for the wait on food. We gave no indication that we were in a rush.  It made us uncomfortable. She eventually started blaming inexperienced kitchen staff which was unnecessary. When she brought out the smoothie, it was about 2 inches shy of filling the glass which was odd. They need to either make bigger smoothies or buy smaller glasses to serve them in. I couldn't help but feel like I had been shorted. When the food came out, we both felt like it was under seasoned. There wasn't salt and pepper at the tables for me to fix my soup. When I considered asking for some, I decided against it. I didn't want our waitress to have more things to apologize for.In the end, we were underwhelmed. The smoothie was good but not worth the price. Save yourself some money and make yourself a veggie hot dog or fibbish fry at home.  If they add some more homemade items to the menu, I might try it again but I don't think we'll be back.Also, I'm not sure if it's a great idea to attempt to make gluten free desserts in the same facility where you make seitan from scratch. I know from experience that pure wheat gluten has a tendency to make its way everywhere.",
+                "reviewer_id": "D98vylCT1fLKBIU6iAKxhw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.08072562477052361,
+                    "positive_probability": 0.9192743752294901
+                },
+                "stars": 2
+            },
+            {
+                "review": "I wanted to love this place as I'm a vegetarian and this place is very conveniently located for me, and I like the vibe/atmosphere.  However, after eating there twice, I can say I found the food really disappointing.  I got their lentil soup and it was totally flavorless! I asked the waitress if they could add some more spice to it. She said okay but then didn't return for another 15 minutes. By then I had given up and just added salt to the bowl and ate it.  I also got one of their smoothies and was similarly unimpressed. I'm not sure why they are so expensive; I don't think they even use organic ingredients. Really surprised by what a high rating this restaurant is getting.  To me the food and smoothies severely lacked flavor.",
+                "reviewer_id": "DL8GF-ptGsBeegb6OWFptg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.1033222504992994,
+                    "positive_probability": 0.8966777495007057
+                },
+                "stars": 2
+            },
+            {
+                "review": "Love this place! Stumbled upon it and found fresh and creative smoothies, crunchy veggies, well seasoned soups, baked fries of high quality, friendly service, and a quaint environment. Need I say more?! This place is the real deal and I highly recommended it. I'll be back tomorrow!",
+                "reviewer_id": "drKE6cwj218-wlLP5TuoTw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.012304520543895817,
+                    "positive_probability": 0.9876954794561047
+                },
+                "stars": 5
+            },
+            {
+                "review": "The vanilla lavender cake tastes exactly like the weird cakes from Strawberry Fields :/.",
+                "reviewer_id": "dzKYG04n0nLXv6tGFvJX0Q",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9519060041414538,
+                    "positive_probability": 0.048093995858545686
+                },
+                "stars": 2
+            },
+            {
+                "review": "Best for lunch in Urbana. YOU DON'T HAVE TO BE VEGAN TO LIKE IT. EVERYTHING IS SO YUMMY! You won't be able to tell you're eating vegan. Everything is made fresh from scratch. Service is fast and friendly.",
+                "reviewer_id": "gSsG7SxlyPiTjzWF2DLYFg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5028226190053395,
+                    "positive_probability": 0.49717738099465936
+                },
+                "stars": 5
+            },
+            {
+                "review": "Had the FIBBISH sandwich......very good. If you are non, or part time vegan...this is the way to go. Comes with choice of sides...we had the home cut French fries...also very good. Smoothies are good. And the salads were HUGE.....well worth a trip, and reasonable. Fibbish plate was around $7.00, but had nice huge portion, plus big tomato slice,and more. Love the serving sizes.",
+                "reviewer_id": "HaI9Cxe3P5bE_ByfmnrktQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.013072793452374817,
+                    "positive_probability": 0.9869272065476232
+                },
+                "stars": 5
+            },
+            {
+                "review": "Really great experience my second time here. It seems they have worked out the kinks in the menu. Fish and Chips were excellent. will definitely be back.",
+                "reviewer_id": "IIRBF6_xbWYPbP_mjGI8RA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5112439665793401,
+                    "positive_probability": 0.48875603342065854
+                },
+                "stars": 4
+            },
+            {
+                "review": "Sooo good!!! The  desserts are unreal and they're healthy!!! It's a must to stop by this local gem. Don't leave Urbana without doing so!",
+                "reviewer_id": "jqXIEG4t6NwHQEbkWjHBgw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.15257498354406873,
+                    "positive_probability": 0.8474250164559307
+                },
+                "stars": 5
+            },
+            {
+                "review": "After spending over a year researching vegan eats all over the east coast, I knew the thing I would miss most about NYC and Philly is the array of vegan dining options that central IL is severely lacking. Luckily, this Dog came dancing into my life and did more than soften the blow...Specific favorite things about DD:1.) Dessert: Ever heard of Vegan Treats in Bethlehem, PA? It was named one of the top 10 bakeries in the world. I can honestly say that after trying ~ 20 treats from there, I have had DD desserts that I've enjoyed more than many at VT. DD has new desserts every day, so it's my favorite part each visit to walk in and see what's on display. Some days have a better selection than others, so I wish the pastry department would expand to guarantee at least 2-3 cakes/cupcakes each day (always so moist and decadent). Some gems I've tried are GF vanilla lavender cake, \"ricotta\" cheesecake trifle, peanut butter fudge, and an oatmeal cream pie that would make Little Debbie abandon her reign and go veg for life.2.) Lunch/Dinner options: I'm happy to see the menu is expanded, although I certainly don't have a problem with the kitchen continuing to experiment with even more options for me to try. (; Here are some highlights:-- Soups. They have an actual soup wizard working for them. One Soup of the Day I was particularly impressed with a couple months ago, humbly titled \"mushroom\", was full of beautiful shiitakes, shining in a rich and silky umami broth of love. The chili is offered daily and it is also very tasty, hearty yet light and full of vegetables in addition to the beans.-- Down & Dirty Dog.  This dog isn't made of random appendages from who knows how many species of animal. Nor is it the beige rubber stick that vegans have been begrudgingly choking down at bonfires for years. It's the best dog I've ever had. And the slaw and baked beans are even better, offering a hint of sweetness and a creamy crunch. There's also a pickle involved if you want even more crunch and tang, but I kind of liked eating the pickle separately because the slaw and beans are too good to be \"speared\" like that (ha).-- Seitan Rueben. I've had other versions of this, including the famous Chicago Diner one, but DD's is special in its own right. I love that the seitan is made in-house because I know many vegan restaurants (even Vedge, the best vegan restaurant in the country) use seitan from outside sources. Plus DD's thousand island relish is crazy good. -- Quinoa Scoop On A Bed. I once heard another customer tell a server the salad should be renamed to \"Mound of Goodness\". I wouldn't disagree. Mostly because of that tangy avocado dressing, but also because I when I want a salad, I want a legit sized bowl full of dark green and purple leaves, not a handful of lettuce with a tasteless tomato on top. 3.) The Veggs Bennedog for Sunday brunch. The Hollandaise sauce is insane. Who needs egg yolks ever? Even better with spinach!4.) Staff: Everyone I've met here has been awesome; not just knowledgeable about the food but actually excited about it too (an unfortunate rarity in the food industry). I've even had a some interactions with the owners Linda and Brian (who are usually around - another sign of a great restaurant), and I can tell they are wonderful people who care about the food being served, and treat their employees well.Overall, the Dancing Dog executes well what it has set out to be: a place where vegans and non-vegans can happily mingle with plenty of satisfying and tasty options, mostly reminiscent of traditional cafe/diner fare. They're still new and have a ton of potential to grow, which is exciting because they are off to an excellent start. This being said, the main suggestion I'd like to see more of in the future is fresh produce shining in more dishes.. Especially seasonal; it is winter so I'd love something like sweet potato gnocchi and roasted kabocha squash in sage brown butter sauce. (Also I hope real lemons are used in lemon cakes, not lemon extract, for example.) (Final note, in response to a previous comment about using items from the vegan section of a grocery store... First, only a few menu items here even contain faux meats, certainly not the majority of the menu. And much like how non-veg restaurants do not construct chicken cutlets out of pantry ingredients and witchcraft, I'm guessing DD chooses certain faux meats because they cannot produce them in the kitchen. No, vegan restaurants do not NEED to use processed faux animal products, but the truth is that many vegans and non-vegans alike are intrigued by dishes that resemble childhood favorites, for instance, that we no longer eat because of the poor practices of the meat and dairy industries. Regardless, while 3-4 dishes on the menu use such \"meats\" as a component, the kitchen does their own seasoning/treatment to them, and all the accoutrements they are served with are house-made and delicious!)",
+                "reviewer_id": "kExw8TGrYqHhGbpv8JAO3g",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 3.9653169369917044e-18,
+                    "positive_probability": 1
+                },
+                "stars": 5
+            },
+            {
+                "review": "Great ambience, it's a quirky restaurant that you can take out or dine in. Awesome juices and vegan dishes. Their soup of the day (veggie chili) was great and their tofu scrambled burrito was out of this world. It was so good we went back twice in 2 days!",
+                "reviewer_id": "OMZAGyR1TX6qT3Y7WBOa5g",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8253087687733551,
+                    "positive_probability": 0.17469123122664337
+                },
+                "stars": 5
+            },
+            {
+                "review": "I like how calming and casual this place is. And the food is great. I got this one type of carrot juice that I think about often.",
+                "reviewer_id": "OvNUbUGurlG6jtWLV2sxgw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7754958780984463,
+                    "positive_probability": 0.22450412190155603
+                },
+                "stars": 5
+            },
+            {
+                "review": "I have visited five times and each time the food and service has been wonderful. Linda and Brian do an amazingly creative job with vegan fare. The fruit is always ripe and the smoothies are divine. My favorite is the burrito - so good. Love the cole slaw. We had our company Holiday Party there in January and it was a big success with great appetizers and wine. The prices were very reasonable, and the atmosphere was great with candles on all of the tables and festive music. Such a welcome addition to Chambana.",
+                "reviewer_id": "pZhhLfJQGiRsJmvgZJZZwg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.010945481175061451,
+                    "positive_probability": 0.9890545188249309
+                },
+                "stars": 5
+            },
+            {
+                "review": "This place was recommended to me by a friend who is a regular here. I am not vegan, but I love to try almost anything. I really wanted to try the Fibbish and Chips, but they had run out. So, I ended up going with The Down and Dirty Dog with the quinoa and corn salad as my side. I also had a Pineapple Blueberry smoothie. Just drinking that smoothie made me feel healthier (technically one smoothie won't make you healthier, but that's besides the point). I get my smoothie first and they had made it wrong, it tasted a little off and looked kind of not right in color, but I actually wasn't going to say anything. They knew though and had another made for me that looked much better when I got it.  Then, my food came. The quinoa and corn salad is very light. I like it, although I think if they use lemon at all in it, maybe a little more. The Down and Dirty Dog is delicious! The beans and slaw on it are the pice de rsistance. I love the slaw! :) I decided that I might as well finish with a dessert since I was going to do a review. I was going to get a piece of their double chocolate cake, but someone literally ordered the rest of it before I was able to acquire a piece. Oh well, another time. I did however, get one of their big chocolate chip cookies. It has walnuts in it and I don't normally like walnuts in my chocolate chip cookies, but the walnuts added to the flavor and texture of the cookie. It was a little crispy on the edges and nice and soft otherwise. It was a really good food experience and I will be back.",
+                "reviewer_id": "qBBt0BfW4gXUWbYxX08JnA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.14113071119679807,
+                    "positive_probability": 0.8588692888032173
+                },
+                "stars": 4
+            },
+            {
+                "review": "Holy crap, this place is great. My boyfriend and I came down from Chicago to visit family and decided to check this place out. We started with the hummus plate and the hummus tasted fresh and so were the veggies. I got the dirty dog, which is a must-try. It is a veggie dog with baked beans, coleslaw and a pickle on top. Yum!!!My boyfriend got the tofu scramble burrito and it was delicious as well!We weren't expecting to find such an amazing vegan cafe in Urbana, everyone needs to try this place out!",
+                "reviewer_id": "t9SJIGLN7LU1nRofonS4rA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.010686240684054302,
+                    "positive_probability": 0.989313759315939
+                },
+                "stars": 5
+            },
+            {
+                "review": "Fresh squeezed juices! Thank you for delivering healthy options. Nice cozy spot to get some lunch and work done.",
+                "reviewer_id": "uhw4jPdmMBqJXHg5KvLJww",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.12663819291882342,
+                    "positive_probability": 0.8733618070811777
+                },
+                "stars": 4
+            },
+            {
+                "review": "I visited The Dancing Dog this evening, had an excellent meal, and the service was wonderful as well. The staff are very friendly, and everything on the menu (including the wine) is 100% vegan. I had the vegan fish and chips. I think the vegan fish pieces (there were three) are Sophie's Choice brand, and they are deep fried, so if you are looking for vegan health food, this might not be the dish for you. However, if you want the closest thing I've ever tasted to British-style fish and chips, this would be it. The tartar sauce was tasty and the coleslaw was some of the best I've had anywhere. For dessert, I ordered the chocolate chocolate chip, cookie, which was also excellent. Dense and chocolatey, slightly crispy on the outside and soft on the inside.I will definitely visit here again the next time I'm in Urbana. Any vegans and vegetarians in town should feel lucky to have this wonderful restaurant.",
+                "reviewer_id": "UlmQStYUblQpHtdKLNXnOg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 9.080209075586569e-05,
+                    "positive_probability": 0.9999091979092434
+                },
+                "stars": 5
+            },
+            {
+                "review": "Had dinner here tonight and ordered The Tingler (with kale, beets, lemon, and ginger) along with the vegan lasagna (which came with a side salad).  The juice, lasagna, and salad were all excellent.  Portions seemed generous and fresh.  We also ordered the German chocolate cake and the frosting was delicious, but the cake itself was a little dry and had a sawdust texture.  Otherwise, it was decent.Overall, however, this proved to be a better experience than my first time dining here, when it was becoming very chilly this past winter and I ordered a tempeh wrap thinking it would be a hot sandwich--only to have it arrive cold.  Not appetizing.  I hope they continue to experiment some more, and consider offering more rice or quinoa dishes that deviate from the expected (spaghetti, for example).",
+                "reviewer_id": "uT5j3gacwwzZ3LO5P4_1KA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0006261905058107405,
+                    "positive_probability": 0.9993738094941902
+                },
+                "stars": 4
+            },
+            {
+                "review": "Who would have thought, that an amazing vegan restaurant would be nestled in the main street of Urbana, IL. I had not eaten all day and I was ready to chow down. Usually in situations like this, I think Mexican food. But my friend Issac said we have a cool vegan place 2 blocks from where you are playing you should check it out! Oh man Im so glad we did. I got this wonderful Peanut Butter thai veggie bowl with rice that had the most amazing flavor and totally hit the spot for a perfect dinner option! The place was cool, you can order anything off the menu vegan, and they have amazing looking deserts! I went back the next morning to get coffee for the road and I loved how they had Soy Creamer (not just soy milk) for the coffee! Really wonderful spot! I must stop of the highway next time I'm driving through to hit this place up again!",
+                "reviewer_id": "vlWwsOG5fL8byQRZ7IIBZQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3125437956195457,
+                    "positive_probability": 0.6874562043804546
+                },
+                "stars": 5
+            },
+            {
+                "review": "So nice to finally have a place dedicated to cruelty-free and people with special diets. The nachos are amazing.  I hadn't had a Reuben in 5 years and finally had the vegan one which was awesome.  It's a great place for an intimate lunch or a dinner out. My husband took me there for Valentines Day this year and we left so happy. The desserts are amazing too.",
+                "reviewer_id": "XOKy3A0DCZuzeglHZw76XQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.011287856669636703,
+                    "positive_probability": 0.9887121433303617
+                },
+                "stars": 5
+            },
+            {
+                "review": "I usually dis vegetarian food/ place, but this place is different. I had the quinoa on a bed, which was just like salad you would find anywhere - it was ok. However, my friend had the vegetarian chorizo, and it was awesome. It tastes just like meat!! I think the type of vegetarian meat that they serve changes every now and then. We also had the lavender cake for dessert. It was a little too sweet, but it's still yummy!",
+                "reviewer_id": "xUu9gORsM_AEWJjiEN4fHg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.36272614840405926,
+                    "positive_probability": 0.6372738515959444
+                },
+                "stars": 4
+            },
+            {
+                "review": "How is it fair that Urbana has a vegan restaurant, and all the way in Naperville I have to settle for my infrequent trips to the city in order to eat at a restaurant that actually serves food I'll eat???!!! Yes, I'm jealous!!The menu here wasn't super extensive, but I actually really like that in a vegan restaurant. I spend less time agonizing over what to order, and more time looking forward to eating it. I got a seitan reuben, and it lived up to all of my expectations. I did think it was on the rather small side, but it was still filling, and came with a nice, heaping pile of fries. Yummmmm.I guess I'll just have to be back to visit my good friend in Urbana more often and try out the rest of the menu!",
+                "reviewer_id": "yjRh-hnfVdTQ_wpgiDbAgQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9388094213375845,
+                    "positive_probability": 0.06119057866241093
+                },
+                "stars": 5
+            },
+            {
+                "review": "A friend recommended me this place. The Lasagna and chocolate cake with vanilla frosting both were great. Overall everyone loved whatever they tried. I have heard that Tingler is good too, although I haven't tasted that yet. Great place for vegan food, will be back for sure!",
+                "reviewer_id": "z8pj_lrILY57qU2zvrROpQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5355197629347311,
+                    "positive_probability": 0.4644802370652641
+                },
+                "stars": 5
+            }
+        ],
+        "similar_restaurants": [
+            "cmLB5X26RJXWdZ2qrS5KOg",
+            "0a4lX5VhCXJOwe-idxnVbw",
+            "4UG9uGnByKgoiuVpC0DthA",
+            "YkKEsYsSpOkDBbHBGKuWQA",
+            "SeQv-RJ2rS070NvSRh_siQ",
+            "doCqqCuoDsIQYDSY2gkUtQ",
+            "fYE54FZCIFYYdFs-AkqRuw",
+            "R3dSeFD8k_Z-EHNLlUELiw",
+            "cab8Jri_Zdz2487hG5em6w",
+            "i0_W9_1abdjBS7d5-pWORQ"
+        ]
+    },
+    "cmLB5X26RJXWdZ2qrS5KOg": {
+        "keywords": {
+            "bigrams": [
+                "red_herring",
+                "love_place",
+                "hit_miss",
+                "corn_bread",
+                "vegetarian_vegan",
+                "vegan_vegetarian",
+                "vegetarian_food",
+                "portion_size",
+                "great_place",
+                "monday_night"
+            ],
+            "unigrams": [
+                "place",
+                "food",
+                "red",
+                "good",
+                "herring",
+                "vegetarian",
+                "vegan",
+                "great",
+                "soup",
+                "eat"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "none",
+                "Ambience": {
+                    "casual": true,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "Caters": true,
+                "Delivery": false,
+                "Good For": {
+                    "breakfast": false,
+                    "brunch": false,
+                    "dessert": false,
+                    "dinner": false,
+                    "latenight": false,
+                    "lunch": true
+                },
+                "Good For Groups": true,
+                "Good for Kids": true,
+                "Has TV": false,
+                "Noise Level": "average",
+                "Outdoor Seating": false,
+                "Price Range": 1,
+                "Take-out": true,
+                "Takes Reservations": false,
+                "Waiter Service": false,
+                "Wheelchair Accessible": false,
+                "Wi-Fi": "free"
+            },
+            "business_id": "cmLB5X26RJXWdZ2qrS5KOg",
+            "categories": [
+                "Vegetarian",
+                "Cafes",
+                "Vegan",
+                "Restaurants"
+            ],
+            "city": "Urbana",
+            "full_address": "1209 W Oregon St\nUrbana, IL 61801",
+            "hours": {
+                "Friday": {
+                    "close": "14:30",
+                    "open": "09:00"
+                },
+                "Monday": {
+                    "close": "14:30",
+                    "open": "09:00"
+                },
+                "Thursday": {
+                    "close": "14:30",
+                    "open": "09:00"
+                },
+                "Tuesday": {
+                    "close": "14:30",
+                    "open": "09:00"
+                },
+                "Wednesday": {
+                    "close": "20:00",
+                    "open": "17:00"
+                }
+            },
+            "latitude": 40.106704,
+            "longitude": -88.225188,
+            "name": "The Red Herring Vegetarian Restaurant",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media1.fl.yelpcdn.com/bphoto/9b5dvNuEgbwcqD-M4EFCcg/ms.jpg",
+            "review_count": 46,
+            "stars": 4,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "All I want is for this place to do well. I REALLY want to like this place. Definitely a place you have to go and try out. ",
+        "reviews": [
+            {
+                "review": "After living in the area for many years, I finally got a chance to try The Red Herring. I took my wife to lunch on a Friday afternoon. Service was friendly and questions were answered politely.I had the Dragon Bowl special, which was very good. I only wish that I had ordered the full portion instead of the half portion. My wife ordered a tofu dish (not sure exactly which one) which was excellent. She also wished that she had ordered the full portion.The prices were fair and we had a good first experience here. We will return.",
+                "reviewer_id": "-KZ0k14H3zdZVzEnhVq1ag",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.05239681148865327,
+                    "positive_probability": 0.9476031885113491
+                },
+                "stars": 4
+            },
+            {
+                "review": "So I'm not really a vegetarian, but I like to be a poser, I ate at Field of Greens while in the dorms and I eat here when I actually have my lunch hour free on campus.  Sure a lot of people have said this can be hit or miss, but I find the hummus sandwiches to be excellent every time.  They always have fresh veggies on them and have a lot of flavor, plus the homemade wheat bread is awesome.  The sweet potato and corn chowder is quite good as well.  Alas I still haven't been able to try the cornbread, it seems they always run out within the two people ordering in front of me, so get there early if you can.  The coffee isn't outstanding, for that  I would walk down the street to Espresso. Great place to support and cheap eats, I usually spend no more than $6.  Basically you should go if you are on campus for lunch and want a healthy alternative to chains on green st.",
+                "reviewer_id": "-swXonAzCYdZMpkDo0i_FA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.024999389388041887,
+                    "positive_probability": 0.9750006106119641
+                },
+                "stars": 5
+            },
+            {
+                "review": "Go to their Wednesday night dinners! It's a straight up vegan haven. Their deserts are especially tasty, and most of their vegetables and herbs are sourced from their own garden, as well as Sola Gratia! I take my parents almost every week (they're omnivores) and they love it too! Wonderful ambiance as well! Highly recommend!",
+                "reviewer_id": "0wQC8wf4g1-t5hl2PkNHUg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.03429850846206645,
+                    "positive_probability": 0.9657014915379348
+                },
+                "stars": 5
+            },
+            {
+                "review": "It is so nice to have a vegan restaurant in CU. I see another is opening and claiming to be the first. Well The Red Herring was first a long time ago and it is great. The variety of flavors offered makes it a place you can return to often. The atmosphere is, well, laid back and comfy. Nice in the middle of a frenetic day. The staff is always friendly and welcoming and they know their dishes enough to make great recommendations. In short, whether you are vegan or not you should visit The Red Herring and enjoy a great lunch served with a smile in a place that begs for a good book or a good friend to join you. Try it. You'll like it.",
+                "reviewer_id": "1QBi1Cx0mWaVY2xtZqtYzA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.004235525401936231,
+                    "positive_probability": 0.9957644745980678
+                },
+                "stars": 5
+            },
+            {
+                "review": "OK, I have to say that I am very spoiled when it comes to vegetarian or vegan food; I prefer the \"gourmet\" vegetarian and vegan food that takes a lot of preparation and hours in the kitchen for someone to crank out. This place is not that and I didn't know this going in. The hippies and the sloppy \"chill, man\" attitude around the joint quickly made me realize what I was in for and I was right. The food was OK, as in I can, and do, make it at home so it's not very interesting. The portions were HUGE and the price a bit steep; I'd rather pay less for a smaller portion. The place is definitely unique but not as great as I though it should be; I kept hearing such great things that I expected more. But, I'll give them another try sometime to see if it gets better.",
+                "reviewer_id": "3NU4UJWlsVIl6kSYouaFxA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.02449291392583327,
+                    "positive_probability": 0.9755070860741736
+                },
+                "stars": 4
+            },
+            {
+                "review": "It is a great place to eat whether you are a vegetarian or not . The food is fresh and local with fair prices. The people working there are always friendly and provide good service. :)",
+                "reviewer_id": "44GzCA_7s9Xq3kzl2xD1TQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.025174923642119363,
+                    "positive_probability": 0.9748250763578797
+                },
+                "stars": 5
+            },
+            {
+                "review": "Used to be quite good. Sadly I could not eat more than a few bites of my \"spinach pesto\" which was made of mashed up spinach rather than basil and had no flavor. Even the cornbread was bad. on the upside when I returned it uneaten they insisted on giving me some chili for free. Unfortunately that wasn't good either but I ate it because I was starving.",
+                "reviewer_id": "4omuU-xWbf3ty7vrMfbP3Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.04593269519678374,
+                    "positive_probability": 0.954067304803217
+                },
+                "stars": 2
+            },
+            {
+                "review": "On an icy winter's day, Red Herring soup melts my insides. I'll reject red meat any day for it. Their soup menu changes daily... and everyday it's made fresh by volunteers. So - if you're low on cash, you can work here in exchange for food. Not too shabby!I have heard rave reviews about the Krishna dinner... and damn! I forget almost every Monday. But how could the reviews be wrong? Five bucks for an all you can eat, organic, home cooked meal? Damn straight!",
+                "reviewer_id": "7zSppEZd2C6ASpNeBebxAA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7977924757043848,
+                    "positive_probability": 0.2022075242956191
+                },
+                "stars": 4
+            },
+            {
+                "review": "I really wanted to like this place, being both vegetarian and right next to my building.  After several visits though, I had to concede that it just isn't that good.  Tables are constantly dirty.  Food is inconsistent, too expensive for the quality and portion size, and generally not very tasty.The employees are in a constant state of confusion, seemingly overwhelmed by the trickle of customers during the lunchtime \"rush\".  The ordering process is inefficient, with very little thought put into organization of the process.Basically, this place has all of the drawbacks of a small, quirky cafe, with virtually none of the payoff.  I am currently at the restaurant again, having given in to proximity over quality, and I am regretting it.",
+                "reviewer_id": "9DH-Q7ngZVF1u1f1Ba4Mog",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.00148496685001284,
+                    "positive_probability": 0.9985150331499889
+                },
+                "stars": 2
+            },
+            {
+                "review": "I REALLY want to like this place.  On paper it sounds amazing, super healthy vegan/vegetarian food.  Lots of organic, free trade type stuff.Unfortunately it usually fails to impress.  The dishes usually bland and uninteresting (mostly stews and vegan imitations of american and western european meat dishes that most meat eaters don't even like that much, like beef stroganoff for example).   On top of that I made the trip out there on four separate occasions only to find the place was closed with a note on the door saying \"Sorry we are too tired to cook today.  Here's a recipe if you want to make your own dinner.\"  WTF.  I know this place is a non-profit but they seem to reject the notion that a business should strive to please their customers if they expect to survive.  Of course only greedy capitalists care about such things..",
+                "reviewer_id": "BHq_bwUa1lw-6tD2O0c9Pw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9982958911644896,
+                    "positive_probability": 0.001704108835511299
+                },
+                "stars": 3
+            },
+            {
+                "review": "Oh, Red Herring!  Be still my heart.  I loved this place before I ever considered eating vegan, and it's been a haven for me since then.  The specials never fail to delight, so much so that I went six months never trying a regular menu item because I was so entranced by the daily specials.  The BBQ seitan is outta control good--so fantastic that I find myself picking up the escaping pieces of seitan with my fingers and then licking the sauce off.  The falafel is phenomenal as well.  Meat-eaters, have no fear.  I've brought many a devout omnivore to Red Herring, and they've raved about their eats as well.  The chef does a fantastic job of dreaming up dishes that are flavorful and filling (and still pretty damn cheap).  I find the whole sandwich fills me up nicely for $5, and the specials are always a meal-and-a-half for a bit more.I'm sad they weren't able to keep dinner service going, but I've got my fingers crossed they'll revisit that another time.  Red Herring, thank you for satisfying my stomach, making sure this mostly vegan gal never feels frustrated grabbing a lunch out, and helping me feel completely guiltless about eating out.",
+                "reviewer_id": "bPzcpkhSeQDu6WQTUh08yw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 5.891156145008167e-05,
+                    "positive_probability": 0.9999410884385647
+                },
+                "stars": 5
+            },
+            {
+                "review": "Had the weekly stew. Foods are okay. The corn bread was hard. I don't like it. But seemed the corn bread is the only dessert they have. Furniture is classic and mixed. Thought they collected the furniture from various places. A nice place to have a rest.",
+                "reviewer_id": "C74BJGf0RuKdYKxjm7SDuQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.30794654044440056,
+                    "positive_probability": 0.6920534595556036
+                },
+                "stars": 4
+            },
+            {
+                "review": "The ambience here is somewhat lacking, but the menu features eclectic options and eco-conscious choices. The food was tasty, but sat a bit heavy for me. Large portions and decent prices make this a worthwhile place, but with room for improvement.",
+                "reviewer_id": "cTSSA0PFK6_xJAlj_uhN-A",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8929167855531648,
+                    "positive_probability": 0.10708321444684
+                },
+                "stars": 3
+            },
+            {
+                "review": "The food is bland and the portions meager, but as the only dedicated vegetarian restaurant on campus, Red Herring gets stars for being cool. Surface over substance.",
+                "reviewer_id": "dzKYG04n0nLXv6tGFvJX0Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3526329371232438,
+                    "positive_probability": 0.6473670628767549
+                },
+                "stars": 3
+            },
+            {
+                "review": "I used to go to Red Herring at least once/twice a week during my undergrad years.In my opinion, the best lunch option near campus, and never as packed as some of the shittier places nearby.  Soup and sandwiches were always great, and the entrees were good too.  I could never convince my friends to come with me, because they were idiots.The food definitely fluctuated in terms of taste/quality depending on who was working that day. I still remember a specific dish I had back in '05 that still ranks among the top 10 things I have ever eaten. Unfortunately, by comparison, nothing else from there ever lived up to that one dish, even though it was always excellent.",
+                "reviewer_id": "Ec6w-g5MZLzAEqLr6tjZ8w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.10672106463203537,
+                    "positive_probability": 0.8932789353679682
+                },
+                "stars": 5
+            },
+            {
+                "review": "Requires a bit of an open mind, but I love what this place stands for and that I can get a full plate of food for less than $8 and it's nothing I'll have ever tried before. I've gotten their nachos with vegan cheese, tried their deep dish pizza made with chickpea flour, as well as a Indian dish. It's always a really nice, cozy experience venturing to this side of the quad.",
+                "reviewer_id": "eIQwlepZ2qgvv3ZnCPfucA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0027938951487498998,
+                    "positive_probability": 0.997206104851251
+                },
+                "stars": 4
+            },
+            {
+                "review": "Fantastic bbq seitan sandwich. Even better than the one offered @ clover in cambridge, ma!",
+                "reviewer_id": "G2O4kR8xXH_Et4J6a7gzrA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6152136737912642,
+                    "positive_probability": 0.3847863262087369
+                },
+                "stars": 5
+            },
+            {
+                "review": "hippies are weird. but one thing they do well is make vegetables taste good. i've enjoyed everything i've had here and it's a great atmosphere to relax during a busy day.",
+                "reviewer_id": "gbxWeKTC7vzLA7i-cAPp8w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.021422901154289627,
+                    "positive_probability": 0.9785770988457079
+                },
+                "stars": 4
+            },
+            {
+                "review": "I admit, this place can be hit-or-miss when it comes to dining, but I love it and so will you.  Open for lunch, grab a sandwich and soup, a choice of vegetarian entrees and coffee.  The Krishnas put on a Monday night meal, all you can eat for $5.  Very peaceful and cooperative, and spiritually and gastronomically healthy.",
+                "reviewer_id": "HANb8-8InWnju-XzBQQSBw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.03282291100204532,
+                    "positive_probability": 0.9671770889979557
+                },
+                "stars": 4
+            },
+            {
+                "review": "OK, I'll admit it- I generally detest vegetables, so the idea of a vegan restaurant did not initially appeal to me. However, thanks to the Red Herring, I have been converted to the veggie cause. The Red Herring is staffed by dedicated volunteers and generally these are people quite knowledgeable in the ways to making vegetables delectable. It's a small place, nothing fancy, but it's quite nice for a non-for-profit establishment. On a cold day there I always like to get their $3.00 bowl of vegetable soup with corn bread. The soups, like the entrees and desserts, vary each day. Some days might be better or worse than others, but I can usually find something I like. The corn bread is the wonderful constant in this equation. It's soft and melts in your mouth. Besides the cornbread, the next best thing is the ingredients. They use lots of local and organic products.Even if you are not exactly crunchy and you like your red meat, I suggest trying The Red Herring. Hopefully you'll be pleasantly surprised.P.S. They are now serving dinner.",
+                "reviewer_id": "HqaXK9toBpQdcz-0-rVwKw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.00047784777097898887,
+                    "positive_probability": 0.9995221522290277
+                },
+                "stars": 4
+            },
+            {
+                "review": "Very hit or miss at this place. I've never had anything that is *bad* but I've also never eaten anything here that really blew me away. I did enjoy the vegan/vegetarian chili that I had there a couple of times. Definitely not a must eat though.",
+                "reviewer_id": "IIRBF6_xbWYPbP_mjGI8RA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.10794681024033465,
+                    "positive_probability": 0.8920531897596654
+                },
+                "stars": 3
+            },
+            {
+                "review": "I love this place.  The food is vegan but you would probably not even realize it if you weren't paying close attention because it is delicious, flavorful, and makes a lasting impression.  The staff is super friendly, the ambiance is friendly, welcoming, and open.  The concept is wonderful.  The prices might be a little steep for the amount of food you get sometimes but it all balances out in the end.  Totally my favorite place to go for lunches during the day because of its proximity to the quad.",
+                "reviewer_id": "iKt9RWLOS_PE4SKBRFkKww",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.02802254103677513,
+                    "positive_probability": 0.9719774589632255
+                },
+                "stars": 5
+            },
+            {
+                "review": "Awesome staffAmazing Vegetarian lunchesLots of seatingSocially Conscious businessLove this place!",
+                "reviewer_id": "irvYCzno1PlbDsLKkAKNFw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5045720925060944,
+                    "positive_probability": 0.4954279074939056
+                },
+                "stars": 5
+            },
+            {
+                "review": "5 buck karma-free Monday night dinner?  Gotta give that a shout out.  Anyplace that satisfies my evening grubbin' needs that cheaply can make the whole day seem even better.Down the steep stairs and into the warm scent of good hippie eats.  You get in line, toss your fiver in a basket, and are given large portions of whatever they cooked up.Tonight was rice, veggies with Indian flavors, kick-ass lentil soup, and a brownie.  Drinks cost extra, water is free with dinner.  You can eat as much food as can be shoveled down.The atmosphere is like a laid-back commune, with a smattering of all campus types.  Punk, hippie, geek, frat/soror, etc.  It's a really friendly place with a community-building-is-awesome vibe.My friends who've been in town awhile say it can be a tad hit or miss.  Tonight was for the win, fo' sho'.  Another tip I was given is to bring a Tupperware.  If you accidentally get more seconds than you can eat, you'll be able to have some noms for lunch the next day.  Or, ya know, snacking on the way home.  It might be a little less karma free that way, though...",
+                "reviewer_id": "iWcr-TRqIuIXqMpd_MrdrQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7309729949895496,
+                    "positive_probability": 0.26902700501043736
+                },
+                "stars": 4
+            },
+            {
+                "review": "This is easy to miss in the Unitarian corner building near the foreign language and across from the science building.  It's a place you have to come to, though, if you like vegetarian fare and really one of your only legit options if you want vegan and don't want to just have a celery stick or raw veggies at some other restaurant.  All food is freshly prepared, their main menu item changes every day.  On top of this all it's fairly cheap as well.  Definitely a place you have to go and try out.That said, I have talked to a connected friend who told me horror stories about the management changes as well.  I guess it passes between different people since it's run by the Unitarians and there is some sort of committee for it.  Apparently sometimes the place was not run in a, shall we say, cleanly and efficient manner.  That said, I hear the current manager, just like nifty c. says, is very good and the place is top quality.",
+                "reviewer_id": "IXFGCmgnB8YY-jtPCaNYeQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 5.1276974303073206e-05,
+                    "positive_probability": 0.9999487230256903
+                },
+                "stars": 4
+            },
+            {
+                "review": "I'm not a vegetarian but I love this place. One of the few, possibly only places on campus to get a real-food meal made with fresh, unprocessed ingredients. Alot of their ingredients are sourced locally. I started out going here for lunch on occasion but lately I have been going to their vegan fusion dinners.",
+                "reviewer_id": "K_E_UAk7IQGPHqz8IE7iSw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.036967114428570425,
+                    "positive_probability": 0.9630328855714327
+                },
+                "stars": 5
+            },
+            {
+                "review": "I love the daily specials- I eat here every time I can (which isn't often because they are only open for weekday lunches I think). Such delicious food and definitely a worthwhile place to give my $5 for lunch too.",
+                "reviewer_id": "M8CXD-xhjCRh7abUOrk2tg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2729363197572959,
+                    "positive_probability": 0.727063680242708
+                },
+                "stars": 5
+            },
+            {
+                "review": "I loved this place. The atmosphere is lovely and relaxed and so is the food. I've been meaning to come here for quite some time, but the hours that they are open never match up with when I have wanted to go. The hours are pretty random and short but it is worth planning a trip. The food is very good and very fresh, it is a little pricey for the portion size, which is pretty small, but it was worth it. I would recommend for any vegans, vegetarians, ethnic cuisine lovers, or just healthy eaters!",
+                "reviewer_id": "o_xI4gJDuJmN6wT_8DED7g",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5790117715279782,
+                    "positive_probability": 0.4209882284720248
+                },
+                "stars": 4
+            },
+            {
+                "review": "I am a former vegetarian working nearby, but was scared to come here.  On a previous visit, a friend and I left because of the crowd, which I know now was probably a buffet night.I'm glad I finally got over it and gave it a try, because that was some of the best falafel I've ever had.  I also had the curry soup, which was very flavorful and seasoned just right.  A half falafel \"sandwich\" (which includes popcorn and a dill spear), cup of soup du jour, and a cookie cost me roughly $7.  They also have a water cooler with a stack of non-disposable cups.",
+                "reviewer_id": "p5ht6rQC0NkgdtgY2OlYxg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.02852562243640505,
+                    "positive_probability": 0.9714743775635885
+                },
+                "stars": 4
+            },
+            {
+                "review": "I'm a carnivore, but this place is so delicious. It might be one of the only places to get real, non-greasy food around campus. It always makes me feel satisfied for several hours, whereas other places you feel hungry about an hour later.Om nom nom! Try a cup of chili with brown rice + veggies.Furthermore on fridays they have a really sweet band playing, today there was a guitar, banjo, and a double-bass. Awesome.",
+                "reviewer_id": "petFpNRk6Kw60d-sAGOI1Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.005231767848548821,
+                    "positive_probability": 0.9947682321514484
+                },
+                "stars": 5
+            },
+            {
+                "review": "We were actually brought here by Annie W. during our visit to UIUC. (Not sure if you can tell, she's a big fan!)I ordered half a hummus pita with a garden salad on the side. I actually liked the hummus, although I don't eat hummus as much as I'd like to. There were lots of fresh veggies in there, although the distribution through my little pita pocket was a bit awkward. (Chock full o' hummus on one side, lots of veggies on the other.) I ordered the salad with the sesame tahini, but I wasn't a huge fan of the tahini. I don't eat tahini often, though, so maybe I'm just not a tahini person? (The vinaigrette would've complemented the meal better.) The meal was served with some plain popcorn.I found my meal okay, but I would definitely be cautious to omnivores (and especially carnivores xD). Many of the people I was eating with were pretty dissatisfied with the flavors in their food? Even the little bottle of hot sauce (I think it was a kind of salsa?) wasn't really doing much to quench their hunger. I'm a bit more used to vegetarian food, but if your friends aren't used to vegetarian food, this is probably not the place to try to introduce them to it.I liked the atmosphere of the restaurant, but again, it can come off as \"weird\" and \"hippie-ish\" for people who aren't used to it. We had a guy playing BOTH the guitar and the xylophone up front and, not going to lie, he was reinforcing the stereotype of \"hippie-ish\" in this restaurant with his look a wee bit, according to some of my lunchmates.But I liked it. There was a little station for you to fill up on water, iced tea, or hot tea, cane sugar, organic teas... considering that you're not paying a whole lot, I thought that you got a pretty great deal, ESPECIALLY if you are a vegetarian or a vegan, you know? However, if you're bringing a friend who has never heard of seitan and doesn't really like that organic feel, then this is the wrong place to bring him/her. If you're into that, though, this is an AWESOME place. Even the back of the bathroom door contributed to the overall feel of this restaurant that I had to descend into. It is very much like a co-op (if you've been to one before), but I'll admit, not everyone is going to love it. I personally liked it, though.",
+                "reviewer_id": "PwGDqzdywqGHDAoOn7VZHQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 2.8789926977726795e-05,
+                    "positive_probability": 0.9999712100730243
+                },
+                "stars": 3
+            },
+            {
+                "review": "This is one of the coolest places in Urbana. The Red Herring has been around for many years - my mom used to hang out here in the late 60s and early 70s when she was in high school. I may be biased about the food as one of my best friends used to be the head chef, but I love it!I have never had a bad experience here. The most recent time I went, I had the chili and the vegan nachos. Let me start out by saying that I'm not vegetarian OR vegan but I am always down to try new things! Both had great flavor, and the cashew nacho cheese actually tastes just like cheese!It is also a great place to come just to grab coffee. It is usually quiet inside, with a mix of casual lunchers and people studying with soft music playing. It is a great atmosphere to catch up with a friend.I love the Red Herring and you should too!",
+                "reviewer_id": "qCWAhycUgwCMmCladkrlrA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0025222218057860575,
+                    "positive_probability": 0.9974777781942108
+                },
+                "stars": 5
+            },
+            {
+                "review": "I am not vegan or vegetarian but my friend is so I went with him and thought I would try it. I had the BBQ seitan and for someone who doesn't eat that type of thing normally it was actually pretty good. It had the look, feel, and taste of bbq pork. I also had a side salad that had a yummy herb vingearatte. I don't think I would go back again because I like my meat but it was definitely tasty and if you are looking for a vegetarian type of place definitely go check it out!!",
+                "reviewer_id": "rgjdVmK5nYVOxrK6YeQJNQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.08545214443177483,
+                    "positive_probability": 0.9145478555682256
+                },
+                "stars": 4
+            },
+            {
+                "review": "This is the kind of place you want to support, you want to see survive.While I was living in CU, it closed down a few times, but always came back to life.It has been said the food is hit or miss - I agree. But I think more times than not - it is delicious and filling.I always did my best to try something new and was usually left feeling warm and satisfied.",
+                "reviewer_id": "rMf_QIAUHMIr3OJybv5Ylw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.05700180449915577,
+                    "positive_probability": 0.9429981955008435
+                },
+                "stars": 4
+            },
+            {
+                "review": "All I want is for this place to do well.  It deserves it.Basically, if you survive the terrifyingly steep steps downstairs, you'll enter what appears to be a speakeasy beneath the Unitarian Center.  And by speakeasy, I don't mean Prohibition Chicago era hideouts for liquor runners, I mean a Vegetarian Speakeasy for hippies--the best kind of speakeasy. :)The decor is eclectic and homemmade.  It basically looks like a co-op and is inhabited by the usual college town cast of characters: hipsters, professors, crunchy folk, punkers, and any person who likes great food.I enjoyed my butternut squash bisque soup and was disappointed that they were out of cornbread today--Keep that in mind and come relatively early to avoid having them run out of foodage.  Otherwise, you should enjoy.Go and at least check out this awesome local community spot that really seems to care about the area around it.  Good call. :)One note, they only take cash, much like the Y-Thai.  But really, if you're eating on campus, you should spend your money on places like Y-Thai or Red Herring rather than the soulless, corporate eateries lining Green Street in CampusTown.And there's free wifi.  Hot damn.",
+                "reviewer_id": "SpKVX3rt892E-BrL-yeqiw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0003569395443339753,
+                    "positive_probability": 0.9996430604556749
+                },
+                "stars": 4
+            },
+            {
+                "review": "The Red Herring manages to leave an impression on everyone who goes there. The restaurant is just a stone's throw from the Quad, making it a super convenient place to grab a bite to eat between classes. When entering from the main door, there is a a small area full of different community posting and stairs leading down to a basement. Don't worry, you are in the right place, restaurant itself is in the lower level of the house. There is a second entrance from Oregon St. that allows you to enter directly though the basement as well. The staff is every welcoming and helpful with any questions you may have about the menu. The specials are always changing, so be sure to ask what is new. There is a noticeable rush during the lunch and dinner hours, but if you go in the morning or mid-afternoon it can be a nice, quite place to get a little work done. This place definitely has that hippie/divey vibe about it. I absolutely love the colorful interior! I went to one of their open mic nights with some friends and they had a nice little stage area in the corner that worked well. It very much feels like a place that is aware of the community, with all of the information and local ads on their boards.Stop in sometime and see what the specials are or what programs are taking place!",
+                "reviewer_id": "sRoFGJ6Avpl21hMDwQPViw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.002086614696161484,
+                    "positive_probability": 0.9979133853038399
+                },
+                "stars": 4
+            },
+            {
+                "review": "As soon as I walked in I felt like I was transported to Ithaca, NY.  The ambiance is cozy with a funky, nature-loving theme.The food was incredibly delicious and satisfying, even for a non-vegan.  I had a cornbread muffin which surprised me by being not very sweet.  Instead it was a bit crumbly and grainy in a really savory way.I also had the green goodness soup which is easily some of the best green soup I've ever had!  When I first saw it, I was a little worried it would taste like chopped veggies with a weird after-taste. That was totally wrong.  I could taste the chopped up vegetables alongside smooth spices and a hint of lemon.  I enjoyed every bite!I completely recommend this place if you're in the mood for well-made food or if you miss Ithaca ;D",
+                "reviewer_id": "w-ptvHIIsRVb7TTAxfzhJg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.015736958341155502,
+                    "positive_probability": 0.9842630416588507
+                },
+                "stars": 5
+            },
+            {
+                "review": "If there is one thing I mass about ol' Chambana - it's Red Herring. This place is just so wonderful. Where do I start?My typical memory of it would be walking in on a blisteringly cold day. I'd be greeted by steamy warm, earthy air. My glasses would fog up and I'd go blind for a moment. Once the fog disappeared I'd be greeted with a wide variety of the community - from the still thinks-it's-the-70s hippie to the like-oh-my-god-check-out-my-North-Face-fleece! sorority girl - everybody is represented. Definitely more hippies than greeks - but yeah. I suppose I fall in the middle there and never felt out of place.The place is staffed mostly by volunteers who as I recall get paid with a meal for a certain amount of work. Go there for a little while and you'll quickly get to know the staff - they're all great.So next it's time to order. They have their daily menu listed and it's always different. Prices are not bad - $5-8 will get you a full meal as I recall.So the food - I have yet to buy something here that wasn't fantastic. Maybe I'm easy to please (as some of the other reviewers would make one think) - but geeze - it's all so great! There is a clear stand out though - the BBQ tempeh sandwich. I've tried to recreate this item at home (since I now live halfway across the country!) but I just can't get it as good as Red Herring did.I've taken many people here - from red blooded meat lovers to normal folk and everybody else - and I have yet to hear a complaint. Fantastic place - highly recommended!",
+                "reviewer_id": "we3wNaG0cZujkRpzzKHmuQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.02927938698835868,
+                    "positive_probability": 0.97072061301164
+                },
+                "stars": 5
+            },
+            {
+                "review": "This is probably one of the few places on campus I can depend on to get food that won't lead to a grease coma. The food tastes fresh and healthy. The downside may be that the portions are a little small compared to other restaurants for the same price. I would recommend the chili with a cornbread muffin.",
+                "reviewer_id": "x8zEbTbVFv9Ju1U_Y3xrIw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0016116152070756405,
+                    "positive_probability": 0.9983883847929219
+                },
+                "stars": 4
+            },
+            {
+                "review": "In 2011, for the very first time, I sat down at a paint chipped table in the middle of what could only be described as a \"Church basement\" -- slightly damp, definitely dark -- and looked around at what art and food, and culture had brought together.  I was with a friend, at the time.  An extremely good friend.  Neither one of us knew what to expect, or how to really proceed, but two mushroom risotto later, and.. I mean.. LIFE. CHANGED. right there.This place is a cash and carry.  You pay for the plate, and if you're part of the collective, you sweep your own dishes.  No one pampers you, here, but that's not really the point of what they're doing.  They're just doing warm, sincere, totally honest food (on par with any haute cuisine), keeping it free from anything that isn't vegetable or mineral (and plenty of carbs ;D).  Truly, spectacular, filling food for a great price.  Just don't come in expecting a waitress or to pay with your plastic.  That's a no go.TRH is still one of Urbana's best kept secrets.  Sometimes things are better that way.  Stay shiny, Red Herring.  Shine on!--After years, it appears things have changed.  Apologies!  THEY ACCEPT YOUR PLASTIC, NOW.  YAY!",
+                "reviewer_id": "YtbXNQJEJAHZK_2DFXSa6w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.003390982917657866,
+                    "positive_probability": 0.9966090170823413
+                },
+                "stars": 5
+            },
+            {
+                "review": "I had lunch here for the first time yesterday. I had the falafel salad and the soup of the day, I think it was called Samosa. Both things were excellent, Im probably going back today for their fusion meal.SO GLAD I FOUND THIS PLACE! No better way to spend $10 for lunch!",
+                "reviewer_id": "ZB5yx64AVO-O1An2rMadzg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.19851990585490178,
+                    "positive_probability": 0.8014800941450975
+                },
+                "stars": 5
+            },
+            {
+                "review": "NEW MANAGEMENT ALERT!  The Red Herring is a local institution but the quality changes dramatically as the place has passed through many hands.  I recall with some fear the staff of years past: one cashier enjoyed candidly sharing with me stories of their disagreements with the health department.  (This was as I ordered food.)  But that has changed.  The new manager is reportedly the same person who originally opened the place in the 1970s (says the cashier).  As a regular visitor for seven years, I found the effect striking.The food was good!  Not just a passable alternative option as Mimi N. wrote, or something that vegetarians must eat out of desperation after they tire of green salad and fruit plate from the local chains.  The red herring is not the only option for those with a lentil craving anymore.  It is a place that you might actually go to for the food -- food that is actually good.  It didn't taste like the Red Herring I know at all; it tasted a lot better.I had the corn chowder and the ingredients were obviously carefully selected and very fresh.  The kernels had a crisp, sweet bite.  The toasted mozzarella sandwich was also a treat with good quality cheese and fresh bread.Unfortunately, while change is good in this case, I did notice the portion sizes have declined dramatically.  Maybe they are still working this out?  (I hope.)I spent $7 for a half sandwich and cup of soup, and almost immediately I found that I had to go out to a second lunch.  It was the smallest half sandwich I have ever been seriously offered and charged for.  At first I mistook it for a sample or a scrap trimmed from someone else's sandwich.  I would have preferred a bowl of soup but this tiny cup size was the only choice.  $7 for a sandwich trimming and a tiny cup of soup is a little steep around here.So enjoy the food but don't order half of anything -- the result will be too small.  Rest assured that the crunchy atmosphere you love is still there... but cleaner.  The staff still seems to be the kind of staff that will say \"Peace out!\" after you complete your order and will lend you money if you are short.Peace out!",
+                "reviewer_id": "zq815p7o2OM1kNHG8OdobA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 2.7709601559394843e-06,
+                    "positive_probability": 0.9999972290398575
+                },
+                "stars": 4
+            },
+            {
+                "review": "Let me start by saying that I really like this place. Until just recently, I've only been here for lunch (which never disappoints). Having just gone to my first Monday night krishna buffet, I am in total awe. The food was unbelievably tasty, cheap, and there was an overall jolly atmosphere going around.If I could take off a half-point, I'd only do so for the times that I'm not carrying any cash on me. Besides that, I love this place.",
+                "reviewer_id": "zQ_nVFkZRBz_pTTKGWsqLA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6449364987548025,
+                    "positive_probability": 0.35506350124519787
+                },
+                "stars": 5
+            }
+        ],
+        "similar_restaurants": [
+            "IZOKtFjm_hiL4OGmCq2NNA",
+            "0a4lX5VhCXJOwe-idxnVbw",
+            "DntkMrzlbFPdOdxJtEWLBw",
+            "ey7-ihj-OjM4sEOwWTc06Q",
+            "wO8c-FbduauxCGiEHchGRA",
+            "fYE54FZCIFYYdFs-AkqRuw",
+            "oHKjjwehNipcGIYBThWg9w",
+            "ZSTTU_-duEqyIDZgLV45DA",
+            "UrxAu3jjRM_u6iQXDPzkSQ",
+            "6UftUvNBqANqybf8wpWeNA"
+        ]
+    },
+    "fYE54FZCIFYYdFs-AkqRuw": {
+        "keywords": {
+            "bigrams": [
+                "stir_fry",
+                "flat_top",
+                "student_discount",
+                "make_stir",
+                "pretty_good",
+                "mongolian_bbq",
+                "flat_bread",
+                "great_place",
+                "food_good",
+                "make_sure"
+            ],
+            "unigrams": [
+                "food",
+                "place",
+                "good",
+                "stir",
+                "flat",
+                "top",
+                "fry",
+                "bowl",
+                "make",
+                "lunch"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "full_bar",
+                "Ambience": {
+                    "casual": true,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "BYOB": false,
+                "BYOB/Corkage": "no",
+                "Caters": false,
+                "Delivery": false,
+                "Dogs Allowed": false,
+                "Good For": {
+                    "breakfast": false,
+                    "brunch": false,
+                    "dessert": false,
+                    "dinner": true,
+                    "latenight": false,
+                    "lunch": true
+                },
+                "Good For Groups": true,
+                "Good for Kids": true,
+                "Has TV": true,
+                "Noise Level": "average",
+                "Outdoor Seating": false,
+                "Parking": {
+                    "garage": false,
+                    "lot": false,
+                    "street": true,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 2,
+                "Take-out": true,
+                "Takes Reservations": true,
+                "Waiter Service": true,
+                "Wheelchair Accessible": true,
+                "Wi-Fi": "no"
+            },
+            "business_id": "fYE54FZCIFYYdFs-AkqRuw",
+            "categories": [
+                "Asian Fusion",
+                "Vegan",
+                "Restaurants"
+            ],
+            "city": "Champaign",
+            "full_address": "607 S 6th St\nChampaign, IL 61820",
+            "hours": {
+                "Friday": {
+                    "close": "23:00",
+                    "open": "11:00"
+                },
+                "Monday": {
+                    "close": "22:00",
+                    "open": "11:00"
+                },
+                "Saturday": {
+                    "close": "23:00",
+                    "open": "11:00"
+                },
+                "Sunday": {
+                    "close": "21:00",
+                    "open": "11:00"
+                },
+                "Thursday": {
+                    "close": "22:00",
+                    "open": "11:00"
+                },
+                "Tuesday": {
+                    "close": "22:00",
+                    "open": "11:00"
+                },
+                "Wednesday": {
+                    "close": "22:00",
+                    "open": "11:00"
+                }
+            },
+            "latitude": 40.1114257,
+            "longitude": -88.2304288,
+            "name": "Flat Top Grill",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media2.fl.yelpcdn.com/bphoto/BYoXzsidEkmYERrFmuqf0g/ms.jpg",
+            "review_count": 87,
+            "stars": 3,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "And the food? Good place, nothing much different than any other Flat Top. The food was good. ",
+        "reviews": [
+            {
+                "review": "Overall this place could be good but is just a disappointment.  They have a great selection of vegetables, meats, sauces, and other ingredients, but even when following their \"recipes\" the food isn't that great.  It was extremely salty and just not very impressive.  I think that the grill maybe got my food mixed up with someone else's food maybe, it just wasn't good.  Overall it was edible but I would never go back for the price I paid for salty, mediocre stir fry.",
+                "reviewer_id": "-swXonAzCYdZMpkDo0i_FA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5919471133617449,
+                    "positive_probability": 0.40805288663825984
+                },
+                "stars": 1
+            },
+            {
+                "review": "I've always liked make-your-own stirfry places like this, for the ultimate power to choose how your food came out. This allowed me to keep coming to this place, as I made crappy dish after crappy dish.Then, I learned to make healthier mixes. Then I learned to make TASTIER mixes. And then, Flat Top Grill became a much more enjoyable place! For the price, few places can match the quality or quantity.Learn the right sauce mixes, and your experiences here will be gold.",
+                "reviewer_id": "0hOhP8JcEwBIPDCVFqa0dg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.026617678866875064,
+                    "positive_probability": 0.9733823211331275
+                },
+                "stars": 4
+            },
+            {
+                "review": "Good place, nothing much different than any other Flat Top.  If you go when school is in session, don't try to go during \"normal\" lunchtimes unless you want to fight with some real crowds...they offer a $1 discount to students, so the place gets flooded.  I prefer to go around 11am or 2pm, and the place will be pretty much empty.  Go before ~3-4pm, though, as lunch is cheaper than dinner.",
+                "reviewer_id": "1Q2Ea4vyB90zRqwAHjfCDg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.39670659743414904,
+                    "positive_probability": 0.6032934025658498
+                },
+                "stars": 4
+            },
+            {
+                "review": "There's nothing particularly unique about this Flat Top location compared to all the others, but that's no surprise from a chain restaurant. The size of the space is good, the waitress was really nice (automatically gave us the student price - which itself wasn't terrible for a sit-down restaurant), and it all seemed to go as it should at Flat Top.The concept itself isn't bad; when I was younger I thought Flat Top was the ultimate in food fabulousness. Now that I've been in college and made more than enough \"let me throw every thing I can find into a pan with some rice and soy sauce and call it stir fry\" meals, the excitement has worn a little thin. Of course, the vegetables are much more varied and fresh, the sauce selection is massive (just don't think about Sauceman's from Tom Goes to the Mayor), and they give you lots of special options that most college students probably wouldn't be able to do. Plus, you know, not having to cook or clean dishes yourself.I like the place, I'd recommend it to people for what it is, and I'd certainly go again myself. Also, I've heard good things about their breakfast...maybe next time?",
+                "reviewer_id": "27gcq2AD3VLDXJw9Wukc4A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0005123647455653883,
+                    "positive_probability": 0.9994876352544275
+                },
+                "stars": 4
+            },
+            {
+                "review": "The food there is unclean. My stomach feels bad after eating at there and I will never go this place again!",
+                "reviewer_id": "2bi59hiQhOFrr6bJ_CBn-g",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.618328598286668,
+                    "positive_probability": 0.381671401713333
+                },
+                "stars": 1
+            },
+            {
+                "review": "I've never had such bad service. What's the point of celebrating my 21st birthday here If I still can't get ONE drink because my ID isn't horizontal. The restaurant was empty yet I felt like the waitress was rushing us to the point where I couldn't even enjoy my dinner. Service so bad that I didn't even leave a tip and the food itself upset my stomach as soon as I got home 5 minutes later. Ridiculous",
+                "reviewer_id": "2iK5q0_YwlWsSWzBoajIyw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3187532428515797,
+                    "positive_probability": 0.6812467571484221
+                },
+                "stars": 1
+            },
+            {
+                "review": "Looked on their web site and went there for their Sunday breakfast, got there at 10:40 and they were setting up for Lunch.   They said they opened at 11:00, we said we were there for the Sunday breakfast, they responded that they have not done that since sometime in the summer.  We mentioned that their web site said htey still did it and the response was that corporate had not fixed it yet.Caused us to miss the breakfast buffet at other places.Very poor attitude and no offer of \"I'm sorry, we need to get that taken care of.\"",
+                "reviewer_id": "2LVnT9ux-EL-5gl8M8JRag",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5773073291234934,
+                    "positive_probability": 0.4226926708765153
+                },
+                "stars": 1
+            },
+            {
+                "review": "It's all about customization here.  You can create one bowl of stir fry goodness or for $2 more, an unlimited number of bowls.  After assembling various grains, veggies, and meat, you have the option of putting other add-ons into your meal, represented by different colored sticks.  I've always been a fan of the blue stick - roti flatbread (beware: it is kinda greasy).This Flat Top has a roomy interior, but the L-shaped buffet bar is cramped.  They always have exotic beverages here, like desert pear, pomegranate, or chipotle pineapple lemonade, margaritas, and mojitos. Refreshing and trendy!",
+                "reviewer_id": "2sklUYBnk7LxzM-11yPUPg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.008298039259619014,
+                    "positive_probability": 0.9917019607403739
+                },
+                "stars": 4
+            },
+            {
+                "review": "I was excited to go here because I heard rave reviews...it was okay.  I went for lunch because I heard that dinner portions are the same as lunch, but a few bucks more.The service was okay, but I think it was just my server.  She wasn't friendly at all, and made it seem as though she was burdened by being our waitress.  Didn't see a smile.You choose what you want to get cooked (rice or noodle based, they have a good selection of veggies and vegetarian \"meats,\" other meats: pork, beef, chicken, mussels; shrimp is an extra $1) and the sauce combo, which was slightly daunting, but a friendly worker was there to help suggest combos.  The food took longer than I hoped because of the lunch rush.Lunch w/ student discount is about $8 for one bowl.  (they have an unlimited bowl price for $3-4 more)",
+                "reviewer_id": "3OURb0NtJmS9ZURuoZHdLw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.04113690133310646,
+                    "positive_probability": 0.9588630986669032
+                },
+                "stars": 3
+            },
+            {
+                "review": "Just like all the other ones I've been to. Great food.",
+                "reviewer_id": "3qFI4GeLEDUtWNRpLBY68Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4071283873067181,
+                    "positive_probability": 0.5928716126932821
+                },
+                "stars": 4
+            },
+            {
+                "review": "Very good food and cool layout for a place to eat. They are expensive, but it is a great place for a date night or a night with friends. They are very good about keeping allergy sensitive plates separate!",
+                "reviewer_id": "44GzCA_7s9Xq3kzl2xD1TQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7742471326141022,
+                    "positive_probability": 0.22575286738589911
+                },
+                "stars": 5
+            },
+            {
+                "review": "Awesome concept. Perfect for picky eaters, like my wife, pick your ingredients and they cook them. Tasted great. Only complaint I have is the size of the buffet area, it gets crowded easily and makes you feel rushed to pick ingredients. Will definitely come back.",
+                "reviewer_id": "5B0AuqekUq7OEU4UUjmnhQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.03593831688609482,
+                    "positive_probability": 0.9640616831139018
+                },
+                "stars": 4
+            },
+            {
+                "review": "I live in Ohio where we have Mongolian BBQ.  I was told this was better but I definitely disagree after my experience.  The prices are very similar but their drinks are pricey, in my opinion.  Their buffet area is also rather tight.  Their selection isn't great in my opinion either.  Mongolian BBQ blows theirs out of the water. I also didn't like that cooking the food wasn't the \"experience\" that it is at Mongolian BBQ.  One of the women I was with did find a hair in her food so she had to make another bowl which took a long time to do so.  Thankfully, there isn't one in the Cleveland area and if there were, I wouldn't go.",
+                "reviewer_id": "5lTZONzJV03HCjNDd4MIGQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.01795119354124351,
+                    "positive_probability": 0.9820488064587565
+                },
+                "stars": 2
+            },
+            {
+                "review": "Flat Top is one of my favorite restaurants but this location is awful! If this had been the first FlatTop I had ever been to, I would never return. I come here quite often since I love Flat Top but this location has awful service and the food is not fresh! I went there today and ordered the green beans, they were dry and they weren't even spicy. I also asked for tofu in my bowl and they did not put any in it even though I put the stick in and requested no meat! This isn't the first time I've been disappointed by this location.... :(",
+                "reviewer_id": "5TRf7FoWN1QmBb_iUaUOHg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.20207864542744008,
+                    "positive_probability": 0.7979213545725637
+                },
+                "stars": 2
+            },
+            {
+                "review": "wow, another great gimmick turned into a franchise.  the food was quite mediocre.  if you've ever purchased a frozen meal in the stir fry genre and microwaved it for lunch, you have an idea what this food tastes like.   there is this annoying practice they have going on where your waiter follows you to the buffet, forces you to try bizarre dipping sauces and then pours them over your food.  i was also forced to order a strange \"flat bread\".  when my food arrived with the said \"flat bread\", i thought maybe it hadn't been baked or something because it resembled a glob of paste.  i asked my waiter what i was supposed to do with this \"matter\" and he said \"oh, people love this, just spoon some of your food into the bread and roll it up like a tortilla\".  well i did that but it still tasted like paste and didn't magically make the stir fry taste any less like a frozen meal either.  i'm amazed at how easy it is to impress a large crowd of people.  there were tons of professionals eating here alongside college students.  i would offer two suggestions for everyone eating there: 1. go to jimmy johns if you want basic lunch food.  2. go to cafe luna if you want exceptional tasting food with waiters who won't force you to eat horrible tasting crap.strange, just strange.",
+                "reviewer_id": "6pC5j-hfP4xLZB2W0Wi1vg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.02810045344814482,
+                    "positive_probability": 0.9718995465518421
+                },
+                "stars": 1
+            },
+            {
+                "review": "Overrated and overpriced.Bread is good, but REALLY greasy.",
+                "reviewer_id": "6uSW2qLSL5w0iz0g-Iwa-g",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.499982160922562,
+                    "positive_probability": 0.500017839077438
+                },
+                "stars": 2
+            },
+            {
+                "review": "Please note that If you aren't a college student then this place is NOT really expensive!Flat Top is a chain, but it hasn't made it to Michigan yet (darn).  When I'm in town for work, I strong arm my local friends into coming here for lunch.  We usually do the one trip because of time constraints.FT has a very nice selection of veggies and unique sauces.  The protein choices are regular, but fresh.  Yes, you pay a little extra if you want shrimp, and then they only give you a skewer... so stick with the chicken if you're cheap.What sets FT apart from the Mongolian-type places in Michigan is that you choose how you want your final dish to turn out - in a hot and sour soup, in a vegetable soup, on top of a salad, moo shu style, or just regular stir-fry in a bowl.  I've gotten the veggie soup my last couple of trips because I think the broth goes very well with the sauces I choose (spicy hot and savory, not sweet).  And their flat bread is amazing.  We always ask for extra, extra, extra!",
+                "reviewer_id": "71e2m7D3ul5TPB5OKBKQZg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0049753012642255205,
+                    "positive_probability": 0.9950246987357687
+                },
+                "stars": 4
+            },
+            {
+                "review": "I have always liked the build your own stir fry concept, and this location looks good enough on the inside. For whatever reason don't go here often but always tastes good.",
+                "reviewer_id": "8oJRVNV3Bi3VHAuI1Su7-A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3506436184653047,
+                    "positive_probability": 0.6493563815346961
+                },
+                "stars": 4
+            },
+            {
+                "review": "Good... If you know what you're doing. Honestly, if you don't choose the right flavors it is going to come out bad. Choose a theme and stick with it. Other than that, the place was a little dirty, but the service was good.",
+                "reviewer_id": "8wBStUYoCZiq2aTkQ7qrNg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.1947197032016441,
+                    "positive_probability": 0.8052802967983583
+                },
+                "stars": 4
+            },
+            {
+                "review": "The food is alright, but it's probably only worth the price if you get the discount with student id, have a coupon for half off, or have a coupon for a free stir fry.  Have been there a few times in the last few months (because I had a coupon for a free stir fry), and the service was terrible each time.  The waiter forgot to bring water/drinks to the table several times, after walking by and reassuring us that he'll be right back with water.  The waiter never came to check up on us throughout the meal to see if we needed anything, and we needed more water at several points.  As for my food the last time, it was not that great.  The sauce combo that i made was not good, and i should have had one of the servers mix my sauces (make your own sauces can really be hit or miss).  Finally, when we asked for our check, it took our waiter another 20 minutes to bring it, then another 10 to bring a carry-out box.  Overall, the stir fry is decent, but i would recommend having a server prepare your sauce mixture (whenever I prepare it, it never comes out quite right), and prepare yourself for not-so-great service because the servers are mostly college students who are working for mediocre tips.",
+                "reviewer_id": "9epEUZ6VFX800EwrbXhdQQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.1443651572092554,
+                    "positive_probability": 0.8556348427907542
+                },
+                "stars": 3
+            },
+            {
+                "review": "I used to be a big fan of Flat Top. I used to go there at least once a month. Then the price went up, you had to pay extra for shrimps, so I started going there less frequently. I went back there again today for a quick late lunch. Flat top lunch used to be a bargain for lunch take out at $7.50. I went there today and upon paying I got a bill for $8.99 even though on the board it says lunch price is $7.99 for students. I talked to one of the waitresses there and she's like that's just how it is, we just raised the price up EVEN THOUGH on the board it clearly says $7.99. I said that's a shady business practice, you can't charge someone extra for something that's not stated on the menu, and she said she can't do anything about it, and that i'll have to go talk to the manager. I talked to the manager, and he said the price just went up. Again, the board (which displays the menu and the price), says $7.99. Once he found out that I was getting a take out, he said oh the student discount is only for dine in. Again, this is not stated anywhere on the board or in the menu. I used to come here a lot, and I always got student discount with take out. I was not pleased with the tone of the manager and his sketchy business practice, so I just decided to dine in. A new, very nice waiter came by and apologized for everything. she was really nice and was sorry for how I was being treated. She got me the dine in plate and asked if I want to box it to take it home, and that's what I did. The extra $1 doesn't mean much. I gave that away as a tip to my amazing waitress. I'm just against shady business practices.And the food? the food is great. Service is usually good. I've dealt with the manager two times, and I felt like he's a rude and shady person.",
+                "reviewer_id": "9iRDAeoTW08yZgR0JaaOHg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0010824809464374484,
+                    "positive_probability": 0.9989175190535702
+                },
+                "stars": 2
+            },
+            {
+                "review": "Flat Top is always a great spot when you are craving your unique stir-fry experience. This Flat Top is exceedingly special because of the great staff - managers to waiters. They are attentive, but not pushy. The bread (blue stick) is a must with any stir fry. Don't blame any bad experience on your lack on skill in the sauce mixing department - the staff will help you and try your sauce before you drown your veggies in it. Or go with a friend who knows what they are doing.Go for lunch, it is so affordable. You spend big bucks on a decent meal wherever you go these days. Dinner is a bit pricey, but you get what you pay for, because its great.",
+                "reviewer_id": "a2Bm7-Yr3JLO3DLfPqFwww",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 6.185921257755798e-05,
+                    "positive_probability": 0.9999381407874282
+                },
+                "stars": 4
+            },
+            {
+                "review": "Came here for breakfast-tranisition-to-lunch, but what was nice was that we just had to pay one price to try out both selections.  However they charged us all for the multiple-plate deal even though I didn't partake in it, which wasn't really too much damage (just a dollar more), and we all got student discounts despite half of us being young looking alumni.I think it all evened out.Breakfast was interesting.  Couple of guys had omelets, the girls all got pancakes (which prove useful since they could try the lunch after), and I got an egg scramble with loads of veggies, which counteracted all the beer and fat sandwich tasting the night before.  Right?  Unlike lunch, they set out a bunch of sweet stuff to go in the pancakes, like chocolate chips and nuts.  You also get fresh fruit with the meal for free.Protip I did not know: all the little sticks for extras come with what you pay.  I wish I had got some sausage.  Also, I barely got any hash browns.Lunch came around but I was stuffed.  We did discover some things: if you use the soup stick, you don't get a side of soup; they turn your ingredients into a soup.  Also, they have longganisa!  They call it Filipino sausage, which it is, but I was extremely excited to see some love for some of the best Asian food no one's tried.  It's leaner than the kind I usually have, which makes it a bit less authentic, but probably healthier.Overall, service was ok, but we didn't receive much instruction despite it being the first time for most of us.  My breakfast turned out all right, though I can't see if they did anything special besides scrambling my  ingredients with eggs and serving it to me.  The lunch seemed a lot more interesting with all the sauces and longganisa, though I think we did the right thing by trying both in one seating.We were also pretty hungover, so that helped.",
+                "reviewer_id": "agJz7qFAkwGbzoC3I03h0Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3402647758105057,
+                    "positive_probability": 0.6597352241894887
+                },
+                "stars": 3
+            },
+            {
+                "review": "overpriced and complicated.",
+                "reviewer_id": "AnQTR43xRMcBNlDD51Dzgw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.833333333333333,
+                    "positive_probability": 0.16666666666666646
+                },
+                "stars": 2
+            },
+            {
+                "review": "Worst stir fry I have ever eaten.The selections are bizzare (pomegranate basil??) and the \"sticks\" are useless if no one tells you what they are and misleading. The final result was disappointing and tasted awful.If you want to experience \"make your own stir fry\" I recommend Northbrook Court's \"Stir Crazy\" or Ann Arbor's \"Mongolian Barbeque.\" Much better. Cheaper. Tastier.",
+                "reviewer_id": "b4mD_qeym7sGUhDN4a96FA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.1179603714277192,
+                    "positive_probability": 0.8820396285722796
+                },
+                "stars": 1
+            },
+            {
+                "review": "The food is pretty good. The prices are kinda shitty. The organization and constant screwups is what turns a potential 4 star into a 2 star. The last 4 times I have gone at least one order has been messed up, usually more.Issues range from the meat bowls being entirely mixed up between unrelated orders or forgetting to add the bread to them mixing up how you wanted yours served, like turning it into a soup. Depending on what the screw up is, you'll have to remake your entire bowl and wait a good 30 minutes, made even worse if you are dining with people whose orders turned out fine and will either have to wait for you or just go on ahead without you. They'll usually comp your meal to some degree, but it's still not really worth it. The inside of the restaurant is terribly laid out. Some space is completely unused, whereas the food bar area where you create your bowl is so cramped it's uncomfortable. Foods are jammed so close together they inevitably get mixed, including the sauces and meats which could be a big issue for people with dietary restrictions (especially considering that they seem to try to make it a very accommodating experience to such people otherwise)",
+                "reviewer_id": "bHCAZYvsh9LkydyBNl2PGA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.005960562936317561,
+                    "positive_probability": 0.9940394370636916
+                },
+                "stars": 2
+            },
+            {
+                "review": "Yet another Asian-inspired food chain! Oh c'mon do we need this in Champaign? We have so many Chinese/Korean restaurants in campustown and honestly, they are way better than Flat Top. So, the whole stir-fry concept that they have is actually Mongolian BBQ. The difference is that they have tonnes of raw vegetables and ingredients to choose from. Oh, not to mention, weird sauces and food combinations. My combo was okay (it was brown rice, clams, beef, vege, salmon and roti prata) but if you don't have a sense of what goes with what, then your dinner is going to be a disaster. It's clever of them to have this pick-your-own-ingredients kinda concept because if the food was bad and you complained, they can point their fingers back at you and say that you chose the ingredients. Then again, you are not the only culprit. The grill sensei is responsible as well. If he over-grilled your food, it will taste just as bad no matter how wonderful your selections are. My friend's moo shu was not wrapped very well and some of the rolls fell apart. Well, there goes your dinner. I think it is good to try it once but more that once? You decide. Still, the combo of rice, salmon and roti prata bothers me. Maybe I am just a stuck-up purist who thinks that chickpea dhal is the only way to go. Could this be a one-hit wonder like Bar Louie? We'll have to see.",
+                "reviewer_id": "CX4GcrCCnzfNyAl0cPqGbg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.03394022423824885,
+                    "positive_probability": 0.966059775761759
+                },
+                "stars": 2
+            },
+            {
+                "review": "This is a make your own stir fry restaurant. A friend and I went for lunch, while the place was crowded, the service was highly attentive and generally excellent. There is something to appeal to almost everyone among the stir fry ingredients - and for a couple of dollars more you can make an unlimited number of trips back to the stir fry bar. Unlike a few places I've been, Flattop doesn't make you wait - the bowl is marked with your name and table so it comes to you when ready. Also, if you're not into stir fry, you have the option to have your meal presented to you as a salad, soup, mu shu pancake filling, or with a roti prata. Also, they have a full drink menu and a selection of appetizers and deserts.The best thing I can say in this review is that I'll definitely be returning soon.",
+                "reviewer_id": "dnnnUEuN_ouU0oKY-g2BjQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0004042459699158534,
+                    "positive_probability": 0.9995957540300756
+                },
+                "stars": 4
+            },
+            {
+                "review": "I've been here twice for dinner, and they have a rather... conspicuous approach to business.First, the food is arranged so that the granularity increases. That is, the line moves so that you have to fill your bowl with foods of smaller granularity before you can get foods of larger granularity. Basically that means that you won't be able to fill your bowl with as much food. Think of packing a jar with sand first and then with golf balls versus golf balls first and then sand. Bottom line: the deal you think you're getting by going to a place that lets you pile on food, is not a deal at all. Dinner is ~$13.20 with a student discount. If you want a commensurate amount of food for what you pay, just go through the line backwards. Or go out the door. You can get plenty more food with that amount than you can at Flat Top. Example: 2 giant Chipotle burritos. Flat Top would make more sense if it were $10 or less per bowl. But it's not. Second, they got rid of their unlimited bowls option. I guess they realized it wasn't a good business model. So if you want more food, you can pay $4 on top of the price of a bowl for one more bowl.When businesses make their profit visions as visible as this, I feel a little cast away. I like it better when I can ignorantly throw money at things.Anyway, Flat Top is probably one of the best places to eat vegan on Green St. I have never before in my life seen so many vegan \"meats\" of so many different kinds. They have seitan, tempeh, quorn, vicken, and a lot more. Some of these meats are curry or bbq flavor. They also got that quinoa for some protein. They also make it super clear which food items are vegan; there's a giant blackboard behind the counter that let's you know. It's so cool that a Midwest chain put so much care into providing vegan options. I never thought I'd have to opportunity to try so many kinds of vegan meats in such a short amount of time.",
+                "reviewer_id": "dzKYG04n0nLXv6tGFvJX0Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 4.7810810164652614e-05,
+                    "positive_probability": 0.999952189189825
+                },
+                "stars": 3
+            },
+            {
+                "review": "So this is one of those places where you can create your own sort of masterpiece of food; you can make your own stir fry, wrap, soup, or mu-shu. You add rice and various meat and veggies. Then you can top it off with sauces such coconut curry. They have a wide array of things. I think one of the issues is that you can possibly make something that doesn't taste very good; but that's the fun with experimenting. I'll have to say that the meat was fairly subpar. However, the rest of the food and service was fairly good. It costs $11 for lunch.",
+                "reviewer_id": "eFIlrOz3TnuZQeh2Y1e17Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0006737396207826484,
+                    "positive_probability": 0.99932626037922
+                },
+                "stars": 3
+            },
+            {
+                "review": "Great place fun a fun, social dinner.",
+                "reviewer_id": "EjHLI-yCuRRyZU4ZgYnnpQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2754898459773393,
+                    "positive_probability": 0.7245101540226607
+                },
+                "stars": 4
+            },
+            {
+                "review": "I came here for my 19th birthday after having great experiences in my hometown and this was simply awful. They wouldn't take my birthday coupon for a free bowl due to a $3 automatic discount they were giving out for their anniversary that I wasn't allowed to opt out of. We arrived at 7 pm and did not leave until 9 pm because of the slow service. I ordered a cinnamon roti for dessert referring to the cinnamon fresh fruit roti (the only roti item on the dessert menu) and I ended up receiving burnt roti bread with cinnamon and ice cream and no fruit. I then told the waitress that was not what I ordered but she did not take it back or give it to me for free. Overall, a restaurant that I've always had great experiences with really ruined a birthday dinner.",
+                "reviewer_id": "FUn3UiMV7OO_tOUAKYcxZA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.00030407971651930186,
+                    "positive_probability": 0.9996959202834852
+                },
+                "stars": 2
+            },
+            {
+                "review": "Flat Top holds a very very special place in my heart. Back when we were in high school, groups of us would wheedle and deal in order to secure a car, pack it full (ah, the days before there were limits on teenage drivers and their passengers), and drive it 20 minutes over to the newly opened Flat Top by Northwestern. We totally felt cool because a) we were on a college campus, b) this do-your-own-stir-fry was a total novelty, and c) it was fun coming up with new combos...that we had made up.Fast forward the years. Flat Top has apparently now opened a location steps away from UIUC. And it sucks. It sucks pretty bad. I hope it's an anomaly rather than a decline of the chain as a whole. Or maybe it's always been this way and I've never noticed??I decided on Flat Top for lunch because some of the other places I wanted to try were closed in preparation for the upcoming school year. And I seemed to remember that Flat Top was pretty quick. I was wrong.*Waited awhile to be greeted. It seemed to be short-staffed, which I kind of understand because it's summer, plus they opened 40 minutes earlier. But noon was in 20 minutes...is this how you usually roll?*The hostess couldn't decide where to seat me...a lone diner all by myself. She veered from the front where there were several groups. She was going to seat me at the high-tops, but given that there were several pairs there, veered from the empty ones. She then seated me...in a corner...all the way around the back. Uh, ok.*Seriously, if you don't know what you're going to put in your stir fry, back up a little instead of blocking the area with your nose pressed up against the glass guard and your head whipping back and forth reading the sauces. Or loiter in that extra empty space to make a decision. I understand you're here for orientation for your kid or something...but some of us have power lunches.*No employees at the stir-fry station with four or five already on the grill and four or five lined up to be placed on the grill. However, they do let you go thru the line again to make another dish while you're enjoying the first one to save time if you're doing the unlimited option. *Needless to say, it took forever to get my first dish...15 minutes. And then my second dish came two minutes after...which was brought by the original hostess who said confusedly, \"I thought you were dining alone?\"*The ingredients were AWFUL. They just opened for the day...but it was so obvious that the ingredients weren't fresh! The baby corn and bamboo shoots had a distinctly sour taste to them. Green peppers in my stir fry when I never put in green peppers. Vegan meat dry, rubbery, and tasteless. Even the beef had the sour taste of it standing around being marinated in its own sweat for hours. The squid was rubbery. And I think they use egg substitutes because that definitely did not taste like normal egg. I have to say that the tofu was okay though.*If you're sitting back to back in the booth chairs, they're pretty flimsy. The kid behind me kept shifting and I could feel every thump he made. It drove me nuts.So. The only reason why this place didn't get one star? Julia, my waitress. She was calm, efficient, and kept up a running conversation as she moved from table to table. She's quite the lady...knows a lot about obscure UIUC stuff and is super friendly to boot. Once she realized that I was on a schedule, she even offered me the check early so I didn't have to wait for her in case she got held up. Really awesome...thanks! $8.99 for a one bowl lunch, $9.99 for the unlimited option. If you're a student, you get a $1 discount.Thanks, Flat Top, for shattering a high school memory.",
+                "reviewer_id": "gFMu1DI6MOdL-aCoQI9ctA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7176757410321863,
+                    "positive_probability": 0.28232425896778074
+                },
+                "stars": 2
+            },
+            {
+                "review": "It's obvious this place is on a big campus judging by the appearance of the bathroom. But the food is good enough to get past that.",
+                "reviewer_id": "gRBxY154KUzc7T30tOLgiA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7522322331722545,
+                    "positive_probability": 0.2477677668277437
+                },
+                "stars": 4
+            },
+            {
+                "review": "This is a chain that allows you to create your own stir fry. I love the options for ingredients which always seem pretty fresh and sauces and the veggie \"meat\" options are outstanding but the bowl is VERY small for $12.99. I think a better price would be the lunch price of $8.99 and unlimited for $12.99. I would go more often if it weren't so expensive.",
+                "reviewer_id": "Hd7KPlC4ZUM-4rOsigJi0Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.001714308473107403,
+                    "positive_probability": 0.9982856915268897
+                },
+                "stars": 3
+            },
+            {
+                "review": "AYCE breakfast for $9.99? yes please! this is the first time i've had breakfast at flat top and i was pleasantly surprised. lots of items to choose from. you can get eggs scrambled or in an omelette. there's pancakes, french toast, etc. the options are endless. service was alright. our waitress was a little too chipper for a sunday morning which got on my nerves a bit but thats not her fault. i was just trying to recover from a crazy saturday night. =P",
+                "reviewer_id": "HlVqy-Mv0FnhMbHz1W57yA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7992213291081438,
+                    "positive_probability": 0.2007786708918632
+                },
+                "stars": 3
+            },
+            {
+                "review": "Flat Top Grill is a new addition to campustown. allowing you to create your own stir fry from a variety of interesting ingredients and sauces. You put all your ingredients in a bowl, add some sauce, and perhaps pick a custom option such as having your stir-fry as soup or in a peking pancake. The variety of sauces and options allow you to experiment with fusions- Indian, Thai, and Chinese options are available.  I had snowpeas, spinach, cilantro, carrots, pork, and a heap of spicy vindaloo sauce with an Indian roti pancake, which was delicious and filling. However, quality varies...sometimes the grill will overcook the food or mix it with someone else's (yuck!). Overpriced stirfry? Maybe...most of us could do better at home. When your dish is done they bring it to you. Service is good and you can also get drinks and appetizers if your stir-fry isn't enough. While it is a chain, it seems much fresher than nearby Noodles & Co. The major problems? Vegetarians get a bowl of what is essentially vegetables and sauce, which is not a good deal for the price. Crowds can also get horrendous, so make reservations for evenings and on weekends.I also recently tried breakfast here, which really wasn't worth the price. You can get french toast, omelets, pancakes, and scrambled eggs with add-in. There are also snacks like fruit and muffins for while you wait. My scrambled eggs were more like flattened eggs because of the amount of cheese they added and the french toast was a little boring. Not worth 8.99 unless you are willing to eat a lot.",
+                "reviewer_id": "HqaXK9toBpQdcz-0-rVwKw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0002557666678911932,
+                    "positive_probability": 0.9997442333320972
+                },
+                "stars": 3
+            },
+            {
+                "review": "I've eaten at several \"make your own stir fry\" type of places before coming to Champaign-Urbana, and Flat Top was certainly one of them. Back at home, I was pretty willing to pay the $12-13 for this pleasure since there was a lack of asian restaurants that I really liked.However, I am now surrounded by many relatively high quality thai, chinese, and korean restaurants that are also pretty cheap, and with that in mind, it's hard for me to justify paying more to eat at a restaurant like this.Yes, you do have the freedom to build your own stir fry here, but if you don't know what you are doing (which will probably be the case your first time), then you'll probably end up putting too little noodles or too much sauce in your bowl and end up with a mess. Of course, even if your stir fry comes out perfectly, I can't say you are going to get your money's worth unless you are hungry enough to finish a second helping for a mere $2 extra. However, even that has its caveats as if you choose to take home anything you don't finish, you'll have to pay $5 extra which will only promote wasting food in my opinion.Still, you may be allured by the freedom of handpicking your ingredients every once and a while, and it's a pretty fun place to go to with your friends.",
+                "reviewer_id": "hrCL1pymJ8xh6iWnki-V5A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0008293694843272134,
+                    "positive_probability": 0.9991706305156922
+                },
+                "stars": 3
+            },
+            {
+                "review": "Sure, Flat Top isn't outstanding, but I find the reviews on here a little harsh. To summarize the place, it's a \"make your own stir fry\" restaurant: you fill a bowl with ingredients (noodles, rice, veggies, meats, sauces etc), they cook everything for you and bring it to your table. Nothing too fancy, nothing extraordinary, but it's pretty good, and pretty cheap too (around $8) especially considering you can go three times for that price (which is probably more food than anyone would want to eat in one meal). So... not a bad lunch option on campus. 3-1/2 stars.",
+                "reviewer_id": "igrgFZl9wDohSem0UyoP6A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.35247425357547985,
+                    "positive_probability": 0.6475257464245221
+                },
+                "stars": 3
+            },
+            {
+                "review": "It's Flat Top.  Nothing particularly special about it especially considering all the other unique and amazing restaurants in the area.  The price is fine for what it is, especially since it's a huge chain, but perhaps a bit pricey on a student budget.",
+                "reviewer_id": "iKt9RWLOS_PE4SKBRFkKww",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.09212662672702761,
+                    "positive_probability": 0.9078733732729712
+                },
+                "stars": 3
+            },
+            {
+                "review": "Flat Top Grill is one of the best places to go on a weeknight. I have gone with friends and my girlfriend many times and every time it is delicious. Every time I have made my own stir fry which I seem to perfect the more I eat there. Make sure to load up on vegetables and meat because you only get one shot to make it count. For the price you can get four separate meals if you make your bowls the right way. The sauces are good and the bread is heavenly. Get the bread. If you haven't been there yet it is worth the trip.",
+                "reviewer_id": "Il4OxTC1NxIWTZ4r_j35aA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0009125262317517028,
+                    "positive_probability": 0.9990874737682471
+                },
+                "stars": 4
+            },
+            {
+                "review": "Most Flat Tops, I'd give a five star rating since I love the place. I won't go into a huge explanation into why since everyone else has, but a word of warning (and the reason this is a four start place for me):Every time I (or whoever I'm with) add chicken to my stir fry, there are bits of bone. I've never had this problem at any other Flat Top, so when I'm at this location I just leave out the chicken, but if you still want it, just be careful for bits of bone. (Though my friend that got chicken with bone in it complained and his meal was free, so it's nice that they're at least sorry it happens, if they're not fixing the issue.)",
+                "reviewer_id": "INbuULh98NmGYKZMy6wqwg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.933517861146387,
+                    "positive_probability": 0.06648213885361887
+                },
+                "stars": 4
+            },
+            {
+                "review": "To start being carded was funny. But that is what some places do. Flat Top is a decent make your own stir fry. Grab your bowl and fill it up with whatever you like and as much  as you like, Witnessed a young lady prepare enough in her bowl to last a week. But if it fits do it. Place meat in a separate bowl leave on counter and wait for the cook to prepare. Decent food the rice was scary as it looked as if it had been there over night. We did get a freshly cooked bowl and it tasty smokey. Ok place nothing special.",
+                "reviewer_id": "IUATSzz-kFcT38DoqhSs8w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.055552867836860274,
+                    "positive_probability": 0.9444471321631362
+                },
+                "stars": 3
+            },
+            {
+                "review": "***Full Disclosure: I used to work for Flat Top Grill for nearly six years until April 2011, spanning its old and current ownership, but not at this location***My buddy Sven and I came to town the other night and decided to stop in for dinner.  He had been eating unhealthily all day and we both knew that FTG was a place to both eat healthy and make yourself a large quantity of food for your money, if that's your sort of thing.We stopped in around 8:30 on a Saturday night.  There appeared to be only one server, one bartender and a manager on the floor. The manager appeared to be wearing many hats, seating, serving and bussing tables.Ok, most people are familiar with the process by now.  The food was good.  Our server Toni was good.  Honestly, the only reason I'm giving such a low rating is because the place looked like a disaster area.  It looked like a tour bus full of people had just left the place.  Dirty tables everywhere, trails of water and food debris all over the floor.  The bar area had 10 or so seats, with four of them covered by clipboards, paperwork, and other bar stuff.  While our server, the bartender and the manager are all trying to make some sense of the place, I head to the bathroom and the busboy is in the back of the room on his phone.The spot in the worst shape was the food line.  There were veggies all over the counter, sauces splattered all over, a few items were missing tongs, and there was only one guy on a full grill on a Saturday night.If you think about it, there's only one thing FTG offers, and that's the fresh food line.  If that looks unappealing, then the whole concept looks bad.  Someone with bad OCD that night would've probably had a Rain Man-style attack.For all the times I visit Champaign (once a year), I'll write off this visit.  I've been to FTG's that are immaculate, and ones that need some work.  This one could definitely use a hand.",
+                "reviewer_id": "jBh2i2tqd9jnGDwJo6lFRg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.992506704132675,
+                    "positive_probability": 0.0074932958673253934
+                },
+                "stars": 2
+            },
+            {
+                "review": "This place gives you amazing food with a unique experience! The food is like an Americanized Mongolian BBQ type of ordeal. You start off with an empty bowl and chose whatever you want to go in your dish with your choice of meats, vegetables, noodles, and sauces. Then, they have a big grill where someone cooks it for you.They always have great service here as well. I am always pleased with the service I receive when I come here. They don't have a big alcohol menu, however, the alcoholic beverages they do have are quite tasty. And this is a great place for students to go and enjoy time out with their friends given that they do have a student discount.",
+                "reviewer_id": "jPrsHiYucnzlcqm51I4G_w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.35607527793791827,
+                    "positive_probability": 0.643924722062082
+                },
+                "stars": 5
+            },
+            {
+                "review": "We only come here when the students are gone but we love this place!!!  I just wish it was not on campus.",
+                "reviewer_id": "jSTKPFAdQMObdvomAgANlw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5255517736706878,
+                    "positive_probability": 0.474448226329311
+                },
+                "stars": 5
+            },
+            {
+                "review": "With a very reasonable price list, and a very varied menu it really is hard to get tired of this place.  Whenever lunch brings me to campus-town I usually eat here.  There are discounts available for students that bring it down to the poor grad student budgetary range, and the option to take home a bowl makes it an even better deal.  If you're new to this restaurant though, be sure to either go with an experienced friend, or tell the wait staff you're new; there are a few insider tricks in preparing your food that you won't learn other wise.  One of the best is to always, ALWAYS, put the blue stick for bread in with your stir-fry.",
+                "reviewer_id": "K1nTcbwalIxaDei6n7wQ8g",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.058996328519027405,
+                    "positive_probability": 0.9410036714809791
+                },
+                "stars": 5
+            },
+            {
+                "review": "This place is amazing!! I love the fact that you can create your own stir fry and try all the different veggies, toppings, etc and find the best combo! I LOVE the bread that comes with it too!!!",
+                "reviewer_id": "K3iCD-u292H5enW-y2xBBg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.011650509365771878,
+                    "positive_probability": 0.9883494906342289
+                },
+                "stars": 5
+            },
+            {
+                "review": "I've eaten at two other Flat Top Grills before (wow I never knew it was 3 words before...) and I'm sure most of the reviews below mine have explained how the food and the make-your-own bar work, so I'll simply share a few thoughts about how this Flat Top differed from my others:- Lots of dining space, far more than I expected, looking in from the street- Great location, easily found a place to park my car- Good service, the waiter even kept a stream of punny jokes (based of my initial one) throughout the entire dinner.  That deserves major props in my book!The only flaw in my dining experience? I felt a bit rushed to leave the restaurant during a late dinner hour.  While I personally would have ignored it and continued on with my conversation, my partner insisted that we leave to be considerate.  Not exactly how I wanted to end a dinner date...",
+                "reviewer_id": "K8NB6PI0WBzLvhuEsoKuLA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.00042756411490958647,
+                    "positive_probability": 0.9995724358850946
+                },
+                "stars": 3
+            },
+            {
+                "review": "Good qualityGood variety of choicesI have had brunch, lunch and dinner at this place and absolutely love it :)",
+                "reviewer_id": "kE9ZiCwUR1VhXtlylYiL6Q",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5440304653222279,
+                    "positive_probability": 0.45596953467777235
+                },
+                "stars": 4
+            },
+            {
+                "review": "Breakfast here is usually hit or miss. Today it was all the later...Undercooked pancakes and omelets were the norm; I never received a  plate that was cooked well. The potatoes were soggy with oil and I never received any bread despite requesting it every time.  The wait staff was serviceable.",
+                "reviewer_id": "LGoE83sFhqrKSyG9_j1cDQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.03938548626134289,
+                    "positive_probability": 0.9606145137386563
+                },
+                "stars": 1
+            },
+            {
+                "review": "Its a typical college town restaurant. There is nothing fancy about this place but the fact that 'not many restaurants in champaign offer a similar concept, makes this place unique'. Its  a 'create your own stir fry' kinna place where you get to pick a combo of rice, noodles, veggies, meat, and numerous flavors of sauces/seasoning, which are all in turn cooked together. You also get to add naan/paratha/eggs etc. The paratha here is awesome, but also a bit too greasy (which is probably why it tastes so good). Although the downside of this concept is that, you can never get the same taste again. It lacks consistency. You might find the food delicious one day and unappetizing/insipid the other day. Whats more frustrating is that you cant even blame it on the cook :), because you picked the ingredients yourself. The chances that you might be disappointed by the food here are quite high when compared to restaurants where you know a particular item tastes good and tastes the same all the time. Cant really recommend an item here, cuz i really dunno how it might turn out for you.All said and done, this place is definitely worth a try (atleast once).Note: The staff is very friendly and provide excellent service.",
+                "reviewer_id": "LWbkF_cLLOk9pgRP2z7UtQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 1.242772123326417e-05,
+                    "positive_probability": 0.9999875722787629
+                },
+                "stars": 3
+            },
+            {
+                "review": "This place seems really interesting your first visit, but the novelty wears off after the second or third visit. The food does come out really hot, which is great, and the place has been pretty clean the couple times I have visited.  I've found there isn't anything that really makes this place stand out; the flavors come across as pretty bland. If the food wasn't so expensive I probably would give it a higher rating, but it's too expensive for what you get. If I'm looking for something really tasty that is asian style, I'll head across one block east to cravings.",
+                "reviewer_id": "mZK_ag6E1Mez2pvsQG6OEw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.22238137221434234,
+                    "positive_probability": 0.7776186277856578
+                },
+                "stars": 2
+            },
+            {
+                "review": "I like this place. Yes, it is a chain that tries very hard to appear to be kitchy with hand-written signs etc., and yes, it is very easy to combine several ingredients that have no business being together making an unsurprisingly nasty-ass concoction. That being said the ambiance is pretty good: lively enough to have a good time, but still not too loud to hear your friends, with decor nice enough to justify the prices. I have always had good service.What I like most about this place is that it is such a crowd-pleaser. vegetarians, vegans, those with food allergies, gluten avoiders, Atkins dieters (idiots) and those who are just plain picky for no other reason will all find plenty that suits them.This place is not without its quirks, and if you are there for the first time, DO NOT lie when the server asks you if you have ever dined with them. Their systems are not perfectly intuitive at first glance, so let the staff lay some knowledge on you. But beware: like any buffet, they will try to upsell you on pricey cocktails, apps, and whatever. Get a drink if you must, but stick to the buffet.So, the prices, atmosphere, and  3-star territory. The excellent slightly-greasy flatbreads are +1 star, and +1 star for the tons of different protein options, the plethora of sauces, and the many ways that everything can be customized via the lil plastic sticks. Minus 1 star for expensive drinks.",
+                "reviewer_id": "NGX1PZwHET_oQOT7vkkxag",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 3.541596890977851e-05,
+                    "positive_probability": 0.9999645840311097
+                },
+                "stars": 4
+            },
+            {
+                "review": "each one can only pick up once, and can also take out if one can not finish, so just suggest to pick up more at the first time~P.S students can have $1 discount",
+                "reviewer_id": "O73mwHY1HA6xBe9sLo_pgA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.39605225765710395,
+                    "positive_probability": 0.6039477423428952
+                },
+                "stars": 4
+            },
+            {
+                "review": "what t.j. said. :)",
+                "reviewer_id": "OdL7XAqENNpR7A1Z5yMPpg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5089962121212122,
+                    "positive_probability": 0.4910037878787879
+                },
+                "stars": 3
+            },
+            {
+                "review": "\"Not all chain restaurants are created equal\" should be my new mantra after this weekend's visit to the Flat Top in Champaign.1. I don't understand how the street with all of the restaurants and bars can be considered \"on campus\" but that's really neither here nor there.  I went to a school where if you wanted something (decent) to eat, you had to take a bus or drive to get there.  I guess that's a win for U of I students.2. The location is easy to get to (see point 1) and there is a lot of other stuff around it too.3. It's a larger location, which is nice.4. Service was friendly and as quick as it could be (you are pretty much at the mercy of the cooks, no?)5. I found that the spread of veggies at this location seemed smaller than others.  Even some of the veggies that are listed on their \"signature\" recipe card were missing.  I would much rather see the \"staple\" veggies than the seasonal berries and figs.  Who wants to put berries and figs in their stir fry anyway?6. The staff was working hard to make sure that the sauce counter remained clean, which I can appreciate, and understand its hard, especially during move-in time at a large university when you have a lot of unruly hungry families around.7. Gave us the student discount even though my sister hadn't gotten her ID yet.  +1.",
+                "reviewer_id": "OIsiWVC3p8gDZ8rP-bdFVw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.09140522532091981,
+                    "positive_probability": 0.9085947746790926
+                },
+                "stars": 3
+            },
+            {
+                "review": "The restaurant of last resort.",
+                "reviewer_id": "OWDHx7bofN32t4dbEbj90A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4290438247827507,
+                    "positive_probability": 0.5709561752172493
+                },
+                "stars": 3
+            },
+            {
+                "review": "I waited a while to write my review to make sure this was actually what I wanted to say. These kids running this donkey show pissed me the hell off. It was just after 4 on a Saturday and we came in to have what I thought would be the only intelligent offering in a town full of children. Right! We were seated and I was one of 4 guests in the building. Our drink order was taken, and because I was in my booth so tight that I didn't want to get up to show my I.D. I changed my order to Sierra Mist! I guess the 4 inches of grey hair hanging from my chin wasn't proof enough that I am not only old enough to drink. But I am also old enough to operate an electric wheel chair! But that had nothing to do with the annoyance factor that was brewing. The kid explained what we had to do and we went on our way. Now I love rice. So much so that I could eat that alone as my meal. Both the white and brown rice tubs were completely empty! So I asked for some and was told they would bring it right out. Then I was told to make my bowl and they would bring it out when it was ready. So I asked a simple question. If you bring it out after the meal is cooked. Than the rice will still be white! With no flavor from what I put in the bowls. Three people told me that it would take 25 minutes to cook the damn rice and they all thought it was hysterical. The manager. A young girl with her hair pulled back to give her that look of authority kept pacing back and forth through the restaurant like she actually had something important to offer. The rice. Is an, if not thee essential part of what this chains menu is built upon! And then you do a group huddle to laugh about it. Now I could see my bowl from across the restaurant sitting on the edge of the griddle. When about thirty people walk in. The cook is still scraping the grill from the time I walked in the door and I knew what was going to happen next. Bowl after bowl about 8 inches higher than the rim were pushing mine further and further away from getting cooked. That's was it. I'm the dude in the Snickers commercial that needs to be fed. But. I kept my cool. Just not my Snidely Whiplash remarks. Every time a server walked by, I asked if the rice was ready yet? I cut the time of that rice down to 15 minutes and that shit was scorched like their underwear after a weekend binge! Of course when it came out I was finished with my meal. I thought that it would be fun to visit a college town and take in some sights. Fuck You! I told my buddy to get the car and lets get the hell out of here!",
+                "reviewer_id": "OXWWC30x-1Ee0B6hXLLZfw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9616144946154981,
+                    "positive_probability": 0.03838550538447195
+                },
+                "stars": 1
+            },
+            {
+                "review": "This restaurant is definitely a step up from what use to be on campus.  It is a Mongolian bbq.  The price is ok, not too bad with the student discount.  The pomengrante lemondade was pretty good.  The food is good but it really depends on what you choose to put in the bowl.  I would come back.",
+                "reviewer_id": "PDgEwBu58cglR5-b64grug",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5656591697962351,
+                    "positive_probability": 0.43434083020376524
+                },
+                "stars": 3
+            },
+            {
+                "review": "The change to not being able to choose your own meat seriously devalued the restaurant to me. I had been going to Flattop for 5 years and my most recent trip was awful. I was told I couldn't pick my own meat, which was the best part of the restaurant, and then when i gave them a shot to let them pick the meat for me to add to my bowl, it was awful. The meat was very sparse in my bowl, barely any meat overall, and the sausage was not cooked through at all. The manager indicated that this is their new policy and they could not give me any more meat even when I could easily get a much greater amount before their change for the same price. I seriously advise avoiding FlatTop now; extremely disappointing.",
+                "reviewer_id": "ps7oJgrghRoeo-hfzEJMYg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.11593957089080416,
+                    "positive_probability": 0.8840604291091866
+                },
+                "stars": 1
+            },
+            {
+                "review": "Id leave less stars if i could.  Poor service, only received 1/3 of my meat that was ordered.  Took 40 min to receive drinks...WATER.  received bread in last 10% of meal.  Manager, and server did nothing to attempt to rectify the situation.  WILL NOT BE BACK TO ANY OF THEIR RESTAURANTS.",
+                "reviewer_id": "PxW60O6CIFysVSjNjlRE6g",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6094142834560622,
+                    "positive_probability": 0.390585716543939
+                },
+                "stars": 1
+            },
+            {
+                "review": "The good thing about Flat Top is that you make your own food.  However, the bad thing about Flat Top is that you make your own food.  You can pick whatever you want for your stir-fry (soup, etc) so you get exactly what you want (though I always end up with corn in my stir fry even though I never add it myself).  The problem is, sometimes it's nice to have somebody tell you what works well together.I pretty much only come here when I have a coupon.  It's not that it's too expensive or the food is bad, I just get a little sick of it because I always have so much leftover that I'm eating it for days.  Also, apparently I'm not very creative when it comes to stir fry because I always end up making pretty much the same thing.  I'll be honest, it gets kind of boring.  But, the veggies always seem fresh and the sausage they have at dinner is pretty tasty.  Sometimes, though, it seems like my meat doesn't get cooked all the way through.That said, here's some pro tips:- Always, always, always ask for more bread- The rice seems to be a better choice than the white noodles if you're going to have leftovers, since the noodles tend to clump together and get really mushy- Place the veggies in your bowl first, and add the rice or noodles on top.  You can fit so much more in your bowl this way.",
+                "reviewer_id": "qdL_6QKs8_U74ugjs0MpPg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.029810748984629137,
+                    "positive_probability": 0.9701892510153611
+                },
+                "stars": 3
+            },
+            {
+                "review": "I really LOVE this place in terms of food and the variety of options you have with creating your own stir-fry.   The food is prepared for you very quickly too, even when they are busy.   What I can't stand about this place is that they ALWAYS sit us directly next to other people.   And when I mean next to other people, I mean right up on top of them.  There is a lot of seating but we always end up next to people, regardless.   It's close enough that you can't have a comfortable conversation with the person you are with.  They need to change that.  Otherwise, it's a great place to have a meal.",
+                "reviewer_id": "rKKSvOCm4YjbowQNjDXZZg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.016826268005314223,
+                    "positive_probability": 0.9831737319946808
+                },
+                "stars": 4
+            },
+            {
+                "review": "This is the first restaurant I have possibly ever been to where I felt actively annoyed by the waitstaff.  You'd think that was impossible, since it's a flippin' buffet, but lo.  The woman whose job it was to fill up our drinks managed to only ever reach for my glass when it was going to involve sticking her arm between my chopsticks and my mouth.  Some man came over and engaged us in a lengthy dialectic about whether or not we would like him to make us some dipping sauce.  What flavors do you like?  How spicy do you want it?  For 5 minutes after our food came, during which we couldn't eat!  Then he brought us over dishes of sauce that WE COULD HAVE SELECTED OURSELVES from the buffet!Additionally, I was unsatisfied with my food.  I followed one of the sauce suggestions at the buffet, and was treated to a steaming pile of oily stir fry that literally smelled like the nasty gunk that gets stuck in a horse's shoe when it walks through a cow pasture.  The pineapple in the buffet was from a can, the meat was a low grade cut, and there was about 100 times too much oil applied to the grill.  The only reason it gets two stars instead of one is that it's got an ambience that is well above the campus mean.",
+                "reviewer_id": "sleEMt44E1StWrjz3mcujQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.028294934942606716,
+                    "positive_probability": 0.9717050650574044
+                },
+                "stars": 2
+            },
+            {
+                "review": "Flat Top is kitschy and pretends to be a bit more cosmopolitan than a chain restaurant in a midsize Midwestern college town should be.However, I'm amused at the harsh criticism.  If the food isn't good--guess whose fault it is?  YOURS.Basically, Flat Top is a gussfied take on the old Mongolian Stir Fry concept.  However, there are pretty extravagant options.  You can get everything from peanut sauce, indian curry, teriyaki, or even the sublimely odd choices of pomegranate basil and \"vindahoo\" (a miswritten version of \"Vindaloo\"--yes, I kept saying \"Vindawhat? Vindahoo?\" until Archana asked me to stop).  There's a huge amount of protein options, a variety of carbs (noodles of various kinds and types of rice).The drinks are pretentious and overstuffy, but the fruit flavored lemonades are fantastic.  Also, for an obesity overload you should get a pseudo-roti bread concoction on the side.  It's free and DELICIOUS.Anyway, give Flat Top a chance.  It's well worth it.  Although a bit pricey, it's a bit tasty--if you know what you're doing.",
+                "reviewer_id": "SpKVX3rt892E-BrL-yeqiw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.00036803848451544535,
+                    "positive_probability": 0.9996319615154701
+                },
+                "stars": 4
+            },
+            {
+                "review": "I like this place.  IT is a good bargain as long as you avoid the drinks... but then, the same can be said for most restaurants.  Their selection of ingredients is quite good and the staff has always tried very hard.  We once had a problem with food and the manager quickly sorted it out.  It's good!",
+                "reviewer_id": "txtHFzaDtrIpzouyOEsYFg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.06838478176137967,
+                    "positive_probability": 0.9316152182386241
+                },
+                "stars": 4
+            },
+            {
+                "review": "Your average stir fry place. Love that  they have parathas though. Service is decent.",
+                "reviewer_id": "U6vVYCZapANVwvmiE4N9tw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.16033478952542185,
+                    "positive_probability": 0.8396652104745773
+                },
+                "stars": 2
+            },
+            {
+                "review": "So yummy cuz I made it myself.I just finished a box of takeout Flat Top goodness.  The last time I had Mongolian style fare was in Whistler on my honeymoon five years ago, and I loved it today as much as I did then.I would think it is hard to go wrong when I am essentially making my own lunch.  At least for me.  My husband went yesterday with a group of people and had quite a wait to get seated and started.  He also somehow managed to spoon in ladles of hot mustard in his dish, thinking \"I like hot mustard.\"  It was painful to eat.  He ended up having to start over again with help from staff to guide him to make a more palpatable plate.Today, it was all about a ladle of lemongrass water, ginger water, Korean BBQ sauce, and peanut sauce, and a touch of the really hot chili sauce.  A ton of veggies I love, enough meat to feel like I'm getting my meal's worth, and a shake of sesame seeds and I was done.  The waiter put some extra brown rice in the bowl, so I didn't have to waste valuable single bowl space with rice.  It was sooooooo good.  And hot.  Temperature is important to me.I did takeout and therefore chose the 1 bowl option, which was under $7 without tax, $7.57 with tax.  They packaged it up in a very stylish shopping bag.  Like, it's nice and sturdy enough to replace my bare hand to awkwardly carry extra shoes, lunch, and a sweater to work.Anyway, I work in Campustown, and Flat Top is convenient value for the money.  There seemed to be a lot of folks coming in to sit down for lunch.  Hubby had to wait 30 minutes yesterday.  I probably spent about 25 minutes roundtrip from my office door on Green Street to Flat Top and back. I would recommend it for takeout lunch.  It seems a bit daunting for newbies, but they get through the line the same as the rest of us, and the host gave me a short orientation before I built my bowl.  Looking at how the place is designed as an operations model, I could definitely see opportunities to improve throughput.  But eh, I'm not in that business.  I'm in the business of locating the good eatz and then savoring them with gusto.Which is what I did.  4 stars.",
+                "reviewer_id": "UcWR6BYcYbpPLHVeXG8ohA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.026937578093143177,
+                    "positive_probability": 0.9730624219068712
+                },
+                "stars": 4
+            },
+            {
+                "review": "I don't get why this place has gotten such harsh reviews.  While it's nothing special, it's really not that bad of a place to go on a date or grab dinner with friends as it's a new/different experience for many, its got a great location right off of Green, and you'll definitely be able to leave satisfied with a stomach full of some pretty good stuff (that is, if you know what you're doing).A design your own stir-fry chain, Flat Top offers a wide variety of fruits, vegetables, and protein for your creation - all of which are fresh - and they even provide some pre-designed recipes such as Kung Pao Chicken or Peanutty Lime Noodles.  Personally, I find these recipes are only okay, so I mix and match for myself.Make sure you load up your bowl (till one extra grain of rice will send the entire thing crashing down), because, while it may look like you have a lot on there already, when everything is cooked, it shrinks in size and you'll be left with half of what you thought you were going to get and don't forget to put a blue stick in your bowl at the end!  It's Roti Prata which is athin Indian flat bread that's really really good!  And they even have breakfast now at certain locations!  I have yet to try it, but I love love love breakfast foods and this seems like it'd be an interesting experience!The downsides to this place though, is how incredibly crowded it always is.  In order to get a table if you're with a big group (which is usually the case), you have to wait around an hour to get seated and there is hardly any room to maneuver around as the tables are places so close together.  The wait staff is nice, but not always attentive as they're so busy with other customers as well.  Also, forget about coming here if you want to be able to converse with your friends as opposed to shouting across the table in order to be heard.  For the student price and what you receive, I would say it's a good deal and would come more often, but the long wait and packed seating makes it so that I only make it out there maybe once or twice a semester.",
+                "reviewer_id": "urDog6OhPoNKPJFUDob7AA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 7.425242651247236e-07,
+                    "positive_probability": 0.9999992574757477
+                },
+                "stars": 3
+            },
+            {
+                "review": "If I could give this place no stars, I would. I used to enjoy Flattop, a couple of years ago Flattop really wasn't bad at all! You filled a bowl with vegetables, beans, rice, and sauce. You'd fill a smaller bowl with your choice of meats, then leave them on the side for them to be stir fried into really delicious meal. That is not the case anymore, now you get back a  bowl of really BLAND, overcooked stuff. It doesn't even taste like stir fry, just like a bunch of dried up random bits of food. I had convinced my friend to go here instead of Chipotle and then felt really embarrassed when he had to get up to get extra sauce from the station because his food was that dry. The meal was so bad and took so long, the least I could do was pay for both our meals. Never again will I be coming back here.",
+                "reviewer_id": "Va-Gh6dQlOmp9yZ93WPqMg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6599033662050893,
+                    "positive_probability": 0.3400966337949035
+                },
+                "stars": 1
+            },
+            {
+                "review": "This place is overpriced and bland! I give that flat bread a star best thing on the plate. Takes waay too long to get your food and the options that I picked DIDNT end up on my plate. I will NEVER go there again! booooooo! :(",
+                "reviewer_id": "Vn0oU-A390Jw-Eh5BXRA6w",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8487144992113624,
+                    "positive_probability": 0.15128550078863862
+                },
+                "stars": 1
+            },
+            {
+                "review": "The stir fry is decent. If you aren't very confident in your own stir fry ability, then I suppose this place is a good once-in-a-while excursion (especially the sauces). Provided you don't have any food allergies. Although they claim to cook orders for people with food allergies in separate woks, there have been a couple of times when I or someone in my party got the wrong order. Along with that, there is a lot of mess and cross contamination when people are loading up their bowls.But if you do decide to take the plunge, the roti bread and the mu-shu options are pretty good. $15 good? Maybe not for me.",
+                "reviewer_id": "w3K0UQHHT8Oht5eTSIAc4Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.20519432791940992,
+                    "positive_probability": 0.794805672080594
+                },
+                "stars": 2
+            },
+            {
+                "review": "Hey the naan bread is pretty good.  But it kind of stops that that.  I found the ingredients bar to be pretty messy with some items spilling into others.  Kind of gross actually.  The food is good as long as it makes it to your table.  I had mine in a reasonable amount of time but they apparently lost my sisters dish.  How do you loose it and why are you not immediatly asking her what was in it and re-making it ASAP.  This was a server, cook, and hostess shared FAIL.  The dish was eventually found but I was mostly done with my dish.I suggested to the hostess that some comp'ed naan would be a good idea.  This also took a long time to arrive since I had to ask about it twice and it was a mere two pieces.  We were then told that our drinks (we had 1 beer and 1 soda) would be removed from the bill only to find out that it was only the 1 soda.  That was actually worse than not offering at all.Frustrated we left and will probably not return again.  Just plain sad, sad, sad.......",
+                "reviewer_id": "wS3UWf62QwmWq-4JDNPV0Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.04131531035992897,
+                    "positive_probability": 0.958684689640059
+                },
+                "stars": 1
+            },
+            {
+                "review": "Forty-five minutes for flavorless stir fry, really?",
+                "reviewer_id": "x3gKcWI_exCtz99UCmyoPg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.27318160567331157,
+                    "positive_probability": 0.726818394326689
+                },
+                "stars": 1
+            },
+            {
+                "review": "The first time we went to Flat Top was great. We had a large group of our family and some we're vegetarian and some we're not do this place for all of our dietary needs. However, we Haven't been back in a while because during the next couple visits it got to where it would take 30-45min to get food and the last time it was dirty, tables, floors and seats all had food particles all over. On out last visit, and it will be our last, our food came quickly but it wasn't even cooked. Most items on the bar were still frozen and were all but thawed when arrived at the table. When we said something to our server, she said that is how it should be. Great concept but this location is doomed if they don't get it right. Can't believe it's still open. We didn't finish out lunch and walked next door to Penn Station for lunch. Flat Top went from great to Very disappointing",
+                "reviewer_id": "yY_NR2lDBHToFKqQ2No6wA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2183812047315736,
+                    "positive_probability": 0.7816187952684275
+                },
+                "stars": 1
+            },
+            {
+                "review": "I would give this place 0 stars if I could but unfortunately, I am forced by yelp to give at least one. I've been around in town for 6 years or so and this is probably one of the worst experiences I have had, the other being a shut down Chinese place that was cited for unsanitary conditions. It's sad that my wife and I ate here and then the next day, we got sick from the food. Looking back the meat was not cooked through and the food, when it came out, was just warm, NOT hot. The people they hire to cook are probably not even food industry workers. They look like people you'd get from McDonalds. Anyhow, if you are thinking of eat here, be warned.",
+                "reviewer_id": "z6gZkCIogOahdQsaRIPV7A",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5463412573536471,
+                    "positive_probability": 0.4536587426463521
+                },
+                "stars": 1
+            }
+        ],
+        "similar_restaurants": [
+            "DjJS8vJXzmpwMUEAcxCexg",
+            "3BHId7STldaICUk-WVE7sA",
+            "dnRzZsej_I1URXYqEGGm7w",
+            "r2pKiQ9LLaaVNNvBDfPd2w",
+            "YPLuTiEIrkVGxfxzuq54FA",
+            "cmLB5X26RJXWdZ2qrS5KOg",
+            "wYT34MQMvjXU_j62UiyFtQ",
+            "jKPEJgRE_WvryvExq7zogQ",
+            "F1UsF9LU5h7xp1k9LytT-w",
+            "EJCIIIy4RghSG3Blsg9BrA"
+        ]
+    }
+}

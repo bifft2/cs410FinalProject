@@ -1,0 +1,1938 @@
+{
+    "6U94ybDpNd0fTL7TIzb5Kg": {
+        "keywords": {
+            "bigrams": [
+                "thin_crust",
+                "crust_pizza",
+                "pool_tables",
+                "play_pool",
+                "beer_selection",
+                "pizza_good",
+                "downtown_champaign",
+                "great_place",
+                "large_pizzas",
+                "pizza_town"
+            ],
+            "unigrams": [
+                "pizza",
+                "good",
+                "pool",
+                "crust",
+                "place",
+                "thin",
+                "great",
+                "bar",
+                "tables",
+                "jupiter"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "full_bar",
+                "Ambience": {
+                    "casual": true,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "Coat Check": false,
+                "Delivery": false,
+                "Good For": {
+                    "breakfast": false,
+                    "brunch": false,
+                    "dessert": false,
+                    "dinner": true,
+                    "latenight": true,
+                    "lunch": false
+                },
+                "Good For Dancing": false,
+                "Good For Groups": true,
+                "Good for Kids": false,
+                "Happy Hour": false,
+                "Has TV": true,
+                "Music": {
+                    "dj": false,
+                    "jukebox": true,
+                    "live": false,
+                    "video": false
+                },
+                "Noise Level": "loud",
+                "Order at Counter": true,
+                "Outdoor Seating": true,
+                "Parking": {
+                    "garage": false,
+                    "lot": false,
+                    "street": true,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 2,
+                "Smoking": "outdoor",
+                "Take-out": true,
+                "Takes Reservations": false,
+                "Waiter Service": true,
+                "Wheelchair Accessible": true,
+                "Wi-Fi": "free"
+            },
+            "business_id": "6U94ybDpNd0fTL7TIzb5Kg",
+            "categories": [
+                "Bars",
+                "Pool Halls",
+                "Nightlife",
+                "Lounges",
+                "Restaurants",
+                "Pizza"
+            ],
+            "city": "Champaign",
+            "full_address": "39 E Main St\nChampaign, IL 61820",
+            "hours": {
+                "Friday": {
+                    "close": "02:00",
+                    "open": "11:00"
+                },
+                "Monday": {
+                    "close": "02:00",
+                    "open": "11:00"
+                },
+                "Saturday": {
+                    "close": "02:00",
+                    "open": "11:00"
+                },
+                "Sunday": {
+                    "close": "02:00",
+                    "open": "11:00"
+                },
+                "Thursday": {
+                    "close": "02:00",
+                    "open": "11:00"
+                },
+                "Tuesday": {
+                    "close": "02:00",
+                    "open": "11:00"
+                },
+                "Wednesday": {
+                    "close": "02:00",
+                    "open": "11:00"
+                }
+            },
+            "latitude": 40.117741911204,
+            "longitude": -88.241513984004,
+            "name": "Jupiter's Pizzeria and Billiards",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media4.fl.yelpcdn.com/bphoto/9FjIJnks7vBYtnfkGkCJ6g/ms.jpg",
+            "review_count": 74,
+            "stars": 4,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "Nowhere else could I go for this pizza. The pizza however was only okay. They have the best pizza! ",
+        "reviews": [
+            {
+                "review": "The best pizza in town. If you're going for food, Friday and Saturday can be very slow for service. Also, be aware it us a cracker crust, in case that's not your cup of tea.",
+                "reviewer_id": "-9JGmOgqza0FDkzYLP48Zw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5476693223982628,
+                    "positive_probability": 0.45233067760173473
+                },
+                "stars": 4
+            },
+            {
+                "review": "Food, service, and atmosphere of this place are all a huge draw for me here. Probably the best thin crust pizza in town, and a good drink selection, too. Ambiance is great, and sometimes it is just nice to get away from campus restaurants and bars! I would definitely make a trip to Jupiters the next time I'm in 'paign.",
+                "reviewer_id": "0YlyigoFd3dNepDvNr3sVw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.05411402034475587,
+                    "positive_probability": 0.9458859796552419
+                },
+                "stars": 4
+            },
+            {
+                "review": "worth the half off tues. guys... real cheese in those shakers. nuff said.",
+                "reviewer_id": "1wR9JTdpa0wiN0TkD1v98Q",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5673525692970341,
+                    "positive_probability": 0.4326474307029657
+                },
+                "stars": 4
+            },
+            {
+                "review": "The pizzas are tasty, a good offering for a thin-crust style. My favorites are the Preferito and BBQ chicken. I find them to be a tad overpriced, but they get a 4 star review for half-priced Tuesdays. Large pizzas and Miller Lites are 1/2 price, making it one of the best deals in town.",
+                "reviewer_id": "3ybWgG6b9EPqRkJ7GubG6Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.11096397695122392,
+                    "positive_probability": 0.8890360230487739
+                },
+                "stars": 4
+            },
+            {
+                "review": "The Pranzo mustard-cream based thin-crust pizza is pretty unique and the reason I keep coming back. Awesome. There's always a few decent craft beers on tap, although this is a place where you learn from experience the printed menu tap list usually isn't accurate. :(The service is always a little hit and miss--it'd be nice if the wait staff knew the beers better and had a better sense of timing (waiting for the check seems normal). But staff are usually friendly. For a place to get a chill dinner downtown, I'm a fan regardless of its shortcomings.",
+                "reviewer_id": "3zxHXzxP6D6K6kvDImzMAQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.13212548289127696,
+                    "positive_probability": 0.8678745171087275
+                },
+                "stars": 4
+            },
+            {
+                "review": "One of the best bar/restaurants I've been to in champaign! I live in a tourist filled florida city so bars are a dime a dozen but when I stopped in here, all I could do is wish we had one down south! The pizza is cooked perfect, priced right, and served piping hott! Subs and sandwiches taste just as well, bar is fully stocked with local and national brews and a brilliantly educated staff can make any drink fast and easy, not to mention the games. 6+ professional pool tables and pinball arcade style games as well! All I can tell ya is whenever I'm in town I will stop to catch a ball game or eat some awesome food and drinks!!! 5 stars!",
+                "reviewer_id": "6VYJaa-APMGqSDQkXz5hZQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.16794439217986423,
+                    "positive_probability": 0.8320556078201314
+                },
+                "stars": 5
+            },
+            {
+                "review": "I always make a stop here whenever I'm in town. A perfect place to grab a bite with an old friend. I'm particular to the smoked salmon and dill pizza, but back in college I used to show much love to the BBQ chicken as well. Tuesday nights - half price large pizzas! Everything here seems cheap compared to my current location of NYC, but I still love a good deal!",
+                "reviewer_id": "7a5tgR4lbdAefJIbCmSuUg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5121928370358813,
+                    "positive_probability": 0.4878071629641228
+                },
+                "stars": 5
+            },
+            {
+                "review": "Oh, I am a Lou Malnati's fan all the way - it's extremely difficult for me to find a pizza that stacks up to my Chicago style first love, so I was surprised to find pizza that I adored just as much in Jupiter's.  The original location in downtown Champaign is a lot of fun, complete with a well-stocked bar, a few pool tables, and a CD juke box which all adds to the low-key atmosphere. My hubby and I went there on our first date and have been back many times since then.  It's not a dive bar, it's not super ritzy, it's always clean and to me, being there feels kind of like you've just gone over to your best friend's house to hang out for awhile.  It's never too loud, never too crazy, they have great service and they do a fantastic thin crust pizza.  My personal faves lie in a dead heat between their \"margherita\" and \"fajita\" pizza.  Though this isn't the only place to offer these selections, they blow away the competition.  Jup's isn't even in the same class with anyone else, it just is what it is (awesome) and I love that about the place.  They just get it perfect every time.",
+                "reviewer_id": "7dyZAVl04Sw4OtPubZ5uxw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0034546947269022813,
+                    "positive_probability": 0.9965453052730898
+                },
+                "stars": 5
+            },
+            {
+                "review": "I sort of feel like an outcast since the reviews for this place are generally flowering, but I really dislike the pizza.  To each their own I suppose, but quite frankly, it's probably my least favorite pizza around.  Pizza is way overpriced. A small personal 9\" pizza costs about $8, and I equate the taste to that of your microwaveable pizza bites. If you like pizza bites, well heck, then dig in. Their pizza to me is just like saltine crackers with mediocre sauce and stale cheese. Not only that, but food takes forever to come out.I get drug to this place with co-workers every now and then, and our small 9\" pizzas take 45 minutes to come out... That's ridiculous considering a pizza like this should cook in about 6 minutes.... On a plus note though, the servers are great and the atmosphere is nice, but ultimately I go out to eat for good food, and Jupiter's does not deliver.",
+                "reviewer_id": "7JQ8n15WeW4D5AnNulQOCQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.017784315946490773,
+                    "positive_probability": 0.9822156840535149
+                },
+                "stars": 2
+            },
+            {
+                "review": "The service was just okay; our server wasn't the most attentive. The pizza was good, but could've used more toppings.",
+                "reviewer_id": "_uQ7UQQvp9IkBnezPpUCDw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3267514833372089,
+                    "positive_probability": 0.6732485166627902
+                },
+                "stars": 3
+            },
+            {
+                "review": "Another institution in downtown Champaign that has been here forever.  The bar area is nice with a few tables and big booths.  There is not a lot of sitting area if you come at peak hours.  So be warned.  Great billiard tables that go the length of this great old building, and people are serious about their pool here.  There is even a patio out back.  The building itself is ancient, and tons of character.The servers work hard, and are very friendly.  Though can get swamped during peak hours.  Just a couple of decent beers on tap.  Usually an offering from Bells, or Summit, and just recently I noticed Lagunitas.  The pizzas are great.  Crispy, thin crust that is awesome.  The specialty pizzas like Pizza Pesto is great.  Can't go wrong making your own as well.  They come in personal, 14\", and 16.\"  Always a good stop downtown for pizza, beer, and fun.",
+                "reviewer_id": "aF4FWUbU0Tq6jH0FZKSQlw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8925110521915105,
+                    "positive_probability": 0.10748894780848016
+                },
+                "stars": 4
+            },
+            {
+                "review": "First of all, what they call pizza is so thin it might as well be flatbread. Yet if you want super, super thin pizza, it is delicious!! So many delicious options. I think Tuesday nights are half off, so it is so worth it. Second, they let you order \"pizza\" late night, which is always a good idea. Lastly, has the most pool tables in town that I know of and is always a good time.",
+                "reviewer_id": "amxtfaoqV0JEwbJUFeCyLg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2527782099290869,
+                    "positive_probability": 0.7472217900709117
+                },
+                "stars": 4
+            },
+            {
+                "review": "Jupiter's is a fun place for families with younger kids, but it's not anything special for adults.  The food isn't spectacular, and the pizza is similar to Monical's thin crust pizza if you're curious what to expect.  There's a BIG arcade room with pool tables and video games, but this area gets PACKED if you go at a popular time of day.  I've only been to Jupiter's once, and I haven't really had the desire to go back.  The service was ok, but the atmosphere and food weren't anything special.  We also had a LONG wait to get a table and food.",
+                "reviewer_id": "aOMwP73M6H0Oh2FPsZW3Rw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2439593335943643,
+                    "positive_probability": 0.7560406664056388
+                },
+                "stars": 3
+            },
+            {
+                "review": "Thank goodness the Blind Pig had no room for us and we were able to make a stop at Jupiters. This is a great stop towards the end of the night. Still one of the best pizza places in town. Great place to play pool. And drinks are quickly refreshed since it doesn't get as crowded as some of the other places.",
+                "reviewer_id": "Bg3FBXzPViMowB_mJcUnbg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0018922588199767527,
+                    "positive_probability": 0.9981077411800221
+                },
+                "stars": 5
+            },
+            {
+                "review": "Amaaazing pizza! The Bianca is totally my jam. I also really appreciate that the kitchen is open til 1am which is later than most places downtown.They also have drink specials just about every night. It's a fun bar for playing some pool, watching a game, or just hanging out. Service is also solid too!",
+                "reviewer_id": "BvGV9lMMUmB5hLWkNlY3vw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4053363342203202,
+                    "positive_probability": 0.5946636657796838
+                },
+                "stars": 4
+            },
+            {
+                "review": "I feel bad about being so harsh, but I stopped in here last night for some drunk pizza (which is one of my top favorite things in the world), and was sorely disappointed. My friend and I ordered 2 personal pizzas, the Pesto and the Buffalo chicken. The toppings were fine (buffalo chicken was pretty tasty), BUT the crust was terrible. Someone from Brooklyn a few reviews down has it spot on--tasted like a cracker. This not thin crust pizza. Any random pizzeria in NYC would have had infinitely better thin crust than what these pizzas had. This was cardboard crust pizza. I know this ain't exactly NYC, but for a 4-star joint, I had higher hopes. I would have given it 2 stars, but I added an extra one because it was open late night.",
+                "reviewer_id": "d_4nmvSVET24Y0IGzKFirw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9608600300238781,
+                    "positive_probability": 0.039139969976119994
+                },
+                "stars": 3
+            },
+            {
+                "review": "Came here after a wedding reception, in need of some grub.We ordered the Pizza Margherita - red sauce, mozzarella & provolone, sliced roma tomatoes, oregano & basil.  It was fairly tasty.  Not destination dining at all, but if you're looking for grub to enjoy with a beer, this will hit the spot.Despite the chalkboard announcing that large pizzas were $10 after 10 p.m. on Fridays and Saturdays, the waitress tried to stick us with the regular price.  She seemed annoyed I brought this up.  Check that bill, people.It's pretty loud, people are playing pool and I saw a man so drunk in the men's room, he was stumbling and slamming into the walls face-first.  So that's your atmosphere.I'd go back if I were looking for a late night bite, but there are probably better options out there.",
+                "reviewer_id": "dxl9ZmoFYymlf6q3pQqXww",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.86348562215604,
+                    "positive_probability": 0.1365143778439614
+                },
+                "stars": 3
+            },
+            {
+                "review": "I like this place. The pizza is good enough; if you're one of those people who loves adventurous toppings on pizzas, this is a good place for that. I stick to the basics, and they do that just fine. But for whatever reason, I just really like the space. Great place to drink some beers and eat pizza.",
+                "reviewer_id": "dXZaFzVVXVPK8Ih08ce-9w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.04793568873532532,
+                    "positive_probability": 0.9520643112646754
+                },
+                "stars": 4
+            },
+            {
+                "review": "I'm probably just a fatass but I think the pizzas are way, way, way too small for the price (about $10 for a 9-inch thin crust depending on the number of toppings you get). Especially since they don't have any specialty ingredients (though they do have a variety). Anyway there is nothing wrong flavor wise with the pizzas and I really appreciate how bone thin their crusts are (it's so hard to find crunchy crusts in Chambana). The atmosphere is also very nice. Relaxed. Mostly old people, townies. It's clean as well. But the pizza is much too small for the price. Maybe someone with a normal sized appetite can chime in.Update: I think I found out why I thought it was overpriced. I saw that the pizza was $7 on the menu (I just confirmed it). But was charged over $9. Why? I understand $7 is pre-tax but then, to be conservative, $9 flat would still go over the total. It's not a big difference but it's not acceptable to steal from customers, on purpose or accidentally. Here's the link to their menu with the prices: http://www.jupiterspizza.com/downtown/menu.htmlI got a custom 4-topping personal which should have been about $8 tops. Something that really bugs me about restaurants, as it should, is when they don't care what price they put on the menu and the servers will throw some extra on there because they're careless. Just not cool. Bombay Grill did this but their food is actually good enough that, fine, I'm okay with being stolen from-- take it as a tip. But Jupiter's food is not good enough to justify capricious pricing.",
+                "reviewer_id": "dzKYG04n0nLXv6tGFvJX0Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4860906670969445,
+                    "positive_probability": 0.5139093329030414
+                },
+                "stars": 1
+            },
+            {
+                "review": "Good pizza.  It's thing crust with nice crunch.  Normally I'm not a thin crust fan but this was surprisingly good.  The place had a bunch of pool tables which were cool but it limits seating.  Luckily we got seats at the bar.",
+                "reviewer_id": "e41iCt8CwlD66IZENs1zgg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6312772317791265,
+                    "positive_probability": 0.3687227682208771
+                },
+                "stars": 4
+            },
+            {
+                "review": "I do commend their varying selection of toppings for their pizza. I had salmon as one of my toppings and either the salmon was bad, or salmon just doesn't mesh well with pizza. Either way, it made the pizza just taste mediocre.",
+                "reviewer_id": "eFIlrOz3TnuZQeh2Y1e17Q",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6997893589509402,
+                    "positive_probability": 0.3002106410490577
+                },
+                "stars": 3
+            },
+            {
+                "review": "Great bar with pool, the pool is 6 dollars and average selection of beer. Pizza is good there, thin crust that paper thin with a crisp bite to it. 10 larges on Fridays. Pool tables are in good shape which is nice for a bar. Don't really have to wait to long to get a pool table",
+                "reviewer_id": "FaHrYSHUMR_uZ2q1dHRKng",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7712497315422923,
+                    "positive_probability": 0.22875026845770904
+                },
+                "stars": 4
+            },
+            {
+                "review": "A very consistant pool bar with great pizza. My family loved the atmosphere, design, food, and staff. You get exactly what you can expect, that's 5 stars in my book.",
+                "reviewer_id": "fDXALtk5kBuQgUD5GLkrhg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.34945555239704823,
+                    "positive_probability": 0.6505444476029539
+                },
+                "stars": 5
+            },
+            {
+                "review": "Good pizza! Nice, comfy atmosphere! Prices arent bad! Good service!! Convenient location! I like to make my own pizza... Cream sauce, tomatoes, spinach, mushrooms and cheese! MmmmmmM!",
+                "reviewer_id": "FRPIqsmuLevS9eryOPSYGA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7262022351463464,
+                    "positive_probability": 0.2737977648536541
+                },
+                "stars": 4
+            },
+            {
+                "review": "This is the 2nd time I had to post a review of Jupiters. Yelp took it down, though I have no idea why.  I wish we had a Jupiters or equivalent in California. My favorite is their sausage, schroom, bell pepper and onion pizza. They manage to deliver a wonderful, thin crust pizza that's not too greasy, but oh-so-tasty.  I hope Yelp doesn't take this review down this time.",
+                "reviewer_id": "ghZYxtc0fu1Pb2vOPZzjUA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8593060559355208,
+                    "positive_probability": 0.14069394406448066
+                },
+                "stars": 5
+            },
+            {
+                "review": "Had a fantastic late Saturday evening here.  After 10pm, a large two topping pizza is $10.  This allowed me to get a large smoked salmon pizza for $10.  While it might not sound like a great combination, this pizza was fantastic.  I expected skimpy or shredded salmon, but received fairly large pieces strewn across the pizza generously.  Drinks weren't expensive, and overall there was a good selection.  A $4.50 Lindeman's Framboise is about $1.50 cheaper than the equivalent size at the Blind Pig, if that gives you an idea of the pricing.  I can't wait to go again, fantastic pizza and reasonable drinks.",
+                "reviewer_id": "IJ3m1dLcXv_NjDlXQ5J8Iw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3791251306029492,
+                    "positive_probability": 0.6208748693970437
+                },
+                "stars": 4
+            },
+            {
+                "review": "Great variety of pizza.  Great beers on table.  Pool tables everywhere and readily available.  What's not to love?",
+                "reviewer_id": "iKt9RWLOS_PE4SKBRFkKww",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7200998809062409,
+                    "positive_probability": 0.2799001190937609
+                },
+                "stars": 4
+            },
+            {
+                "review": "I'd heard it was the best (thin crust) pizza in town, so I checked it out, and I'd say it lived up to my expectations.I went with a big group of friends, and we ordered the Special K pizza (sausage, mushrooms, cream sauce, some other stuff... no drugs or cereal though) and the Pizza Bianca (olive oil, artichokes, onions, other vegetables). Both were great, though the Bianca needed the parmesan cheese I added on top for saltiness. I'd like to go back and try the plain cheese (after all, that's what I usually get and judge pizza places by), and the smoked salmon pizza just sounds too interesting to pass up!",
+                "reviewer_id": "INbuULh98NmGYKZMy6wqwg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.906290382073138,
+                    "positive_probability": 0.09370961792687067
+                },
+                "stars": 4
+            },
+            {
+                "review": "As a place to play pool it wouldn't be so bad, but it is crawling with people most evenings, especially weekends, so you'll never get a table.  Some of the tables are pretty old and worn too, with some pretty idiosyncratic pockets.As a bar, it doesn't really do anything for me, though the pizza is pretty good.",
+                "reviewer_id": "IXFGCmgnB8YY-jtPCaNYeQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.11448414673157008,
+                    "positive_probability": 0.8855158532684292
+                },
+                "stars": 3
+            },
+            {
+                "review": "I've been here only once as of yet and I loved it!  I love their pizza menu.  The combinations are interesting (or you can make your own) and the crust is very good.  I had a mustard base sauce pizza that was awesome!  I loved it.  Nowhere else could I go for this pizza.  We had three pizzas at the table and I enjoyed all of them very much.  I think the environment is a lot of fun also.  The price is fair.  It's 6.99 for a personal pizza which a good size!  I'm looking forward to coming back!",
+                "reviewer_id": "JgHGyWS2emyHq6aq144SLQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.020755342142556452,
+                    "positive_probability": 0.979244657857447
+                },
+                "stars": 5
+            },
+            {
+                "review": "Pizza is served California Pizza Kitchen-style. Some people play pool during lunch. Don't play pool unless you're at Brother's.",
+                "reviewer_id": "jvcqOUPPVBXErhjfdejPng",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6163993455608876,
+                    "positive_probability": 0.3836006544391128
+                },
+                "stars": 3
+            },
+            {
+                "review": "Was downtown this past weekend, looking to go to Seven Saints, but they had like a 30 min wait so stumbled into this restaurant. I went to the other one back in my college days, but this one I didn't even know existed. Walked in and it's seat yourself tables to the left, a bunch of pool tables to the front, and a long bar in the middle. Very limited seating, but it wasn't packed at all so that wasn't a problem. There was a weird draft hitting our table though, so we moved to one deeper in the corner since we thought it was the door, but the draft was there too. We just had to wear our coats throughout dinner.For 6 people, we ordered 2 large pizzas, one buffalo chicken, and one prosciutto. I didn't care much for the prosciutto, but the buffalo was pretty bomb. Ordered some small ranches (50 cents per though, what a rip) and it was delicious. It's deceptive that they cut their pizzas into smaller squares because you feel like you can eat so much more. We had 6 slices left over and it was about 42-ish dollars with tax and tip. So a large probably feeds 4 people comfortably, 3 uncomfortably.Weird thing though is when we asked for a box, the waitress asked if we wanted anything else. We said no and assumed she would bring us the check. But didn't and we sat there for like 10 more minutes. Had to grab her attention and then ask for the check. We weren't drinking or anything so I'm not sure why she thought we would want to just hang out. Minor inconvenience though so it's whatever.",
+                "reviewer_id": "kKhktrVTWqDUom8ZbxE8JA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9783314700604395,
+                    "positive_probability": 0.02166852993956044
+                },
+                "stars": 4
+            },
+            {
+                "review": "The decor is nice and makes for a nice ambiance. Good beer selection and pizza. Pool tables are some of the best in town. Overall great local place to go.",
+                "reviewer_id": "l8AlmkE-num7eoY-hqBWNg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.16906318689217248,
+                    "positive_probability": 0.8309368131078292
+                },
+                "stars": 4
+            },
+            {
+                "review": "This is my favorite thin crust pizza in the area. I've brought numerous friends and family to Jupiter's and everyone seems to love it. The place is almost always empty so the service is pretty quick. Even after an early football game, we get fed pretty quickly. It makes a good lunch spot after church too!",
+                "reviewer_id": "LFqVZJg3-b0VVeCDl1_3zw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3612752708753969,
+                    "positive_probability": 0.638724729124602
+                },
+                "stars": 5
+            },
+            {
+                "review": "Tasty Pizza, nice beer selection.  Perfect for watching sports and playing pub games.",
+                "reviewer_id": "lq-5vv0dfRgPh_ccDzlUpQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.20451739525619322,
+                    "positive_probability": 0.7954826047438056
+                },
+                "stars": 3
+            },
+            {
+                "review": "2 things I love. Good pizza and billiards. And this place has both. Jupiter's is a great place if you want to unwind from a busy week or simply...you need something to get your mind off an exam. Overall, this place gets a 4/5 from me purely because it doesn't have what it takes to get that 5/5 rating but doesn't settle for anything less than a 4/5.",
+                "reviewer_id": "milcwl8zN3LDMh_Zq3N26Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.33933809212429444,
+                    "positive_probability": 0.6606619078757103
+                },
+                "stars": 4
+            },
+            {
+                "review": "Jupiter's Pizza is awesome. A place where you can swap your favorite pizza toppings with friends, enjoy your go-to beer on the side, chat with friends, and watch the basketball game on their large TVs. They also have pool tables and arcade games. My favorite night to go is Tuesday because they have half off large pizzas and it's a popular night to go. Warning to Chicago-native-deep-dish lovers: these pizzas are thin-crust pizzas and I'm from St. Louis, so we love thin crust pizzas, but this place does not rip you off on toppings. Jupiter's specialty pizzas are great!  There's no need to stress about perfecting your pizzas toppings since they already have specialty pizzas with your already-favorite toppings. If you want to make your own crazy masterpiece, you can customize your pizza with four toppings maximum (meat toppings count as two). More importantly, the price is very reasonable. Also this place has a clean, friendly, fun atmosphere. It's definitely one of my favorite places to go in downtown champaign. I recommend every U of I student to check this place out with friends there before graduation .",
+                "reviewer_id": "NbvKwZEmGW-6NTEVrfZHPQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7278465643260077,
+                    "positive_probability": 0.2721534356739951
+                },
+                "stars": 5
+            },
+            {
+                "review": "Great bar. Pizza is great, thin crust.  Best Pizza in town IMHO (not a big Papa Dels fan). Beer selection is so-so.",
+                "reviewer_id": "NMYx5BZQZ2iKW5tlfyULKA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5478256688836307,
+                    "positive_probability": 0.4521743311163697
+                },
+                "stars": 4
+            },
+            {
+                "review": "Be forewarned. It's cracker crust pizza. My thinking on this is, I'd rather go to the supermarket, buy a box of matzoh, and spread a little sauce and cheese on it than pay big bucks for cracker pizza. But of course, this also sounds like a pretty horrible idea. But if you like cracker crust pizza... No, actually, I'm not going to say this is passable for cracker crust pizza. I have no idea what's good about this. Oh, doesn't Lunchables do a a pizza lunch? There you go, it's kind of like that.So, really what I'm saying is, I guess a lot of people like crunchy pizza, but if you're not one of those people, don't bother.",
+                "reviewer_id": "O4zdJKATiW1kWtM5OcV5SA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9724670647314304,
+                    "positive_probability": 0.027532935268573158
+                },
+                "stars": 1
+            },
+            {
+                "review": "one of my favorite places in downtown champaign. so much to do, so little time. if you wanna play pool, get there early...tables fill up faast. they have a waiting list at the bar, so make sure you get on it. we had to learn that the hard way. no worries, you have a dart board and a couple other arcade games while waiting.pizzas are solid. hawaiian is my go to. a normal person could easily down two of these bad boys, but i'm quite content with just one.",
+                "reviewer_id": "oYT1eRGFQxzPCR0h_JyvIw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9473853576664183,
+                    "positive_probability": 0.05261464233358536
+                },
+                "stars": 5
+            },
+            {
+                "review": "If thin crust is your thing, this place is hard to beat. You have a huge selection of sauces and toppings, so go ham if you like. I think I tried tomato, kalamata olives, feta, pesto and chicken when I went. wise choice, it was perfection. However, I think it's pretty hard to go wrong at Jupiter's.The locale seems driven towards sports fans and the nocturnal crowd, filled with pool tables, an extensive bar and flat screen TVs everywhere. We see families there quite often though, and I'm sure you can order out. If not, possibly pick up?If you're judging in terms of flavor and thin crust crisp, Jupiter's is the way to go in Champaign.",
+                "reviewer_id": "pD0ntLKZOopi2KmaVxSw_A",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6038175100262044,
+                    "positive_probability": 0.3961824899737862
+                },
+                "stars": 5
+            },
+            {
+                "review": "Just your average sports bar. My girlfriend enjoyed the thin crust pizza so that was good enough for me. Pretty large venue with plenty of seating. Friendly service. Very college-like.",
+                "reviewer_id": "pUGA56jZfTtkszfBAVGwKQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5021254434364053,
+                    "positive_probability": 0.4978745565635961
+                },
+                "stars": 4
+            },
+            {
+                "review": "Really like the pizza, really like the beer selection, don't love the sitting situation or the pool tables. It's too small to be able to really play. Go to Jupiter's II if you really want to be able to play pool. Come here for some pizza before and after a night of drinking.To this day it is the only bar my friends have ever been kicked out of for being too loud. It was a Saturday night and we were kicked out of a bar for being too loud.",
+                "reviewer_id": "PXakem9Mq2FNqeiZxwsQ_Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.35456132714699845,
+                    "positive_probability": 0.6454386728529986
+                },
+                "stars": 4
+            },
+            {
+                "review": "They have the best pizza! They are the thinnest crispy pizza. We go to Tuesday's half off pizza day.",
+                "reviewer_id": "pYp_4VQKnIFvSoQ5HjxW2Q",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6447572831341348,
+                    "positive_probability": 0.3552427168658648
+                },
+                "stars": 5
+            },
+            {
+                "review": "Came in here after a ball game to relax and watch some really good pool players. Man was I surprised by the excellent food and great service! Bartenders are super friendly and serve up awesome drinks at great prices! Love the pizza cant wait to try the sandwiches...will definitely return!",
+                "reviewer_id": "QLXbYx74DxVTDhYs8Pj1Qg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.01935432672683359,
+                    "positive_probability": 0.9806456732731643
+                },
+                "stars": 5
+            },
+            {
+                "review": "A really, really good sit-down pizza place, and so much better than Papa Dels (that's sacrilege in C-U, but it's the truth). The thin-crust pizza is fantastic, and reasonably priced. My girlfriend and I normally order either a pineapple pepperoni or a bacon pepperoni (sometimes half-and-half) and it's fantastic. I also love the atmosphere; I don't play pool, but the building is gorgeous (I'm a sucker for the tin roof) and the place is lively. The garlic bread isn't really worth it, and the beer selection is kind of lame (all the domestic Big Three bottles you can drink!), which keeps it from five stars, but I like Jupiter's a lot.",
+                "reviewer_id": "qR6jQSCWN94STCjsnTU8vQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.16376848352979484,
+                    "positive_probability": 0.8362315164702117
+                },
+                "stars": 4
+            },
+            {
+                "review": "I love Jupiter's pizza. Lots of different excellent combinations available.Lots of good drinks to be had. (Bell's!)Lots of pool to be played.Why not 5 stars? Every time I go the service is horrendous. Absolutely terrible. Not because the server is inherently bad at what he/she does but the place is understaffed and our server was most likely a bit overwhelmed.",
+                "reviewer_id": "rMf_QIAUHMIr3OJybv5Ylw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.1683554603510473,
+                    "positive_probability": 0.8316445396489539
+                },
+                "stars": 4
+            },
+            {
+                "review": "Amazing thin crust pizza!  We moved to CA and cannot find anything even close!  Good salty meats and delicious sauce!",
+                "reviewer_id": "RmQn2jSDW4fYEKU5OG3tEg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6321335522089327,
+                    "positive_probability": 0.3678664477910687
+                },
+                "stars": 4
+            },
+            {
+                "review": "When CU goes smoke free in January I fully expect myself to go to Jupiter's like 100 times a month.  Although I don't really like thin crust pizza, for some reason the Jupiter's topping combinations always hit me just right.  Especially the pizzas with meat on them.  Yes.  Meat Pizza.I wish there were more seating, so I could bring more massive groups with me.  Jupiter's is an extremely popular departmental happy hour site, and when even 20 of us show up we pretty much fill up all the seating in the entire bar.Pizza is good, beer is good, not too loud, lots of pool tables, very few skanks!",
+                "reviewer_id": "sleEMt44E1StWrjz3mcujQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3930036555942901,
+                    "positive_probability": 0.6069963444057014
+                },
+                "stars": 4
+            },
+            {
+                "review": "Yes.  You win, Jupiters.  Happy hour special providing me with cheap yet delicious beer?  Check.Super cheap pizza, making life amazing?  Double check.Okay, Jupiter's has happy hour specials that are WONDROUS.  I got a magnificent large pizza for only $8.  And it was huuuuge.  How huge?  It was so big I ate  leftovers for lunch, dinner and another lunch during the week.  For eight dollars!Jupiters, I will sing your praises on the harp, lyre, and xylophone.  Seriously.",
+                "reviewer_id": "SpKVX3rt892E-BrL-yeqiw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.00384436228101848,
+                    "positive_probability": 0.9961556377189815
+                },
+                "stars": 4
+            },
+            {
+                "review": "Great staff, great beer selection, beyond decent drink specials, Gyro Pizza... done!",
+                "reviewer_id": "Tl2Gw7MX0srZ-S0W_lCiwA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.503271541418061,
+                    "positive_probability": 0.4967284585819382
+                },
+                "stars": 4
+            },
+            {
+                "review": "This place is a great place to grab a thin crust pizza with friends. We are regulars, especially at their new location! More seating! You still can't get in on weekend nights -- but that means they'll be around for a while!",
+                "reviewer_id": "TvrTbQhIU_DBdUeztt49Fw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.17166795791346987,
+                    "positive_probability": 0.8283320420865291
+                },
+                "stars": 4
+            },
+            {
+                "review": "This was always one of my favorite bars in downtown Champaign.  The pizza is quite good I think, and had a very unique light crackery crust.  Some of the best thin crust I think I have had.  Bar is nice and roomy, good place to play pool.  The bar could get very crowded on weekends though, nothing aproaching green street bars though.  Nice segueway bar on the transition from \"college\" bar patrion to normal bar patrion.  Sadly many don't make this transition.",
+                "reviewer_id": "TZCbIU6_8rTxxtFNUo3hBA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.01621230885480692,
+                    "positive_probability": 0.9837876911451925
+                },
+                "stars": 5
+            },
+            {
+                "review": "This place is a nice and just the downtown place where you want to spend a weekday evening for a drink and some nice pizza. The atmosphere is generally good.",
+                "reviewer_id": "U-UQzI4kp-btg4Ee3Vo1JQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3899199802689834,
+                    "positive_probability": 0.6100800197310143
+                },
+                "stars": 4
+            },
+            {
+                "review": "Great ambiance; good, creative thin-crust pizza specialty, and plenty of pool tables, all at good prices.  You can't go wrong with Jupiter's if you're in a pool or pizza kinda mood.",
+                "reviewer_id": "UHgo14XWliFG-hQrhNnSMg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3375715410874879,
+                    "positive_probability": 0.6624284589125125
+                },
+                "stars": 4
+            },
+            {
+                "review": "There is better pizza to be had, and there are places with better beer selections. There is no place in Champaign-Urbana with a better beer selection that also serves pizza, though, and the pizza is not half bad, if you like your crust cracker-thin and crisp. I like the smoked salmon. I was very sad on my recent visit home to find that Bell's no longer distributes in Illinois. That is tragic. You can still get Lindeman's on draft though; I'm not sure you can even get that at the Blind Pig. I can't wait to go home again now that C-U is smoke-free. I will be able to enjoy this place at times other than 2 PM when there are actually other humans there.",
+                "reviewer_id": "uKgbjPhcrS2pi9hS39Az6A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.10112191818572071,
+                    "positive_probability": 0.8988780818142749
+                },
+                "stars": 4
+            },
+            {
+                "review": "Pool tables galore!Good thin crust pizza's.Daily drink specials (and the beer is always cheap).Lots of seating.Moreso pool hall than sports bar, so not a lot of flat screens around.Nice waitstaff.Any questions?",
+                "reviewer_id": "urDog6OhPoNKPJFUDob7AA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.949609202706246,
+                    "positive_probability": 0.050390797293752426
+                },
+                "stars": 4
+            },
+            {
+                "review": "Great place for thin pizza and pool. Tuesday are half off and well worth it!! DO NOT go to the \"new\" Jupiter's at the Crossing (see my review). Sausage and pepperoni pizza is my favorite here.",
+                "reviewer_id": "VFO8RtZQOGOUpOxbVpMNRA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.49234385125584545,
+                    "positive_probability": 0.5076561487441535
+                },
+                "stars": 4
+            },
+            {
+                "review": "The pizza was pretty good. I thought it was a little expensive, but it was exotic enough to make up for the slightly inflated price.So why two stars? Jupiter's has the second-worst service I've ever had, mostly due to the surliest, most hostile waitresses I've ever interacted with. Just awful. I'll never go back.",
+                "reviewer_id": "w3IN3jqALtmh56TLnBdYQQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.23091078536294168,
+                    "positive_probability": 0.7690892146370634
+                },
+                "stars": 2
+            },
+            {
+                "review": "Ever since Amandos Pizza on Philo road closed there has been a lack of decent places to go. Last night we thought we'd try Jupiter's. The big-screen TVs are prevalent and made watching the game easy. There are plenty of billiards tables in the summer when the students are gone. The pizza however was only okay. Thin crust, w a passable amount of toppings but no discernible signature taste or style. We also had a salad which was supposed to be Greek but didn't really measure up (no cucumbers, no onions). We'd go back but mostly due to the lack of quality pizza places in town.",
+                "reviewer_id": "wgdCHuRBx-36KAyRn-AMtg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8690274308746856,
+                    "positive_probability": 0.13097256912531255
+                },
+                "stars": 3
+            },
+            {
+                "review": "Overall, a little pricey but fun for the kids and grown ups. If you sit downstairs, there is an arcade and additional pool tables and large bar area. You can watch the kids in the arcade while you sit and eat and drink. There are several large tvs throughout, with every single sports event you can think of. The pool rates are inexpensive at only $6 per hour. The only sketchy issue I had was that there was a back entrance which led into a room where horse race betting is going on, and it's close to the arcade.",
+                "reviewer_id": "wpbUBx6VXe2mT7rqW72Y3w",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.623148450838095,
+                    "positive_probability": 0.37685154916191094
+                },
+                "stars": 4
+            },
+            {
+                "review": "Jupiters is great! Really great thin-crust pizza, (Italia would be proud) awesome sophisticated toppings (my fav is the Prosciutto and Artichoke...YUM!). The only downside for me (hence not 5 stars) is the small number of outside tables, BUT I have always been able to sit outside. I reckon it would be cooler if there was more of an outside 'vibe' there, especially being a block out of the way from the other downtown restaurants... I am still a fan.",
+                "reviewer_id": "wtsl05RJj5f6YBDQPEwP2w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.026316582969254366,
+                    "positive_probability": 0.973683417030747
+                },
+                "stars": 4
+            },
+            {
+                "review": "Excellent pizza (full disclosure: I was a cook here) and decent beer selection. The pool tables make it difficult to socialize at time,  the bar space is too long and not wide enough. However, if you like pool, these are very good tables.",
+                "reviewer_id": "xWk5yxPRN2a83D-c9TAyVg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.604801454054782,
+                    "positive_probability": 0.3951985459452201
+                },
+                "stars": 4
+            },
+            {
+                "review": "Jupiter's was always a favorite when going out.  Great games, lots of pool tables (esp. awesome for those nights when the joint is packed and you really wanna play)!  The music is usually good (maybe more trendy for my tastes, but that doesn't take away from it, obsly).  What does, though, is their service.  Super slow.  It's usually _okay_ (the service that is), but I've had a rude bartender or two!  I suppose that comes with the rush of a fast paced and crowded bar on a Saturday night.All in all, I wouldn't say Jupiter is extremely outstanding, or extremely poor.  It's just a run of the mill bar in downtown Champaign (though, it could pretty much be places anywhere).  It offers some great entertainment, with some good refreshment (albeit expensive!!), with the option of a thin crust pizza!  Totally a three-starer!",
+                "reviewer_id": "YtbXNQJEJAHZK_2DFXSa6w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.03537482358956754,
+                    "positive_probability": 0.9646251764104232
+                },
+                "stars": 3
+            },
+            {
+                "review": "Delicious pizza, fun atmosphere, good beer. Will be back again soon for sure! I recommend the prosciutto di parma pizza and the BBQ chicken pizza. Yummyyyy",
+                "reviewer_id": "Zg46SvjULX-Pez81ymp2TA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.11063294886543276,
+                    "positive_probability": 0.8893670511345669
+                },
+                "stars": 4
+            },
+            {
+                "review": "Great F-ing pizza.  That's it, nuff said!",
+                "reviewer_id": "zkRH-NOAdIjJjU2ASeXZ1g",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.375,
+                    "positive_probability": 0.6250000000000006
+                },
+                "stars": 5
+            },
+            {
+                "review": "Great pizza and friendly service.  The place is plenty big, so it doesn't get too loud.",
+                "reviewer_id": "ZRWDnvo07YZxxtrDYWf02A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.1994972720401968,
+                    "positive_probability": 0.8005027279598026
+                },
+                "stars": 4
+            }
+        ],
+        "similar_restaurants": [
+            "pPWre8lbVAssER6CN0uWMw",
+            "-0GkcDiIgVm0XzDZC8RFOg",
+            "EYFV3b2fkt1fOqYnasonfA",
+            "dw6kMj7WSA2ZRk0FqqjqrQ",
+            "oVX8BPEWRl4iBgApA3PBYw",
+            "05FJCAvUFOAk8B_nIOqt7A",
+            "PeQ3gtLHAg9ov0YuM-m21A",
+            "9p3O_KoH3muITR-9WgrSnA",
+            "rm2OnyNDnlWkSNUSxETsGg",
+            "MSMdhoUraQ0DLLwmLbM28A"
+        ]
+    },
+    "_FAKUOcKi8PoztprX95oGw": {
+        "keywords": {
+            "bigrams": [
+                "vip_lounge",
+                "plus_vip",
+                "magic_show",
+                "four_mentioned",
+                "vip_zone",
+                "lounge_star",
+                "stay_vip",
+                "vip_area",
+                "star_review",
+                "students_don"
+            ],
+            "unigrams": [
+                "place",
+                "vip",
+                "lounge",
+                "plus",
+                "drink",
+                "time",
+                "bar",
+                "show",
+                "club",
+                "important"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "full_bar",
+                "Coat Check": true,
+                "Delivery": false,
+                "Dogs Allowed": false,
+                "Good For Dancing": false,
+                "Good For Groups": true,
+                "Happy Hour": true,
+                "Has TV": true,
+                "Music": {
+                    "background_music": false,
+                    "dj": false,
+                    "jukebox": true,
+                    "karaoke": false,
+                    "live": false,
+                    "video": false
+                },
+                "Noise Level": "quiet",
+                "Outdoor Seating": true,
+                "Parking": {
+                    "garage": false,
+                    "lot": false,
+                    "street": true,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 2,
+                "Smoking": "outdoor",
+                "Take-out": true,
+                "Takes Reservations": true,
+                "Waiter Service": true,
+                "Wheelchair Accessible": true,
+                "Wi-Fi": "free"
+            },
+            "business_id": "_FAKUOcKi8PoztprX95oGw",
+            "categories": [
+                "Nightlife",
+                "Cafes",
+                "Karaoke",
+                "Pool Halls",
+                "Restaurants"
+            ],
+            "city": "Urbana",
+            "full_address": "214 W Main St\nUrbana, IL 61801",
+            "hours": {
+                "Friday": {
+                    "close": "02:00",
+                    "open": "12:00"
+                },
+                "Saturday": {
+                    "close": "02:00",
+                    "open": "12:00"
+                },
+                "Sunday": {
+                    "close": "01:00",
+                    "open": "12:00"
+                },
+                "Thursday": {
+                    "close": "01:00",
+                    "open": "12:00"
+                },
+                "Tuesday": {
+                    "close": "01:00",
+                    "open": "12:00"
+                },
+                "Wednesday": {
+                    "close": "01:00",
+                    "open": "12:00"
+                }
+            },
+            "latitude": 40.112708,
+            "longitude": -88.209562,
+            "name": "A Plus VIP Lounge",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media4.fl.yelpcdn.com/bphoto/qLWnN0PF50BlSOe2v7PQfA/ms.jpg",
+            "review_count": 11,
+            "stars": 4,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "This place is never going to be a hopping dance club but I could see this place being a super fun karaoke place. It seems there's a lot of drama in the reviews of A Plus VIP Lounge, but my honest experience wasn't bad, nor was it outstanding, either. Unfortunately, the location isn't on campus and I'd expect most students don't necessarily know about A Plus VIP Lounge. ",
+        "reviews": [
+            {
+                "review": "I visited the VIP Lounge for the first time this evening. When I walked in I was amazed at how awesome the decor looked. They are still working on the menu but I had some appetizers that were really good. The staff were very personable and friendly. I will be back and you should check it out.",
+                "reviewer_id": "4STVvvnNIP1fpvIF61c79A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2107105718251807,
+                    "positive_probability": 0.7892894281748165
+                },
+                "stars": 4
+            },
+            {
+                "review": "i believe this is the best bar in this area, and when I walk in this place it give a new feel about the bar, modern, and rock! The food is good and the price is fair.Drink is so deliciousand I went to there lots of times, not only for fun but also for the service. The dancers are so hot and the Dj is really professional.  I didn't get point for who give the so low rate for this place.",
+                "reviewer_id": "_wn2c9w2VqqoEL5uaEBeAA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6115379239529157,
+                    "positive_probability": 0.3884620760470833
+                },
+                "stars": 5
+            },
+            {
+                "review": "Had a bit doubt when I heard it the first time. Just have checked it out last weekend and guess what, I LOVE IT! THE MUSIC IS BEYOND AWSOME!!! I used to have the thought of open a bar like this. Since there aren't any premium or high-class club here at CU. Shame it's still a thought to me but someone else make it real. This is my first comment, usually I'm too lazy to leave any but not this one! I'm telling u I'll seek for job there, maybe u will see me working there next time you go to A plus! At least I could be part of this club? l don't know lol",
+                "reviewer_id": "B8RVL1k1PsxhDGM-Dlghdw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8776479306611895,
+                    "positive_probability": 0.12235206933881039
+                },
+                "stars": 5
+            },
+            {
+                "review": "Lol,Being there twice a Month. BEST nightclub in ILLINOIS. I really like their fruit plate and chicken tender. Strongly Recommended.",
+                "reviewer_id": "BgSpdrMACjW9upLau7UsnQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.19031202066879838,
+                    "positive_probability": 0.8096879793312005
+                },
+                "stars": 5
+            },
+            {
+                "review": "This place has been completely revamped. What a great experience! Give this place a try for a great evening out. Private karaoke rooms and great staff. Who knew this was in Urbana?",
+                "reviewer_id": "BW9X1D7eIFt-sHrWItRPYQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.15698888607488068,
+                    "positive_probability": 0.8430111139251185
+                },
+                "stars": 5
+            },
+            {
+                "review": "The other reviews do not help when you're deciding whether or not to come here. We avoided this place for a long time because the only genuine reviews here were so negative and we didn't want to accidentally walk into an upscale version of Hooters. We ultimately decided to try it on an impulse while walking by to buy tickets for an upcoming event. Our experience was surprisingly average! Despite the odd claims that the waitresses  are \"super hot\" I was happy to find them to be very average and down to earth. Most importantly, I was happy to see that there were no stripper poles, blacked out windows,  or scantily clad bartenders. We decided that this place would be great to rent or reserve for a celebration or to come for karaoke. Let's be honest, it's Urbana. This place is never going to be a hopping dance club but I could see this place being a super fun karaoke place. They've got a big stage that's just perfect for it.There are definitely a few things to be desired. They're trying really hard to appear high end but the menu consists of low end bar food. The music doesn't fit the ambiance at all. They were playing a mix of classic rock and top 40 when the vibe is more suitable for r&b or jazz. There was also a lingering odor of deep fryer.In the end, we were happy this place wasn't as trashy as it sounded and will probably be back to check on updates and look into reservations for an upcoming special occasion.1/30/15 UPDATE I came here for the magic show and I was chewed out by the owner and security for 'blocking the view' of a man. I guess it was more important that the lazy guy behind me have a completely unincumbered view in his comfortable seat than it was for me, a petite girl and devoted yelper to enjoy the show. After the show was over, I guess the owner didn't want all the pesky customers to hang around and enjoy another drink while they talk about the magic show. It was probably a better idea to go back to blasting techno at full volume and to initiate a fully overstimulating light show for an empty room. I am being generous by maintaining 2 stars instead of dropping them down to one. They are so lucky this magic show was in their establishment. It was so entertaining, its the only reason I'd be caught dead at A Plus VIP Lounge.",
+                "reviewer_id": "D98vylCT1fLKBIU6iAKxhw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.011559717853038689,
+                    "positive_probability": 0.9884402821469527
+                },
+                "stars": 2
+            },
+            {
+                "review": "April 2, 2014 - Ben B. gives A Plus VIP Lounge a 1-star review.April 3, 2014 - Evan B. gives A Plus VIP Lounge a 1-star review.April 6, 2014 - Four first-time Yelpers give A Plus VIP Lounge four separate 5-star reviews.Three out of the four mentioned that the drink prices have been lowered. Three out of the four mentioned the \"hot\" dancers/ waitresses.Two out of the four mentioned the nice \"decorations\" (WTF?)If you think those 5-star reviews are genuine, I have some ocean-front property in Nebraska that I'd like to talk with you about.",
+                "reviewer_id": "e37t64ZzWb63mx1hBWpdJw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.39920610343262986,
+                    "positive_probability": 0.6007938965673705
+                },
+                "stars": 1
+            },
+            {
+                "review": "Best place on campus for karaoke hands down; I have no idea how the bar is. They have a digital song select system with HK, English, Mandarin, Japanese, and Korean systems. Service is beyond exemplary. 10/10 would sing again",
+                "reviewer_id": "rDL3mFi_O54w_7yvqXW9dw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.08472337989958474,
+                    "positive_probability": 0.915276620100417
+                },
+                "stars": 5
+            },
+            {
+                "review": "Walking into this place, I had high hopes for what I'd find inside.  It's got a nice sound system, lighting is nice and the decor is beyond what I had expected. The issue with this place is that it's clearly owned by people who have not spent much time in a nightclub.  First, if you're going to buy bottles, there should be no cover charge.  Second, if you're asking about bottles at the door, there should be at least 2 hosts (and the owner if it's as slow as it was that night) greeting you and asking how they can help.  The drinks are under poured, the cups and under sized and I was less than impressed with the clientele.  If you want people to spend lots of money in your club, then you need to dress the part.  Sadly, this place isn't going to survive . . .",
+                "reviewer_id": "u7N03aRWFipKK3bE_wX8vg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.38632864722640115,
+                    "positive_probability": 0.6136713527735975
+                },
+                "stars": 1
+            },
+            {
+                "review": "Well, I should say FINALLY THERE'S A TRUE NIGHTCLUB!!! Fantastic decoration, stunning sound system, hot waitress (which I think very important!!!) And of course all kinds of drinks. Price used to be a bit high(but worth it personally speaking), but I've just heard that they adjusted the price(AWWWSOME!!) I definitely need to go check the wine list myself! Maybe you should, too. One more thing to say, I have read other comments below and here's my thoughts: Walking into VIP zone or fled with unpayed bill, that's not the club's fault I guess? Let you stay the VIP zone is just been nice and charge before serve is just being cautious as far as I can tell. Anyway, check it out urself and prove whether I'm right or wrong!",
+                "reviewer_id": "VbPjvBYwqiqPONRHAN_lHw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.23734667180759722,
+                    "positive_probability": 0.7626533281923993
+                },
+                "stars": 5
+            },
+            {
+                "review": "It seems there's a lot of drama in the reviews of A Plus VIP Lounge, but my honest experience wasn't bad, nor was it outstanding, either.I've seen the place walking by and heard rumor it was an upscale, perhaps expensive, club-like atmosphere. We decided to come at around midnight on a Saturday to give it a shot.We were pleasantly surprised to find there was no cover charge, but quickly found out perhaps why that was.... there was hardly anyone in the place, practically empty!We scoped the place out before ordering and I was actually impressed with the ambiance and dcor, it really has the look and feel of a city nightclub or lounge. It was extremely clean and well-kept which is a nice change of pace from the notoriously scummy campus bars. I asked for a menu to look at the cocktail list, I ordered a \"Taurus\" and my roommate got an \"Innocent Eyes\". I very much enjoyed mine, I thought it was a really tasty cocktail. He thought his may have been a little on the weak side. These were $8 each, a little expensive, but in all fairness it was a great cocktail I would order over and over. My only reservation about the price was because I could have sworn I seen the bartender(s) use the well liquor in my drink, and I would at least expect something a little better than wells for an $8 drink.  A cranberry vodka I had later was ~$5. Other friend was a little disappointed they didn't know how to make a \"Singapore Sling\", which perhaps might have been more likely at a nicer place like this, oh well, not a big deal. He did like the Mai Tai they mixed up though. The place uses the goofy iPad/tablet for when you close a tab or buy a drink with a card, which is a pet peeve of mine, especially when our intoxicated group can't figure out how to work the damn thing.They had a DJ that night and the music was typical mixed top 40 stuff, not necessarily my style, but I have heard worse and the volume was not entirely unbearable. The ~10 other people in there had taken spots up from closer to the DJ while our crew hung out towards the back and more or less watched. This girl, bless her heart, approached us and asked what it would take to get us up front dancing in terms of a song. Drunken me blurts out \"Stayin' Alive\" by the Bee Gees since the group kind of hesitated. It was the first thing that came to mind and it's a dancing classic for anyone who appreciates music of that style and vintage. She looked a little confused and didn't seem to know the song, but alas went up and requested the DJ play it, which after a quick dirty look he reluctantly did. We had our couple minutes of fame, embarrassed ourselves, and returned to our table and resumed observing everyone else.I really think this place has some potential to be awesome. Unfortunately, the location isn't on campus and I'd expect most students don't necessarily know about A Plus VIP Lounge. I would definitely say there is a customer base for this type of establishment at UIUC, students just don't seem to be aware of it and consequently draws more local people. They should do some campus advertising, maybe even have a one time (or more often) discounted Friday or Saturday drink special to get the ball rolling.Maybe we came on a bad night, it was a little rainy/drizzly so that could be a factor.I will definitely come back.",
+                "reviewer_id": "XzIKZTb4I-7wW4BjKwV2Mw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.1383225410464728,
+                    "positive_probability": 0.8616774589535587
+                },
+                "stars": 4
+            }
+        ],
+        "similar_restaurants": [
+            "jydmaHFFWpKKDKTJLwThyA",
+            "pPWre8lbVAssER6CN0uWMw",
+            "eNEV1AbQsDMYtxCeXXpUGQ",
+            "6U94ybDpNd0fTL7TIzb5Kg",
+            "rm2OnyNDnlWkSNUSxETsGg",
+            "RSk-BYX8s5027cKo_aELrw",
+            "oHKjjwehNipcGIYBThWg9w",
+            "DntkMrzlbFPdOdxJtEWLBw",
+            "ey7-ihj-OjM4sEOwWTc06Q",
+            "OxMl_jn8qNvV-pU2Dxj52w"
+        ]
+    },
+    "pPWre8lbVAssER6CN0uWMw": {
+        "keywords": {
+            "bigrams": [
+                "shells_floor",
+                "free_peanuts",
+                "downtown_champaign",
+                "pool_tables",
+                "pretty_good",
+                "beer_selection",
+                "thin_crust",
+                "bar_food",
+                "peanut_shells",
+                "good_food"
+            ],
+            "unigrams": [
+                "place",
+                "food",
+                "bar",
+                "good",
+                "great",
+                "esquire",
+                "pizza",
+                "champaign",
+                "cheap",
+                "time"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "full_bar",
+                "Ambience": {
+                    "casual": true,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "BYOB": false,
+                "BYOB/Corkage": "no",
+                "Caters": false,
+                "Coat Check": false,
+                "Delivery": false,
+                "Good For": {
+                    "breakfast": false,
+                    "brunch": false,
+                    "dessert": false,
+                    "dinner": true,
+                    "latenight": true,
+                    "lunch": true
+                },
+                "Good For Dancing": false,
+                "Good For Groups": true,
+                "Good for Kids": false,
+                "Happy Hour": true,
+                "Has TV": true,
+                "Music": {
+                    "dj": false,
+                    "jukebox": true,
+                    "live": false,
+                    "video": false
+                },
+                "Noise Level": "loud",
+                "Outdoor Seating": true,
+                "Parking": {
+                    "garage": false,
+                    "lot": false,
+                    "street": true,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 1,
+                "Smoking": "outdoor",
+                "Take-out": true,
+                "Takes Reservations": false,
+                "Waiter Service": true,
+                "Wheelchair Accessible": true,
+                "Wi-Fi": "free"
+            },
+            "business_id": "pPWre8lbVAssER6CN0uWMw",
+            "categories": [
+                "American (Traditional)",
+                "Pizza",
+                "Nightlife",
+                "Pool Halls",
+                "Restaurants"
+            ],
+            "city": "Champaign",
+            "full_address": "106 N Walnut St\nChampaign, IL 61820",
+            "hours": {
+                "Friday": {
+                    "close": "02:00",
+                    "open": "11:00"
+                },
+                "Monday": {
+                    "close": "02:00",
+                    "open": "11:00"
+                },
+                "Saturday": {
+                    "close": "02:00",
+                    "open": "11:00"
+                },
+                "Sunday": {
+                    "close": "02:00",
+                    "open": "11:00"
+                },
+                "Thursday": {
+                    "close": "02:00",
+                    "open": "11:00"
+                },
+                "Tuesday": {
+                    "close": "02:00",
+                    "open": "11:00"
+                },
+                "Wednesday": {
+                    "close": "02:00",
+                    "open": "11:00"
+                }
+            },
+            "latitude": 40.116597,
+            "longitude": -88.242292,
+            "name": "Esquire Lounge",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media1.fl.yelpcdn.com/bphoto/fTtb9OrNvgzTgosO2E6gxA/ms.jpg",
+            "review_count": 81,
+            "stars": 4,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "I really like the place. The food was pretty good as well. This place is great for what it is. ",
+        "reviews": [
+            {
+                "review": "Not so bad, and definitely not traditional bar food. That said, we opt for better food in the downtown area.",
+                "reviewer_id": "-9JGmOgqza0FDkzYLP48Zw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3704185007832522,
+                    "positive_probability": 0.6295814992167502
+                },
+                "stars": 3
+            },
+            {
+                "review": "Came to this place to end the night after celebrating a friend's birthday. Shared fries, fried potstickers, pizza and chicken tenders. The food was decent. Either that or I was starving - probably the latter. The server was a bit pushy and had an attitude. After we ate, we played a few rounds of pool. At this point I probably would've gave this place 3 stars but it's what happened at the end of the night that completely turned my night sour. As we were leaving, a staff member came and started screaming bloody murder at us. I was stunned and asked my friends what was going on. From how she was acting you would've thought someone had gotten killed. Turns out my friend forgot to pay for pool. She was out her damn mind yelling at us like she was crazy! The way this woman acted was completely rude and unprofessional. There are numerous ways she could've dealt with this situation and the way she chose was completely and utterly unacceptable. Honestly don't know how this place is still in business. Wish I could give this place 0 stars. Yeah, it's THAT bad. I will NOT be coming back!!",
+                "reviewer_id": "04-E5-69Se-vW8heDXI_gA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7991777705941268,
+                    "positive_probability": 0.2008222294058584
+                },
+                "stars": 1
+            },
+            {
+                "review": "Mostly great venue.  Beer selection is good.  Easy to get to.  Food is ok.  Salmon is awesome.   Just a few times there was an issue with either too much noise from the TV or jukebox so I couldn't hear the person next to me.",
+                "reviewer_id": "19MN_BLvpQe-isX7oPWypg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2634358941969453,
+                    "positive_probability": 0.7365641058030544
+                },
+                "stars": 4
+            },
+            {
+                "review": "Coming from California, these are the cheapest drinks I've ever encountered! We called ahead of time to ask them to play the niners game, even though the bears / packers were the favored game of the day (and time). They had a TV set up all ready with the niners game when I got there.There are peanut shells all over the ground, which I find a little tacky and dangerous. The Pizza was pretty decent - thin crust. We ordered the Hawaiian although we substituted BBQ sauce for regular pizza tomato sauce.There are fun pool tables and other arcade games. A jukebox for your favorite tunes can be found near the bar, i think.This place seems to be a staple of downtown champaign.",
+                "reviewer_id": "2g4y_xXf_tddha1oS8TcTg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.88718369203364,
+                    "positive_probability": 0.11281630796636771
+                },
+                "stars": 4
+            },
+            {
+                "review": "Delicious pineapple margarita and burgers. Can't go wrong!",
+                "reviewer_id": "3Rf4NmgjmZJxuA2bOiqjig",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7399283795881829,
+                    "positive_probability": 0.2600716204118175
+                },
+                "stars": 5
+            },
+            {
+                "review": "Atmosphere is fun and a great place to come out and shoot pool with friends but I can't stand coming here for lunch. I don't know why I bothered trying a second time. So my main complaint about the lunch dining experience is sanitation. I ordered the burger the first time and a hot dog the second. I guess some people don't mind having a communal condiments station but I have a problem with this. The fresh produce like pickles, onions, and lettuce are not refrigerated at all at the communal condiments station. I mean at least puts some cold ice under the box of pickles, lettuce, and onions at least! The ketchup bottle and mustard container all looked like it was ready for the dump. The tips were hardened and crustified and it just looked out of date because no one bothered to keep em clean. Stickyness galore. Wash your hands if you still decide to go. Anyway, minus food but fun joint. Proceed with caution cuz after a few beers you might just make a drunk order of food and realize you got yourself into a bigger mess then you had planned.",
+                "reviewer_id": "4C5qJ_azTyJ3xz_cdrcgMQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9677519680901616,
+                    "positive_probability": 0.03224803190985477
+                },
+                "stars": 2
+            },
+            {
+                "review": "Although I enjoy coming to the Esquire, I have sat on the side where the bartender Rich works. On more than one occasion this man acts as if we are in his way rather than welcoming us as guests. Last time we were there he was in a particularly bad mood, being nasty to his fellow workers and acting as if the patrons were in his way. I come to a bar to have a relaxed fun evening, Rich has more than once made the evening very uncomfortable.I have been in the bar when Rich wasn't working, and when he is not there the people behind the bar are relaxed, they smile, and seem to have fun, but when Rich is there everyone is on edge and grumpy. God forbid anyone does anything in his \"territory\", they get a nasty look. This man is more worried about making sure that everything behind the bar is in its place and perfect, than he is about giving good service to his customers, he will walk by an empty glass many times without asking if you need another drink, you have to flag him down.I think he has been there much too long, and has lost the knowledge that the customer comes first.",
+                "reviewer_id": "7aqWgSCoIx0ykH9zWCLVeA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4768718808350452,
+                    "positive_probability": 0.5231281191649578
+                },
+                "stars": 3
+            },
+            {
+                "review": "This place is great for what it is. Cheap food, cheap beer and alcohol (hefty wine pours!), and a nice atmosphere. Service was super fast. Salad was surprisingly fresh (and only $3.50!). Pizza was great. Throwing peanuts on the ground was fun. Overall, great experience.",
+                "reviewer_id": "7GMeht7p0vgETW2Ik1XINg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9131713655905463,
+                    "positive_probability": 0.08682863440945558
+                },
+                "stars": 5
+            },
+            {
+                "review": "These people are great!  Knowledgable and friendly.  We are out of town era and they made us feel like family.  Go huskers!  Love us some Illini hospitality!",
+                "reviewer_id": "_ar4-2IAQtR0XmetIfH8fw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.1000897314627814,
+                    "positive_probability": 0.8999102685372193
+                },
+                "stars": 5
+            },
+            {
+                "review": "Holy hell. What have I been doing with my life? My grad program loves to party here, but for whatever reason I had never come. I am regretting all the times I went to campus bars. I'm not a grown up by any stretch of the imagination, but this place had no undergrads in sight. Plus, the deals! 18 Asian dumplings for around 5-6 dollars? Delicious black bean burger for about 5 bucks? Gin and tonic (my standard drink) for less than 4 bucks? What is not to love?Add in the great service, the nice sized televisions for sporting events, pool tables that I am dying to try, and quiet music so we can actually talk to each other and hear ourselves think, and I'm still kicking myself for only checking this place out now. Plus free peanuts! I LOVE FREE PEANUTS. Now, granted, this was a rather quiet Thursday, so we'll have to see what happens if/when it gets busy. But so far, all systems go.",
+                "reviewer_id": "_hz_dF3yYAUdbD8rwqbVPg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.04281091667382644,
+                    "positive_probability": 0.9571890833261705
+                },
+                "stars": 5
+            },
+            {
+                "review": "This will be a review down memory lane.  I grew up in this bar, much like Jackie H's review.  One of the bartenders was my little league baseball coach, then I played on the bars soft ball team.  Even though I have not lived in Chamaign for about 10 years, I can still find people I know, and bartenders that remember me.When I was little I would order kiddy cocktails from the bar, then get change to play on the only pinball machine.  Then stomp on all the peanut shells on the floor.  I have seen expansion many times.  Originally from one bar and a few booths, to a wrap around bar, then finally to the pool hall and extra bar area that you see now.  I have met U of I basketball coaches here, there are pictures of former Cubs players kissing my Mom (wait, what).  My parents originally met here.  It is safe to say my family has a mullti generational history here.Anyway, beyond the nostalgia, it is one of the best pubs to visit in the downtown area.  Just a great place to relax and have a few drinks.  Along with the evolution of the bar, so has the menu.  Now there is a mix of pub grub like burgers, fish sandwiches, etc.  Which I don't think are that great.  Though the various pizzas are very good.  As are the wings, which I am not typically a fan of.  Though these are baked, not fried and battered like most.  The Asian Dumplings are great as well.  The service can be hit or miss.  Depending on the time you come, and where you order.  Bar service is pretty good, but the waitresses can be a bit confused when trying to find you after you place the order.  Though they work hard, and always take care of anything that might be wrong.Drinks are pretty standard.  There are a handful of good micros on tap.  Usually something from Two Brothers or Dark Horse as the main micros available on tap.  A bit more extensive selection in bottles.  The rest is typical drinks for a neighborhood bar.Overall, not perfect.  Though the goods far out way the bad.  An institution in the downtown Champaign area, and a place I will always love.",
+                "reviewer_id": "aF4FWUbU0Tq6jH0FZKSQlw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 1.9095243930029303e-06,
+                    "positive_probability": 0.9999980904756093
+                },
+                "stars": 4
+            },
+            {
+                "review": "Ruthie AW Harper (unregistered) says:LadyLuvThe Place Where Everyone Feels @ Home...You get the complete package; Good Food, Good Drinks, Friendly Servers and a welcoming atmosphere.",
+                "reviewer_id": "Bnyi4rDlwEI6afiYoo88lw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7950098885297513,
+                    "positive_probability": 0.2049901114702497
+                },
+                "stars": 5
+            },
+            {
+                "review": "I go to this bar every single time I'm in Champaign. They have an actual jukebox that's loaded with good stuff, you can eat peanuts and throw the shells on the floor, they have pool tables, and lets not forget, the CONTUSIONS. They're just shots of pineapple infused tequila and even my friends who hate tequila seem to love them.I also really like this bar because they have some good bar food (lots of fried stuff) and they serve fried food pretty late. This place is also big, so it can feel busy without being shoulder-to-shoulder like some bars. It's just an all around nice place for a chill night or a party with a big group. Probably one of my favorite bars in Champaign. Just make sure you have your ID because they WILL card you!UPDATE: The jukebox is now gone. I am not happy.",
+                "reviewer_id": "BvGV9lMMUmB5hLWkNlY3vw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2367296084809316,
+                    "positive_probability": 0.7632703915190642
+                },
+                "stars": 5
+            },
+            {
+                "review": "It's a great bar with a great drink selection.The feel of the bar makes it acceptable for both 21 year olds and 60 year olds.  You never feel too young or too old here, and that's a plus in my book!",
+                "reviewer_id": "BZjl6W41tc5E2wWyvJ23gQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5717580602925557,
+                    "positive_probability": 0.4282419397074467
+                },
+                "stars": 5
+            },
+            {
+                "review": "My last visit to Champaign treated me to some wonderful places to spend some quality time with friends. Murphy's Pub, The Blind Pig, and others. I would not put Esquire on that list.The decor is uninteresting at best. There is no personality. It's designed to appeal to a crowd that just wants a nice bright place to hang out and drink.Not being a drinker, I can't rate the Esquire on that, but I can rate them on the food, and the food is so forgettable, I forgot to review it. Our group had a couple of burgers, some wings, and a chicken sandwich. I was told the burgers were good. The chicken must be avoided at all costs.The sandwich is one of those strange creations that takes chicken strips and puts them on a bun. I'm not entirely sure why, as this makes an awkward eating experience. The strips were nearly tasteless. Thank goodness for mayonaise. My wife had the wings. After one or two, she was trying to figure out why they didn't seem right. I was going to eat them, but I couldn't, and I LOVE wings. These things had enough salt to turn Lake Michigan into a salt lake. They were awful.  I would not go back at all. I'll eat diner food, fast food, and other kinds of food, but not Esquire Food. Meh.",
+                "reviewer_id": "cExMtU0dgo06kLWAz3p4CQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.05393772776502174,
+                    "positive_probability": 0.9460622722349811
+                },
+                "stars": 2
+            },
+            {
+                "review": "My number 1 \"go-to\" place.  Great food, great drinks, and a great place to just hang out.  The \"Cheers\" of Champaign!Not too long after moving here I stopped in for lunch one day, and that had me hooked.  Lots of friendly regulars hanging out at the bar! And unlike many bars, the kitchen is open until closing, great for a late night snack or late meal.",
+                "reviewer_id": "d1I7WgowWgblUJ9uWgRn6A",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6617134640768033,
+                    "positive_probability": 0.33828653592319397
+                },
+                "stars": 5
+            },
+            {
+                "review": "This is a great place for quick cheap bar food and drinks.The ambiance can be a little trashy at times but whenever we find ourselves downtown and craving some quick food, this is our go to. The menu is surprisingly diverse and high quality for the prices and you can't beat the free peanuts. Their drink specials are pretty great and they have a pretty impressive selection of beer. I wouldn't make a special trip for it but if you want a cheap place to meet up with friends or find yourself hungry in downtown champaign, it's worth checking out.",
+                "reviewer_id": "D98vylCT1fLKBIU6iAKxhw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.01346204225608276,
+                    "positive_probability": 0.9865379577439128
+                },
+                "stars": 4
+            },
+            {
+                "review": "I frequent the bar next door, so I thought I might like this place. Erm. I was floored when I walked in, and the first time I came here, I left immediately. Esquire is rather hideous with an atmosphere not to my taste. Light wood? Really? Okay, that's not a big deal. I guess I'm just not used to this feel. I personally think their drink menu is shot. The positive: this is the only place I've found near campus that serves chicken tenders! Kudos.",
+                "reviewer_id": "dzKYG04n0nLXv6tGFvJX0Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.18027134390170618,
+                    "positive_probability": 0.8197286560982969
+                },
+                "stars": 2
+            },
+            {
+                "review": "My favorite bar. Great mix of people combined with the best thin crust pizza around (love the garden pizza) and topped off with a Crooked Tree on tap. I've never left disappointed!",
+                "reviewer_id": "e-QA3fpgVvOu2a4fBvN8Vw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4877678947179843,
+                    "positive_probability": 0.5122321052820145
+                },
+                "stars": 5
+            },
+            {
+                "review": "Gotta admit that the name of the place belies what's actually inside. When I hear the word \"Esquire,\" I think formal and gentlemen. What I got was scattered peanut shells all over the floor and a normal bar scene. Despite this, this place features some cool billiards. It's a great place to watch sports games and the prices are quite reasonable for the amount of food they serve. They have a condiment bar so you can put as much tomatoes, lettuce, pickles, and/or onions on your food. My burger and fried mushroom meal came out to be $8.49. And if you're feeling like a hipster, they have PBR pints for a dollar on Sunday.",
+                "reviewer_id": "eFIlrOz3TnuZQeh2Y1e17Q",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6555369769182197,
+                    "positive_probability": 0.34446302308177573
+                },
+                "stars": 4
+            },
+            {
+                "review": "Give me some salty peanuts, PBR and Mediterranean pizza from the Esquire anytime!  Best bar in town!",
+                "reviewer_id": "f8CYQPiB2AJs7B2HbzVsbA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6878518575594237,
+                    "positive_probability": 0.3121481424405753
+                },
+                "stars": 5
+            },
+            {
+                "review": "New to town, I got in with a group of Masters students that meet up here every Friday, and so far, this place is awesome.  Lots of room outside and in, cheap drinks and good food at a good price.  Its great to have veggie food at a bar that isn't cheese and/or deep fried!  The portobello mushroom sandwich is delicious.The staff is always available to take more orders, don't mind splitting checks for groups, and there is a wide selection of drinks available.",
+                "reviewer_id": "flj3YISHT7PN0hOK1dqm-Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.39690587990149684,
+                    "positive_probability": 0.6030941200984998
+                },
+                "stars": 4
+            },
+            {
+                "review": "Kind of underwhelming place overall. Average beer selection and limited food selection (their pizza is probably the best thing I've had). Feels like a 90's bar that hasn't done a great job of staying with the times.That being said, there is a nice energy throughout. Staff is great and service is prompt and friendly. The News Gazette has an Illini-based sports talk radio show there on mondays that is always a good time.",
+                "reviewer_id": "GLS1EKLFw81n-3ogxZ_m-w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.009831211362007201,
+                    "positive_probability": 0.9901687886379921
+                },
+                "stars": 3
+            },
+            {
+                "review": "Nice lounge with real people.  The patrons are friendly, easy going and mature, and the music is eclectic - James Brown, Tom Waits, the Black Crowes...keep going.  Good hamburgers and cheddar broccoli.  Also a great black bean burger.  Excellent place to grab lunch.  Reminds me of Southport Avenue in Chicago.",
+                "reviewer_id": "HANb8-8InWnju-XzBQQSBw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.46093682177399886,
+                    "positive_probability": 0.5390631782260051
+                },
+                "stars": 4
+            },
+            {
+                "review": "A friend of mine told me this place has some fantastic Pizza (she being of the skinny eat nothing calorie-full type), and well, I made a mistake of listening to her! It was a Saturday night, when the bar is super crowded.  We were a group of 4, and as always finding parking spots on downtown Champaign can be a such a chore in weekends. Anyway, you order your food to the bartenders. Waiting for the bartender to notice you in a crowded bar could be ok if you want to order a beer or shot, but for food? I don't like the idea. I ordered a Greek Pizza, while the aforementioned friend ordered a garden pizza (I can't remember the name now, but it was their vegetarian pizza) . To be honest, I dodn't like either of them. The Greek one was a disaster. It had clusters of feta cheese spread over a thin crust, and almost nothing else. It was supposed to have sausage, but I couldn't taste any. The vegetarian one, although being the better one, was kind of juicy. A juicy pizza is NOT my favorite. I'm not against non-American-style thin crust pizzas. As a matter of fact, I love Jupiter's pizzas. But these ones, well, you heard me. There should be a reason these were so cheap (I guess around $7), and I now know it.",
+                "reviewer_id": "I3qt_NaZfu3j5RfCQTiq4Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.29328070297743863,
+                    "positive_probability": 0.7067192970225761
+                },
+                "stars": 2
+            },
+            {
+                "review": "I really don't understand how this place can be held in such high regard.  There isn't a particularly good drink selection, the food is terribly mediocre (the burgers are just terrible), and the bar itself has not a remarkable characteristic in sight.While all that is bad enough, I've always felt that the employees here are tremendously standoffish with anyone under 40, and this is the only place I've been to downtown where they'll chase your party down after you walk in the door.  With so many fantastic places in downtown Champaign, the only reason this one hasn't gone out of business has to be the location.",
+                "reviewer_id": "IJ3m1dLcXv_NjDlXQ5J8Iw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.05374994547538168,
+                    "positive_probability": 0.9462500545246261
+                },
+                "stars": 1
+            },
+            {
+                "review": "Literally what it's advertised as.  Cheap, solid food, no frills.  Great beer selection, nice crowd mixed between the locals and the (typically grad) students.  Super convenient location near the terminal.",
+                "reviewer_id": "iKt9RWLOS_PE4SKBRFkKww",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4031904179514891,
+                    "positive_probability": 0.5968095820485092
+                },
+                "stars": 5
+            },
+            {
+                "review": "I stopped into Esquire Lounge for a couple hours in the evening while waiting for the 7:59 PM Amtrak train back to Chicago. This place is right across the street from the station. I sat by myself at the bar, but there were plenty of others riding solo as well. It was THAT kind of place - where the locals can come and drown away their sorrows. Actually, it was much more than that - this place seems to have a little bit of everything. There are pool tables in the back, so you can get that sort of crowd. There are larger tables as well, so you can see some large groups of students gabbing away. There are a good amount of TV's, so there were some people watching the evening college football games. There are decent sized booths, so I saw a couple people typing away on laptops. And there's a jukebox, so some people are silently rocking out to the classics. And perhaps best of all, there were plenty of townies around for some great people watching. At one point of the locals who had clearly had too much to drink began serenading a nearby booth with the Canadian National Anthem. Although he didn't get the words right, I gave him an A+ for effort. The bartenders called the guy a cab and made sure he got home okay. It felt like I was inside some sort of insider club where everybody is friends, and even the students are cool with the townies.The beer selection was surprisingly good. There were a lot of good import options available, although I stuck with $2.25 Bud Light drafts. Remember, I was taking the Amtrak home, so that shows you how much money I wanted to spend.... They have $1.50 PBR drafts too, which is what the locals stuck to. The food was pretty good as well. I had a simple cheeseburger and fries. Although not my favorite burger/fries combo, it was definitely worth the $4.50 I paid. The \"fixin's table\" they have is nothing more than onions, pickles, and tomatoes next to some condiments and sauces - Nothing special there. But there was something cool about being able to put that stuff on yourself, I guess.The charm of this place lies in the characters that visit, and for that alone, I am giving a 5 star rating. The cheap food and beer is an added bonus. And I almost forgot, free peanuts! If I return to Champaign any time soon, I will definitely be back to this place.",
+                "reviewer_id": "IOHviM8q3MLxZadQumjATQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.10828486032104893,
+                    "positive_probability": 0.891715139678946
+                },
+                "stars": 5
+            },
+            {
+                "review": "I'm liking this spot!  Not quite a dive; you can eat free peanuts and toss shells on the floor, so almost.  Most reasonable damn drink prices in town.Cheap good noms: black bean burger, daily soups, fried brocco, and best of all asian dumplings.Larger inside than seems it'd be- there are many pool tables, 2 bars, lots of booths.  Music low enough to hold conversation if so inclined.  Not a shit-ton of kids (undergrads) around to annoy.Good spot to get your grown-folks drink on.  Did I mention the most reasonable drink prices around?  Three pints of PBR under 5 bucks for the win!",
+                "reviewer_id": "iWcr-TRqIuIXqMpd_MrdrQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.18228399929170475,
+                    "positive_probability": 0.8177160007082866
+                },
+                "stars": 4
+            },
+            {
+                "review": "I really enjoyed Esquire and went here quite a bit to play pool and have a very average (but cheap!) pub food experience.  The main problem is that it doesn't have great beer.  It is pretty townie and older for the most part, which is actually kind of nice coming from the Pig or M+Ms, and it does have a decent unpretentious neighborhood vibe (despite not being in a neighborhood).  They do have pineapple infused tequila they make themselves, which is delicious, so make sure to order a contusion.It's a fairly versatile place, good for happy hours.",
+                "reviewer_id": "IXFGCmgnB8YY-jtPCaNYeQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0018142795578476871,
+                    "positive_probability": 0.9981857204421543
+                },
+                "stars": 4
+            },
+            {
+                "review": "Why, yes, I would like to drink a lot, play pool, AND watch the game, all at the same time! Because, really, they have everything here at the Esquire. Cheap drinks, good service, pool, and TVs everywhere; what more could you ask for?!I love the peanuts thing they do, and I love the whole feel of throwing the shells on the floor! I feel like a rebel for making a mess, hehe. Their fries are wonderful to chow down on when you're feeling pretty happy, and their honey mustard is ridiculously good (not sure what kind they use, but I need that in my life!). I was a little disappointed they didn't have Bulleit bourbon, but it could just be a southern thing. I got over it quickly, Makers is a good substitution in my Old Fashioneds. Two thumbs up for Esquire! Will definitely be back next time I'm visiting Champaign",
+                "reviewer_id": "jb9HvgMS_yzY_x5XG9HMgw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5021860753320596,
+                    "positive_probability": 0.4978139246679427
+                },
+                "stars": 5
+            },
+            {
+                "review": "I had the greatest experience at Esquire.  We went for lunch, and had a waiter who was friendly, talkative and helpful, but not overbearing.  Our food was delicious, came hot, and was inexpensive.   The BEST thing was that we were talking about how we love Strongbow on draft, and our waiter chimed in that he thought Bentley's had it-- and actually CALLED over there to make sure! It was a wonderful experience.",
+                "reviewer_id": "jFB4m2Na8fTIhc3TAYoeYw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.01608983526397518,
+                    "positive_probability": 0.9839101647360248
+                },
+                "stars": 5
+            },
+            {
+                "review": "The staff is extremely friendly and attentive. The food is cheap and is great, drunk or sober. I recommend the Asian Dumplings, or a burger. Their Contusions are amazing (Pineapple infused tequila)!! Plus, who can go wrong with free peanuts, pool tables, and a Jukebox?",
+                "reviewer_id": "jNvOk1erftOebAU_EqHszA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4460660182252897,
+                    "positive_probability": 0.5539339817747089
+                },
+                "stars": 4
+            },
+            {
+                "review": "Surprisingly good bar food. Good sandwiches and bag of chips. Cheap beer.",
+                "reviewer_id": "jvcqOUPPVBXErhjfdejPng",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5044676125007955,
+                    "positive_probability": 0.4955323874992046
+                },
+                "stars": 4
+            },
+            {
+                "review": "Where else can you get 2 polish sausages, fries and 2 beers for $13?  Good food, great prices- nice relaxed atmosphere.  Esquire is definitely a place to be visited when in Champaign!",
+                "reviewer_id": "kDpbgd9E61pjUruSWoXgEQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2861882090725007,
+                    "positive_probability": 0.7138117909275009
+                },
+                "stars": 4
+            },
+            {
+                "review": "Love this place. I eat here at least 4 times a week. It has it's own charm and staff are all friendly once you get to know them.",
+                "reviewer_id": "KorhupY8caTmCjmRHrus6w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.34186017699186516,
+                    "positive_probability": 0.6581398230081356
+                },
+                "stars": 5
+            },
+            {
+                "review": "Their pizzas are pretty good -- thin crust. Get the BBQ chicken. The food isn't amazing but it's pretty good for a lounge/bar. I've tried their sandwich as well with pulled pork. This was very tasty! Had it during lunch time when it's not too busy. Apparently they have a buffet lunch or something. Cool, chill place to check out in downtown Champaign.",
+                "reviewer_id": "kRqk2li5lEm8R2EcYDrXBQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9917733592836689,
+                    "positive_probability": 0.008226640716329395
+                },
+                "stars": 4
+            },
+            {
+                "review": "I'm not exactly what keeps me coming back to Esquire, I just really like the place. They don't seem to do anything special, but they serve good bar food in a quiet little restaurant. The super relaxed environment is definitely part of the appeal for me. My wife and I were able to go out for a cheapish, chill date night.",
+                "reviewer_id": "LFqVZJg3-b0VVeCDl1_3zw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.04708619519149279,
+                    "positive_probability": 0.9529138048085044
+                },
+                "stars": 4
+            },
+            {
+                "review": "First off let me say that I am definitely a city girl so restaurants like Esquire are not really my type. I have dietary restrictions and I need to be picky. I came here with my mom and sister to grab some food on Sunday. It seemed to be the only place open. I ordered the portabella mushroom sandwich (super bland), my sister got the chicken salad (she said it was pretty good), and my mom ordered the salmon.Overall the food was nothing special to me however coming from the city to this little suburb area the price for the food was pretty amazing. The salmon only cost $7 and it was a fairly big portion. The servers were nice but the atmosphere was too load. I wont be back here but that mostly has to do with the lack of food options.",
+                "reviewer_id": "LQA6_s-oGR8BMZw0ojTL-Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.44382695558340945,
+                    "positive_probability": 0.5561730444165858
+                },
+                "stars": 2
+            },
+            {
+                "review": "Esquire pretty much kicks ass. I first discovered it while I was working for the city across the street and would come over for lunch quite a bit to get a steak sandwich while I was in the process of packing on the pounds.  I've since lost weight and now I eat the black bean veggie burger (absolutely delicious).  Esquire has grown and changed (a bit) over the years to accomodate the changes in downtown Champaign, but it still retains much of its original character.  I think it and the Brass Rail are the only two places left where you can really hang with the hardcore downtown alcoholics.  I mean HARDCORE!  Esquire is awesome!",
+                "reviewer_id": "mb4VsC0ShawkBLnl3RO9gA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0943068727190532,
+                    "positive_probability": 0.9056931272809454
+                },
+                "stars": 4
+            },
+            {
+                "review": "Cheap, good pub food.  Don't expect fancy. This is a great little local watering hole with pretty good food options for an extremely reasonable price. They have a surprisingly good beer selection and infuse their own liquors.  Seriously a must-try in Chambana.",
+                "reviewer_id": "mm7EL1TCXy1qlIfwjeRF2Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0179615539241553,
+                    "positive_probability": 0.9820384460758469
+                },
+                "stars": 5
+            },
+            {
+                "review": "My fianc and I go here all of the time and love it. It is a great bar for relaxing and enjoying some cheap drinks. The food is typical bar food, but is also priced right. Overall, this is, by far, my favorite bar in Champaign (if not anywhere)!",
+                "reviewer_id": "mr8RyxS-eyrta_7fCTAUew",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.18321559569853288,
+                    "positive_probability": 0.8167844043014648
+                },
+                "stars": 5
+            },
+            {
+                "review": "Great prices on drinks and food. The thin crust pizza is delicious. Good selection of draft beers.",
+                "reviewer_id": "mrUALrjfObhNAEOCnlz-FA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3290735871977669,
+                    "positive_probability": 0.6709264128022308
+                },
+                "stars": 4
+            },
+            {
+                "review": "Great pizza, great atmosphere, free peanuts, and $4.75 pitchers of PBR? ... Can't go wrong here!",
+                "reviewer_id": "mXOIlpKVF4Qsge5NbWBvRA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7763195596523184,
+                    "positive_probability": 0.22368044034768106
+                },
+                "stars": 4
+            },
+            {
+                "review": "Esquire is a gym-class all star: it performs reasonably well in most areas, and can be counted on not to kick the ball into its own goal, but isn't going to catch the eye of any out-of-town talent scouts or date cheerleaders. Its journeyman efforts will win friends and a few high fives, but it is not the flashy varsity letterman. Food here is just fine, and very reasonably priced. I have been disappointed with the size of their appetizers once or twice, but their entrees are a solid value, cooked dependably to be exactly what you expect in pub grub. Prices are very good for downtown Champaign, but they lack the booze selection of a Radio Maria or Blind Pig. The gross looking jar on the bar is infused vodka.Service is always friendly, and fastest at the bar. If you sit at their pretty awesome outside tables, the trade off is that you're gonna get ignored. You can order lunch ahead and pick up 15 minutes later. The free peanuts are priceless, as are the friendly patrons who are more likely than other crowds in town to strike up a convo with you. All this sounds pretty complimentary, but the fact is that this place is not stand-out awesome in any particular way. If you want to take your friends from Chicago to visit 4 places in downtown Champaign that are all different from each other, to give them an idea of what the \"new\" Champaign has to offer, you aren't going to stop at Esquire. Of course, that's just fine with me. I'll at the end of the bar eating peanuts and saying to some dude I just met holy shit the White Sox sure are Cubbing it hard this September.",
+                "reviewer_id": "NGX1PZwHET_oQOT7vkkxag",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 8.069059575956934e-06,
+                    "positive_probability": 0.9999919309404172
+                },
+                "stars": 3
+            },
+            {
+                "review": "This place is vastly different from any of the other restaurants downtown because its atmosphere is neither pretentious nor dumpy.  It somehow manages to straddle the line in such a way that nobody really seems to feel out of place there.  The burgers are some of the best in Champaign.  They have a good char-grilled taste to them that so many other, more pretentious, places lack.  There are a large number of sides to select from, including fried mushrooms, onion rings, french fries, potato chips (which, sadly, just come from a bag), fried broccoli, and Asian dumplings (which my friends tell me are fantastic).  I've had the polish sausage once, and it was passable, but nothing special.  The pizza is good and comes in a number of varieties.The one complaint I have is that the service can be especially hit-and-miss.  There have been times I've been served wonderfully, and there have been times I've been ignored for a half-hour just to refill my drink.Overall, Esquire is a down-to-earth place with good prices and good food.",
+                "reviewer_id": "NKbyFkybUzRt4nug1n7nqA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0002375156289072923,
+                    "positive_probability": 0.9997624843710995
+                },
+                "stars": 4
+            },
+            {
+                "review": "Best bar in Champaign (IMHO) and the closest thing to \"Cheers\" in Champaign. Decent beer selection. Peanuts in the shell, eat them and throw the shells on the floor. 4 pool tables.Relaxed and laid back. Used to be a townie bar, then they expanded it and all types hang out there. Just your basic, no frills, hang out with your buddies, BAR.",
+                "reviewer_id": "NMYx5BZQZ2iKW5tlfyULKA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.47090874901664836,
+                    "positive_probability": 0.5290912509833515
+                },
+                "stars": 5
+            },
+            {
+                "review": "You know you're going to have an interesting night when some random dude swipes some of your fries while you're playing pool. ha! Needless to say the first time I went to Esquire there was a bachelor party and it was hilarious to watch the crazy activities. The selection of booze is fine, there is even a batch of peanuts to grab and munch on while you're hanging out. I tried their fried broccoli recently, it's soooo addicting. The place can be a tad messy, obviously because of the peanuts, and it definitely has a mix of townies and college kids, but it's a pretty fun place to go to for a hang out with friends.",
+                "reviewer_id": "oGOlO-Ly9zwYtyOf-OIykw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.014658727485666302,
+                    "positive_probability": 0.9853412725143368
+                },
+                "stars": 4
+            },
+            {
+                "review": "So me and my husband go here all the time and we gambell if we got it..seldom drink more less eat and run..most the time my husband orders same pizza everytime depending on who takes his order if it comes out right and i flip flop between pizza a hamburgers with fried broccoli..i most the time i have a great experience when everything pans out...",
+                "reviewer_id": "ogrjDQ9CjTr6ieaaG7tXpw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.09716028692349388,
+                    "positive_probability": 0.9028397130765087
+                },
+                "stars": 3
+            },
+            {
+                "review": "Giving all the props because we were at Guidos bar & had terrible service & warm beer. Came here after ,.,Jessica was excellent bartender. Quick, concerned ,,really knows how to make money! Greet guests, talk to them even when you r so busy & suggest items. Let's you drink a little before. killing u with ordering ..at the bar!!!!. She is awesome!! And will be on our 40% tip group. We may be in our 50's but we're in bar biz & know what one should expect. We spend money,..sorry 019 at Guidos,,,you lost out & need to learn the biz",
+                "reviewer_id": "oIeCYnbGeJpLeLrUWBdjeQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8672661277044357,
+                    "positive_probability": 0.1327338722955682
+                },
+                "stars": 5
+            },
+            {
+                "review": "I wanted Pizza - I wanted Good Pizza - Lady Di posted a picture of her lunch on facebbok - and the picture was PIZZA from Esquire Lounge! It looked DMN Good! So on Saturday I ordered one --- Sausage Cheese and Mushrooms..  I have traveled from Coast to Coast - my dad loved tasking me to a place in chicago and spending upwards of 80.00 on what is known as Chicago's Famous Pizza ... Can't touch Esquire Lounge Pizza --- Too Bad I don't drink... So (5) Star!   When I walked in the female bar attendant ingnored me TOTALY - Then a kind gentleman from the back came over drying his hands - all smiles and was California Kind! Sorry I did't tip him... But the female waitress had me SHOCKED! This is 2015 -  THIS PLACE WILL SEE ME AS OFTEN AS I WANT A SNACK! LOL! HAPPY !",
+                "reviewer_id": "OtzLY9HlVbWLaIy2u0dvOg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0032471068895752017,
+                    "positive_probability": 0.9967528931104156
+                },
+                "stars": 5
+            },
+            {
+                "review": "Esquire rocks. The place is dirt cheap and the food is simple and good. 1.50 pints of old style and 3 dollar grilled cheese sandwiches make this place my cheap go to in Champaign. They also have free peanuts which are good when you are too cheap to buy the cheap food, like I am sometimes. It's a bit of an old man bar but the cheapness makes up for it in my mind. Also, they have a number of large pool tables. The place can be pretty packed on a Fri or Sat night as well so it makes for a good time.",
+                "reviewer_id": "oXF1ugDJPy6FUwWCLfywDQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5887234032950069,
+                    "positive_probability": 0.4112765967049903
+                },
+                "stars": 5
+            },
+            {
+                "review": "There's something quite nice about this place. I've heard they're quite cheap with the drinks here, but I'm more a fan of the food. Every pizza I've had here has been really delicious. The ambiance is worth the visit as well, a traditional joint with pool tables on the side. But the bathrooms...avoid the bathrooms.",
+                "reviewer_id": "pD0ntLKZOopi2KmaVxSw_A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.040028710909060364,
+                    "positive_probability": 0.9599712890909406
+                },
+                "stars": 4
+            },
+            {
+                "review": "I only went there once but I really liked it.  I have never been to a place where it felt so comfortable.  I got a burger which was pretty good and reasonably priced.  They have free peanuts and the atmosphere is great.  I sat outside and it was just a really comfortable place to be.  Everyone there was friendly and just relaxing.  Service and atmosphere is the best part of the place.",
+                "reviewer_id": "pSxXCwlE_djZ4RcLl2c4Sg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7933488173294818,
+                    "positive_probability": 0.20665118267051544
+                },
+                "stars": 5
+            },
+            {
+                "review": "Synopsis: This place is a dive which alot of people find happen to find sentimentally appealing. ..........MMM OK- it's actually more of a watering hole. You know, an acceptable environment within which to get your drank on. It's just impersonal enough that townies, transplants, and recent grads can tolerate one another- and low enough on the ego scale that they may let their guard down enough to interact with one another for a moment.The food and the men's bathroom share some compelling similarities- they are both occasionally necessary, routinely \"less-than-fresh\", and exist in the same realm between offensive and forgettable.",
+                "reviewer_id": "PY6a5DTygDqf52eQMtii5w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.00012145812458015078,
+                    "positive_probability": 0.9998785418754179
+                },
+                "stars": 3
+            },
+            {
+                "review": "Great alcohol. However I was with a group of 3 and we ordered multiple drinks because we are all semi alcoholics and they told us we could only have one drink each. You all have lint butt.",
+                "reviewer_id": "qND0y_3FE2MIRkwocUBu_A",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.543268924904409,
+                    "positive_probability": 0.45673107509558836
+                },
+                "stars": 2
+            },
+            {
+                "review": "I go to Esquire a fair amount, but mostly for the pineapple tequila margaritas. They're to die for, and often the only thing I order here. Otherwise, the spirits and beer selections are okay. It's about on par with the rest of the downtown bars (similar to Jupiters, for instance). The pool space is nice and open as well. I'm not a huge fan of the aesthetic (my inner OCD hates the peanut shell on the floor schtick) but it's a pretty good bar.The food, on the other hand, has been consistently underwhelming. I haven't tried the pizza yet, but that's because I've been unimpressed by the other stuff I have tried. The appetizers tend to be greasy, and the chicken fingers were weak. Plus food normally takes forever to come out of the oven.In short, come for the booze, but eat beforehand.",
+                "reviewer_id": "qR6jQSCWN94STCjsnTU8vQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.06834271895979656,
+                    "positive_probability": 0.9316572810402012
+                },
+                "stars": 3
+            },
+            {
+                "review": "This is the first bar I visited when I moved here five years ago. It's also the place I had my first legal drink, the place I arranged my first (extremely underwhelming) one-night stand, the place I had my first post-breakup talk ... the list goes on and on. In short, the Esquire is a place of firsts for me, and for that reason it holds an unimpeachable place in my heart.It's a good place, even taking none of the above into account. The prices are reasonable, the service is friendly, the drinks are stiff, the food is tasty, the jukebox kicks much ass (except on one night a few years back when some doucherocket fed about a million dollars into the machine and played Pogues records all night, but I am willing to let bygones be bygones). There's a nice array of seating options: small tables, mid-size tables, large booths, and the bar itself, which is the best place to sit if you want super-fast service and a good vantage point for eavesdropping and people-watching. There are also some tables outside, which are nice places to park your ass if you're a smoker or like keeping an eye on the goings-on along Walnut. The outdoors is heated during chilly weather, and although it doesn't too a ton of good in the dead of winter, it's lovely on brisk autumn nights.The people who frequent this place are an interesting mix. Some townies, some students, some regulars, some noobs. You're just as likely to see a gaggle of hipsters looking vaguely out of place as you are to see a group of middle-aged business types in dad jeans. Every once in a while some truly fresh and interesting personalities will be present, such as a trio of cackling cougars sipping pineapple margaritas and flirting with any male under the age of 26, or two sharply-dressed men having a snappy but ultimately friendly conversation you ache to be a part of, or a crusty old man with a walrus mustache who will pound your table with a hammy fist and yell something that sounds friendly but is completely unintelligible. Oh, and every once in a while Tim Lash of Hum fame will be hanging around, which I think we can all agree is pretty delightful. (I do not advocate drunkenly pestering him, of course, but if you do want to say hi be assured that he's about the nicest dude on earth and will receive your attention with much grace and warmth.)One of the best, most endearing things about this bar is its all-around friendliness. I often go here by myself in the evening with whatever book I'm currently reading, fold myself into a corner, and order a few beers. Not once has any patron or staff member given me grief over this, and for that I am truly grateful. Yes, the linoleum is hideous and yes, the bathrooms are a little iffy, but all the bartenders remember my name, and that's something that can't be beat.",
+                "reviewer_id": "sIbkq8m8W0ZKPdj3sdL1zg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 2.3104191869966358e-05,
+                    "positive_probability": 0.9999768958081453
+                },
+                "stars": 5
+            },
+            {
+                "review": "Cheap beer, dive bar, great company, and holy crap--did everyone just eat a hojillion peanuts and dump their shells on the floor?  Really? What the hell, it's a great dive bar.  I cant' even hate on it.The booths are big and comfy, the setting is as nonpretentious as it gets, and the peeps are chill as hell--and most likely you're not gonna run into many undergrads ;)",
+                "reviewer_id": "SpKVX3rt892E-BrL-yeqiw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.15188945884153265,
+                    "positive_probability": 0.8481105411584672
+                },
+                "stars": 4
+            },
+            {
+                "review": "Staff are great, though service can be slow if the place is very busy, which is understandable because the food is amazing. I tried the steak garden salad and the meat was cooked to perfection. Most restaurants serve bland salads or poor cuts of red meat, but not Esquire!",
+                "reviewer_id": "SpQVjAfQayqeG2slRX55EQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5614470895027854,
+                    "positive_probability": 0.4385529104972161
+                },
+                "stars": 4
+            },
+            {
+                "review": "I have been here many times and have never been disappointed in their Bleu Pear Pizza. It is an amazing amalgam of cheese, pear and pine nuts that surprises you from the first bite. Don't come out to the Esquire and not try this pizza! Oh, and if you enjoy smoking cigars, (as I do) they allow smoking out on the patio which is always fun on a warm summer night. The people that sit out on the patio are always so friendly and the staff is quite attentive to your needs as well. This place is situated right in downtown Champaign which is such a nice place to be, and there are dozens of other things to do if you are starting your night here.",
+                "reviewer_id": "ufRqD7b5uxfLtNdg8tBhcA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0024148561684185026,
+                    "positive_probability": 0.9975851438315775
+                },
+                "stars": 5
+            },
+            {
+                "review": "I came back here with a friend on a random Thursday night as we both felt it was too early to call it a night, but weren't looking for a venue with dance music blaring in our ears nor were we interested in having to shove through the crowds to get a drink.At Esquire, we managed to secure a pool table (only $6 an hour!!), got cheap drinks, and just had a relaxing low-key night.  Plus, I got to work on honing my pool-skills (or lack thereof =P).",
+                "reviewer_id": "urDog6OhPoNKPJFUDob7AA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4524127301224092,
+                    "positive_probability": 0.5475872698775973
+                },
+                "stars": 4
+            },
+            {
+                "review": "Excellent food, very reasonable prices, friendly staff, nice atmosphere with a wide range of customers. Will come again.",
+                "reviewer_id": "uZtZBryGXz3NretIqEWLyQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.20944449844446889,
+                    "positive_probability": 0.7905555015555304
+                },
+                "stars": 5
+            },
+            {
+                "review": "There is nothing better than fried food, specifically broccoli, after some (or many) drinks at the Pig. Service is usually good, great considering the fact that they're putting up with a lot of drunken shenanigans. Also, you can get fried food to go and take it back to the Pig or Mike and Molly's.",
+                "reviewer_id": "WKSa1j6tLKRMMq9Qj7anaA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4650142018001296,
+                    "positive_probability": 0.53498579819987
+                },
+                "stars": 4
+            },
+            {
+                "review": "Location is good, drinks are usually on the strong side...HOWEVER, the rude service you can expect to receive here, far outweigh the positives.  Every single visit to the esquire, I received unfriendly, uninviting service.  The crowd in this place is 40+ and unless you fall into this category, the staff will make you feel very unwelcome.  Every trip downtown, I want to give esquire another chance, and every time I'm disappointed.",
+                "reviewer_id": "wPJtYECbe7QpXnMx5MNjLA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.014724551699812054,
+                    "positive_probability": 0.9852754483001848
+                },
+                "stars": 1
+            },
+            {
+                "review": "love love love this place. after moving here in september, me and my boy went looking for a bar where we could totally relax, actually hear each other (even at 12 am), have some cheap beer, and possibly even play some pool. welp, we found all of that, and some, at esquire. they have the cheapest (and strongest) drinks in the area, tons of seating (though can get crowded later on on the weekends), a juke box with some great tunes, and awesome service (try to get art as a server and you will be extremely content all night long). oh, and did i mention they have free peanuts? or that you simply spit the peanut shells out on the floor? yeah, it's that type of place....i love it. all of it. and i also love their special pineapple-induced tequila. to die for. basically they put tequila and pineapple in some sort of jar for a week and then serve it out and it is simply delicious...can't get enough of them.this is the perfect place to go at night, or during the day to watch a game and have a few beers/pitchers ($5 red stripe pitchers cannot be beat).  the mix of people is also nice to see...everyone from people sitting at the bar flying solo to couples at a table and to groups of 12 sitting around a larger table in the back room. awesome awesome awesome.the only reason i am not giving this place 5 stars is because i haven't tried the food. once i do, i'll be back to recap on that....",
+                "reviewer_id": "wQk4gneiQeM466IymN4wRQ (1)",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0036442494662010626,
+                    "positive_probability": 0.9963557505337888
+                }
+            },
+            {
+                "review": "love love love this place. after moving here in september, me and my boy went looking for a bar where we could totally relax, actually hear each other (even at 12 am), have some cheap beer, and possibly even play some pool. welp, we found all of that, and some, at esquire. they have the cheapest (and strongest) drinks in the area, tons of seating (though can get crowded later on on the weekends), a juke box with some great tunes, and awesome service (try to get art as a server and you will be extremely content all night long). oh, and did i mention they have free peanuts? or that you simply spit the peanut shells out on the floor? yeah, it's that type of place....i love it. all of it. and i also love their special pineapple-induced tequila. to die for. basically they put tequila and pineapple in some sort of jar for a week and then serve it out and it is simply delicious...can't get enough of them.this is the perfect place to go at night, or during the day to watch a game and have a few beers/pitchers ($5 red stripe pitchers cannot be beat).  the mix of people is also nice to see...everyone from people sitting at the bar flying solo to couples at a table and to groups of 12 sitting around a larger table in the back room. awesome awesome awesome.the only reason i am not giving this place 5 stars is because i haven't tried the food. once i do, i'll be back to recap on that....",
+                "reviewer_id": "wQk4gneiQeM466IymN4wRQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0036442494662010626,
+                    "positive_probability": 0.9963557505337888
+                },
+                "stars": 4
+            },
+            {
+                "review": "I don't remember my first visit to the Esquire. I suspect I'm not alone, but my reasons probably differ. See, I was less than a year old at the time, and I likely wasn't into doing much more than staring out the window at the buses or blinking up at the moving Hamm's sign.Luckily for me, I have been to Esquire many more times since. You could say I grew up throwing peanut shells on the floor and stomping on them. (For the record, I still throw the shells on the floor, but I no longer do the accompanying dance--that stopped being cute around age eight.) Before my family moved away from Champaign, this was the number one place we would take out of town relatives visiting. Even as objectively yummier, cooler places opened up around town, Aunt So-and-so and Uncle Whatshisface would always demand to be taken back to Esquire, and we were always happy to oblige. It's a comfortable, unpretentious bar, and that's what you needs sometimes.It's all about the ambiance, really. There are better burgers in town, but at Esquire it's the whole package that keeps me coming back. That and those peanuts. For real.",
+                "reviewer_id": "YHIXQ_p3xAMGoWAsBTGBig",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.05028121128356159,
+                    "positive_probability": 0.9497187887164353
+                },
+                "stars": 4
+            },
+            {
+                "review": "Came on a Friday night and it was really packed. Our waitress was really busy and it took her about 20 minutes to ask us what we wanted. The seating area is kind of cramped; chairs were often back-to-back. Their pizza is good, though, and they had decent drink prices.",
+                "reviewer_id": "yQZo0tJzB3uBG22d6e_0xA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.1900301900609905,
+                    "positive_probability": 0.8099698099390086
+                },
+                "stars": 2
+            },
+            {
+                "review": "After a stressful day of test taking, my friend and I just wanted to relax, eat, and it was a beautiful day so we preferred somewhere outside.  She had been to Esquire before and said the burgers were good.  I really like the place.  I had the chicken tender sandwich with fries, and it was FABULOUS.  Everything a fried chicken finger sandwich could be.  At first it was delivered to the table empty, just a bun and chicken fingers.  But then I was told of the \"Fixin's Table\" where I got to add my own lettuce, tomatoes, onions, pickles, and a sauce(s) of my choosing. I enjoyed sitting outside and watching the people walk by.  And when my other friend showed up with her dogs, they didn't mind at all.  And she loved that they had Fat Tire on tap.Overall, I would definitely recommend this place.  The only problem with sitting outside is that you do not get to throw your peanut shells on the floor- you have to bring a bowl outside for the shells... ah well...  On those cold winter nights I can throw my shells on the floor inside.",
+                "reviewer_id": "YW_iT5vBAFJUepWGQCo62Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.29927092271636524,
+                    "positive_probability": 0.7007290772836349
+                },
+                "stars": 4
+            },
+            {
+                "review": "I love this place so much...  It's my favorite bar in town.The grilled cheese and fried broccoli is where it's AT, and the drinks are inexpensive.  It can be quiet enough to have lots of talking with friends, loud enough to chill by yourself and have some food.One drawback is it's hard to find seating on weekends, but with two rooms and two bars, it just takes a bit of time but not too long, and that happens with any bar in downtown on the weekend.",
+                "reviewer_id": "z0jkR5nCJdJI_E9767BXiA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4754743009659948,
+                    "positive_probability": 0.5245256990340015
+                },
+                "stars": 5
+            },
+            {
+                "review": "Just got back from a great party at Esquire. The food was fantastic!  Their fried chicken is out of this world and they also had really good Greek salad and potato salad. They have a good bar selection too...I had good German beer. It's just a friendly, fun place to hang out and they have a back room for private gatherings.",
+                "reviewer_id": "zaAnvzBTJh6mMrEJXUD4ig",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.07174878190213015,
+                    "positive_probability": 0.9282512180978679
+                },
+                "stars": 4
+            },
+            {
+                "review": "We were looking for a place to eat and grab a beer with little kids after a long drive. We were also looking for something with a \"college\" feel considering its a college town and we are about 10 years out of college. Nostalgia gets me every time. This place had a much older crowd (on a Monday)...think 45 year old regulars, but what do you expect on a Monday night? The draft beer selection was ok. They have one Bell's, Guiness and Harp on tap, but that's as \"crafty\" as it gets at the front bar (the back bar was closed and may have had more available). The food was only OK. We got a small personal pizza and a steak sandwich. Neither one was that great. The staff was super friendly and GREAT with the kids. The price was also right.",
+                "reviewer_id": "ZjEt7ndUenMwweWpimpJkw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.022402843218058844,
+                    "positive_probability": 0.9775971567819419
+                },
+                "stars": 3
+            }
+        ],
+        "similar_restaurants": [
+            "6U94ybDpNd0fTL7TIzb5Kg",
+            "rm2OnyNDnlWkSNUSxETsGg",
+            "-0GkcDiIgVm0XzDZC8RFOg",
+            "zO0xbqEznVuzPl54RExymg",
+            "05FJCAvUFOAk8B_nIOqt7A",
+            "jydmaHFFWpKKDKTJLwThyA",
+            "AjgLxtP_cejKAlw3GmXpsQ",
+            "Z8EGaOokvK2hoD6tGup0MA",
+            "EYFV3b2fkt1fOqYnasonfA",
+            "RSk-BYX8s5027cKo_aELrw"
+        ]
+    }
+}

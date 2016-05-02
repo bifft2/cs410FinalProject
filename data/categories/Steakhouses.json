@@ -1,0 +1,1836 @@
+{
+    "562AuYjOuZwtTbS1UYhY6Q": {
+        "keywords": {
+            "bigrams": [
+                "salad_bar",
+                "cook_steak",
+                "texas_toast",
+                "steak_cook",
+                "grill_steak",
+                "cook_food",
+                "chef_cook",
+                "baked_potato",
+                "pay_extra",
+                "food_good"
+            ],
+            "unigrams": [
+                "steak",
+                "cook",
+                "place",
+                "good",
+                "food",
+                "bar",
+                "grill",
+                "salad",
+                "back",
+                "great"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "full_bar",
+                "Ambience": {
+                    "casual": false,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "Delivery": false,
+                "Good For": {
+                    "breakfast": false,
+                    "brunch": false,
+                    "dessert": false,
+                    "dinner": true,
+                    "latenight": false,
+                    "lunch": false
+                },
+                "Good For Groups": true,
+                "Good for Kids": true,
+                "Has TV": true,
+                "Noise Level": "average",
+                "Outdoor Seating": false,
+                "Parking": {
+                    "garage": false,
+                    "lot": true,
+                    "street": false,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 2,
+                "Take-out": true,
+                "Takes Reservations": true,
+                "Waiter Service": true,
+                "Wheelchair Accessible": true
+            },
+            "business_id": "562AuYjOuZwtTbS1UYhY6Q",
+            "categories": [
+                "Steakhouses",
+                "Restaurants"
+            ],
+            "city": "Champaign",
+            "full_address": "202 W Anthony Dr\nChampaign, IL 61822",
+            "hours": {
+                "Friday": {
+                    "close": "22:00",
+                    "open": "16:00"
+                },
+                "Monday": {
+                    "close": "21:00",
+                    "open": "16:00"
+                },
+                "Saturday": {
+                    "close": "22:00",
+                    "open": "15:00"
+                },
+                "Sunday": {
+                    "close": "21:00",
+                    "open": "11:30"
+                },
+                "Thursday": {
+                    "close": "21:00",
+                    "open": "16:00"
+                },
+                "Tuesday": {
+                    "close": "21:00",
+                    "open": "16:00"
+                },
+                "Wednesday": {
+                    "close": "21:00",
+                    "open": "16:00"
+                }
+            },
+            "latitude": 40.1369071,
+            "longitude": -88.2452215,
+            "name": "Alexander's Steakhouse",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media2.fl.yelpcdn.com/bphoto/7nbJIHCo6Jkv8l0ccI2Oqw/ms.jpg",
+            "review_count": 44,
+            "stars": 3,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "If you just want a steak then go somewhere else. Steak was under cook. No steak for me. ",
+        "reviews": [
+            {
+                "review": "Second times for me in this place. Went back again on Tuesday evening. Me and my friend ordered 2 steaks and paid extra for chef to cook for us. When my food came to table.  Steak was under cook. I kidda wait for my sever come to me and ask me how the steak cook. Wait for 10 minutes.  She never show up. Finally I had to call another sever and ask him to put ed in back on grill. Okay chef bring steak back to me . And never see my sever again. And all the time happen  the manager stand 2 feet away from us. Never said any word. Ask me steak good or not. My t born steak have not any favor at all. And my friend steak all a lot of fat. Think about. If you a'll what to spend 30 usd for one steak. And pay extra for them to cook. Your food should be perfect and good service. But this is night mare for me  I give 1 star cuz chef bring steak back to me. If not, I won't give any thing. And absolutely I won't come back to this place again.",
+                "reviewer_id": "-97VQTesJ9xOwfT4usI9VQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.06998470634501192,
+                    "positive_probability": 0.9300152936549817
+                },
+                "stars": 1
+            },
+            {
+                "review": "Food was good. We elected to cook our own and the only downfall of that was that I didn't have all my stuff to cook them up right. I should have asked the barkeep for some bourbon but lesson learned. The steak was really tasty regardless the spices or lack there of. The beer I had was really tasty as well, had Hale to the Chief IPA and the Eugene Porter, both were good. The porter went really well with the skillet cookie we got for desert. Little more pricey then I thought at first. But would come back.",
+                "reviewer_id": "0rl1jidibj_nPzT0T60YmQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9185268696946481,
+                    "positive_probability": 0.08147313030534592
+                },
+                "stars": 4
+            },
+            {
+                "review": "there were 4 in our party.  On entering, no eye contact from the seater, no hello, just \"how many?\"  She breezed us to our table,  didn't stop her stroll, threw 4 menus on the table with 3 seats and said \"Have a nice meal.\"  We didn't stay.",
+                "reviewer_id": "2-nydI_wIXzyV9JvsJeDIg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.35104029157961497,
+                    "positive_probability": 0.6489597084203858
+                },
+                "stars": 1
+            },
+            {
+                "review": "Get a long island ice tea.  They are amazing.  Enjoy a great beverage while you cook your own steak just how you like it!",
+                "reviewer_id": "21rgESVI2FOWWOiV9dVinQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.21130888823696437,
+                    "positive_probability": 0.7886911117630354
+                },
+                "stars": 5
+            },
+            {
+                "review": "My family goes here for special occasions.  I love the food.  You get to pick out your own steak which is pretty cool.  However, you have to pay extra for the restaurant to cook your food- ya (which is why I knock them down to 4).  With your meal, you get texas toast, a baked potato, and a salad bar.  So you will have plenty of food.  Never had a problem with parking.  Service has always been pretty good.  Good for groups.  They have some kind of eating contest: I think if you eat their big steak you get it for free and your pic goes up on the wall.",
+                "reviewer_id": "2niwhUC9pAeHH_W29cl9Cg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3330737969053988,
+                    "positive_probability": 0.6669262030945969
+                },
+                "stars": 4
+            },
+            {
+                "review": "Alexander's is a good place to go if you're looking for more of an experience than just eating dinner. They have 2 large grills where you cook your own steak after selecting it from the fridge. You can also grill up as much garlic butter toast as you want while standing at the grill. Not a good place to go if you just want to sit and be served. The salad bar is good but not great.",
+                "reviewer_id": "3HjOC2pqeIpd_Kg0p0P72w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.02334442893371903,
+                    "positive_probability": 0.976655571066286
+                },
+                "stars": 4
+            },
+            {
+                "review": "Tasty beef you cook yourself at a large open vented indoor grill. Chef will grill your steak for your for an additional charge of $2.79. Salad bar respectably populated with the usual fare, e.g., red beets, shredded cheese, broccoli, cottage cheese, etc.  Former site of the Round Barn Restaurant.  Overall good dependable and tasty. Not fancy. Wear comfortable shoes if you plan to cook.",
+                "reviewer_id": "5SxFoRRrL_AWPvNaISoMgg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.459757778530558,
+                    "positive_probability": 0.5402422214694514
+                },
+                "stars": 3
+            },
+            {
+                "review": "Perhaps my experience left me feeling bitter simply because I was not aware that you are supposed to cook your own steaks.... Wait, restaurant... cook my own food????Me and my dad went here because we were hungry for a steakhouse steak, but imagine our surprise when we walked in and our waitress explains how the restaurant works.  Oh, you can have the house chef cook the steak for you, but its $3 or something extra.... Pretty ridiculous if you ask me...  Well, we didn't come to cook, so we bit the bullet and got the chef to cook our food.  But putting aside the whole \"cook your own steak\" deal, the restaurant was still very poor to me.  The prices are absolutely ridiculous.  Every entree was above $20 and we didn't exactly get a ton of food.  My platter was a medium sized steak, a small baked potato, and a very small serving of veggie mix.  The salad bar was very poor.  Very limited selection, and the food looked old and wilted.  Our waitress was rarely around the whole night, and we even were placed on a side of the restaurant with barely any people.  This was especially troublesome based on how we were never given silverware, needed drink refills, and more napkin quite a few times.  Still, our waitress was never around.  To be honest, most of the people in the restaurant weren't even eating...  It was mostly bar goers and people sitting around for drinks.   Not a good sign for the quality of food to say the least. All and all, I won't be going back here.  Food wasn't bad, but it was very under-portioned and ridiculously over priced.  The service was bad at least on the night I went, the salad bar was very sub-par, and most of the people in the restaurant were just there for drinks.   I can't get into the \"cook my own steak\" deal either.  Hell, I just would have stayed home and made my own steak for a 1/4 of the price.",
+                "reviewer_id": "7JQ8n15WeW4D5AnNulQOCQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7661440444408707,
+                    "positive_probability": 0.23385595555914557
+                },
+                "stars": 2
+            },
+            {
+                "review": "I dont want to go out to eat and be forced to pay more for them to cook my food. Dumb idea. Maybe if no upcharge kind of cool but come on. Three times i have eaten here never been dying to go back. Decent decor and texas toast is good. Take a grillmaster with you.",
+                "reviewer_id": "8oJRVNV3Bi3VHAuI1Su7-A",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7275524723739845,
+                    "positive_probability": 0.2724475276260172
+                },
+                "stars": 3
+            },
+            {
+                "review": "I think it goes without saying that you can't expect the best steak in Champaign, IL. That being said, their steak is well above average and fairly priced. The whole \"cook your own steak\" idea is an interesting concept, but if that's what I wanted to do I would buy my own steak (for much less) and cook it myself at home. Pay the extra $3 for a chef to make it for you so you can relax and enjoy your meal. The service is always very friendly and they make themselves available. By far my favorite steakhouse in the Champaign-Urbana area and recommend it to all.",
+                "reviewer_id": "9Gf0dDr-cSEnMrBl04Se9A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.007397779881301072,
+                    "positive_probability": 0.9926022201187006
+                },
+                "stars": 4
+            },
+            {
+                "review": "When this place opened in the '80's, the steaks were HUGE: 12 ounce filets, 20 ounce t-bones and even larger cuts if you wanted. The sizes have reduced over the decades but are still large. It's fun to grill your own steak but you can have it grilled for you for a couple of bucks. The sauteed mushrooms are great. The marinated steaks are great. Salad bar is great. Alexanders has a great party atmosphere. This place is just great!",
+                "reviewer_id": "aH96DNSgcJFZwRBHJ6ttGw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.09678450841261034,
+                    "positive_probability": 0.9032154915873909
+                },
+                "stars": 5
+            },
+            {
+                "review": "If you want to cook a steak yourself but you're too lazy to shop and put in the legwork, this is the spot for you! They charge you extra for their chef to cook it. Very much a steak and potato place. We had a mixture of filets, ribeyes and sirloins. The cuts were really good, not outstanding. Beets, bacon and eggs at the salad bar was a huge plus. Skillet cookie was top notch. The manhattan was terrible. Quality establishment.",
+                "reviewer_id": "AZ9x-RhMQO_FwlW1reuE6w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.15635675532070664,
+                    "positive_probability": 0.8436432446792916
+                },
+                "stars": 3
+            },
+            {
+                "review": "Eating at the bar, the staff is friendly. Yum free popcorn. The salad bar is so so needs to be cleaned now and then. The ribeye I had needed some seasoning cooked to order med but somewhat bland.We were hoping for better, don't think I will be back",
+                "reviewer_id": "cHUeilXQ6CRbVcx0wSqsCw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8923272668247283,
+                    "positive_probability": 0.10767273317526899
+                },
+                "stars": 3
+            },
+            {
+                "review": "Love this place. Salad bar is of high quality, and you can cook the steak by yourself! Juicy RUBEYE!!!",
+                "reviewer_id": "CKI-xbAyxXovFBqo-DEJ0Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4068015275117045,
+                    "positive_probability": 0.5931984724882965
+                },
+                "stars": 5
+            },
+            {
+                "review": "Student and Early Bird (before 6pm) specials on weekdays (not including Friday) - steak (or pork or fish) and all you can eat salad bar for ~12$. Awesome!This is the place to go for your steak fix on a student budget.",
+                "reviewer_id": "cupPhBK61Qp6bEEJfPi91g",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5499916320302601,
+                    "positive_probability": 0.45000836796974225
+                },
+                "stars": 4
+            },
+            {
+                "review": "We did not cook our own steak as that wasn't really our thing -- although the groups partaking in that aspect seemed to be enjoying themselves. We had to pay a couple extra bucks to have them cook it for us and they got both steaks wrong.  We asked for medium and got rare/medium rare which wasn't the end of the world not would that cause me to give a bad review. The disappointing aspect was that the steaks were so bland.  They seemed like good cuts of beef but they were the most flavorless steaks I've had honestly. The baked potato was actually really good yet the salad bar was nothing special. The place seemed okay but was dirty and the lighting was terrible IMHO.  Our waitress was nice and friendly and the service was good from that aspect.  Hard to get over such a bland steak (both the filet which my wife ordered AND the top sirloin I ordered) and dirty restaurant.  Probably wouldn't go back.",
+                "reviewer_id": "EZ6UB9mX59z-RRy8TVkitQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.029466784126896448,
+                    "positive_probability": 0.9705332158730999
+                },
+                "stars": 2
+            },
+            {
+                "review": "This has got to be one of The most overrated eateries in the area. Cheap meat, crap salad bar, just awful.  Go to a buffet and you will get better.  Very sad.",
+                "reviewer_id": "G6uLKxpZZlYTFGcQyn8HxA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6821066316871031,
+                    "positive_probability": 0.3178933683128978
+                },
+                "stars": 1
+            },
+            {
+                "review": "These people giving bad reviews are missing the point. This restaurant has been here for 30+ years. The whole concept behind it is cooking your own steak! It's fun to stand around the grill, have a drink and chat with friends while you cook, that's the whole point! If you don't want to do that then there are plenty of other steak restaurants in town to go to. These complaints would be akin to going to a hibachi style steakhouse where they cook at the table and then complain that they are cooking too close to your table! Alexander's is a good restaurant with high-quality food and a fun concept, if you don't want to cook yourself then it's probably not the place to go.",
+                "reviewer_id": "GwGwVP8zf4UMOAgKksNSIg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.013194420166437279,
+                    "positive_probability": 0.9868055798335639
+                },
+                "stars": 4
+            },
+            {
+                "review": "Great concept - pick your own, cook your own steak.  Unlimited salad bar, baked potatoes, bread.  Steaks are huge......Sure, the decor is circa 1984, and could use a little updating, but the food is good, and it's a fun place.",
+                "reviewer_id": "HAej022BsQHMXSrvSLuTWw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7214408555117798,
+                    "positive_probability": 0.27855914448822044
+                },
+                "stars": 4
+            },
+            {
+                "review": "Alexander's Steakhouse is by far the most interesting eating you can get by the mall area. In the middle of the restaurant is a large charcoal grill surrounded by seasonings and buckets of what claims to be butter. Basically your pick out a steak and cook it yourself alongside potatoes and good old texas toast, dousing on the butter as you go. No, this is not health food. They have a variety of different steak cuts, as well as some chicken and pork selections. It's a rowdy crowd and expect lots of drinking around the grill and I had my doubts about sanitation with all the drunken butter use. If you want a backyard grill experiences in the dead of winter, this place is great, but it's very pricey, loud, and I found out the hard way about charges for sharing ($7!).",
+                "reviewer_id": "HqaXK9toBpQdcz-0-rVwKw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.000909860157510808,
+                    "positive_probability": 0.9990901398424833
+                },
+                "stars": 2
+            },
+            {
+                "review": "Solid steakhouse. Great atmosphere, can cook your own steaks if you choose, which is half the fun. Friendly servers and easy access off the interstate. We found this place via YELP and were very pleased. Highly recommend.",
+                "reviewer_id": "JLF6wCIeNj7zWjI2N9IRFA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0459641723436567,
+                    "positive_probability": 0.9540358276563454
+                },
+                "stars": 4
+            },
+            {
+                "review": "we had reservations and were seated quickly. we ordered three appetizers, each came so far apart that we finished with one before the next arrived. I sat with an empty glass of tea for nearly 15 minutes at one point. the kalamari was rubbery, the onion rings were oily and the potato skins were tough.  we waited another hour for our food. 7:15 arrival, nearly 9 when we got our food. Ive been here 3 times this year after hearing for years how fabulous this place is. the verdict, overpriced for what you get, you would get a better meal at texas roadouse for less money. service, worse every visit. I dont plan on EVER returning there again",
+                "reviewer_id": "JpNl_Bga6gJnskjMaZXJIg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9979050172357555,
+                    "positive_probability": 0.002094982764248924
+                },
+                "stars": 2
+            },
+            {
+                "review": "So this is basically my husbands favorite place in Champaign. We have been there 3 times now and it's always good. You have the option to cook it yourself, which we normally do, or have a cook do it for you. All the meat is great! It's a mans restaurant for sure! Giant chunks of meat, abnormally large potatoes and Texas toast. There is a great salad bar too. I really love how clean it is here! Never once have I had a complaint. No hairs in my food, no dirty floors or silverware. They seem to have it together. I don't like how closed in it is around the grills. You can hardly move. Let alone drink your expensive wine... My server has always been nice and helpful. But don't go here and plan to eat quick. This place takes time. Anyways... its meat you want... that's what you'll get here!",
+                "reviewer_id": "kGVK_HmOjliHrKiPGiXmxQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9843710269379243,
+                    "positive_probability": 0.015628973062082108
+                },
+                "stars": 4
+            },
+            {
+                "review": "...and on the seventh day God rested and thought to himself,  \"I am hungry for a steak.\" So he made an old school steak house and he thought to himself,  \"all is well with the world\".  Don't listen to the haters.  This place has a patina to it.  Enjoy it in this world of chain restaurants.Order a steak, cook it yourself and ask Eddie for advice on how to spice it.  Eddie has been there longer than some customers are old.If you like an old school steakhouse, this is a must.  This is on my top 10 for casual dining.",
+                "reviewer_id": "l1FgYI1nPBk3KZ6Y1cDYLQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.03825897698740632,
+                    "positive_probability": 0.9617410230125947
+                },
+                "stars": 5
+            },
+            {
+                "review": "Ive always enjoyed coming here.  My mother lives in the area and this is one of our go to places if im visiting.  The meats seem good, you get your salad bar , texas toast and a baked potato.  Now, for the not so great part...   dum dum duummmmmm!!!!....The thing is, i simply dont care for the \"cook it yourself\" thing.  If im going to a steakhouse, i want to sit at my table and enjoy some conversation with family/friends, Not stand over a giant fucking grill cooking my own meal.  If i wanted to grill a steak, i will go to the jewels or dominick and buy one.  Then i will light my grill, grill said steak and veggies to perfection, and enjoy it either in the comfort of my own home or patio.  I mean, seriously??   I have to cook it???So yeah.  Its always been decent..  But if it wasnt, i would only have myself to complain to... I mean, i cooked the damn thing!If you want to go to a steakhouse, pay steakhouse prices, then cook it yourself, sure, this is the place.  i guess.",
+                "reviewer_id": "ljTiimBZB_oPLq86rIV7FA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.13750063691294295,
+                    "positive_probability": 0.8624993630870587
+                },
+                "stars": 3
+            },
+            {
+                "review": "It was an ok experience. The food was good and having to cook it yourself was fun for a family. Was it the best food I have ever had? no. The building is quite old and it seemed very dark in there. The floor was sticky and the table also was sticky. I guess I am not in a huge hurry to go back.",
+                "reviewer_id": "N6dDlaymLX0gxhGq30W5ZA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2875847191921375,
+                    "positive_probability": 0.7124152808078601
+                },
+                "stars": 2
+            },
+            {
+                "review": "Instead of Back to the Future, more like Forward to the Past. And a good trip it is.Alexander's is a bit retro -- a well maintained woodsy interior reminiscent of a forest lodge, brass railings, salad bar, wrap around bar surrounded by people, glowing charcoal pit, caring wait staff, happily chatting customers, and a background sound system you can hear over. The intent is to have a cozy surrounding for folks to gather round the fire, cook their meat of choice, and have a nice dinner together. Kind of like a backyard cookout but with more food, no bugs, no wind.They offer an early bird special menu before 6 PM with meals priced mostly in the teens, including salad bar, a choice of potatoes, and Texas toast. The beef is aged and of good quality. There are also chicken and seafood meals. The main dinner menu offers more choices and meals run in the $30s and up. I chose the Santa Maria Top Sirloin, a 10 oz steak hand rubbed with a proprietary spice mix. It took me a few minutes to remember how to cook on charcoal, but I got the hang of it and the result was a tasty steak cooked exactly the way I wanted it. While I cooked my steak I enjoyed the salad bar. It was fairly small in terms of length, but they packed a lot of goodies onto it, including real bacon crumbles and many other special toppings. Fries were thin in one direction and broad in another. They were clearly cut from whole potatoes and were fried perfectly for crunchy skins, crispy fries, and moist interiors.The bar tender, Hali, was patient with me, explaining how the place works, attentive to my needs (bringing the french fries at the right moment, making sure my drink was in good condition, and that I had everything I was supposed to have), and pleasant.Its sad there aren't many places like this anymore. Its great that there is Alexander's.",
+                "reviewer_id": "NQgu2Y3XsJte3VILnD38Ww",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.00018527051897399797,
+                    "positive_probability": 0.9998147294809899
+                },
+                "stars": 4
+            },
+            {
+                "review": "Just driving through the area and had to stop for the night. I checked into a nearby motel and then decided to grab a bite here at Alexander's. The decor made me think it would be much more affordable than it was. I mean, vinyl tablecloths at a steakhouse? I figured I'd be able to get a burger, but nope, not on the menu. They did have a variety of steaks, along with a couple chicken entrees and seafood entrees. Now, I don't go to many steakhouses, but the $2 upcharge to have them cook my steak for me was surprising. No steak for me. I ordered the shrimp, which came in a huge portion. In fact, they were too big (which sounds ridiculous, but trust me.) I ate 1/2 of the serving and left the rest. They were gummy and flavorless. The garlic toast was greasy and burnt, and if therecwas garlic involved, I missed it. The salad bar was unremarkable, but not bad. My waitress was sweet and attentive, and I was just too tired to complain about the food and wait for them to fix it. On the whole, even if I lived in the area, I doubt I'd go back.",
+                "reviewer_id": "O-gpjfKFBQ3czziHBipNLw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0047125082749219244,
+                    "positive_probability": 0.9952874917250901
+                },
+                "stars": 2
+            },
+            {
+                "review": "The point of going to Alexanders is to cook your own food. If you just want a steak then go somewhere else. That said, the experience that they create at this restaurant is wonderful. Albeit the salad bar is nothing special and the menu is somewhat limited, the atmosphere is lackluster, but if you like grilling in your back yard with the guys then you will love Alexanders. Also, Don't feel too bad about filling up on all of the Texas toast (it is kinda the point...and half the fun!)",
+                "reviewer_id": "OUXdMljBX1R88aMn4QtZQw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.02721071871148816,
+                    "positive_probability": 0.9727892812885152
+                },
+                "stars": 4
+            },
+            {
+                "review": "Too pricey when you have to cook your own meat - that was ok, but not great.   Selection a bit limited and noisy when busy.   Of course, I did not have the student price - so may be 3 stars if you can get it for $10.",
+                "reviewer_id": "sdwre5naQiQ3__rRJE2uUg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5971579906138603,
+                    "positive_probability": 0.40284200938614156
+                },
+                "stars": 2
+            },
+            {
+                "review": "Not worth the money, we paid the $2 to have our steaks cooked and they were not cooked the way we requested them. Additionally, the topping options got the baked potato was lacking. Don't plan on visiting again.",
+                "reviewer_id": "swqsbefimvzY6IFhqBHh_Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.05822130462036374,
+                    "positive_probability": 0.9417786953796317
+                },
+                "stars": 2
+            },
+            {
+                "review": "Went here for dinner.  The place is outdated and dirty.  The waiter was not attentive and we had to ask several times for items from another waitress.  We even had to ask for our check!   The food was awful.   The steaks had no flavor and were chewy.  We had ours cooked.   Called to complain about the service because it was our anniversary and the manager could have cared less.  I would not recommend.  I can make a better steak at home for half the price.   Waste of time.",
+                "reviewer_id": "uPjjcNgxbUK3otgj5X42zA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.003754615603937895,
+                    "positive_probability": 0.9962453843960564
+                },
+                "stars": 1
+            },
+            {
+                "review": "Omg, so much meat (yes, yes, that's what she said).A group of us went to Alexander's on a Friday for dinner because they have this crazy student deal where you get steak, baked potato, texas toast, salad bar, etc. for $9.95.The fridges stuffed with steaks, kabobs, and a tiny seafood tray also had a student steak section of smaller cuts which were still quite good.I never knew a place like this existed where you get to cook your own steak on a big grill in the middle of the restaurant (or have them do it for you for an extra fee), and this way, you can make it as well done (or rare in my case) as you want.It was way loud in there and I definitely didn't like how the smell of just... meat was oozing from my pores for the rest of the night, but I had a good time with my friends and left food-coma full.",
+                "reviewer_id": "urDog6OhPoNKPJFUDob7AA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0003572676916751395,
+                    "positive_probability": 0.9996427323083162
+                },
+                "stars": 3
+            },
+            {
+                "review": "It's fun! Unlimited awesome garlic bread you make yourself on the grill. It's fun once in a blue moon, but I prefer someone to make my steak medium-rare who knows what they're doing. Instead it's me making a ton of incisions in my steak to see if it's done yet. You can pay a little more for them to make it for you though.",
+                "reviewer_id": "UucQJ0CWC-B-jrmTHWOgOw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.01561683713520132,
+                    "positive_probability": 0.9843831628648004
+                },
+                "stars": 3
+            },
+            {
+                "review": "Not a bad idea. At Alexander's Steakhouse, you pick your own steak and cook it at the community grill. For starters, the steak's quality here is just okay. It's not the greatest, but I've had worse. And for okay steak, I feel they are overpriced in general and not just for college students. Their steak challenge is pretty interesting though. If you can finish a 3 lb (48 oz) along with the side dishes and salad that comes with this challenge, you win a free meal. The rewards of this challenge has changed from time to time (i.e. the steak is free, you get a free steak next time, or you get 50% off next time, etc). I've tried this before. It was pretty fun and I got my picture taken and placed on their wall. Overall, Alexander's is a good break from the national chain steak restaurants. You'll pay a little more than you want for some decent steak. Oh and as a warning, if you can't grill a steak, then you'll have to pay an additional fee to have the chef cook it.",
+                "reviewer_id": "vLFk6nslFe35NKvlU2Tz9Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.07660747866470657,
+                    "positive_probability": 0.9233925213352917
+                },
+                "stars": 3
+            },
+            {
+                "review": "Nice atmosphere. I thought the steaks are overpriced. I enjoyed cooking my own steak. You have to pay $2.00 for them to cook your steak.",
+                "reviewer_id": "vu0b-IYm08LYTpSVIR5Vdg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.1997391080709186,
+                    "positive_probability": 0.8002608919290812
+                },
+                "stars": 4
+            },
+            {
+                "review": "Little dated, little dirty and fun. Great place for a guys night out.  I would call it a man cave.  My wife would NOT like it!  But I did.",
+                "reviewer_id": "w56oEs6bOzZtiQKbWO4X7A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.30437546119314346,
+                    "positive_probability": 0.695624538806856
+                },
+                "stars": 3
+            },
+            {
+                "review": "Good food took a long time to get it but it was a full bus of men all had stake and most cooked there own . I didn't want to over cook mine so I paid the 2 bucks to have the pros do it . Aged beef great sales bar . A little $$$ but it was frantic cut of meet ..",
+                "reviewer_id": "Xp0lDDU0QS_ZUnRZ5Nk27w",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8058866381513502,
+                    "positive_probability": 0.19411336184865213
+                },
+                "stars": 5
+            },
+            {
+                "review": "My girlfriend and I went out to celebrate that I got a new job, and were told this place was really good. We were sadly very disappointed. The decor of the place is really outdated, you feel like you went back to the '80s. While the waitress was really friendly, we were not pleased with the overall experience. My $6 beer was flat, the food was really overpriced and you had to pay extra to have it cooked. Yes, if you want someone to cook your food, you have to pay an extra $3. For that extra 3 bucks they don't even have a chef cook, just some cook who has no idea what he's doing. I ordered my steak medium rare and got it well done. The steak itself was nothing special and for a fillet it was pretty fatty. I will never be coming back and will recommend friends to never go there.",
+                "reviewer_id": "xQ7IB7UV9V77CvGGVTEwrA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0030394225997843233,
+                    "positive_probability": 0.9969605774002125
+                },
+                "stars": 1
+            },
+            {
+                "review": "Alexander's was the place to go when you want to celebrate anything. Back when I used to visit Champaign, I'd get invited to go there for birthdays, graduations or simply if you want to grill minus the clean up.As mentioned by Melissa, they do have a variety of steak cuts with chicken and pork. If you're a steak lover, you should be able to find numerous nice cuts if you're willing to pay up. Back in the poor college student days, those nice steaks were difficult to avoid. Anyhow, once the steak had been picked out, you simply place it on the big grill, in the middle of the restaurant and you let it dance and sing. You also have the option of letting the waiters / waitresses to cook it for you. The grill is also used for garlic butter texas toast as well as potato-grilling.Besides the grill, there is a salad bar with a decent variety of salads, ranging from typical greens to creamy mac salads or creamy potato salads.Given a decent list of decent restaurants on the campus of U of I, Alexander's is actually worth while.  I would recommend this place. Hell, go celebrate your birthday or better yet, your A's on your midterm with a nice big juicy rib eye (if you know how to grill) :)",
+                "reviewer_id": "Y8QRhgHhekvRa5zPguouRg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 2.809556023439864e-06,
+                    "positive_probability": 0.9999971904439904
+                },
+                "stars": 4
+            },
+            {
+                "review": "As other's have mentioned this is a \"cook your own steak\" place with a large grill for guests to cook their meat, texas toast, and baked potatoes at. The inside is very dated, I feel like for as much money they must make off their extremely high steak prices, surely they could invest some back into the restaurant.. but it still looks the same as it did the first time I went probably 10 years ago. I for one don't make a habit of coming here, but it's a popular place for birthday parties and special events so I sometimes have no choice. It is unique but if I wanted to grill my own steak I would go start my own grill in my backyard and save about 20 bucks. The meat selection is good, and the cuts are definetly the weight you pay for if not more. The worst part of this place is simply the insane price for a steak you cook yourself.. the salad bar not being all that great (the lettuce was very low and picked over quite a bit when I was there), and the fact you are sweating when you get back to the table from standing by a hot grill for the past 15 min cooking your steak. It is a cool place don't get me wrong.. and the food is good.. just can't justify the cost.",
+                "reviewer_id": "yrcGGL8XNTPsT7CfE02dBA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.45358716035359664,
+                    "positive_probability": 0.5464128396464157
+                },
+                "stars": 3
+            }
+        ],
+        "similar_restaurants": [
+            "SoyigEmlt4JYwnOqR_cqUw",
+            "VZ3A1pVQFwzNGnsNEz3FiQ",
+            "eSVQBYV8HU3Gna2KOC8y-g",
+            "NQvZ_RotIEalBKsJ8zuLIw",
+            "Z8EGaOokvK2hoD6tGup0MA",
+            "BikDzi8YhQkTJP_nAGOEUA",
+            "O_HxmcRtxdJluerS2RYqtA",
+            "dnRzZsej_I1URXYqEGGm7w",
+            "2SycDjGWWpFs1ODL-YBoHA",
+            "u-y1z3usKenHtOGrH5Vveg"
+        ]
+    },
+    "NQvZ_RotIEalBKsJ8zuLIw": {
+        "keywords": {
+            "bigrams": [
+                "goat_cheese",
+                "nice_restaurant",
+                "good_food",
+                "seafood_risotto",
+                "fine_dining",
+                "perfect_portion",
+                "portion_sizes",
+                "pretty_good",
+                "give_try",
+                "wine_list"
+            ],
+            "unigrams": [
+                "food",
+                "good",
+                "place",
+                "pizza",
+                "restaurant",
+                "timpone",
+                "nice",
+                "menu",
+                "service",
+                "italian"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "full_bar",
+                "Ambience": {
+                    "casual": false,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": true,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "dressy",
+                "Caters": true,
+                "Delivery": false,
+                "Good For": {
+                    "breakfast": false,
+                    "brunch": false,
+                    "dessert": false,
+                    "dinner": true,
+                    "latenight": false,
+                    "lunch": false
+                },
+                "Good For Groups": true,
+                "Good for Kids": false,
+                "Has TV": false,
+                "Noise Level": "quiet",
+                "Outdoor Seating": false,
+                "Parking": {
+                    "garage": false,
+                    "lot": false,
+                    "street": true,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 2,
+                "Take-out": true,
+                "Takes Reservations": true,
+                "Waiter Service": true,
+                "Wheelchair Accessible": true,
+                "Wi-Fi": "no"
+            },
+            "business_id": "NQvZ_RotIEalBKsJ8zuLIw",
+            "categories": [
+                "Steakhouses",
+                "Restaurants",
+                "Italian"
+            ],
+            "city": "Urbana",
+            "full_address": "710 S Goodwin Ave\nUrbana, IL 61801",
+            "hours": {
+                "Friday": {
+                    "close": "23:00",
+                    "open": "11:30"
+                },
+                "Monday": {
+                    "close": "22:00",
+                    "open": "11:30"
+                },
+                "Saturday": {
+                    "close": "23:00",
+                    "open": "17:00"
+                },
+                "Thursday": {
+                    "close": "22:00",
+                    "open": "11:30"
+                },
+                "Tuesday": {
+                    "close": "22:00",
+                    "open": "11:30"
+                },
+                "Wednesday": {
+                    "close": "22:00",
+                    "open": "11:30"
+                }
+            },
+            "latitude": 40.1064412,
+            "longitude": -88.2236523,
+            "name": "Timpone's",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media3.fl.yelpcdn.com/bphoto/ysaTEaxgztZUZ9P5DqxNig/ms.jpg",
+            "review_count": 66,
+            "stars": 3.5,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "Service was pretty good, although the food was not that great for the price you pay. So, for a good time, there, Timpone's was the one. Overall, it's a nice restaurant. ",
+        "reviews": [
+            {
+                "review": "\"Three raviolis in my dish?! This better be the appetizer portion!!\"My experiences with TImpone's are fairly inconsistent. Food is not bad tasting in any way, but I always leave just a little dissatisfied. Portions are incredibly small and well, if you wanna be \"that kind of place\"...you should move out of Champaign. It's fine for a date, business dinner, something of that sorts, but definitely not the kind of place I'd keep coming back to.",
+                "reviewer_id": "0YlyigoFd3dNepDvNr3sVw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.36463310867669363,
+                    "positive_probability": 0.6353668913233076
+                },
+                "stars": 2
+            },
+            {
+                "review": "Timpones. We treated my parents after a long trip. We were in Champaign when they first opened around 1984. The chef was exceptional then and now. The starter fig pizza with prosciutto was crisp and tasty. We ended up sampling each other's dishes including the seafood risotto and fresh pastas. The most outstanding was a real gnocchi, light and fluffy paired with a scrumptious lamb Raghu that melted on the tongue. For dessert, creamy cappuccinos and a steamed bread pudding worth dreaming about. Beyond that the staff was gracious and warm. A perfect lunch. Thanks Timpones!",
+                "reviewer_id": "1kFZKVLH0gFgAh3ZE73eeA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.00021652125127805458,
+                    "positive_probability": 0.9997834787487156
+                },
+                "stars": 5
+            },
+            {
+                "review": "I love this place.  The menu rotates occasionally, and there is a specials board when you walk in (make sure to check the board or ask the server...sometimes the servers forget to tell you about the specials).  Food had always been stellar, from the basic burger to elegant salads, intriguing pizzas, and awesome pastas.  My fav is the gorgonzola gnocci, which is a rotating item.  Dessert is also good, maybe a bit pricey.  Creme brulee is always there and very good, gelato too.",
+                "reviewer_id": "1Q2Ea4vyB90zRqwAHjfCDg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9326427123340341,
+                    "positive_probability": 0.06735728766596417
+                },
+                "stars": 4
+            },
+            {
+                "review": "Timpone's is a solid restaurant. The ingredients are fresh, and the menu changes often enough to keep things interesting. I would say that the food is overpriced, but it's hard to get \"nice\" food directly on campus, so you pay a premium for convenience I guess. I've been here a good number of times over the years, and every time was an enjoyable trip, except once. I took someone here on a date, and we were seated in an area where the lights weren't working and the speakers were broken. I'm guessing they figured they could just put students there and get away with it. I complained (the restaurant wasn't near full and I had placed a reservation), they were nice about it and moved us and the rest of the dinner went very well. The decor leaves something to be desired, but otherwise a solid restaurant, with decent service and good food.",
+                "reviewer_id": "1WxQqmrLe-7LWkC5PjBQeQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.28712864269009836,
+                    "positive_probability": 0.7128713573099104
+                },
+                "stars": 3
+            },
+            {
+                "review": "The food is so amazing here. The service is good too. I need to go there more often. You pay a little more, but it is worth the money! You really get what you pay for here.",
+                "reviewer_id": "44GzCA_7s9Xq3kzl2xD1TQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.42227098866660995,
+                    "positive_probability": 0.5777290113333896
+                },
+                "stars": 5
+            },
+            {
+                "review": "This place survives because it is on campus, and very conveniently located.  it is also the only restaurant within striking distance of the university that serves wine and has cloth napkins, which means that it is full of administrators and professors.  The food is not at all good, but it has no competition if you need to take adults out to a semi-decent restaurant you can walk to from campus.  You should definitely avoid anything involving duck as a topping, because it basically comes out looking and tasting exactly like pastrami from Schnuck's.  If you like that, ignore what I wrote.",
+                "reviewer_id": "4omuU-xWbf3ty7vrMfbP3Q",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6252759199538133,
+                    "positive_probability": 0.37472408004619084
+                },
+                "stars": 2
+            },
+            {
+                "review": "I really enjoyed a celebratory dinner I recently had at at Timpone's.  I'd always meant to try it out but never had.  The food was really good, the service was excellent and it had a nice cozy romantic feel.  It was, however, pretty expensive, particularly for being located on a college campus.  The food was fantastic but portions were on the small side, especially considering the prices.  The peach bread pudding was scrumptious.  I probably won't be back, not because it wasn't good, but because there are a lot of other upscale places in town I'd like to try before I break the bank at Timpone's again, and special occasions that warrant a $100 tab only come along so often.",
+                "reviewer_id": "6uSW2qLSL5w0iz0g-Iwa-g",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.00019877410929905465,
+                    "positive_probability": 0.9998012258906966
+                },
+                "stars": 4
+            },
+            {
+                "review": "\"Surprisingly good Italian food for the area.\"Ordered the Fritto Misto as an appetizer. A great starter with Shrimp, Calamari and Scallops. Our table had the 2010 San Silvestro Dolcetto Monferrato Anselmo bottle of wine with our meal. Per the advice of the waiter, ordered the Pork's Lover's pizza as my main course. Good meaty personal pizza, large in size. Had Creme Brulee topped with fruit for dessert. Daily specials offered, generally better than the menu. Open for lunch as well.",
+                "reviewer_id": "9PkJdFbEAh6bJgDaHJ18mA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.865400286600343,
+                    "positive_probability": 0.13459971339965254
+                },
+                "stars": 5
+            },
+            {
+                "review": "Every time I've gone to the Canopy Club to see some raucous rock show, I've always wondered if folks at Timpone's were being disturbed by wailing guitars and so forth.Still no answer on this but I have found that it's somewhere I'll want to be coming back to. Well, I ordered the papardelle with the bolognese. Being a bolognese snob (and believing very sincerely that the best bolognese I've had was made by yours truly), I have to say it was certainly up to my standards. In addition, I had a slice of my neighbor's margherita pizza which was also tasty. I've not been to any other Italian restaurants in town, but this is Chicago-quality stuff right here. While it's a little on the expensive side, it is finer dining. It's not somewhere I'd expect to go every day for lunch but it would be nice for special occasions, dates, etc.",
+                "reviewer_id": "_9uvL80xzBxDjWzFM7Da5g",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.1304749664674729,
+                    "positive_probability": 0.8695250335325355
+                },
+                "stars": 4
+            },
+            {
+                "review": "Love this place, atmosphere is wonderful. You can actually hear your companions conversation. Their Chianti and spinach tagliatelle fantastic.",
+                "reviewer_id": "__MYDWEW2Dorpr9vMtWrzg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.17604526513645932,
+                    "positive_probability": 0.8239547348635406
+                },
+                "stars": 5
+            },
+            {
+                "review": "The food wasn't memorable, but the service was.Our waitress had no idea what she was talking about and seemed abrasive and rude!  Unfriendliness aside, she didn't even do her job very well.It's expensive, and just based on service alone, I wouldn't go back.",
+                "reviewer_id": "AGOmxrO-YUnltljd0SI08g",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4125184763452597,
+                    "positive_probability": 0.587481523654742
+                },
+                "stars": 2
+            },
+            {
+                "review": "Amazing appetizers, pasta and sauces. The mushroom sausage pizza as well as venison in polenta are amazing. The flavors are consistent and the spicing is on point. The desserts are pretty standard, pies or carrot cake but they are good and go well with the coffee they brew. Best Italian food in the area, hands down",
+                "reviewer_id": "aX8hmnedCsrLJ7HmD8hwvQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.020906435741690457,
+                    "positive_probability": 0.9790935642583105
+                },
+                "stars": 5
+            },
+            {
+                "review": "This place has been here for a long time but I think it's still trying to figure some things out  The menu is very ambitious for a campustown location, serving up \"campustown\" pizza along side upscale American/French/Italian fare.  The dining room is upstairs and is nice enough in a traditional way, but the look and ambience are very dated.  The quality of service is not in line with the menu.  Our server was clearly overwhelmed.  Our table had white linens bespeaking of a \"nice\" restaurant but was set improperly.  Wrong silverware, no bread plates.  We sat for quite some time before our drink order was taken, then our waiter left in the middle of taking the drink order to serve food to another table.  He eventually returned to take our drink order and then asked us for our entire food order at the same time.  Bread service was slow though the bread was good.  The glass of riesling we ordered was clearly from a bottle that had been left open for too long.  Another glass from a fresh bottle arrived after a while.We ordered some salads to start off the meal.  The bistro salad looked great - field greens, asparagus, potato, poached egg, bacon, vinaigrette.  However, when the salad arrived, there was no bacon.  Ahem.  \"Excuse me, but our salads have no bacon.\"  Response: \"OMG, forgot the bacon.\"  Instead of taking our salads away and giving us new ones, we were given small bowls of bacon pieces to put on the salads ourselves.  Please.We ordered a wild mushroom pizza with sausage and gorgonzola but we wanted to substitute goat cheese for the gorgonzola.  We were told this was not possible.  Restaurant policy is no substitutions, just subtractions.  We could remove the g-z but could not add goat cheese.  We ended up using the build your own pizza option and built the pizza we wanted.  What a pain in the a**!  The pizza was delicious though.  The thin crust must be one of the best I've ever had.The entrees were generally very good.  The American \"kobe\" skirt steak was tasty, having a sweet marinade reminiscent of Korean kalbi in flavor.  The duck breast was well prepared.  The trout was overcooked but was still edible.The desserts were adequate and there is a good selection of after dinner drinks and dessert wines.In summary, Timpone's has an identity crisis.  If they want to serve this type of food, then there is a level of service that is expected to go along with it which they did not meet.  It's hard to enjoy any restaurant when you are unhappy with the service.  My recommendation is to go for the pizza - then you won't need a bread plate.",
+                "reviewer_id": "Bjr1R8WNLgMrf8fa3u3Dxw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0006592337827538487,
+                    "positive_probability": 0.999340766217209
+                },
+                "stars": 2
+            },
+            {
+                "review": "To the best of my knowledge, Timpone's and (in the evenings only) the Bread Company, are the only sit-down non-pizza places adjacent to campus.  So I end up here periodically to entertain faculty who are visiting the U of I from elsewhere.   It's decent enough upscalish Italian-American food, but location is the only reason I go there --- places like Radio Maria, Cafe Luna, or Milo's have quite a bit better food.  Overall the place gives the impression of a reasonably-nice hotel dinning room with mediocre food to match (though, in contrast to that image, prices are reasonable).",
+                "reviewer_id": "BtdwnvZcoGGS4a7StMSl2w",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7494882900094785,
+                    "positive_probability": 0.2505117099905271
+                },
+                "stars": 3
+            },
+            {
+                "review": "Timpone's is a very nice restaurant, particularly at dinnertime. My boyfriend and I went here for a nice post-valentine's day weekend dinner (we knew it wouldn't be too busy this weekend, so we opted to do our v-day dinner this weekend instead.) When we walked in, the door and sign were very old-looking, but in a charming way, so that was promising.The first floor is a little more laid-back, but they say you can go to the upper floor if we'd like, so we opted for that. It was very nicely decorated with sculptures, paintings, and plants. The other diners were dressed casually, but still nice, if that makes sense. Like, jeans with a button-up or nice sweater. It was quite nice up there and the service was lovely. I ordered the veal and it was absolutely delicious, and the perfect portion size; however, it was not the perfect portion size for the price. For a $29 entree, I expected a little more on the plate, or for the price to be lower for the same amount. None the less, the food was delicious and so was my boyfriend's. We ended up sharing the crme brle for dessert and it was very good.Overall, the staff was very attentive and helpful. Although the atmosphere was slightly intimidating, it still had a nice, cozy, fancy-restaurant feel, and I wouldn't mind going again.TLDR: It's a nice place with good food and service, but expect to shell out some dough.",
+                "reviewer_id": "C5clF8EHUHfe9CrnAVGWqA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2941098266668634,
+                    "positive_probability": 0.7058901733331547
+                },
+                "stars": 4
+            },
+            {
+                "review": "I really love their seafood risotto. Leaves a very healthy and tasty feeling.",
+                "reviewer_id": "CcrzahdEMg5se-NMYXJTzQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5487031647169855,
+                    "positive_probability": 0.45129683528301495
+                },
+                "stars": 4
+            },
+            {
+                "review": "My boyfriend and I came in last night for the Local Flavors event. Sadly, we were a little underwhelmed. Local ingredients are very exciting to me and we've never been to Timpone's. I hear a lot of mixed reviews, everything from \"I had food poisoning\" to \"It's my favorite place when I have a special occasion\". Needless to say, we were excited to give it a try. When you walk in, you must go upstairs to be seated. After being seated, we enjoyed the Italian themed \"high art\" that was so popular in the 80s while we chowed down on a tasty meatball appetizer. We debated the ethics of charging the measly $1 for the bread starter. It was our locally inspired entrees that were especially disappointing. After a long decision making process, I went with the $25 halibut. It came with gnocchi and assorted vegetables. As I ate it, I felt like the fish was a little dry and overcooked and I noticed hints of freezer burn - yuck. After tasting all the components of the dish separately, I couldn't figure out what the culprit was. All I know is, it would hit me every now and again. My boyfriend's dish was the poussin (a baby chicken). It was super tender and was served with a farro pilaf. While it was tasty, the sweet sauce they smothered the chicken in made you feel like you were eating General Tso's chicken. We decided to try the apple crisp for dessert which was amazing! Little cranberries help balance out the sweetness. They did that annoying thing where they garnish it with mint even though there's no mint in the dish.In the end, I'm thinking maybe it was a mistake that we ordered off the special menu. Perhaps their typical Italian American cuisine would be better. From what we experienced, we definitely felt that the dishes were overpriced for the quality. We spent $100, and left feeling like it just wasn't meeting the quality we've seen at other places nearby. For $100, you could have a perfect meal in downtown Champaign. For $50, you can go next door and have a pretty awesome meal too! I'd like to come back and try the regular menu but, I'm not in a hurry to come back and spend the kind of money they're asking for mediocre food.",
+                "reviewer_id": "D98vylCT1fLKBIU6iAKxhw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 7.947541563532346e-05,
+                    "positive_probability": 0.9999205245843419
+                },
+                "stars": 2
+            },
+            {
+                "review": "The appetizers were tasty; risotto cakes, and crab.   Short ribs were perfect, but the portion could have been larger.  Hangar steak was excellent.  Fig pizza was really different, but it worked.  Dessert; pineapple upside down cake with ice cream was sweet and tender.  Chocolate mousse and lemon tart were nicely done.  Conversely, the waiter was not very helpful when it came to ordering wine.  He made no attempt to help suggesting anything, he may not have known the wine list?  They have an extensive wine list, which should have a knowledgeable staff.  Our waiter was no student, he just didn't care.  Also, he rushed us to put in our dinner order, and the food came too quickly.  The place was not busy, don't know why this happened.  Perhaps it was because I was a female.  Often, we get treated differently when dining without a male.",
+                "reviewer_id": "dxUxJ50biYd87GIR4-Jxxg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9277203159820193,
+                    "positive_probability": 0.07227968401797602
+                },
+                "stars": 4
+            },
+            {
+                "review": "I'm rather surprised at the reviews here. This place is expensive, and the portions are smaller, but that's how high-class dining works. If you want big portions (and often I do, so I understand the desire), go to Nyro's and get a triple gyro plate. The food is superb, and the waitstaff is excellent. The interior is very cozy and lodge-like (upstairs, anyway). Also, I typically don't like gourmet pizzas (I'm a blue-collar pizza kind of guy) but they really have some excellent pizzas here.On busy college weekends (like parents' weekend or whatever they call it) it's tough to get a reservation here. It's also the place that visiting scholars are often brought to be dined. The food will not disappoint.",
+                "reviewer_id": "dXZaFzVVXVPK8Ih08ce-9w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0004437792403556575,
+                    "positive_probability": 0.9995562207596382
+                },
+                "stars": 4
+            },
+            {
+                "review": "Amazing thin crust pizza and the best seafood risotto ever. Also great deserts. I have never been disappointed at Timpone's.",
+                "reviewer_id": "e-bUAfH0fnjqJCp0WX2gGQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.44529961190633516,
+                    "positive_probability": 0.5547003880936644
+                },
+                "stars": 5
+            },
+            {
+                "review": "Having gone to Timpone's for the first time for dinner with Sean Astin and the rest of the IUB Enriching Programs committee, I thought my lunch experience here would disappoint. The bar is on the ground floor and we got seating on the first floor.  We ordered a Margarita pizza, two 8oz hamburgers (one with avocado one with cheese), and I ordered a Tagliatelle with Chicken Breast, Prosciutto, Peas, Tomato Cream, Basil, Romano. I've had the pizza here before and it's not bad but the pasta I had today was pretty good. The portions were pretty small though- it could just be that I'm comparing it with other campus eateries, when this is on a whole nother level. This is the first time I've ever been here for lunch and I have to say that I'm impressed. I had a great time.I strongly recommend the Burgers here -they're cooked to perfection and priced just right. This is a classy place so make sure you wait to be seated, even for lunch! My only regret is that I didn't explore their beverage selection...",
+                "reviewer_id": "er4OtwOrNz3CmFvpbDECZQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0004284843959965197,
+                    "positive_probability": 0.9995715156040047
+                },
+                "stars": 4
+            },
+            {
+                "review": "Timpone's always has an interesting menu with delicious foods. The service can be slow sometimes though. Most disappointing is that they won't make any substitutions on food. I wanted to substitute garlic for olives on a pizza, but they said no. You would think that a restaurant with that price of food would accommodate this with their customers. I also recommend that they refill iced tea rather than bringing a whole new glass and straw. It is a greener way. All that said, the food is always wonderful and it is an excellent place to go for a special meal.",
+                "reviewer_id": "f8whKgtvAF6NOExa-D0nuQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0006510699524065413,
+                    "positive_probability": 0.9993489300476002
+                },
+                "stars": 4
+            },
+            {
+                "review": "I went here last night for my birthday dinner, and I was extremely happy with the entire experience. The biggest plus for me, aside from the food that is, was the waitstaff. All of the servers were very friendly and professional, and I could tell they all looked out for each other. Case in point, I noticed some lint on one of my glasses of wine, and before I could even say anything, one of the other waiters saw me studying the glass and quickly came over and offered to replace it.Speaking of wine, the selection was great, but I was unfortunately relegated to the limited \"wine by the glass\" menu since I was the only red wine drinker at my table. Even so, the selection of wine by the glass was well-rounded and pretty solid, and our waiter's wine recommendations were spot on. Now, for the food!Bread and olive oil is complimentary, of course, and very tasty (so simple...but so good!). For starters, we ordered the crab cakes as well as a spring salad with walnuts and gorgonzola, both of which were very good. For my entree, I had the roast duck, which came with fingerling potatoes, red cabbage, spring vegetables. The entire dish was fantastic. Moist duck, perfectly cooked vegetables, and a wonderful sauce that had blueberries in it. A simple dish done very, very well.In all, Timpone's is a great place for a gourmet meal at a pretty decent price. They have a nice selection of veg-friendly dishes, too (not vegan, however). I can't recommend this place enough. Give it a try!",
+                "reviewer_id": "H7T9CVhsfjt_1LbI0RAo4Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.14414908508738267,
+                    "positive_probability": 0.8558509149126345
+                },
+                "stars": 4
+            },
+            {
+                "review": "I think this may be the best restaurant near the U of I.  Standard Italian food, but some wonderful improvisations in addition.  I don't know where they get their seafood, but the swordfish is the best I've ever had.  Also pastas, steaks, and great vegetables - they are committed to organic ingredients.  Spend a few hours and taste a few appetizers before dinner.  Reasonably comprehensive wine list and full bar.  Cordial service, but they keep it leisurely, so let them know if you've got a curtain later.  The owner comes around to make sure you feel well cared-for.Note: they serve lunch M-F from 11:30 until 3.  Dinner begins at 5 p.m.",
+                "reviewer_id": "HANb8-8InWnju-XzBQQSBw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.010964248756687011,
+                    "positive_probability": 0.9890357512433116
+                },
+                "stars": 5
+            },
+            {
+                "review": "Totally average for what it is trying to be. The food is competent but a little boring and is perhaps a hair overpriced. Gnocchi tends to be pretty ok.",
+                "reviewer_id": "hYh2hTAfio3UrafRljjuzw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6869060292008347,
+                    "positive_probability": 0.31309397079916773
+                },
+                "stars": 3
+            },
+            {
+                "review": "This place is a hidden gem. Went for lunch today and the experience was wonderful. Server was attentive, they graciously accommodated us even though they closed in 45 minutes, and the food was beyond delicious. We ordered the mushroom pizza as an appetizer, the steak burger (cooked perfectly medium and only available on the lunch menu), mushroom ravioli, and the spinach tagliatelle with chicken. The menu changes often and I've been there multiple times and enjoyed my experience/meal. Definitely a special place to take out of town guests but we also enjoy it for a lunch or dinner when we're feeling fancy! I do agree that the portions are on the smaller side compared to other restaurants (of lower quality) but I feel very satisfied after because the food is good quality and delicious. You get what you pay for here.",
+                "reviewer_id": "hZDlwc7Ee_Z2pq7EA5dzWA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 6.167825870195168e-06,
+                    "positive_probability": 0.9999938321741303
+                },
+                "stars": 5
+            },
+            {
+                "review": "I've now been to Timpone's a couple of times for lunch (it seems like whenever I visit UIUC someone takes me here). It's pretty much located on campus, which makes it an easy destination if you're working for the university. The food is vaguely Italian with some American influences, and it's pretty good overall if not mind-blowing. Last time I was there I had the tuna burger, which wasn't bad, although I was a little disappointed when the tuna turned out to be a tuna patty and not an actual piece of tuna. They give you free bread... nice. Friendly service too. I just wish the food were a little more impressive.",
+                "reviewer_id": "igrgFZl9wDohSem0UyoP6A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.030980633470746782,
+                    "positive_probability": 0.9690193665292539
+                },
+                "stars": 3
+            },
+            {
+                "review": "Great place for a special occasion, very upscale and surprising considering where it is located, with a very knowledgeable staff and delicious food.  Definitely much more of a fine dining establishment than anything else in the area it is not an \"everyday\" kind of place for students but definitely a good place to keep in mind for those special events.",
+                "reviewer_id": "iKt9RWLOS_PE4SKBRFkKww",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0004102996996052051,
+                    "positive_probability": 0.9995897003003963
+                },
+                "stars": 4
+            },
+            {
+                "review": "Went here for a lunch about six weeks ago (takes me a while to digest my thoughts, so to speak). Had a goat cheese pizza, and it was PRETTY TASTY. Prices were right for a joint of its kind, and the place itself had a nice decor, which made it, all around, really solid.",
+                "reviewer_id": "K5_9Nf6KgGE8YzMj64IKOA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9368552230882583,
+                    "positive_probability": 0.06314477691174175
+                },
+                "stars": 4
+            },
+            {
+                "review": "Amazing, amazing, amazing!  I had their special black bean pizza and it blew me away!  Everything on the menu sounded so good!  I'll have to go back to try many more items:)",
+                "reviewer_id": "kc1uUlHySLvnUvQHtkvfqg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.37491625823047625,
+                    "positive_probability": 0.6250837417695249
+                },
+                "stars": 5
+            },
+            {
+                "review": "The food this valentine's was very good.  We enjoyed.  The menu was prix fixe for $45/person.  They did not offer an optional menu.  We witnessed multiple tables of college aged valentine's dates (and some older folks too) sharing one dinner or actually walking out before ordering because they couldn't afford it.  Our waiter was HORRIBLE.  He had an incredibly loud voice and though friendly enough, was not really \"nice restaurant\" material. For example: instead of \"may I offer you more coffee sir?\" he said, \"do you want more coffee?\" (in that really loud obnoxious voice--think yelling)....  I mean, I am not snooty but it's Valentines and we are trying to be romantic on a night out so a little politeness could go a long way.  I could hear his voice across the dining room.  He actually called out one of the couples who left before ordering---saying \"Sorry Guys! You know the menu is really good and if you were in Chicago, you would pay $150, etc.\" I mean, he kind of went on and on....really loudly...and you know these broke college kids were just trying to sneak out of there with the least amount of embarrassment.  Geesh! HE was horrible.  Did I say that already? and we had to ask for everything- bread, refills, etc. nothing was anticipated---he was just bad.  The price is steep- especially for Champaign- but it was a holiday so the splurge can pretty much be justified.  Portion sizes were very big and good.  Food was hot and perfectly cooked.  They didn't accommodate vegetarians well- as we overheard at the table next to us----the veg options included the Chilean Sea bass without the Chilean Sea bass---so just basically the sides (what? Like, have a pasta dish, it is an italian joint after all). We had a decent date---would have been great if the waitstaff were better.  Would probably go back.  I think they should consider some new staff though.  :)",
+                "reviewer_id": "kDpbgd9E61pjUruSWoXgEQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7451705010162316,
+                    "positive_probability": 0.2548294989837752
+                },
+                "stars": 3
+            },
+            {
+                "review": "i had the mushroom ravioli for dinner and i thought i died and went to heaven. the best part though was not the dinner....it was the service. my waitress mary kate was one of the most wonderful people ive ever encountered. thank you mary kate, for being an amazing individual.",
+                "reviewer_id": "KiXzxA28VRtPi1UwDopv2Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0544646107355733,
+                    "positive_probability": 0.9455353892644252
+                },
+                "stars": 5
+            },
+            {
+                "review": "They change their menu base on fresh food they get. It's the only real Italian restaurant in town. Good place for gathering and family.",
+                "reviewer_id": "LG4pme_kWty5lKSf_oRJ7w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2649464704581891,
+                    "positive_probability": 0.7350535295418086
+                },
+                "stars": 5
+            },
+            {
+                "review": "Little diamond in the rough. Ambiance and location were great but the linguine I had was a bit  oily.",
+                "reviewer_id": "lR8ztGfJzRv-dp9ZPyooUA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5945638607009552,
+                    "positive_probability": 0.4054361392990459
+                },
+                "stars": 2
+            },
+            {
+                "review": "Okay, I went for my second visit....Just as absolutely fantastic as the first.  We had the salad with asparagus and a poached egg...the bomb.  We had pizza again. We noticed every single table had a pizza on it..  That says it all. The BEST. And the macadamia crusted Mahi was divine.  The sauce was to die for. We fought over it at the table. (yes, we share good food amongst friends).  Remarkable food. The best in Urbana.",
+                "reviewer_id": "NXZNi9v4lS2GOwkxPuGf5g",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0006178257714659532,
+                    "positive_probability": 0.9993821742285314
+                },
+                "stars": 5
+            },
+            {
+                "review": "It's kind of funny how you go through your college years with a certain perspective on cost.  Back in my day, anything over 5 bucks for a meal was expensive.  I never went to Bread Company or to Timpone's until after I came back to visit my now wife.But now?  I'm freaking rich, bitches.  I can order what I want, where I want.  That's right.  12 bucks for a plate of awesome pasta with bolognese sauce? Why yes, I can afford that.  I actually have a paycheck that isn't from wiping tables or undergraduate research!The times I've been to Timpone's has always been impressive.  My most recent visit, however, made me appreciate this place all the more.  I can't say that I've had a better pasta with bolognese sauce.  Sure, it's a seemingly absurdly simple dish, but everything about the thing was just right.The wife got a fried oyster and spinach salad that was extremely delicious as well.  I kept meaning to ask what sort of oysters they were, because you don't typically see consistently small oysters like that.  Alas, the mother-in-law has since moved away from the Champaign/Urbana area so our visits will be fewer and farther in between.  I'll have to make it a point to visit this place whenever we aren't stuffed on pokey stix...",
+                "reviewer_id": "OazxM5v9i8PQ6NXWQDxCGQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.00019712737719972183,
+                    "positive_probability": 0.999802872622804
+                },
+                "stars": 4
+            },
+            {
+                "review": "I came here for lunch and had the seafood risotto. Based on the atmosphere and the reputation of the restaurant, I had pretty high expectations. Unfortunately, the meal was very average and rather on the bland side. (The desserts, on the other hand, were outstanding!)This place probably deserves another shot, but based on this one experience I am feeling underwhelmed.",
+                "reviewer_id": "OR42MwTj59Md34xl4mgi_g",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.611641859999598,
+                    "positive_probability": 0.38835814000039703
+                },
+                "stars": 3
+            },
+            {
+                "review": "Three people on a Wednesday night.  Sat downstairs, which is like eating in the foyer.  One glass of wine, two personal pizzas, bowl of pasta and 3 salads equaled a tab of $60 before tip.  The pizza is great, but the total experience was meh.  This restaurant ought to have a lower priced menu for the folks sitting downstairs and getting food dished out by the bartender, and a higher priced menu would be fair for folks sitting upstairs enjoying the white tablecloth experience.I'll go again, but a $7/three-ounce glass of wine ought to be enjoyed upstairs, and was simply incongruous for the casual meal-in-the-doorway we had.",
+                "reviewer_id": "pwyRJuJoodUS__gsQMGlMw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0024110590961851815,
+                    "positive_probability": 0.9975889409038081
+                },
+                "stars": 2
+            },
+            {
+                "review": "I don't comment unless it's mindblowing or horrid...If you're looking for \"italian\" go to olive garden or some crap place like that.  Timpone's has a seasonal menu, diverse offerings, and expertly prepared foods.  I don't think Timpone's bills itself as an \"Italian restaurante\"  Okay, pasta is on the menu too, but is that all it takes to be pigeonholed about being Italian?  Or the name?Yes, the decor is bad.  But the food transcends...Far & above, it is the best place to dine in Champaign/ Urbana.Timpone's offers the freshest, most expertly prepared cuisine that I am aware of, and, for the quality, it is under-priced.",
+                "reviewer_id": "qH6lo6qDXssE7R30mxEEIQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.012492533854939264,
+                    "positive_probability": 0.9875074661450615
+                },
+                "stars": 5
+            },
+            {
+                "review": "I was in Urbana alone on business and wanted to dine at a nice restaurant within walking distance of the Illini Union where I was staying. The restaurant had a nice ambiance and the wait staff was professional. I ordered the halibut with brussels sprouts and proscuitto. The lemon beurre blanc sauce served with the fish was divine. The white wine I had was also very good. I was too full for dessert but wanted to try the lemon tart so I ordered it to go. I figured I could have it later while I worked in my hotel room. I was surprised when I got my bill and saw that I was charged .50 for the container b/c I asked for the tart to go. It's not a big deal but after paying over 60.00 for my meal (for one), this left a negative impression. I've gotten dessert to go at other restaurants of all different price ranges and have never been charged for a container. I wonder if I had eaten part of the tart at the restaurant and then asked for the rest to go if they would have still charged me the .50. Again, not a big deal but this changed my impression of Timpone's from being an upscale restaurant to a fine restaurant wanna-be.",
+                "reviewer_id": "qk9XDOj9OyBK65QjqC6ztg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0067669265339519525,
+                    "positive_probability": 0.9932330734660484
+                },
+                "stars": 3
+            },
+            {
+                "review": "I took my Dad here when he was visiting.  I was expecting it to be expensive, but also to be a solid dining experience.  Sure it is one of the few very nice restaurants on campus, but from now on I will go off campus to eat nice meals.  The food was okay.  The dishes were pretty small for the price.Worst of all was the service.  It took forever to get anything done and while the waittress was very nice, it was unpleasant.  Also, it was too loud for my Dad and I to talk which was our main intention.  Lastly, this was in the winter and there was a huge draft whenever anybody entered the restaurant that forced us to put our jackets on.",
+                "reviewer_id": "qy5Fas6mjr1Q6GaNf2d-oQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0005063200728795242,
+                    "positive_probability": 0.9994936799271233
+                },
+                "stars": 3
+            },
+            {
+                "review": "My boyfriend took me here a couple weeks ago and it was absolutely worth the cold, rainy walk there. We were their last customers of the night so service was a little slow but the server was very nice. The food was amazing. I had the roasted duck and it was cooked to perfection. It was tender, juicy, and so delicious. My boyfriend got the veal and he has the most amazing lobster mashed potatoes. We also shared the pizza margherita and that served as a great appetizer for us because we were starving when we got there. We were both really pleased with the meal and I hope he takes me back there again sometime.",
+                "reviewer_id": "QZYDU9o9zMklhTH0GoMDMw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.005046939632962127,
+                    "positive_probability": 0.9949530603670416
+                },
+                "stars": 4
+            },
+            {
+                "review": "The atmosphere: The downstairs bar area is small and cheap looking. The dining room is dated and screams \"cheap 1980's supper club\" - not at all romantic! The restaurant was filled with retirement-age couples/parties about to head to a Krannert performance on the Wednesday evening that we went. This past week, we went to Timpone's to celebrate my birthday. We started off sharing the \"Fritto Misto\" appetizr, described as \"Calamari, Gulf Shrimp, Scallops, Red Onion, and Zucchini.\" When the dish arrived, it was nothing but a pile of glorified onion rings. There were only three pieces of calamari (small tentacles), 3 shrimp (which were small, and clearly of the phosphate-pumped Asian variety, and a scattered few wet calico scallops...95% of the \"Fritto Misto\" was red onion. I feel as though by listing the seafood first, that indicates that the bulk will be seafood, or at the very least, there will be an even distribution of the components. Not wanting to be a \"difficult customer\", I chalked it up to just a \"bad batch.\" That being said, the recipe was a straight copy of Judy Rodgers' dish in the Zuni Cafe (San Francisco) cookbook, and I could have made it at home...However, when I received my entree, \"Sea Scallops with a Dijon Beurre Blanc on a bed of celery root puree\"... I was furious. There were 5 scallops, each approximately the size of a quarter (no exaggeration) and only seared on one side. The mound of puree could not have been more than 1/2 cup (and didn't even taste good). My husband ordered \"Chianti-Braised Shortribs with Homemade Gnocchi\" - which came with fewer than 10 small gnocchi. Worst of all, the food tasted bad; the beurre blanc was so sweet it was like Creme Anglaise with Dijon and I could have done a better braise at home easily.  I know that times are tough, and that food costs are supposed to be ~30% of the final restaurant price- but I felt completely gouged. I'm happy to pay for a delicious meal and I do not expect large portions. I travel pretty frequently to Chicago and DC- I know what good food costs and what \"normal\" portion sizes are at \"fine dining\" restaurants. I did not want to make a scene because I didn't want my husband to feel bad for picking the restaurant. The only reason this place could possibly stay in business is because of its proximity to campus/the Krannert Center for Performing Arts or because most people have very low expectations due to the lack of \"Fine Dining\" in the C-U area.Our server was very attentive and great, but the food was so bad (even with the small portions, we didn't finish our food and didn't want to take the leftovers home!). We will not be returning.",
+                "reviewer_id": "r8AulMAwAIrVrdJGHQcllA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.04860048684899777,
+                    "positive_probability": 0.9513995131510308
+                },
+                "stars": 1
+            },
+            {
+                "review": "First time coming here with a bunch of friends. Many of us ordered the Fettuccine with Salmon Pasta, which was horrible. Not a single one of us thought it was decent. I had a difficult time choking it down after a whole hour of picking at it. Service was pretty good, although the food was not that great for the price you pay. The portion sizes are very small. The beef tenderloin was way above its price range for the amount you get and there's better out there. Overall, my experience was pretty bad...The creme brulee was the only thing that was worth praising there, although it is a tad too sweet for many of us.",
+                "reviewer_id": "RVddqoCFviKYyU_IKJ-NWg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.004474413623939412,
+                    "positive_probability": 0.9955255863760645
+                },
+                "stars": 2
+            },
+            {
+                "review": "The prices are fairly decent if you just order food (no alcohol included) and the quality is fairly decent. The waiter we got was very knowledgeable and polite. I'm also a fan of the dim lighting in the dining area and the overall quiet atmosphere so you can actually have a conversation with the people you are having dinner with. We both ordered pizzas, which they claim is one of their specialties, and it was good, but I felt like it was also a little over-hyped because it wasn't anything extraordinary. The ahi tuna appetizer was delicious though and I would highly recommend ordering it. Overall, it's a nice restaurant.",
+                "reviewer_id": "RvYWDZSFv-wL4waACRswrQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0016483427473008671,
+                    "positive_probability": 0.9983516572527088
+                },
+                "stars": 4
+            },
+            {
+                "review": "This is one of the very early fine-dining restaurants in CU.  Picture a midwestern take on a NYC restaurant, circa 1980's (though a little later 80's now since they did some updating).  The menu, though printed daily, doesn't stray far - pasta, some fish options, sometimes steak, risotto.  Service varies, and unfortunately there is a lot of server turnover.  I have eaten here many times b/c it is close to areas of the University in which I work.  At one point this was a bit of the \"make the scene\" place, and it is convenient for pre- or post-concert dining at Krannert.  Nevertheless, many other places have come along since this one, and while I would say it's in the top handful of places in town, it is no longer at the top.  I would also recommend lunch over dinner...very similar menus, and I tend to get better lunch service.",
+                "reviewer_id": "S3dhPGW9PJfK6ZuQoJhKfA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.40799401479566394,
+                    "positive_probability": 0.5920059852043441
+                },
+                "stars": 3
+            },
+            {
+                "review": "For two years I walked past the singularly unimpressive facade of Timpone's with its dated looking sign, convinced that such a place could only continue to remain open because it was obviously a front for some illegal racketeering scheme or other sinister enterprise.Then I went for lunch.I am still not entirely convinced that there is not a vicious syndicate running the location, but I was pleasantly surprised by my experience.  Well-made salads, great food options, and wonderfully arrayed.  I ended the entire adventure with a lovely dessert and coffee and emerged mildly regretful for having judged Timpone's so harshly.However, if there's a raid one day I wouldn't be surprised. ;)",
+                "reviewer_id": "SpKVX3rt892E-BrL-yeqiw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0024717397565956504,
+                    "positive_probability": 0.9975282602433966
+                },
+                "stars": 4
+            },
+            {
+                "review": "This is one of the few VERY nice restaurants on campus! Obviously since most students are poor they don't offer many fine dining experiences but this is one!  The food is Italian, which is your normal Italian. The atmosphere is great-cozy and romantic at times.  Everything is made fresh and tastes awesome! We got introduced to the owner and the Chef which made it even more enjoyable!",
+                "reviewer_id": "sUrU9l3_f1iWYZdLmop0Rw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.008701209809058195,
+                    "positive_probability": 0.9912987901909446
+                },
+                "stars": 5
+            },
+            {
+                "review": "Tjis place is out of the price range for most college kids and I feel the food is very average. Which would be fine if I wasn't paying extra for average food. I got taken here twice for a focus group for my major and since it was free I cant complain. But there's no way I would pay full price here.I'm a heavy eater. And by heavy eater I mean I normally throw down to or three normal entrees at regular restaurants.these portions do not fill the average person though. Its not a bad restaurant but its not great either.",
+                "reviewer_id": "TpGTyk-NuepCXxsda8iXUA (1)",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.08317341119145026,
+                    "positive_probability": 0.9168265888085518
+                }
+            },
+            {
+                "review": "Tjis place is out of the price range for most college kids and I feel the food is very average. Which would be fine if I wasn't paying extra for average food. I got taken here twice for a focus group for my major and since it was free I cant complain. But there's no way I would pay full price here.I'm a heavy eater. And by heavy eater I mean I normally throw down to or three normal entrees at regular restaurants.these portions do not fill the average person though. Its not a bad restaurant but its not great either.",
+                "reviewer_id": "TpGTyk-NuepCXxsda8iXUA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.08317341119145026,
+                    "positive_probability": 0.9168265888085518
+                },
+                "stars": 2
+            },
+            {
+                "review": "This review is a bit late in coming since I haven't eaten there since 1999, but this is what I wrote back then:  Is this the best Italian place in town?  I don't know - I always get one of the fish specials - it's definitely the best place in town to get fish.  Portions are small, especially for an Italian place, which makes it a better \"date\" place - you don't have to worry about getting bloated.  You will even have room left to gourmandize one of their great desserts with your date.",
+                "reviewer_id": "v49bFn4R2iwtBZHbLwln3A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.05874766104464199,
+                    "positive_probability": 0.9412523389553535
+                },
+                "stars": 5
+            },
+            {
+                "review": "Timpone's reminds me of Italian places at home run by a family you grew up with, and you just go because they are part of the community. I've never really been wowed by the food. It's average. And really too expensive for college kids. Good not great.",
+                "reviewer_id": "VFO8RtZQOGOUpOxbVpMNRA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.18281720426727646,
+                    "positive_probability": 0.8171827957327231
+                },
+                "stars": 3
+            },
+            {
+                "review": "Have always enjoyed the food and thought it to be of very good quality. The service is lacking due to the focus on hiring the nearby students from the university. On one occasion we made reservations, and while being seated the hostess tried to place us at a table. We prefer a booth and asked to be seated at one but she refused saying that they were not yet seating in that area. We insisted, and this went back and forth several times before we said that we will leave. She finally allowed us to sit at a booth but then made a dramatic show about placing us there before stomping off. It was bizarre and not the typical experience, but just a cautionary sign of what comes when staffing students.",
+                "reviewer_id": "VToSHMGLUnoxfdMZBvSLHw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.00580982477774371,
+                    "positive_probability": 0.9941901752222647
+                },
+                "stars": 4
+            },
+            {
+                "review": "Ordered seafood risotto, and spinach pizza with artichoke hearts and goat cheese. Both are delicious!",
+                "reviewer_id": "YQh7V0JN03KezF38TaVCVw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5319905818321107,
+                    "positive_probability": 0.46800941816789043
+                },
+                "stars": 5
+            },
+            {
+                "review": "Everyone knows, being stuck in that section of Urbana can well and truly suck.  Especially when it comes to lunch!  45 minutes with a fifteen or better walk up to Green?  No thank you!So, for a good time, there, Timpone's was the one.  The answer to everything.And, in that, there was value.  Not a dollar value, I'm afraid, as Timpone's sure charged for the pleasure.  And there wasn't much flexibility there, either... I mean, it's not like you could order and they'd deliver.  But you could pick-up, so that was something.My favorite, by a landslide, was their Italian Beef, but it, too, wasn't that dependable.  It really just hinged upon whether you liked thickly sliced garlic.  You could always tell when they got down to the bottom.... besides the beef getting a little fattier, there were so many pieces of sliced garlic, the whole texture/taste changed.  Enough garlic to keep ten Dracula's at bay, I assure you!Their expensive sub-par pizza was soon replaced by Ozark.  A happy day for all those on the South Campus.Honestly, we had to depend on this place for so many years, and I just always found their food \"meh\", and their \"service\" even worse.  Unfortunately, their prices were the biggest insult... When the new place was built across the street, we were all glad.If you're looking for a very dated restaurant, with a menu that's reflective of its age, give this one a try.  Just limit your expectations.",
+                "reviewer_id": "YtbXNQJEJAHZK_2DFXSa6w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.07617205858922302,
+                    "positive_probability": 0.9238279414107831
+                },
+                "stars": 2
+            },
+            {
+                "review": "I feel that this could be a perfectly good restaurant but every time I go there they just miss it.  So if you want an expensive meal that just misses tasting good, go here.I had a perfectly good burger that had apparently been sitting too long before the waiter brought it out: the bottom bun had turned to soggy mush.  So close!I tried a tomato bisque with goat cheese lumps in it that had a lot of potential but there were so many goat cheese lumps that the balance was all wrong.  When you order a tomato bisque it should taste like tomato, I reckon.  Almost!I had a fancy-pants mushroom and sausage pizza.  Each ingredient seemed good by itself, but as a whole it had a taste I would describe as \"many strong clashing cheeses.\"  Nearly there!",
+                "reviewer_id": "zq815p7o2OM1kNHG8OdobA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8742552931616338,
+                    "positive_probability": 0.12574470683835937
+                },
+                "stars": 2
+            }
+        ],
+        "similar_restaurants": [
+            "2SycDjGWWpFs1ODL-YBoHA",
+            "NMGkgrTGyNVAA5mnwYL5Ig",
+            "doCqqCuoDsIQYDSY2gkUtQ",
+            "SoyigEmlt4JYwnOqR_cqUw",
+            "VZ3A1pVQFwzNGnsNEz3FiQ",
+            "562AuYjOuZwtTbS1UYhY6Q",
+            "oP8KsXHOUA_otHHI5JHScQ",
+            "h9xdY1NO4GnNijNChTy-8A",
+            "eSVQBYV8HU3Gna2KOC8y-g",
+            "vY3jiyABOyFOaGBujou8Vg"
+        ]
+    },
+    "SoyigEmlt4JYwnOqR_cqUw": {
+        "keywords": {
+            "bigrams": [
+                "salad_bar",
+                "baked_potato",
+                "medium_rare",
+                "twice_baked",
+                "bar_good",
+                "steak_fries",
+                "oz_ribeye",
+                "baked_potatoes",
+                "pretty_good",
+                "chicken_shrimp"
+            ],
+            "unigrams": [
+                "ribeye",
+                "salad",
+                "steak",
+                "bar",
+                "good",
+                "place",
+                "restaurant",
+                "rare",
+                "baked",
+                "food"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "full_bar",
+                "Ambience": {
+                    "casual": true,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "BYOB": false,
+                "BYOB/Corkage": "yes_free",
+                "Caters": false,
+                "Corkage": false,
+                "Delivery": false,
+                "Good For": {
+                    "breakfast": false,
+                    "brunch": false,
+                    "dessert": false,
+                    "dinner": true,
+                    "latenight": false,
+                    "lunch": false
+                },
+                "Good For Groups": true,
+                "Good for Kids": true,
+                "Has TV": false,
+                "Noise Level": "average",
+                "Outdoor Seating": false,
+                "Parking": {
+                    "garage": false,
+                    "lot": true,
+                    "street": false,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 2,
+                "Take-out": false,
+                "Takes Reservations": true,
+                "Waiter Service": true,
+                "Wheelchair Accessible": true,
+                "Wi-Fi": "no"
+            },
+            "business_id": "SoyigEmlt4JYwnOqR_cqUw",
+            "categories": [
+                "Steakhouses",
+                "Restaurants"
+            ],
+            "city": "Champaign",
+            "full_address": "1701 S Neil St\nChampaign, IL 61820",
+            "hours": {
+                "Friday": {
+                    "close": "21:30",
+                    "open": "16:30"
+                },
+                "Monday": {
+                    "close": "21:00",
+                    "open": "16:30"
+                },
+                "Saturday": {
+                    "close": "21:30",
+                    "open": "16:00"
+                },
+                "Sunday": {
+                    "close": "21:00",
+                    "open": "16:00"
+                },
+                "Thursday": {
+                    "close": "21:00",
+                    "open": "16:30"
+                },
+                "Tuesday": {
+                    "close": "21:00",
+                    "open": "16:30"
+                },
+                "Wednesday": {
+                    "close": "21:00",
+                    "open": "16:30"
+                }
+            },
+            "latitude": 40.096106,
+            "longitude": -88.2454553,
+            "name": "The Ribeye",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media1.fl.yelpcdn.com/bphoto/3iSNSgBKSGHXXaryInM9vw/ms.jpg",
+            "review_count": 49,
+            "stars": 3.5,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "Ordered the Ribeye dinner, medium rare and it came with bread, salad bar and baked potato. steak. The steak was good as well. ",
+        "reviews": [
+            {
+                "review": "Okay, I don't know what the deal is with the reviews of this restaurant but I was in Champaign on business for a day and stayed at a nearby hotel and was referred to try the Ribeye because of its local flare. I have eaten at top rated (over priced) steakhouses and I was in the mood for some good midwest beef and something on the 'local' side. I had a GREAT dinner experience. I really enjoyed the ambiance of the place, the U of I memorabillia is very cool (I am a sports fan) and it has a nice feel to it. The service was more than attentive. Had a really nice glass of wine. Ordered the Ribeye dinner, medium rare and it came with bread, salad bar and baked potato. All for under $20, food only. I travel, try to get this anywhere - you won't find it. The salad bar is nice, for me not that big of a deal. The little loaf of bread is a nice touch. But when the steak and potato arrived on a sizzling hot plate, oh yeah this is what I wanted after traveling all day. I ordered the steak medium rare and I will have to say that it was cooked to PERFECTION. Just the way I wanted it. The potato was tasty and large and I just sat back and enjoyed a very nice meal. I would definitely eat here again, I would recommend others to do the same.",
+                "reviewer_id": "0MtV2zbN1Xfj27NzuYdTVw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 6.412480795211782e-05,
+                    "positive_probability": 0.9999358751920323
+                },
+                "stars": 5
+            },
+            {
+                "review": "This Restaurant is out of this world.Yes the salad bar is , good everything is good. The fresh bread you get there is out of this world too. The only thing I don't like is that you have to wait if you don't make it there on time when they open,  the lines are so long.But I guess it is worth it. I normal don't eat steak but that steak and the chicken is  good.I also have a glass of wine with my dinner that is very delicious.",
+                "reviewer_id": "12oNZyecE29NUv9klQyvBg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5123461107941717,
+                    "positive_probability": 0.48765388920582536
+                },
+                "stars": 5
+            },
+            {
+                "review": "This is by far the best place in Champaign to get a steak, hands down. I have ate here probably 30 times and never had a bad experience. The salad bar here is beyond amazing. Food and serve is also excellent. PS ~ Brian is the best waiter. He always remembers us and is super personable.",
+                "reviewer_id": "2d6bYq_7cfi8zp0lswZjOQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.06264190853408566,
+                    "positive_probability": 0.9373580914659151
+                },
+                "stars": 5
+            },
+            {
+                "review": "As a townie, I've been eating here on special occasions for years. Last night I went there with my sister, parents, and nine-year-old son, and dinner for all of us was  over $80! Our chicken skillets were $16.99 each - much more expensive than it used to be, and the portions are smaller!   Not only that, but my sons steak had a lot of fat on it.  Our waitress, Dee, was wonderful, but the experience wasn't worth it for the price.",
+                "reviewer_id": "2T-SnTWaZU47zllHzrpHqw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.1944299875543746,
+                    "positive_probability": 0.805570012445626
+                },
+                "stars": 2
+            },
+            {
+                "review": "Okay so I dont get the draw to this place- the decor is right out the 80 ' s and the clientele is in their 60' and 70's. The food is one step above a sizzler and the prices are that of medium to upscale restaurant. Over time I've began to realize that some people don't know what good food is...now without calling me an A-hole, hear me out. Everything is bland and unseasoned here; steaks are traditionally brought out with the texture of shoe leather, God forbid there be any juice left in the steak. Salad bar is eh, it's big and if big means good then I guess it's great. As one person posted before it will probably be gone in 10-15 years when a majority of their patrons have passed away, though I would like to say they are probably right, there is a new crop right around the corner that will still view the ribeye as a special treat. You don't have to reinvent the wheel but for Petes sake if you are going to specialize in steak serve a great steak (I'm looking at you, Beef House, as well). Eat what you like, I'm not going to stop you, but if you are seeking out a decent steak in Champaign the best place I can suggest is Roadhouse and I'm ashamed to do so-",
+                "reviewer_id": "38rvarCrnlmAvungUKUPRQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.37630184403356626,
+                    "positive_probability": 0.6236981559664357
+                },
+                "stars": 2
+            },
+            {
+                "review": "The Ribeye is the bestfor the greatest steak in town.",
+                "reviewer_id": "4UpCBfRXULqQ0GaZTnG9Mg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2227749149974602,
+                    "positive_probability": 0.7772250850025404
+                },
+                "stars": 5
+            },
+            {
+                "review": "A very popular place in Champaign.  The steaks are always done as you request, the salad bar is a nice size with good selection, the beer selection is very limited if your not a 'light' fan.  Service has always been good, an extra treat for anniversaries & birthdays is a plus.  Since all I can say is good things,  why just 3 stars you ask?  Well, since you asked, I'll tell you:  I have never come out of 'The Ribeye' and said to myself, \"I just can't wait till I come back here\"",
+                "reviewer_id": "5Been7LfMV9GKBSqABGScA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.04216533635510615,
+                    "positive_probability": 0.9578346636448952
+                },
+                "stars": 3
+            },
+            {
+                "review": "If you understand what the Ribeye is and go in there with the right mindset, you will not be disappointed. I grew up (and never really left) C-U, so the Ribeye will always hold a special place in my heart for its sentimental value. The decor hasn't changed in 20+ years, I'm sure. When you go in there, you feel like you are transported back to the 80s. However, the restaurant itself is very clean. The salad bar is my favorite -- always fresh, crisp and cold. I can't overstate the freshness -- you constantly see employees changing the salads. All of their salads and salad dressings, to my knowledge, are made in-house. I'm a huge fan of everything on that salad bar, especially the cucumber salad and the herring salad (but you just might have to be Eastern European to appreciate pickled herring with onions in mayo). For being a Ribeye lover, I actually don't like the steaks at the Ribeye. I really like thick-cut steaks cooked med rare, and you will never get anything below a med well steak at this place. However, the steaks are always juicy and full of flavor. They're served on a hot skillet (which I find questionable, but again, it's part of the experience). I always get the grilled chicken with extra barbecue sauce. It's seriously the best out there. I don't like twice-baked potatoes anyways, and their's is no exception. I usually order steak fries or rice pilaf.They have drinks, but they appeal more to the older crowd. No biggie for me, I usually order iced tea or wine anyways.I wouldn't say any food from the Ribeye is out of this world, but it is very, very good. The quality of the food and service is consistent. Go in with an open-mind. The Ribeye hasn't changed a bit in decades, and there's always a wait -- there's definitely a reason why they haven't changed. They do what they do very well.",
+                "reviewer_id": "5x-D9LqS0VDZlSosk2c3Fg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.03542764529236684,
+                    "positive_probability": 0.9645723547076219
+                },
+                "stars": 5
+            },
+            {
+                "review": "I understand that this is Champaign, IL and you have to keep your expectations reasonable, but the salad bar here is extremely unimpressive.  Most of what is available is pre-mixed \"salads\" covered in mayo or sour cream.  The selection of fresh, undressed vegetables was limited to iceberg lettuce, tomatoes, onions, peppers,  carrots, and cucumbers.  Ruby Tuesday has more variety for a better price and is FAR more comfortable.The ribeye was good but pricy.  It was served on a hot skillet, which helped keep it warm while I got my potato prepared.The ambiance was awful with narrow, hard chairs, too much sports memorabilia, and too crowded (my wife was hit several times by staff and other customers).Our waitress was extremely attentive without hovering or getting talkative.  Very happy with the service.Overall, not bad, but slightly overpriced, and keep your expectations reasonable.",
+                "reviewer_id": "6-1EpdgmA4aCq2lwPvxEPg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0002931575908205943,
+                    "positive_probability": 0.9997068424091871
+                },
+                "stars": 3
+            },
+            {
+                "review": "Not my cup of tea but older people like it. Admittedly been years since ate there but not much seasoning on steak. Salad bar was good.",
+                "reviewer_id": "8oJRVNV3Bi3VHAuI1Su7-A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.36191648371353263,
+                    "positive_probability": 0.6380835162864693
+                },
+                "stars": 3
+            },
+            {
+                "review": "The Rib Eye is solid and unpretentious.  You come for meat, you will get meat.  If you are on a college student budget, it might be a good place to go with your parents.  Personally I like it better when I'm not picking up the bill.The main dishes are right there in the name - different sizes of rib eye.  I'd heard great things about the salad bar, and it is pretty good.  There's a lot of x salads - pasta salad, bean salad, egg salad offerings.  The vegetables are reasonably fresh and there's a fair amount of toppings.  Even so, this is not a good place for a vegetarian.  My girlfriend's family took us out to eat here and one of her sister's friends was a vegetarian.  She had very little luck with the menu and I think had to get the salad bar only.  The rib-eyes are meaty and well cooked, not too overseasoned.  They come out on a hot metal plate that will continue to cook them a bit as you eat.  I have ordered rare steaks each time I've been there, and they actually brought out properly rare (chill in the middle and bright red) so I didn't mind too much.  It was moist and delicious.  The steak fries are big and crispy but just a little bland to me.  The price does seem a bit high to me when paying, and the decor is absolutely outdated.  A lot of the popularity of this place is rooted in nostalgia, I think, but it delivers the Rib eyes it promises.",
+                "reviewer_id": "9LZXJu6RZ6UpIXYGSZWB7Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 5.020806665907694e-07,
+                    "positive_probability": 0.9999994979193189
+                },
+                "stars": 3
+            },
+            {
+                "review": "Whenever I come to town and ask my parents where I can take them out to eat, they choose the Ribeye. Otherwise, I would never go here.When you walk in, The dated paneling, low ceilings, and sports bar lighting/TVs might make you think you were in a pizza joint or sports bar instead of a steak restaurant. The place is dark and windowless with (rather tacky) Illini sports posters on every wall/surface.The salad bar, which some people rave about, is not particularly large and is poorly designed/located so that you often have to go down both sides to get what you want...which is a lot of trouble considering the offerings.The steaks are OK, but thin for the price and always overcooked. The shrimp is OK, too. The bread, which looks/feels fresh baked tastes like its stale and probably comes from frozen dough.The only nice thing I can say about the place is that my parents like it.",
+                "reviewer_id": "9P0C4hBTaDWB0GMw9IOSEg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.44009925289733526,
+                    "positive_probability": 0.5599007471026702
+                },
+                "stars": 2
+            },
+            {
+                "review": "I really don't get some of the reviews of this place.  The salad bar is fabulous?  Ok, you people need to get out of central Illinois more....So here's what this place is about.  It is called The Ribeye and that is a perfect name for it.  Just about the only thing you can order here is a ribeye.  You can get an 8 oz ribeye, a 10 oz ribeye or a custom cut ribeye in any weight up to 32 ounces.  But you can't get any other cut of meat.  All ribeyes all the time.  They do have I think one chicken and one shrimp dish available if you don't like ribeyes.  So you better like ribeyes if you come to this place.Now to the salad bar.  What is good about it?  The fact that they have iceberg lettuce, cucumbers, croutons and 8 different mayonaisse based salads?  The salad bar is terrible.  Where are the mixed greens or spinach?  What about garbanzo beans or sprouts or candied walnuts or jicama or edamame or anything remotely interesting?  I find rural midwest cuisine sorely lacking in variety and this salad bar is just about as vanilla as it gets.Lack of menu choices, a terrible salad bar, baked potatoes that only come with butter and sour cream options (a steak restaurant should ALWAYS have baked potatoes that come with the options of chives, bacon, cheese and ALL of the fixings) and a pretty dingy interior all leave you pretty underwhelmed with this place.  Unless you want a 32 ounce ribeye.  Then they've got you covered!",
+                "reviewer_id": "9PR7UXJaqD_yHb3LFnOvZA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6298848085395865,
+                    "positive_probability": 0.37011519146041133
+                },
+                "stars": 2
+            },
+            {
+                "review": "After hearing rave reviews of The Ribeye, I decided I would like to try this place. I was surprised that the restaurant was only open 5 and half hours every day and close by 9 or 9:30 every night. Weird concept for me... they would definitely receive more business by staying open a little later. We did not make a reservation and walked in. Quoting us a 20-25 minute wait while there were four open tables to be seen we decided to wait and eat here. Seeing we were not leaving, the hostess seated us within 8 minutes. This was a Friday evening.Our waitress was extremely pleasant and took great care of us. We ordered a beer on tap and of course, the ribeye. Ribeye comes with choice of baked potato, steak fries, or rice and each couple gets a loaf of bread. Salad bar is free if you order an entree. The salad bar was great, but way too small. It had plenty of food but it was crowded with a lot of people on both sides reaching everywhere. It needs a different spot in the restaurant. I ordered the 8 oz. ribeye while my husband ordered the 12 oz. It was a good cut of meat and well-aged but it was just good. I expected my mind to be blown, but it was just a good cut of steak. With two steaks and two beers our bill was $55. The restaurant looks like something from the 70s... very odd, but comforting in a way.",
+                "reviewer_id": "_H51myKxCJL-4gHQnikPEw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 1.5080322034057504e-07,
+                    "positive_probability": 0.999999849196783
+                },
+                "stars": 3
+            },
+            {
+                "review": "worst. steak. ever.Why oh why can't we rate zero stars?!  Or better still, negative stars!Update: Had to go again because my aunt is insane. Knowing how bad the steak is, I ordered the shrimp. 10 times worse than the steak. The salad bar that people rave about? Laughably bad. Seriously, have you never been outside of Champaign and seen a real salad bar?  Hell, even the Courier Cafe in Urbana has a better salad bar!Our waitress--and I wish I could remember her name-- was excellent, but she couldn't save the meal.DISGUSTING.",
+                "reviewer_id": "aAs8b3mViJAD8vebEPCIVA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6855388734092446,
+                    "positive_probability": 0.3144611265907559
+                },
+                "stars": 1
+            },
+            {
+                "review": "It's good, for what they are doing. Maintaining status quo for their regular customers. To me, the salad bar is the best thing. This is a steak house for the older clients. Always the same, and that's ok.",
+                "reviewer_id": "AEP33Zp4phOGMLw_xbwf8w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.039046156654516,
+                    "positive_probability": 0.9609538433454843
+                },
+                "stars": 4
+            },
+            {
+                "review": "Every now and then, you find a restaurant that does one thing and they do it so well that they never need to change. This is not that kind of place, although it thinks it is. The menu offers three options: ribeye, chicken, or shrimp. Seeing as they specialize in ribeyes, I would think they would know how to cook one. I ordered mine medium, expecting a juicy, pink center. I ended up with a very well done steak that was mostly devoid of flavor. Part of the problem is due to the fact that the steaks are served on a hot skillet-plate, which obviously continues to cook the steak as it comes out to you. If you plan on ordering a steak here, I recommend asking for it rare so that by the time it arrives at the table, it's not completely over-cooked.I understand that the salad bar is a big draw for some people. There is a huge selections of different \"salads\" that you might find at a church potluck (i.e., all sorts of salads that involves pasta, mayo, and other things that are not lettuce). If you want a lettuce salad, there is a large bowl of crisp iceberg with tomato slices carefully arranged in a cylinder, stacked like citrusy bricks. I imagine the baked potato is fine, because you can't really do a whole lot to mess it up. I ordered the steak fries, which weren't seasoned at all. One of my dinner companions commented that they tasted a lot like the frozen french fries that you bake in your oven at home. The decor was hilarious incongruous with the prices. From the look of the place, you'd think you were at a small town seniors restaurant that served plain chicken with a side of canned corn. Then you look at the menu and the three dinners cost between $16-23. It didn't bother me a lot, but it was amusingly awful in terms of ambience.I don't mean to trash this place too much though. The service was great, and the staff were very accommodating. I was there for a graduation party, and I called in advance to see if they would allow me to bring in cupcakes. I've seen other Champaign-Urbana restaurants add a plating charge for any outside food, if they allow it at all. The Ribeye said it was no problem. I have to give them props for being cool about everything.Overall, I can't really recommend this. You can get a mediocre steak for a lot less. If you do end up going, just make sure you either order the steak less done that you want it, or be very clear with the waitress as to what medium or medium rare means to you (and be prepared to send it back). Oh, and don't order the fries!",
+                "reviewer_id": "AYz_5ChPSoQ4CRQeaKjWBg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.012083576481942896,
+                    "positive_probability": 0.9879164235180825
+                },
+                "stars": 2
+            },
+            {
+                "review": "The Ribeye serves... you guessed it ribeye steak. And they do a pretty good job. The ribeye is on the thin side but cooked right with minimal seasonings. I grabbed the twice baked potato for my side and although it looked like it was sitting around for a while it was good. Salad bar was all you can eat with a decent selection of toppings. If you rolled in looking for other options on the menu, be aware the menu is simple. Other members of our table had the shrimp and chicken and gave it a good rating. Now onto the decor... if you like the 80's this is your hot spot. Overall a decent meal and good service.",
+                "reviewer_id": "chX64yH3JgV_Fd0pVVDQfw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9891973304591937,
+                    "positive_probability": 0.01080266954079977
+                },
+                "stars": 3
+            },
+            {
+                "review": "The price is increased but the steak size is reduced. Disappointed.",
+                "reviewer_id": "dPjYfacluGoHiCRjDmIIlA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8573282694699649,
+                    "positive_probability": 0.14267173053003482
+                },
+                "stars": 2
+            },
+            {
+                "review": "My fiancee and her family have been going to this place for years.  It's pretty simple all around -- they have a simple menu and a rockstar salad bar (whatever that means...their salad bar is A+).  The service is always excellent and the food is consistently great.",
+                "reviewer_id": "EZ6UB9mX59z-RRy8TVkitQ (1)",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.17413842533731858,
+                    "positive_probability": 0.8258615746626797
+                }
+            },
+            {
+                "review": "My fiancee and her family have been going to this place for years.  It's pretty simple all around -- they have a simple menu and a rockstar salad bar (whatever that means...their salad bar is A+).  The service is always excellent and the food is consistently great.",
+                "reviewer_id": "EZ6UB9mX59z-RRy8TVkitQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.17413842533731858,
+                    "positive_probability": 0.8258615746626797
+                },
+                "stars": 5
+            },
+            {
+                "review": "I myself can't recommend Ribeye for a meal, and gave it a low rating, roughly 1 1/2 stars. Because Ribeye has many happy customers, as well as fellow Yelpers who are fans, and who are marking Ribeye higher, I will try to describe Ribeye as well as I can as I relate my single dining experience. That way, you, the reader, will know what to expect if and when you go.Ambience and Decor:Let me first describe the restaurant's ambience. The restaurant is a dark, windowless interior space. The decor is simple, something like wood or wood-like tables and chairs along with booths. When I was there the restaurant was very busy and extremely noisy. TV's were visible from most seats of our table, so watching a TV show or event while eating is part of Ribeye's draw. I imagine drinks and dinner while watching a football game would be an example. There is a full bar in a space connected to the dining area. Food:The food at Ribeye is not to my taste. The ribeye steak is low quality meat. Eating the steak is not a pleasant or satisfying experience. Perhaps a hamburger or meatloaf type order would be safer. Ribs are on the menu but I just know that the barbecue sauce would not be better, and might be worse, than that offered by McDonalds.The salad bar comes with most dinners. The salad bar has a mediocre selection of items, and the quality of each item is basic. Coleslaw would be on par with that available in a chain supermarket deli. Freshness of the salad bar is variable by item, depending upon how it turns over. Overall, the salad bar is not worth ordering. It just is not very good.Bread is a hot, fresh loaf, but mediocre nonetheless. Also, Ribeye does something to its butter. The butter is whipped up for sure, but they might add sugar or something to it. The vegetables, and items like baked potato or mashed potatoes are edible, but mediocre. These don't appear to be prepared to order. Unfortunately, potatoes and vegetables lose much of their appeal if they are not eaten when freshly cooked to order.I can't comment on dessert. None of us ordered dessert, and I don't remember what was on the dessert menu.Summary:Overall, Ribeye leaves me with the impression of being an upgraded (albeit, a much upgraded) version of Sizzler. It also has the feel of a sports bar. Prices are pretty much in line with what Ribeye offers. That is, prices are neither too high nor are they particularly good values. Service is adequate but unremarkable either way.For me, this all is about 1 1/2 stars on Yelp. Ribeye is targeted to, and evidently, successfully fills, its own niche in the market. The other reviewers have different opinions, but all of us are evaluating the product that I have tried to describe to you above, in my review. I hope this will give you some idea of what to expect if you visit Ribeye.",
+                "reviewer_id": "FaHa06QgYKrko68AYM199A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 3.5794006286846955e-05,
+                    "positive_probability": 0.9999642059937162
+                },
+                "stars": 1
+            },
+            {
+                "review": "Don't know how to give 1-2 stars or I would downgrade the rating. If you're gonna name yourself after a cut of meat, I believe the meat shouldn't be substandard. Ribeye is my favorite steak but this did not cut it. Added sauted onions and mushrooms to the meal and to my surprise they were button mushrooms. The small loaves of bread were hot coming to the table.  I had one slice - average. The best thing going on was the salad bar and even it lacked. By that I mean the lettuce was tired. However a good variety of other things were there. Large portions - that's the best I can say. And that it was walking distance from the hotel. But if it's meh, who cares?",
+                "reviewer_id": "fU87SONDhYLDZK7soXSjLg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6880675353974579,
+                    "positive_probability": 0.3119324646025459
+                },
+                "stars": 3
+            },
+            {
+                "review": "Excellent local landmark restaurant. Love the salad bar! A modest but flavorful wine selection is available. I got the 10oz ribeye and it was a perfect medium rare. Service was good no real complaints there. If I had to say something negative it would be that there are way too many old people here!",
+                "reviewer_id": "jrfdRh9RM6ShrtIYhIkiFg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.27488855265854395,
+                    "positive_probability": 0.725111447341454
+                },
+                "stars": 4
+            },
+            {
+                "review": "I like to play a game when I am traveling for my job with the hotel staff to help me find restaurants. The game is pretty simple and it cuts all of the crap that you get from hotel staff trying to be overly friendly. Ask \" Where would you go tonight if cost didn't matter?\" And if that doesn't work ask \"What restaurant is your favorite?\" \"What would you get?\"First time out of maybe a hundred i didn't get a good recommendation. The staff is very friendly so I gave two stars, but when I go somewhere for food I want good food. The quality of the steak is on par with almost expired meat from walmart. Harsh but true. I feed my dog steak once a year for his birthday and the low grade steak I get from my butcher for him is better than this. Also I am glad that I read some reviews on here before I went because they serve the steak on a frying pan that is cast iron and very, very hot. The result I ordered my steak rare expecting it to come out medium rare it was closer to medium and by the time I was finished with a 12 oz. it was going towards medium well. The salad bar was the only redeeming quality. It had a fairly decent selection of different salads; such as pasta salad, potato salad and so forth. The basic salad is a kind of build your own house salad with a few simple dressings and a large variety of toppings that are typical in the Midwest. (Sorry reviewer from Cali I know people from Cali and they are always disappointed by our smaller selection of vegetables offered for vegans in Midwest restaurants)The price for a 12 oz twice baked potato (mediocre and two hot to eat because it was served on a skillet so it didn't cool down) and a sprite. 29 bucks before the tip. This is DEFINITELY a favorite of the locals because of all of the Illini stuff on the wall but the rest of the decor was just covered up fake wood paneling from the 70's/80's will black painted drop tile. In short, find somewhere else there are plenty of places to eat in Champaign/Urbana.",
+                "reviewer_id": "Kr43vxCprsyT5XAYepc0Ww",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.00015078030341606917,
+                    "positive_probability": 0.9998492196965867
+                },
+                "stars": 2
+            },
+            {
+                "review": "Great on all counts except the decor could really use updating.  Tradition or not, I know people who refuse to go based on the decor.  The food is awesome though.",
+                "reviewer_id": "M-QnQdXP3pec4FvpSnox3A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.39089901231547003,
+                    "positive_probability": 0.6091009876845298
+                },
+                "stars": 4
+            },
+            {
+                "review": "My grandparents are long-time fans of the Ribeye, and I have joined them at the Ribeye on two separate occasions.  Both times, the hostesses and the servers were extremely nice to them - treating them like local celebrities - and anyone who is that nice to my grandparents is okay with me! The Ribeye has a relatively limited menu and their specialty is the ribeye (surprise, surprise).  The salad bar and baked potato are included with the ribeye dinner, and both are pretty good.  The overall ambiance of the Ribeye is relatively casual, and they have a lot of Fighting Illini memorabilia.  I think some of the reviewers who were disappointed with this place may have been expecting something along the lines of Morton's or Gibson's in Chicago - the Ribeye is not that.",
+                "reviewer_id": "M7Ay-iCMnLLXFWtcUhxI8w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.006695300566759382,
+                    "positive_probability": 0.9933046994332426
+                },
+                "stars": 4
+            },
+            {
+                "review": "Awesome old school steak house. Danica my server was very attentive and knowledgeable. Ordered a steak rare and she knew not to bring it out on a hot plate, which was the norm. Menu is limited to what they do best. Great salad bar and the twice baked potato was full of flavor. Being from the south I tried their sweet tea, big surprise of flavors and just enough sugar to make a southern boy proud. When in Champaign Illinois give it a try. Plenty on illini photos all around.",
+                "reviewer_id": "MEMA0w5nTyG9un50xZhcDw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0014796715941579888,
+                    "positive_probability": 0.9985203284058346
+                },
+                "stars": 5
+            },
+            {
+                "review": "Mediocre at best.  The steak is cooked nicely but under seasoned as were the saut onions I had to go with the meat.  Our waiter raved about how great the twice baked potatoes were but I'd have to disagree.  Maybe I don't have a taste for them in general but it tasted bland and very average.  Plus the peal at the bottom was rock hard so I could eat it.  Salad bar was pretty good and I enjoyed what they had to offer there but overall I thought that paying $30 for this and a single beer was a bit much for what I got.  Our waiter did a great job and I kinda like the nostalgic feel of the decor even though I'm not really an Illini fan.  Don't plan to visit again unless someone else is buying.",
+                "reviewer_id": "MibR-2dhTV8AW9Rl62B6mQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.03807114793926867,
+                    "positive_probability": 0.9619288520607213
+                },
+                "stars": 3
+            },
+            {
+                "review": "The food was Amazing 16oz Steak and fries steak was so big and juicy I couldn't finish it so I brought the leftover home for my Dog Roxy. I'm sure she will love it as well as I Did",
+                "reviewer_id": "OcESRMuVWOdbhQxBJGIniA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2639118828661416,
+                    "positive_probability": 0.7360881171338572
+                },
+                "stars": 4
+            },
+            {
+                "review": "Fair is stretching it.  The ribeye was a low grade supermarket cut.  Not on my list to revisit in the future!",
+                "reviewer_id": "OSn4NkNQOGBh9xEywFH7jQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5018936327884957,
+                    "positive_probability": 0.4981063672115064
+                },
+                "stars": 3
+            },
+            {
+                "review": "As a big fan of the Ribeye, I have one piece of advice - if you plan to go on a Friday night, or after any Illini basketball, football, volleyball, or other popular sport game, make sure to call in reservations before you go. I've had 15 minute waits even with a reservation, and 45 minutes plus without. I don't believe they take any reservations on Saturday, so expect a wait. Ambiance/decor isn't the best, sure, but it serves its purpose. The clientele is comprised largely of older Illini fans, so it works for the Ribeye to have pictures of Illini teams from their glory days. The service here is fantastic. The servers are professional, polite, friendly, and attentive without being overbearing. About the food... Well, when you go to a place called \"The Ribeye,\" you should probably be in the market for a ribeye. Sure, there's chicken and shrimp, but the ribeye is their pice de rsistance. Honestly, when I started going to the Ribeye around 5 years ago, I feel like the steaks used to be higher quality, which is what keeps me from giving them a 5. Still, the ribeye is brought out on a hot cast-iron skillet/plate, and that sizzle alone can make my mouth water. I recommend either ordering one degree of cooking lower than your normal preference (i.e., if you like medium-rare steaks, order rare) to compensate, or eat your steak as soon as it's served. The highlight for me, however, is the salad bar. There's iceburg lettuce and the standard salad toppings to make your own,  or an array of pasta, bean and potato salads (most of which are, indeed, covered in mayonnaise). My personal favorite is comprised of green peas, peanuts, cheddar cheese, bacon and ranch dressing. Is it haute cuisine? No. But it is solid, simple, and delicious. Also awesome - the croutons, made from the leftovers from the fresh French or wheat bread brought to your table.The price isn't terrible. Two people with soft drinks and before tip comes out to $42. The Ribeye isn't world-class, five-star dining, but it does offer good steaks, great salad options, and pleasant service.",
+                "reviewer_id": "pjIrFFjl03twCAaQMJQxwQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 6.87187381030729e-05,
+                    "positive_probability": 0.9999312812618892
+                },
+                "stars": 4
+            },
+            {
+                "review": "Ahh, The Ribeye, a University of Illinois post game tradition.  I am assuming it is a post game tradition because most people have imbibed before, during, and after the game and need the Ribeye's bland food to stay in their stomachs.  I am only halfway joking.       My SO and I went to the Ribeye recently on a Saturday night and true to course, it was packed.  Even with the full house we did not have a long wait.  The clientele was a mixture of older couples and slightly depressed game goers.  The interior of the Ribeye is straight up old school steak house, dark and dated.     Like prior reviewers have noted, the Ribeye is famous (or infamous) for its very small menu: ribeye steaks, chicken, and shrimp.   They charge you $1.50 per ounce after $23.99 for a 10 ounce ribeye so it makes it just a little more expensive than going to a chain steakhouse restaurant.  They do have a salad bar that is included with your dinner.  It is not a huge salad bar and only has the basics for salad toppings.  It's meh ... I was impressed to see spiced apple rings on it though.  I had not seen those things since the grade school cafeteria!     The server we had was very friendly although she was busy and did not offer a refill or any suggestions to go with the meal.  I will chalk it up to being busy although she did take time to chat up the U of I game goers at the next table.    I ordered a 8 oz. ribeye rare with sauted mushrooms and loaded baked potato.  SO ordered the 10 oz. ribeye medium rare with steak fries.   It did not take long for the entrees to arrive on sizzling hot on plates like a fajita.  The sauted mushrooms were canned button mushrooms in a weird wine sauce and swimming in oil.  They were not bad, but they were not sauted.  My steak was medium rare but it's hard to cook a steak-umm rare.  Seriously, my steak looked like it belonged on a Philly cheesesteak. I did not mind the fat but the lack of any type of seasoning was ridiculous (salt & pepper should be requisite seasonings!).  If you want to be known as THE steakhouse for the Champaign-Urbana area, maybe you should invest in some quality steaks and not truck stop steaks. My husband enjoyed his steak but he had just recovered from the stomach flu so I am not sure his experience is valid.  SO's steak fries were okay, again no seasoning and my baked potato was a baked potato. Sour cream is fully loaded here and you have to ask if you want extra butter other than the one that comes with the tableside bread.   Disappointed in general and completely confused as to how people consider this a great steakhouse. Pros:   Nice service, kind of cool retro atmosphereCons:  Bland over priced food, over inflated reputation",
+                "reviewer_id": "RgnfXyAsgnvoENDBrVsbfw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.046269242469100934,
+                    "positive_probability": 0.9537307575309166
+                },
+                "stars": 2
+            },
+            {
+                "review": "The salad bar was excellent. They had a delicious assortment of salads and pasta and even some fruit. I had the chicken and shrimp meal and it was also delicious. My sister has a gluten intolerance and was able to order the chicken without the marinade. This is definitely a special occasion restaurant due to it's steep prices though.",
+                "reviewer_id": "RH1qLpGvJxoYO8g0CVDKyQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.003061003809001958,
+                    "positive_probability": 0.9969389961909958
+                },
+                "stars": 5
+            },
+            {
+                "review": "I was impressed.  We had the ribeye, shrimp and chicken entrees.  All were very good.  The service was very good.",
+                "reviewer_id": "RhPJjuiOMV0M9Xw7mnE3eA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7483997657333141,
+                    "positive_probability": 0.2516002342666865
+                },
+                "stars": 4
+            },
+            {
+                "review": "This is a place you only go to for one reason - steak.  That said, it's pretty good, and the salad bar is quite good.  Expect throngs of locals, esp. around athletic event times.  The place is full of Illini regalia and probably hasn't been updated decor-wise since the 70's.  Sadly, most of their constituency wouldn't care or notice.",
+                "reviewer_id": "S3dhPGW9PJfK6ZuQoJhKfA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3470528861364328,
+                    "positive_probability": 0.6529471138635679
+                },
+                "stars": 3
+            },
+            {
+                "review": "I love that the menu is limited...  Makes the decision process easier!  Our steak was VERY good, cooked exactly as we ordered it, medium rare.  The salad bar was good too.  Not as great as the one at the Mascoutah Moose's once a month Steak Saturday, but good.  Our server, Ashleigh, was attentive and personable.  All in all, well worth the money.",
+                "reviewer_id": "sPpgwnTgA4myuCwwAsPrAA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.005975765766277121,
+                    "positive_probability": 0.9940242342337237
+                },
+                "stars": 4
+            },
+            {
+                "review": "My family has been going to the RIbeye for over 20 years.  Their steak is WONDERFUL, the all-you-can-eat salad bar is beyond this world, and the twice baked potato is the best I've ever had.  The staff is professional and very knowledgeable and helpful.  Would highly recommed the Ribeye for a classy, Illini-themed restaurant any day.",
+                "reviewer_id": "SUO7mcc7Jla_lncvxo6Qgg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.05687501035893111,
+                    "positive_probability": 0.9431249896410737
+                },
+                "stars": 5
+            },
+            {
+                "review": "Whenever you ask someone about The Ribeye, their response is the same:  \"the salad bar their is FABULOUS.\"When the best thing going for a steakhouse is its salad bar, this should be a red flag.The service is stiff and hurried, but efficient.  The wine list is basically two choices:  white or red.  The menu is basically two choices:  steak or chicken.The steak is a decent cut, but hardly seasoned and served on hot cast-iron skillets that mean your medium-rare steak is well by the end of your meal (and your medium well is a dried-out hockey puck of jerky-like ribeye.)All this while dining in a windowless cinder-block building decorated wholly in orange and blue, and surrounded by senior citizens (equally decorated wholly in orange and blue.)But yes, the salad bar is good.",
+                "reviewer_id": "TF2IQSAmV6bVU_mo-GiX3g",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3756788158248958,
+                    "positive_probability": 0.624321184175098
+                },
+                "stars": 2
+            },
+            {
+                "review": "was sadly disappointed.My medium rare steak was overdone, and hard to cut, but maybe its just the rib-eye cut? sadly no other steak cut options.The pickled beets and freashly baked slight deepfried bread are awesome.  Other than that, I just wasn't really feeling the pasta and buckets of mayo salad bar.The decor is more than slightly dungeony from the moment you walk in.Menu options is basically rib eye and some insignificant chicken option and 3 pieces of shrimp for 20 bucks.However, the place was busy the whole evening, so they must be doing something right for others.",
+                "reviewer_id": "tWB_zZDSqC4CI36rzNo9zA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.353223015126091,
+                    "positive_probability": 0.6467769848738996
+                },
+                "stars": 2
+            },
+            {
+                "review": "The menu is very simple. The ribeye is very thin and comes out on a hot skillet. The twice baked potato was very good. The steak was good as well.",
+                "reviewer_id": "vu0b-IYm08LYTpSVIR5Vdg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5219609015624058,
+                    "positive_probability": 0.47803909843759623
+                },
+                "stars": 4
+            },
+            {
+                "review": "Best salad bar in town!! Good service!!",
+                "reviewer_id": "VWs1K0QyF67GYjABB3RHHA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5536876198222273,
+                    "positive_probability": 0.44631238017777236
+                },
+                "stars": 4
+            },
+            {
+                "review": "I will concur with the other reviewers that the decor is completely drab and dull however, I really enjoyed my meal last night. We arrived around 4:15. Noticed there were quite a few people already there. We were told they would let us have a table as long as we could eat and be done by 6:00. That not being a problem we were promptly seated. My daughter and I usually share a meal and I asked our server if that would be OK. She told me that the kids buffet was only $3.00 so we opted for that. And she certainly ate her worth of $3.00 salad bar and more. When will it stop snowing here????? Anyway, I ordered the 10 oz. Ribeye medium. When it came out on the sizzling skillet it was more like well done. It was hard to cut and totally dried out. My server noticed that I wasn't happy and offered to get another one. I am not one of those people who likes to send food back to the kitchen for obvious reasons but this time I did. She brought me back that best Ribeye I have had in a very long time. When I cut into it bleed and that grosses me out but here the skillet is still cooking the steak and therefore it was soon medium and perfect!! So, my advice would be to order your steak under what you would at other steakhouses. They make the ranch dressing and that is always a plus in my book. The salad bar was good. They have real bacon bits. That along with homemade ranch dressing is the best in my book!! By the time we left there were so many people waiting to get a table it was crazy.  I advise go early (they open at 4:00) or make reservations.Yes, they only offer Ribeye steaks. No deceiving there. Hence their name,",
+                "reviewer_id": "W4ojW7f30haCertr4CzFJw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.09545289244908892,
+                    "positive_probability": 0.9045471075509002
+                },
+                "stars": 4
+            },
+            {
+                "review": "It was what I expected, a place that claims to be a ribeye place.  What I didn't expect was a thin cut of ribeye.  I'm  used to a thick narrow cut of beef.  It was prepared exactly as I ordered but there wasn't much flavor.  On the other hand, the salad bar was very good with a large selection.  Service was good and its walking distance from the hotel.",
+                "reviewer_id": "wj9nwbdSoh1QvHSXXs_TwQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.15939760059827704,
+                    "positive_probability": 0.8406023994017228
+                },
+                "stars": 3
+            },
+            {
+                "review": "This restaurant is a great local spot with very good food.  The portions are plentiful and the salad bar had so much to choose from other than salad toppings.  Ill definitely go again.",
+                "reviewer_id": "wRwYUD79PUsZtgJjXJnVQQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.07727271175002288,
+                    "positive_probability": 0.9227272882499756
+                },
+                "stars": 4
+            },
+            {
+                "review": "The steaks are fine, but I love the twice baked potatoes and the salad bar is legit. It's not terribly budget-friendly, though, so we don't make it here very often.",
+                "reviewer_id": "YbkPwGiLcrdA2Vx4cjsIeg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.50201025110841,
+                    "positive_probability": 0.4979897488915913
+                },
+                "stars": 4
+            }
+        ],
+        "similar_restaurants": [
+            "562AuYjOuZwtTbS1UYhY6Q",
+            "VZ3A1pVQFwzNGnsNEz3FiQ",
+            "NQvZ_RotIEalBKsJ8zuLIw",
+            "eSVQBYV8HU3Gna2KOC8y-g",
+            "QUZUgIHFKgYEgM-QNROgHw",
+            "K5PfWwW61Ajommy9xvXdAw",
+            "2SycDjGWWpFs1ODL-YBoHA",
+            "O_HxmcRtxdJluerS2RYqtA",
+            "a4JU2JqAbT0p8_A8s_v8Kw",
+            "UBriZt4m5BzkvNqnCeuGmw"
+        ]
+    }
+}

@@ -1,0 +1,897 @@
+{
+    "JhEA8qHfNmIh8c6OHXnaYA": {
+        "keywords": {
+            "bigrams": [
+                "grilled_cheese",
+                "college_town",
+                "buffalo_shrimp",
+                "work_tips",
+                "quality_food",
+                "good_service",
+                "wild_wings",
+                "food_served",
+                "fries_cold",
+                "buffalo_wild"
+            ],
+            "unigrams": [
+                "hooters",
+                "service",
+                "wings",
+                "food",
+                "waitress",
+                "good",
+                "great",
+                "better",
+                "don",
+                "chicken"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "beer_and_wine",
+                "Ambience": {
+                    "casual": false,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "BYOB/Corkage": "no",
+                "Caters": true,
+                "Coat Check": false,
+                "Delivery": false,
+                "Good For": {
+                    "breakfast": false,
+                    "brunch": false,
+                    "dessert": false,
+                    "dinner": false,
+                    "latenight": false,
+                    "lunch": true
+                },
+                "Good For Dancing": false,
+                "Good For Groups": true,
+                "Good for Kids": false,
+                "Happy Hour": true,
+                "Has TV": true,
+                "Noise Level": "quiet",
+                "Outdoor Seating": true,
+                "Parking": {
+                    "garage": false,
+                    "lot": true,
+                    "street": false,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 2,
+                "Smoking": "outdoor",
+                "Take-out": true,
+                "Takes Reservations": false,
+                "Waiter Service": true,
+                "Wheelchair Accessible": true
+            },
+            "business_id": "JhEA8qHfNmIh8c6OHXnaYA",
+            "categories": [
+                "Bars",
+                "American (Traditional)",
+                "Sports Bars",
+                "Nightlife",
+                "Chicken Wings",
+                "Restaurants"
+            ],
+            "city": "Champaign",
+            "full_address": "1706 State St\nChampaign, IL 61820",
+            "hours": {
+                "Friday": {
+                    "close": "01:00",
+                    "open": "11:00"
+                },
+                "Monday": {
+                    "close": "00:00",
+                    "open": "11:00"
+                },
+                "Saturday": {
+                    "close": "01:00",
+                    "open": "11:00"
+                },
+                "Sunday": {
+                    "close": "00:00",
+                    "open": "11:00"
+                },
+                "Thursday": {
+                    "close": "00:00",
+                    "open": "11:00"
+                },
+                "Tuesday": {
+                    "close": "00:00",
+                    "open": "11:00"
+                },
+                "Wednesday": {
+                    "close": "00:00",
+                    "open": "11:00"
+                }
+            },
+            "latitude": 40.1271729,
+            "longitude": -88.2468548,
+            "name": "Hooters",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media4.fl.yelpcdn.com/bphoto/7duc_ISRZ8I1EYzfVOtCNg/ms.jpg",
+            "review_count": 21,
+            "stars": 2.5,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "The service was ok not good just ok, and my wife and I where the only customers at the time. BTW-for a college town, the girls weren't good looking at all. Best hooters ever! ",
+        "reviews": [
+            {
+                "review": "The combination of both beer and wings from hooters makes me sick in the morning I continue to eat there for years. As always the servers fake like they care but that don't bother me as long as a get good service and I do. Plus they are easy on the eyes.",
+                "reviewer_id": "5ZIbB1o742vx77ZgO67ZQw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.700258294375846,
+                    "positive_probability": 0.2997417056241565
+                },
+                "stars": 3
+            },
+            {
+                "review": "Pretty much what you'd expect.  Way overpriced, extremely low quality food served by not-that-bright, fake-baked girls wearing shiny nylons, big puffy socks, and the most unflattering shorts imaginable.Great if you're a perv from '86, decidedly not great for everyone else.",
+                "reviewer_id": "6uSW2qLSL5w0iz0g-Iwa-g",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.67745228787219,
+                    "positive_probability": 0.3225477121278133
+                },
+                "stars": 1
+            },
+            {
+                "review": "The most disgusting food I have ever been 'served' in my life. The grilled cheese sandwich was nothing more than two pieces of Texas Toast bread that had been smeared with butter and thrown in the microwave with two greasy slices of cheese in the middle. The fries were cold and the service was less than desirable. There were only about four other people in the entire restaurant, and yet our 'waitress' never bothered to give me a refill......I didn't bother to leave a tip.I don't recommend anyone go to the Champaign Hooters. Instead, go to Buffalo Wild Wings - WAAAAAY better!",
+                "reviewer_id": "99Qos7AunXZnaDogiP847w",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9982049341508374,
+                    "positive_probability": 0.0017950658491608035
+                },
+                "stars": 1
+            },
+            {
+                "review": "Wings and buffalo shrimp were great. Fried pickles were cooked just right. Service was above average but it was a very slow night. As always, Hooters didn't disappoint. Will be back next time in town!",
+                "reviewer_id": "_gTKw_ID9tIWEY2kR2haPQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9680879457358658,
+                    "positive_probability": 0.03191205426413543
+                },
+                "stars": 4
+            },
+            {
+                "review": "Tons of cute Hooter's girls, but I've been there twice since moving to Champaign and it seems like their wings consistently lack any crunch, even soggy. Everything tastes fine, just missing some texture.",
+                "reviewer_id": "aSoU3C8Wg5GRs18xNTIPsA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5145196733225234,
+                    "positive_probability": 0.48548032667747715
+                },
+                "stars": 3
+            },
+            {
+                "review": "If u've been here, u may very well kno the setup is terrible. Even jus finding this place (located behind Hardee's)is difficult. It's as if Hooters took over a previous establishment not big in business. The bar only seats 10 with a large square room. There r only 2 Hooters signs on the building itself. If this place wants to make better business, I suggest they move to a location more visual from Route 45. On the other hand, I noticed a fellow yelper complain about the texture of the food but it was fairly consistent for my experience. Also, this location employees pretty young ladies, after all it is a college town. Ur welcome! ;) Only 3* for mediocre-ism",
+                "reviewer_id": "BoHgB2oBz_Tk4PSLtdc9_A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.02055197970073288,
+                    "positive_probability": 0.979448020299259
+                },
+                "stars": 3
+            },
+            {
+                "review": "Wow! Don't know where to start so many bad things say,and so little time.Let us keep it simple. Food really, really bad. Price oh my God them must be gold plated chickens,maybe thats why they taste so bad. The service was ok not good just ok, and my wife and I where the only customers at the time. Save your money fire up the grill make your own, I guarantee they will be better then what you would have spent way to much for at Hooters. I rated the noise level as quiet because my wife and I didn't make much noise. I gave it 4 [ $]  just because it so overpriced.",
+                "reviewer_id": "CKvc4tdLWAKS-OMEojiRkg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5628150345476081,
+                    "positive_probability": 0.43718496545239705
+                },
+                "stars": 1
+            },
+            {
+                "review": "The Philly cheesesteak and burger we had for lunch were very good. The service was great, waitress was very attentive.There was only one negative while we were there. There was a university of Illinois football game on. One of the waitress (not our, thank goodness) seemed to get very agitated if she found out anyone was rooting for the other team. She actually came up to our table, gave us a dirty look, and told us she has friends on the team. You can root for whatever team you want, but you probably shouldn't try to pick fights with customers when you work for tips!",
+                "reviewer_id": "h8dFvPzgLSePDVjfHZJFwQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.07245253944799873,
+                    "positive_probability": 0.9275474605520105
+                },
+                "stars": 4
+            },
+            {
+                "review": "They get a 4 star just off the buffalo chicken dpi and they are playing the pacquio fight. I'm a woman so I can't go higher than a 4.... Even if the food is bomb... A little difficult to find compared to others. Set up is a little awkward. I nearly walked past the hostess booth",
+                "reviewer_id": "Kuk0ody1l9jtj_dnnRc3nw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.22199189431423033,
+                    "positive_probability": 0.7780081056857747
+                },
+                "stars": 4
+            },
+            {
+                "review": "I love hooters!  This however was the worst food I have ever had at any location.  The chicken was so dry and cheese sauce was hard and tasted disgusting.",
+                "reviewer_id": "nRHT5CAgDGe_s8Ol_FAJ3A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.47546754162248445,
+                    "positive_probability": 0.5245324583775173
+                },
+                "stars": 1
+            },
+            {
+                "review": "This place was bad I came in hooters because of course I love it This is a tester store So they try new menus But here is the weird part I'm 100% Puerto Rican a well respected one the strange part I'm beginning to believe this is a racist town hello it's 2015 Because there was plenty of seats But they sat me in the corner in the dark away from everyone instead of where I wanted to sit down It was very strange and weird and I never felt so uncomfortable in my life although the food was good and my waitress was good I just could not get this vibe that they put out don't go to this place I would not recommendedThe most horrible feeling I have ever felt thank you hooters for making me sad on my journey back home",
+                "reviewer_id": "qO36EWck90PvMar9bTaDcA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0029908126186289174,
+                    "positive_probability": 0.997009187381374
+                },
+                "stars": 1
+            },
+            {
+                "review": "Still out on the quality of the food as we're still waiting 40 minutes after ordering for 3 out 4 orders!",
+                "reviewer_id": "QxMKHFXOKFI83uklk2zS4Q",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9698173215160196,
+                    "positive_probability": 0.030182678483979753
+                },
+                "stars": 1
+            },
+            {
+                "review": "The food was great, as usual. The service however, oofa, it really was as bad as the other reviews. Zero on Hooters philosophy on customer service. I do come here to check a little leg too, but ugh, don't come here looking for a college hottie to serve you and chit chat a little. As I leave I think I'll let the GM know, this is my worst Hooters experience in 25 years. Not worth it.",
+                "reviewer_id": "T0AV3ryHEUR9OWSJMEHlYw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.19241883974339402,
+                    "positive_probability": 0.8075811602566024
+                },
+                "stars": 2
+            },
+            {
+                "review": "One of the better hooters I have been to in the Midwest!The interior is large with tons of seating came here to watch the Cubs wild card game and the Hawks opener. Didn't have the Hawks on any tv but our waitress gladly changed 2 of the Tvs so we could watch both the cubbies and the Hawks. Hooters wings are the same wherever you go. The fries were cold which was a bummer because our food came out in like 5 minutes. Also the \"talent\" of this hooters is top notch, I feel like some hooters have gotten lazy with who they hire and I will say this one had a great group of friendly ladies. Expensive draft beer, plus they brought me a bud lite when I ordered a Budweiser but I know it's just so hard to keep those 2 straight. Still beats going to an over crowded crappy service Buffalo Wild Wings, I'll be back again I'm sure.",
+                "reviewer_id": "twF_2RKnDgJqmKMU3K9A5w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.013988070427741157,
+                    "positive_probability": 0.9860119295722598
+                },
+                "stars": 4
+            },
+            {
+                "review": "Why five stars you ask?  And why review a Hooters in Champaign when I live in Chicago?  Well once a very long time ago, when I attended the U of I, my roommate and I were eating lunch here on a weekday and in walks Harrison Ford.  Thats right, Han Solo/Indian Jones himself walks in, by himself and treats himself to the delicious Hooters cuisine.  There must of only been about 3 or 4 other patrons where, so it wasn't a big todo or anything.  That is totally random (there is a airport down the road, and Hooters was on of the first restaurants you see when you drive up from it towards town, so he was probably refueling or something).   So +1 star.So that aside, as a fried chicken review, I give Hooter's Chicken 4 stars.  The very thing that makes it unique you either love or hate,  Hooter's batters its chicken wings.  Hooters also leaves the \"tips\" on its wings too.  You can ask for them naked, but as its kind of the specailty of their wings I prefer the batter.  The batter does soak up a lot of sauce and oil, so it is by no means healthy.  It does keep ok, but its better reheated if you let it go cold.  Hooters sauces are notoriously non-spicey (and I'm a big wuss when it comes to spice).  \"Hot\" is about medium, \"medium\" is less than what is considered mild at most places, it has no flavor at all besides a buttery oilyness for some color.  Please order at least \"hot\", don't be afraid, its not hot.  The fried buffalo shrimp are pretty good too (but they go too quick).  Grilled cheese was favorite too, but some of these options are not offered as many Hooters are franchised.",
+                "reviewer_id": "TZCbIU6_8rTxxtFNUo3hBA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6651243932201939,
+                    "positive_probability": 0.33487560677980094
+                },
+                "stars": 5
+            },
+            {
+                "review": "Worst Hooters ever! Walked out after sitting for 10 minutes - no service. Waitress standing around. Empty tables all around.",
+                "reviewer_id": "V5NK3oG59GvPaMZD53HXgg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7135814795923092,
+                    "positive_probability": 0.28641852040769017
+                },
+                "stars": 1
+            },
+            {
+                "review": "Waitresses were great! Better wings than I've had at other hooters. Waitress came around offering a free margarita to critique the bartender. Best hooters ever!",
+                "reviewer_id": "w52--0BfkoixxXvA5cmKrw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6008511326708479,
+                    "positive_probability": 0.39914886732915256
+                },
+                "stars": 5
+            },
+            {
+                "review": "I just wanted a beer and the service was HORRIBLE .  I waited at my table for a waitress but that didn't happen so I sat at the bar  and wasn't much better.  I got one beer and couldn't get the bartender to come back.  I don't think they realize that they work on tips for good service not because they have a skimpy costume.BTW-for a college town, the girls weren't good looking at all.  Maybe because it was Monday night and the C team was working.",
+                "reviewer_id": "wj9nwbdSoh1QvHSXXs_TwQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9865846505539594,
+                    "positive_probability": 0.013415349446045714
+                },
+                "stars": 1
+            },
+            {
+                "review": "LOVE the wings here, i think next to black dog they are the best in the city.  The grilled chicken sandwich is excellent as well with a side of hot sauce and curley fries.Only drawback is the price, they are pretty expensive.",
+                "reviewer_id": "xZhXEZnxK9eJ-gMzAn5GRg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.01845482931119482,
+                    "positive_probability": 0.9815451706888069
+                },
+                "stars": 4
+            }
+        ],
+        "similar_restaurants": [
+            "RSk-BYX8s5027cKo_aELrw",
+            "rm2OnyNDnlWkSNUSxETsGg",
+            "-0GkcDiIgVm0XzDZC8RFOg",
+            "l8B35OwrDUQTg5ojQu0tEA",
+            "ufOY2lQHDgSvou3YLT8gHA",
+            "27q7XsLrKPNwr8i5RcCOvQ",
+            "1T2rnvl67Gk9Uc0gzsCKQA",
+            "9p3O_KoH3muITR-9WgrSnA",
+            "JlcbIU8V6ohFCwfuMr7tBg",
+            "PeQ3gtLHAg9ov0YuM-m21A"
+        ]
+    },
+    "RwhUzMEG2tVnZQY9dEuXzw": {
+        "keywords": {
+            "bigrams": [
+                "bar_crawl",
+                "cheap_drinks",
+                "sticky_floors",
+                "good_time",
+                "broken_glass",
+                "college_bar",
+                "stale_beer",
+                "ring_bells",
+                "kams_place",
+                "football_game"
+            ],
+            "unigrams": [
+                "bar",
+                "kams",
+                "place",
+                "went",
+                "beer",
+                "people",
+                "kam",
+                "night",
+                "good",
+                "drinks"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "full_bar",
+                "Ambience": {
+                    "casual": false,
+                    "classy": false,
+                    "divey": true,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "formal",
+                "Caters": false,
+                "Coat Check": false,
+                "Good For Dancing": true,
+                "Good For Groups": true,
+                "Good for Kids": true,
+                "Happy Hour": true,
+                "Has TV": true,
+                "Music": {
+                    "background_music": false,
+                    "dj": true,
+                    "jukebox": true,
+                    "karaoke": false,
+                    "live": false,
+                    "video": false
+                },
+                "Noise Level": "very_loud",
+                "Outdoor Seating": true,
+                "Parking": {
+                    "garage": false,
+                    "lot": false,
+                    "street": true,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 1,
+                "Smoking": "outdoor",
+                "Takes Reservations": false,
+                "Waiter Service": false,
+                "Wheelchair Accessible": true
+            },
+            "business_id": "RwhUzMEG2tVnZQY9dEuXzw",
+            "categories": [
+                "Bars",
+                "Pubs",
+                "Comfort Food",
+                "Nightlife",
+                "Sports Bars",
+                "Restaurants"
+            ],
+            "city": "Champaign",
+            "full_address": "618 E Daniel St\nChampaign, IL 61820",
+            "hours": {
+                "Friday": {
+                    "close": "02:00",
+                    "open": "15:00"
+                },
+                "Monday": {
+                    "close": "02:00",
+                    "open": "20:00"
+                },
+                "Saturday": {
+                    "close": "02:00",
+                    "open": "10:00"
+                },
+                "Sunday": {
+                    "close": "02:00",
+                    "open": "20:00"
+                },
+                "Thursday": {
+                    "close": "02:00",
+                    "open": "15:00"
+                },
+                "Tuesday": {
+                    "close": "02:00",
+                    "open": "20:00"
+                },
+                "Wednesday": {
+                    "close": "02:00",
+                    "open": "20:00"
+                }
+            },
+            "latitude": 40.1079898,
+            "longitude": -88.2295058,
+            "name": "Kam's",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media2.fl.yelpcdn.com/bphoto/hb_USbI7dCEmwowgjEcaWw/ms.jpg",
+            "review_count": 45,
+            "stars": 2,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "Bar. If you are going to KAMS, you should know what you are going to be getting into. However KAMS did it to me. ",
+        "reviews": [
+            {
+                "review": "Are you a sensible, intelligent human being?  Are you older than 19?  Does your clothing generally obscure your breasts/underwear/genitals from plain sight?  Are you averse to fist-pumping?  Does the pungent odor of beer-tinged vomit make you nauseous?  Well, then, welcome to KAMS - your personal hell.",
+                "reviewer_id": "-C93MHl3n-O_5KU_zGjEgQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.669139071294095,
+                    "positive_probability": 0.33086092870590045
+                },
+                "stars": 1
+            },
+            {
+                "review": "Want to drink shitty drinks whilst standing in 2 inches of an odd mix of water, mild, urine, and vomit? Look no further than Kams.",
+                "reviewer_id": "0OJlMksJXoZzpBuMga3wlQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5878843388956705,
+                    "positive_probability": 0.4121156611043298
+                },
+                "stars": 1
+            },
+            {
+                "review": "This place is a nightmare. Imagine yourself being surrounded by everyone who makes you wonder who fell asleep at the wheel in the admissions department, and all of these people are obscenely drunk and really want you to understand this fact. There is nothing redeeming about this place. The music is really really shit, not even ironic shit but honestly shit. I can't even review the drink selection because I gave up after trying to fight through a 5-deep wall of \"bros\" probably trying to get some roofied rum and coke for some poor underage girl wearing a misguided sequined top with pancake foundation and caked on black eyeliner. AWFUL!Plus someone told me once that a girl got syphilis of the foot from wearing flip flops here.",
+                "reviewer_id": "27gcq2AD3VLDXJw9Wukc4A",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7193055136257464,
+                    "positive_probability": 0.2806944863742482
+                },
+                "stars": 1
+            },
+            {
+                "review": "If you find yourself having to wash your clothes as soon as you get home from the bar, it's probably best that you stay away from that bar altogether.  That about sums up my experience with this staple on-campus venue.",
+                "reviewer_id": "29kunGCHSVTYypSuYu3JZQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7337199822872603,
+                    "positive_probability": 0.2662800177127412
+                },
+                "stars": 1
+            },
+            {
+                "review": "If I had one night with someone in Champaign, someone from someplace far-far-away, one night to be a gentle soul's Virgil, no ... Beatrice, yes ...Beatrice, as he explores the graceful, yet sublime, spheres of heaven, our trek, our ascension would end here. KAMS is the Empyrean of Champaign life. Simply put, to experience KAMS is to be enveloped in all that is good, all that is beautiful, and most importantly everything that makes no sense to an ordinary human at all.",
+                "reviewer_id": "6a_Q4ZdkVGCMk6aGnlAHHA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.01808919330156603,
+                    "positive_probability": 0.9819108066984333
+                },
+                "stars": 5
+            },
+            {
+                "review": "By far the worst bar I have ever been to. The smell of vomit can be described as nothing less than an assault on the olfactory sense. IF you can brave the stench and reach the bar, be prepared to be waited on the most minimally trained bartenders to ever earn the title. Not only can they not make a drink, it takes them ten minutes to mess it up. Absolutely horrifying experience, please for the love of God, do not subject yourself to the horror that is Kams",
+                "reviewer_id": "7dK-eriybn_3b6v34DEnaw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9993246630642156,
+                    "positive_probability": 0.000675336935787183
+                },
+                "stars": 1
+            },
+            {
+                "review": "If you went there and are nostalgic for what Kam's is, you already know you like it. For everyone else, go once to say you went, but that's it. it smells horrible, your shoes stick to the ground, there's broken glass everywhere that they don't clean up, it's wall to wall people: so basically a huge fire hazard. Basically it's a college bar, so if you like that kind of thing, go for it.",
+                "reviewer_id": "7r4cFwRsjW02T__Lk4vwxQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6195475967885465,
+                    "positive_probability": 0.3804524032114538
+                },
+                "stars": 1
+            },
+            {
+                "review": "After seeing Jenna, Sarah and Melissa all give Kam's one star, I realized they are the most intelligent people reviewing Kam's and I had to follow in their footsteps. They're right - Kam's blows. It deserves ZERO stars. You know how you can pin point freshman when they come to the UIUC? Bingo! They're toting around bright orange Illini Union Bookstore bags. Same goes to the people who wait in line at Kam's. The majority are freshman. Underage drinkers who can't hold their liquor. Screw that.Some drunk guy peed on my foot here. True story. I was only eighteen and not proud to be in the bar.You can find cheap drinks with \"attractive\" and coherent people almost anywhere else in Champaign Urbana. LOOK!",
+                "reviewer_id": "7zSppEZd2C6ASpNeBebxAA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7221305745452476,
+                    "positive_probability": 0.2778694254547479
+                },
+                "stars": 1
+            },
+            {
+                "review": "This bar is the scummiest fucking shithole at UofI. Its littered with garbage vomit and broken glass. The answer to good for kids should be are you kidding.Went there to party, fun, but the establishment itself sucks. I ate a hotdog that they grill outside because they smelled great. Regretted that in 4 hours.Dont go here until someone buys it again its really a piece of shit",
+                "reviewer_id": "8pKMThobWTDOyR6L_jCHgg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8151621989083502,
+                    "positive_probability": 0.18483780109165437
+                },
+                "stars": 1
+            },
+            {
+                "review": "Five dollar cover? Are you joking?This place is a hellhole and a sorry excuse for a classic college dive bar.",
+                "reviewer_id": "8yNzQhH30cQWdMWsHJAVNA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4978661523565413,
+                    "positive_probability": 0.5021338476434561
+                },
+                "stars": 1
+            },
+            {
+                "review": "Rarely am I rendered speechless. However KAMS did it to me. These people we met at the football game randomly invited us. Even though my friends warned me, we went anyway. There is a distinct smell that hangs over this establishment like a proud banner, a beacon to the faithful. I had to alternate holding my breath and chugging in order to somehow banish the smell from my nostrils. I drank a Ed Hardy beer, which I didn't even know they made, because they were out of Corona and when will I ever be able to say again that I drank a Ed Hardy beer? (Obviously I am a beer connoisseur.) (It wasn't terrible.) All the games were on, the music was surprisingly good, and I did really have a good time. The guys were also buying shots, which helped a lot. I'd come back again, just for the LULZ.",
+                "reviewer_id": "_hz_dF3yYAUdbD8rwqbVPg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.37163377488040605,
+                    "positive_probability": 0.6283662251196028
+                },
+                "stars": 3
+            },
+            {
+                "review": "If you like puke, and freshmen, and freshmen puking, come here. The only time I'm ever here is during a bar crawl.",
+                "reviewer_id": "_Y-x3GQDSVHKSigTbSM9VA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5359102457505851,
+                    "positive_probability": 0.46408975424941473
+                },
+                "stars": 1
+            },
+            {
+                "review": "Say what you will about the smell and atmosphere, I never had a bad time at KAMS.  Ugh the smell - just walk past in the daytime and you wonder why you ever set foot in there at night.  You have to be in the right mindset - to get drunk and have a good time.  If you are in the mood for that, you WILL have a good time.  But if you want to sit back and have a few beers and talk, then go to Murphys or Legends.Small dance floor that's crowded when a good hip hop or pop song comes on, but the minute they play country or something slow, it gets empty as can be, til the next good song comes on.  KAMS is always filled with student athletes with the throngs of girls surrounding them.  Drinks are cheap - find a frat guy and he'll buy you drinks all night long in hopes you'll go home with him.  Cheap night out.",
+                "reviewer_id": "BcNdlyXsmyYYBMfHq6UFpQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.05417710906697127,
+                    "positive_probability": 0.9458228909330268
+                },
+                "stars": 3
+            },
+            {
+                "review": "Just for the location (across from Thetas), you get 5stars.Getting a theta to drop her book for 30 min for a beer across the street is an easier task because of the short bar crawl.I miss Kams and for all you mother scratchers there for the summer, I wish I were you!",
+                "reviewer_id": "CioHHb-1cON75GXnU8KwUg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8191444870373199,
+                    "positive_probability": 0.18085551296267716
+                },
+                "stars": 5
+            },
+            {
+                "review": "You know there's a problem when you've never been in this campus bar, but your 60-year-old father has read about it in Playboy and shouts from the psych building across the street: \"THERE'S KAMS! WOW!\" So then, of course, he wants an up-close view of it even though it's butt early in the morning and there's really nothing to see. Half asleep, you agree, trot across the street and then remember that overwhelmingly volatile vomit smell... All day, every day.",
+                "reviewer_id": "G73eGQJg3F_gvDYnlgWVMw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9846770462883392,
+                    "positive_probability": 0.015322953711661804
+                },
+                "stars": 1
+            },
+            {
+                "review": "This bar STINKS!! - LITERALLY!This is the stinkiest, slimiest, stickiest bar I've ever been to. If you are drunk enough to not use any of your sense, KAMs is your place.",
+                "reviewer_id": "HJqPTfyNUW5yy3ri49E5ww",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8100591104516477,
+                    "positive_probability": 0.18994088954835167
+                },
+                "stars": 1
+            },
+            {
+                "review": "Ah Kams, a unique form of campustown blight that eclipses all other bars in its propensity for stench and spewing of both human and non-human scum. Please don't support this establishment...it gets enough support from the Greek hegemony, despite the fact it imposes a variety of ills on the nearby sidewalk and air. I still don't know how people manage to navigate the miasma with enough strength left to even open the door. I suspect it is facilitated by a uniquely potent protective layer of bright sienna self-tanner, tube tops, and Abercrombie polos.",
+                "reviewer_id": "HqaXK9toBpQdcz-0-rVwKw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0001848243244942708,
+                    "positive_probability": 0.9998151756755072
+                },
+                "stars": 1
+            },
+            {
+                "review": "Drinks. Lots of them. I remember walking up to the bar and honestly ordering 50 shots for groups of friends on a regular basis.Yes, it's dirty. Yes, it's smelly. Yes there is some girl in a tube top trying to make out with you and/or puking. Hopefully the former before the latter.College binge drinking at it's finest. Not that that is necesarrily a good thing.I used to bartend there while I was in college, so I have to show it some love!",
+                "reviewer_id": "iGC1lFvv6ZLyoNPFExwulg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9903860993873013,
+                    "positive_probability": 0.00961390061270178
+                },
+                "stars": 3
+            },
+            {
+                "review": "Just walk by the place and be overwhelmed by the smell.  I've been in the place once and it is gross.  This isn't just an \"I hate frats\" thing or something either.  It has bad beer sticky floors and rude staff---though I must admit I understand why on the staff thing.  I can't imagine going to this place at a peak time.  One only imagines how many evenings that end in sexual assaults have started in Kams.",
+                "reviewer_id": "IXFGCmgnB8YY-jtPCaNYeQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.032813998291340594,
+                    "positive_probability": 0.9671860017086583
+                },
+                "stars": 1
+            },
+            {
+                "review": "Came here 10 years after my graduation...and not much has changed.  It still smelled like vomit, stale beer, and service sucked.  After 5 mins in the bar, the nastalgia faded, and we went to a better bar with clean floors, and a decent beer selection.",
+                "reviewer_id": "J3wHuqConRziCBkqCxY4UA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3960188441478052,
+                    "positive_probability": 0.6039811558521927
+                },
+                "stars": 1
+            },
+            {
+                "review": "Kam's is one of the best bars in the world.  20,000 watts of nightly sound, free shuttle bus, and darts help to make Kam's the #2 pregame party spot in the nation.Upon stepping into Kam's, you are greeted with a familiar neighborhood crowd and the aroma of fresh, tasty beer being poured.  A sophisticated, happy-go-lucky crowd draws you in and the fantastic selection of drinks will make you stay.The basement is fantastic for parties and the staff is very knowledgeable.  The free popcorn is of gourmet quality.All in all, Kam's is a wonderful place to bring a date or just have a night of wine-drinking.",
+                "reviewer_id": "koq3FTM6HzXgLQAxP5W5kw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0007052085750001115,
+                    "positive_probability": 0.9992947914249998
+                },
+                "stars": 5
+            },
+            {
+                "review": "Kam's is definitely an under age paradise. Most people (or should I say kids) there are under age, wearing almost nothing, basically having sex on the dance floor, and puking all over the place. I was a transfer student, and went there with some friends my first few weekends there. I definitely learned my lesson and never went back, although I was tempted with all the Real World people they have on random nights to draw in a crowd.",
+                "reviewer_id": "KUlS1BLQN05G4gEE7BlYdQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.639854209350969,
+                    "positive_probability": 0.3601457906490324
+                },
+                "stars": 2
+            },
+            {
+                "review": "Kams. Smells like a hamster cage in serious need of a bedding change. Drinks are totally average, albeit cheap. The first place townies and U of I students go when they turn 19, most of whom regret it.",
+                "reviewer_id": "KXTC-4RgPZhu-a90ZmKJEA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.20964325193430108,
+                    "positive_probability": 0.7903567480656946
+                },
+                "stars": 1
+            },
+            {
+                "review": "A UofI alum took me here when I was 20 and itching to go to 19+ bars. We hit this place up first, as it is apparently quite a popular place. I was disgusted, and even more so when my alumni, a former PKA told me he and his brothers peed while in their chairs at the bar.The place stunk. The drinks were worse and painfully weak. I was horrified to see people in formal wear. Guess they were pre-gaming it there?Ladies...pass this one up. You can do better!",
+                "reviewer_id": "lduQB8NLz0-uEvPGn94A2Q",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6261709984211886,
+                    "positive_probability": 0.3738290015788129
+                },
+                "stars": 1
+            },
+            {
+                "review": "Ok. The two stars are because the floors had many sticky diseases on it. WTF? Don't they clean the floors? But the bartenders did make me forget about the nastiness with the strong and cheap drinks. That was the only reason it didn't get one star. I'd go back if I'm in Champaign again.",
+                "reviewer_id": "mHue7FHUNh5uuzj6e8YSXg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9906223874385719,
+                    "positive_probability": 0.009377612561424137
+                },
+                "stars": 2
+            },
+            {
+                "review": "20,000 watts of awesome.Note: This review only applies to August 2006 - May 2007.  Whatever may have transpired at this establishment before or after that time has not been taken into consideration.  This time period is considered by the majority of scholars to be the Golden Era of Kams.(This review also applies to the lesser-known Koms)",
+                "reviewer_id": "N0X-ck_0j6TfsEBuP8LN-A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.16576345075194637,
+                    "positive_probability": 0.8342365492480509
+                },
+                "stars": 5
+            },
+            {
+                "review": "eww... if i was still a freshman... or if i loved the smell of throw up & the feel of sticky floors pulling my shoes off; then KAMS is the place to be. Of course this is one of the oldest campus bars, & alumni love it here, but they need to just realize that it has gone down hill very fast in the most recent years. The servers on more than one occasion have been to drunk to serve me let alone be working. & also on more than one occasion someone in my group has stepped in throw up. I will not miss this bar or ever return. Someone needs to mop it every once in awhile. I'll pass on this one & walk the extra half block to firehaus.. or actually id rather walk to any other bar but KAMS.",
+                "reviewer_id": "nJHZOlY_IxBKvLHcfth9pg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7467805981863125,
+                    "positive_probability": 0.2532194018136824
+                },
+                "stars": 1
+            },
+            {
+                "review": "Kams represents everything that college represents; debauchery, dirt cheap drinks, and FUN.  To the people who gave shitty reviews on Kams, do us all a favor and don't come back because we didn't want you there in the first place!  Go hang out at the Undergrad library, or better yet the Union cafeteria on a Friday night...now those people know how to party!  Ever wonder why you can't get laid?  Because you are a NERD",
+                "reviewer_id": "Ovj5Lwu1iTUFtED9ZwupYQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8659651576980519,
+                    "positive_probability": 0.13403484230195256
+                },
+                "stars": 5
+            },
+            {
+                "review": "What an absolute dump.Everyone who goes to Kams is underage. More likely to see a high schooler in Kams than a 21+ individual.There's nothing redeeming about Kams - music is terrible but loud, food's poor, beers are bad, and worst of all floors are infamously covered in some gelatinous sticky muck from spilled beers and god knows what else.",
+                "reviewer_id": "PoArLCMA9Pkf5NiV51GQOw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9987335025025093,
+                    "positive_probability": 0.0012664974974929317
+                },
+                "stars": 1
+            },
+            {
+                "review": "I think I first went to Kams about 30+ years ago and when I made my most recent visit this past weekend with my niece for \"Dad's Weekend\" all of the memories came rushing back with that first hit of vinegar & piss that assualts your nose as soon as you make it around the corner.Inside, same sticky floor and river of piss in the men's room, despite the early hour (suspect leftovers from previous night).Still, it is an institution and if you can score a \"Blue Guy\" from the bar and handle the ear-splitting volume of a dozen crate speakers, you'll have a synapse-snapping memory of your first college bar.Anybody expecting better from a campus bar missed their exit...3 hours north near Evanston...",
+                "reviewer_id": "qUTPYTK7pODDXR1Lh5JiBQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9644319036823613,
+                    "positive_probability": 0.035568096317636765
+                },
+                "stars": 3
+            },
+            {
+                "review": "Leading psychologists say that smells ring bells*. My bells were ringing hard last night when I went to KAMS because those smells filled my nostrils with visions of joy and wonder from my childhood. There is a popular drink served at this pub called the \"Blue Boy.\" It is tasty and good and sweet to the tongue. It dulls all the bad senses and electrifies the good ones. It instills confidence where there was none, and reinvigorates the soul. Now, that being said, utopias such as KAMS can become dystopias if you aren't careful. For one, avoid the basement around the end of October, because it can get pretty scary down there with all the halloween decorations. However when it's not halloween, the basement can be a heaven away from the heaven upstairs.One suggestion is to start serving food. A Blue Boy sandwich, now that is something.*https://www.psychologytoday.com/blog/brain-babble/201501/smells-ring-bells-how-smell-triggers-memories-and-emotions",
+                "reviewer_id": "rDU2IQDcc6z-sW0GcA-Prg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0021767874776770905,
+                    "positive_probability": 0.997823212522324
+                },
+                "stars": 5
+            },
+            {
+                "review": "I will first start out by saying that, of course a college town bar is going to be full of underage people (especially in a town when 19 year olds are legally allowed in bars!!!)!!!!  Who are you people giving these stupid reviews?!?!    Well, I went back to campus this weekend for the Michigan-Illinois game.  Wow, this bar is more disgusting than ever (I think it gets worse and worse every year - or maybe I get older and older every year and have less tolerance for grossness...)!  When you first step foot into the bar, your feet just stick to the floor.  Do they ever mop???  If your shoes aren't sticking to the floor, they're in an inch of piss/booze/broken glass etc.  I saw a girl laying flat on her back with her hair and skirt in the gross wet mess, and she had lost a shoe.  EWWW.Just get some toilet paper in the ladies room stalls!",
+                "reviewer_id": "rY3mFbwwNkPEAzRhaoGtSg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9984015662962393,
+                    "positive_probability": 0.0015984337037677101
+                },
+                "stars": 1
+            },
+            {
+                "review": "I have also never been inside Kam's, and that is causally related to the reason I can still give it one star:  I have to walk by its vomit stench lined exterior every fucking day during school to get to the psych building, and on unofficial I have to endure having riot police stationed in the lobby of my building to prevent the kam vomit and mayhem flow from infiltrating the psychology building.  The vomit smell is even there at like 8AM on Tuesday mornings!  When I was in college, I went to bars that didn't card too, but on the real I still don't understand why anyone would go to kam's.",
+                "reviewer_id": "sleEMt44E1StWrjz3mcujQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.08393743188206414,
+                    "positive_probability": 0.9160625681179452
+                },
+                "stars": 1
+            },
+            {
+                "review": "All time favorite bar on campus! This bar was rated in Playboy (haha) as one of the top campus bars! It's always extremely rowdy, probably too rowdy for me these days. It's not a nice bar by any means, more of a place to go with your friends in college to drink for cheap.",
+                "reviewer_id": "sUrU9l3_f1iWYZdLmop0Rw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.21725362146141305,
+                    "positive_probability": 0.7827463785385904
+                },
+                "stars": 4
+            },
+            {
+                "review": "One star is too much. I haven't been to Kams since I went to college. I went there for the memories. I told one of the bouncers and he put my group in the VIP line. When I got to the front with my group he acted like he had no idea who I was. This was humiliating at best. Kams sucks and we will never go back.",
+                "reviewer_id": "T1QVCKn-K572Y8CXn9tHtg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9558133582806375,
+                    "positive_probability": 0.04418664171936096
+                },
+                "stars": 1
+            },
+            {
+                "review": "Disgusting, revolting, terrible, smelly, I can't think of a better way to describe this place.  I went down to U of I for a football game around Halloween and uh, if I could choose to burn one building down in my lifetime, it'd probably be Kams. Granted, I'd imagine the building is going to collapse soon due to lack of maitenance and upkeep anyway.The second we stepped in the door the place smelled like stale beer, vomit, and pee.  My feet stuck to the floor throughout the entire bar. The tables probably hadn't been cleaned in years. I think it would have required a power washer and about 2000000 gallons of bleach to clean the place.The bathroom was the most disgusting bathroom I've ever been in other than one in China. That's saying something.The staff at this place was something else. The bar tender was so drunk she asked me to repeat my order of 3 bud lights 4 times in a row. She'd ask, turn around to get them, then turn around and ask what I ordered again...The only plus to this place was for some reason it was loaded with attractive girls (have to imagine it is the cheapest place to drink on campus) and the beer and alcohol was dirt cheap.Seriously, avoid this hole at all costs, or at least bring a clothes pin for your nose.",
+                "reviewer_id": "TBWi-AuPTGCsnJmX8xLA8g",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.31854532908779715,
+                    "positive_probability": 0.6814546709122085
+                },
+                "stars": 1
+            },
+            {
+                "review": "Worst bar I've been to, period. It looks awful, smells awful, and the nastiest, warmest beer on tap that I've ever drank came from KAMS. On top of that, the clientele are awful, too, unless you're looking to meet the most obnoxious people in the whole city when they're in full bar crawl mode.",
+                "reviewer_id": "try1NSovbCPo4zvAIxSfXQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8109380191610844,
+                    "positive_probability": 0.18906198083891126
+                },
+                "stars": 1
+            },
+            {
+                "review": "I've only been here once for Campustown Challenge, and believe me, that was one too many. The smell, what is it? A strange and powerful brew of vomit, cheap beer, and poor life decisions. And just when you can't stand it anymore and want to leave, you find your shoes sticking to the floor. Yeah, I went, but the only good thing I got out of it was a wristband.",
+                "reviewer_id": "w3K0UQHHT8Oht5eTSIAc4Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.09643788606150154,
+                    "positive_probability": 0.9035621139384962
+                },
+                "stars": 1
+            },
+            {
+                "review": "If you are going to KAMS, you should know what you are going to be getting into. Like everyone else said, wasted freshmen, disgusting bathrooms, bad smells. Recently voted as the best place in Champaign-Urbana to have a one night stand. So, if you know what are getting into, and want a night of debauchery, it gets five stars. If not, one star.",
+                "reviewer_id": "x6ybs0ZjnqsCKO-IZ3uRIw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.997538981126812,
+                    "positive_probability": 0.0024610188731863714
+                },
+                "stars": 3
+            },
+            {
+                "review": "I didn't go here at all until I was a senior, and had discovered the wonders of country night. On this night (Tuesday!) you'd go, pay $5 and get a mason jar to fill with beer for $1.50. You only ever had to buy the jar once and could bring it back again and again every single week. My friend Bob and I would go, drink buckets (or jars, whatever) or Miller Lite, and watch \"Married With Children\" on TV.And then I realized that the KAM'S bartenders have decent memories, and so long as you aren't asking them for big fancy drinks with lots of parts, they'll remember you and your face and your drink. If you tip them nicely, they'll have your drink waiting for you when you return to the bar. Or maybe that was just me, I can never be sure. Hell, maybe I stole someone else's beer.Regardless - it's a dirty, dumpy little dive full of underdressed, underaged children with popped collars and excessive skin-baring. And DESPITE all this, and DESPITE its sticky floors and weird clientele, I still really enjoyed myself every single time I was here.YAY KAM'S!",
+                "reviewer_id": "X_0sc9uUPaNRzH0YqM7pqg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9895168047719443,
+                    "positive_probability": 0.010483195228063633
+                },
+                "stars": 4
+            },
+            {
+                "review": "Worst. Bar. Ever. Find someone to buy you a pint of crappy Canadian whiskey, and then take your money to Espresso Royale and give them the business whilst drinking on the sly. Now.",
+                "reviewer_id": "xWk5yxPRN2a83D-c9TAyVg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8561142275500854,
+                    "positive_probability": 0.14388577244991377
+                },
+                "stars": 1
+            },
+            {
+                "review": "A must try once kind of bar for me. Had a great time here during the day after a bar scramble. Not so great at night when the typical crowd gets there. A little on the pale side for me. But when you get ranked by Playboy as a top college bar, you better have tons of drunk guys trying to hook up w/ slutty girls.",
+                "reviewer_id": "yvTtxvyU58xefHe-CNhfqQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7746139624343872,
+                    "positive_probability": 0.22538603756561595
+                },
+                "stars": 3
+            }
+        ],
+        "similar_restaurants": [
+            "27q7XsLrKPNwr8i5RcCOvQ",
+            "MVH3JOKpQvMTP4jxwBUhkA",
+            "EYFV3b2fkt1fOqYnasonfA",
+            "05FJCAvUFOAk8B_nIOqt7A",
+            "ufOY2lQHDgSvou3YLT8gHA",
+            "PeQ3gtLHAg9ov0YuM-m21A",
+            "JCqFWCn31OMSk-vqF5aYNQ",
+            "JhEA8qHfNmIh8c6OHXnaYA",
+            "-0GkcDiIgVm0XzDZC8RFOg",
+            "9p3O_KoH3muITR-9WgrSnA"
+        ]
+    }
+}

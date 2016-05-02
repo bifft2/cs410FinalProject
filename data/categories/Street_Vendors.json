@@ -1,0 +1,277 @@
+{
+    "R3dSeFD8k_Z-EHNLlUELiw": {
+        "keywords": {
+            "bigrams": [
+                "chicken_tacos",
+                "picnic_table",
+                "mexican_style",
+                "american_style",
+                "champaign_taste",
+                "tacos_delicious",
+                "steak_torta",
+                "food_truck",
+                "american_mexican",
+                "mexico_style"
+            ],
+            "unigrams": [
+                "tacos",
+                "food",
+                "good",
+                "place",
+                "style",
+                "steak",
+                "taco",
+                "torta",
+                "american",
+                "delicious"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "none",
+                "Ambience": {
+                    "casual": true,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "Caters": true,
+                "Delivery": true,
+                "Dogs Allowed": true,
+                "Good For": {
+                    "breakfast": false,
+                    "brunch": false,
+                    "dessert": false,
+                    "dinner": false,
+                    "latenight": false,
+                    "lunch": true
+                },
+                "Good For Groups": true,
+                "Good for Kids": true,
+                "Has TV": false,
+                "Noise Level": "average",
+                "Outdoor Seating": true,
+                "Parking": {
+                    "garage": false,
+                    "lot": true,
+                    "street": false,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 1,
+                "Take-out": true,
+                "Takes Reservations": false,
+                "Waiter Service": false,
+                "Wheelchair Accessible": true,
+                "Wi-Fi": "no"
+            },
+            "business_id": "R3dSeFD8k_Z-EHNLlUELiw",
+            "categories": [
+                "Food",
+                "Street Vendors",
+                "Mexican",
+                "Restaurants"
+            ],
+            "city": "Urbana",
+            "full_address": "607 N Cunningham Ave\nUrbana, IL 61802",
+            "hours": {
+                "Friday": {
+                    "close": "20:00",
+                    "open": "10:00"
+                },
+                "Monday": {
+                    "close": "20:00",
+                    "open": "10:00"
+                },
+                "Saturday": {
+                    "close": "20:00",
+                    "open": "10:00"
+                },
+                "Thursday": {
+                    "close": "20:00",
+                    "open": "10:00"
+                },
+                "Tuesday": {
+                    "close": "20:00",
+                    "open": "10:00"
+                },
+                "Wednesday": {
+                    "close": "20:00",
+                    "open": "10:00"
+                }
+            },
+            "latitude": 40.1186156,
+            "longitude": -88.2041131,
+            "name": "Taco Motorizado",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media3.fl.yelpcdn.com/bphoto/SOhdWklb8dSG-nOrllSH8w/ms.jpg",
+            "review_count": 17,
+            "stars": 4.5,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "Steak Tacos & tortas always good! The taco was ah-freakin-mazing. I've tried all their tacos. ",
+        "reviews": [
+            {
+                "review": "No longer the best. Changed ownership a year or two ago, and not the same preparation or ingredients. Not super terrible, just not special anymore.",
+                "reviewer_id": "_xQTWG2yudpfnVIN8ZqsCw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6082283315415785,
+                    "positive_probability": 0.39177166845842076
+                },
+                "stars": 2
+            },
+            {
+                "review": "I had the burrito from here and it was great. Not overpriced and it was cooked well. Go here instead of taco bell!",
+                "reviewer_id": "BkfivC9_EJ_RAgqAGM6h0Q",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9862361100740873,
+                    "positive_probability": 0.013763889925912308
+                },
+                "stars": 4
+            },
+            {
+                "review": "Delicious tacos and some good hot sauce to compliment them. Not bad on the pricing for the amount either. I'd stop there again when in the area and try a torta.",
+                "reviewer_id": "e-EZ2-SO376Fqk2LrB1Q6Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4999972904050387,
+                    "positive_probability": 0.5000027095949634
+                },
+                "stars": 4
+            },
+            {
+                "review": "First time ordering tonight, everything was great! Veggie torta, veggie tamal, chicken fajitas and elote, we love it all, a lot of flavor and very tasty! Will be coming back again!",
+                "reviewer_id": "EWuDo9kVOFiJQOVBjxzrOA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8877213039970833,
+                    "positive_probability": 0.11227869600291743
+                },
+                "stars": 5
+            },
+            {
+                "review": "I wish I would have eaten here sooner!  I only recently discovered this little gem and had to go back within 48 hours to get another fix.  The food is amazing.  During my first trip, I had a chorizo taco Mexico style (cilantro & onions) and a chorizo quesadilla.  Holy chorizo, Batman!  It was so good and such a huge serving.  The taco was ah-freakin-mazing.  I love that you can order Mexico style with cilantro and onion or American style with lettuce and tomatoes.  The quesadillas are overstuffed and toasted perfectly.  One quesadilla could definitely feed two, especially if you throw 1 or 2 tacos in the mix.  I've also tried the steak taco, American style and the chicken quesadilla.  The food is so fresh tasting and the meat tastes like real, high quality product. Another huge perk... The workers!  They are so friendly.  During our first visit, we were given some homemade pickled jalapenos to try.  They were amazing.  They aren't on the menu, so I'm not sure what to ask for next time I want them!  You have to try this place!  It's cash only and they will wrap your food to go if you prefer to not eat at the picnic table.",
+                "reviewer_id": "JgHGyWS2emyHq6aq144SLQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.13216368443688115,
+                    "positive_probability": 0.8678363155631097
+                },
+                "stars": 5
+            },
+            {
+                "review": "This is hands down my favorite taco restaurant in Champaign Urbana.  It looks very unassuming and somewhat questionable if you don't normally eat truck food. There is an easy menu of flavorful basics: tacos, flour or corn, American and Mexican, tortas, burritos, and guacamole. Everything runs from $2 (tacos) to $8 for a massive burrito. But the star of this place is the elote.  Being from Chicago, elotes are a part of summertime. It's easy to make: cheese, corn on the cob, and chil but the flavors have to be just right to be authentic. And luckily for us poor central Illinoisians, Motorizado figured it out. For $2.50 you can enjoy this wonderful treat. They do go fast but if you come by at lunch, they usually have it. The service is quick. Just grab two sauces and a Jarritto from the shop next door and you're living the life. Heads up that there is no place to sit except one picnic table that might snap if you sit too long. It's definitely a part of the charm,  lol.",
+                "reviewer_id": "lR8ztGfJzRv-dp9ZPyooUA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.18068404996876583,
+                    "positive_probability": 0.8193159500312397
+                },
+                "stars": 5
+            },
+            {
+                "review": "These guys rock out loud. Hands down best place for street Tacos!",
+                "reviewer_id": "PY6a5DTygDqf52eQMtii5w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.48117438171584515,
+                    "positive_probability": 0.5188256182841545
+                },
+                "stars": 5
+            },
+            {
+                "review": "The tacos here are delicious and definitely authentic. One bite of these savory tacos took me back to my honeymoon in Mexico. I cannot speak of the burritos or the quesadillas because I've never had them. I stick to my tacos. I've tried all their tacos. My favorite are the steak and chicken tacos with a side of guacamole & chips.For Maize fans:This spot has better sauces, and is more affordable. If you want the maize taste just ask them to add cheese. You end up eating just as good if not better for a reasonable price.",
+                "reviewer_id": "RT7agD3PGBn-mWyMMV9-2g",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2764049623772198,
+                    "positive_probability": 0.7235950376227746
+                },
+                "stars": 5
+            },
+            {
+                "review": "Delicious.  Very good service. Tamales are to die for.  They packed it up so nice to be carried out so it wouldn't leak.",
+                "reviewer_id": "sLwJaWfKgSyPPwZ9YVJ_9g",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3234260035100372,
+                    "positive_probability": 0.6765739964899634
+                },
+                "stars": 5
+            },
+            {
+                "review": "Real good food!  Burito could be a bit larger(1 star alone) taco de pollo, yum!  They ask if you want it American or Mexican style.  Onions and cilantro being the added goodies on the Mexican style. Mexican style all the way.  What would American style come with, corn syrup, guns and xenophobia? Hah!  The verde salsa is a must, at least with chicken tacos.  Good to see a food truck in champaign.  Support it.",
+                "reviewer_id": "Tl2Gw7MX0srZ-S0W_lCiwA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.27465927454538475,
+                    "positive_probability": 0.7253407254546194
+                },
+                "stars": 4
+            },
+            {
+                "review": "I give the food 5 stars but the 1 hr delivery is a bit much.  Eaten here several times...chicken tacos are delicious madness.....chorizo is good too, tamale are great as is the Dips....",
+                "reviewer_id": "U2mdVa6rOU6SD3Ap2LHMAA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.28207752776224154,
+                    "positive_probability": 0.7179224722377583
+                },
+                "stars": 4
+            },
+            {
+                "review": "Always been addicted to this place. Steak Tacos & tortas always good!",
+                "reviewer_id": "VkVmMJUsJ74s94fQSP3yRQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6398583149231014,
+                    "positive_probability": 0.36014168507689864
+                },
+                "stars": 5
+            },
+            {
+                "review": "I stopped by here on a lovely Saturday afternoon. I've been craving food from a truck after months of watching the food network. Taco Motorizado did not disappoint.Fair warning before you go: Cash only, no seating available.A tweet from Champaign Taste sent me in this direction and I had a steak torta. It was loaded with steak, veggies, and cheese. It was messy and fantastic. Easily the best torta I've had. The steak was in small bits and was great; some Mexican restaurants have chewy steak in their food, this was the opposite.I'm nervous putting this review up in fear the lines will stretch from the parking lot to the intersection of Prospect and Bradley, but I really want this place to stay open.See CT's review here ... http://champaign-taste.blogspot.com/",
+                "reviewer_id": "WtnxEKArLl0cA4T72ZRbkw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2011387803145114,
+                    "positive_probability": 0.7988612196854825
+                },
+                "stars": 5
+            },
+            {
+                "review": "For the value and the taste, this place can't be beat! My burrito was HUGE and delicious. It cost $6 with everything in it, and lasted me for lunch AND dinner. Also, their green and red salsas are homemade and especially tasty. I want to go back right now! Please note they have new picnic table seating, and the Hawaiian Ice place is right next door for dessert.",
+                "reviewer_id": "Z4czntQund-OgvYca3i6lQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8982069771388357,
+                    "positive_probability": 0.10179302286116385
+                },
+                "stars": 5
+            }
+        ],
+        "similar_restaurants": [
+            "cT9uP_Lr5bz6jhIqZPlLcw",
+            "ivZo1goh7HXdep03NfA7Cg",
+            "LN0mZ37BeruC0XjyhES-ug",
+            "sPI0AqWHMeJB_UeZ5FRscg",
+            "_dOcOVjrFcIKbMWX1VTdBA",
+            "iYaDjwYdtqhLMY_tQFRlKA",
+            "dXLRevtIEnAvjUhPM_zTEg",
+            "kLHPR_eUmAsOl-XLJSSO2Q",
+            "KWXYM3bpbKrC6QNR9dxf1A",
+            "cFivwA18popY5GH2tJtXlQ"
+        ]
+    }
+}

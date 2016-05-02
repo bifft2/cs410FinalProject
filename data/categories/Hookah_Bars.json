@@ -1,0 +1,203 @@
+{
+    "M-eAou5siImNKoxxcSEX-g": {
+        "keywords": {
+            "bigrams": [
+                "green_street",
+                "hooka_bar",
+                "serve_food",
+                "hookah_bar",
+                "smoking_hookah",
+                "pool_tables",
+                "least_think",
+                "places_town",
+                "reasonable_considering",
+                "three_times"
+            ],
+            "unigrams": [
+                "hookah",
+                "bar",
+                "place",
+                "experience",
+                "staff",
+                "drinks",
+                "went",
+                "cafe",
+                "back",
+                "good"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "full_bar",
+                "Ambience": {
+                    "casual": false,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "Caters": false,
+                "Coat Check": false,
+                "Delivery": false,
+                "Good For": {
+                    "breakfast": false,
+                    "brunch": false,
+                    "dessert": false,
+                    "dinner": false,
+                    "latenight": false,
+                    "lunch": false
+                },
+                "Good For Dancing": false,
+                "Good For Groups": true,
+                "Good for Kids": false,
+                "Happy Hour": true,
+                "Has TV": true,
+                "Music": {
+                    "background_music": false,
+                    "dj": false,
+                    "jukebox": true,
+                    "karaoke": true,
+                    "live": true,
+                    "video": false
+                },
+                "Noise Level": "loud",
+                "Outdoor Seating": false,
+                "Parking": {
+                    "garage": false,
+                    "lot": false,
+                    "street": false,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 1,
+                "Smoking": "yes",
+                "Take-out": false,
+                "Waiter Service": false,
+                "Wi-Fi": "free"
+            },
+            "business_id": "M-eAou5siImNKoxxcSEX-g",
+            "categories": [
+                "Bars",
+                "Mediterranean",
+                "Greek",
+                "Nightlife",
+                "Hookah Bars",
+                "Restaurants"
+            ],
+            "city": "Champaign",
+            "full_address": "35 E Green St\nChampaign, IL 61820",
+            "hours": {},
+            "latitude": 40.109909,
+            "longitude": -88.240973,
+            "name": "Green Street Cafe",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media4.fl.yelpcdn.com/bphoto/X58kr1PkTVk0TB8miJ4leA/ms.jpg",
+            "review_count": 9,
+            "stars": 3,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "My first experience with hookah was here! So we we looked in the hooka bar part and there were 6 people sitting in 1 booth hooka-ing. Their drink specials are still a good deal and they're one of the few places to smoke hookah in town (I haven't tried any others). ",
+        "reviews": [
+            {
+                "review": "Great social environment! I saw people here playing chess to just chilling alone on their laptops. I came here and no place to sit; sat by 3 strangers and became good friends with them at the end of the night. Great hookah, really affordable and really friendly staff. A high recommendation from me to anyone. There are lots of hookah lounges back in Cali., and this is probably better than more than half of the ones i go to back home. 5 stars! Will be coming back :).",
+                "reviewer_id": "27AxJYaFzAy_Ex1_1eFK4Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.017528389630958523,
+                    "positive_probability": 0.9824716103690389
+                },
+                "stars": 5
+            },
+            {
+                "review": "If I knew how to give them no-stars I would.  So we went here on a Sunday evening (6:30pm) for dinner thinking Hooka Bar and Cafe we would have a Mediterranean experience.  The location is in a strip mall located on Green Street. The are actually 2 separate storefronts. So we we looked in the hooka bar part and there were 6 people sitting in 1 booth hooka-ing. We went into the larger facility which was a bar. The worst bar I have ever been  in. Run down and shabby. Paint peeling off the walls. 3 booths all looked in need of a good cleaning and repair. I would like to say we were greeted by a bartender (or at least I think she was) who was sitting on a bar stool with her legs on another eating something that wasn't made there because \"Cafe\" is a joke. They didn't sell any food. She only spoke when I asked her where the cafe portion of the bar was. This is where she told us that they didn't serve food. We werr waiting for the rest of our party to arrive so we ordered diet sodas that tasted like pure carbonation. Lastly, I went to use the restroom but it was too dirty to use. This place was a huge disappointment for all of us. Overlooking the fact that they say they are a cafe, the staff failed in many ways.",
+                "reviewer_id": "5OFd3YKOFYM7jq-vm8UWvg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7941740670265445,
+                    "positive_probability": 0.20582593297345075
+                },
+                "stars": 1
+            },
+            {
+                "review": "Karaoke was fun, drinks were well-priced... but this is a DIVE.  No doubt about it.",
+                "reviewer_id": "fZSYNXP10YCyHqkKUsh-QA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4286260908561627,
+                    "positive_probability": 0.5713739091438377
+                },
+                "stars": 2
+            },
+            {
+                "review": "_Hookah bar_The only hope I had for a decent hookah bar on campus, and it's been dispelled from the first visit. Going down the list of flavors, 80% were 'out'. We had to switch hoses three times, each looking worse than last. We ended up with a hybrid of dirty cloth, disintegrating velvet, and duct tape, which provided a mood-setting lung-full of dust on first use.It gets one star because it's the only place on campus you can buy (low-quality, quick-light, chemical-laced) charcoal after the head shops close. Last I checked it was $2/roll. You can also buy small quantities of molasses, so it's a means of exploring flavors before investing in one (which you should buy online).The other star is for the staff that is (or tries to be) helpful. I think most of the blame goes on the owner who can't seem to understand the need to stock your menu's offerings or investment in new equipment. Staff could do a better job cleaning/maintaining the hookahs.",
+                "reviewer_id": "gkFiMysJhQC5NSd6zUwy_Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.22357380150922773,
+                    "positive_probability": 0.7764261984907675
+                },
+                "stars": 2
+            },
+            {
+                "review": "So I went back ... and i must say i found a decently pleasant hookah flavor... it's ownerflavor#2 . . . supposedly made of secret ingrediants, but it tasted exactly like a banana berry runt!",
+                "reviewer_id": "m8u49f6BQbnLBPujd6twaQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3261733997682069,
+                    "positive_probability": 0.6738266002317922
+                },
+                "stars": 4
+            },
+            {
+                "review": "I love this bar! If you've been here before and had a bad experience, I encourage you to try it again. The bar has undergone a change in ownership and management, a remodel, and the hookah and alcohol are now separate. The drinks are inexpensive and very strong. (They aren't joking when they call them Stron Islands!) They have 2 dart boards and 2 pool tables for the game-oriented, and new booths for those who aren't. My favorite night to go to Green Street is Tuesday. They have Outlaw Karaoke--the same awesome karaoke DJ who does White Horse Wednesday nights, but without the flooded bathrooms. Bud and Miller family bottles are only $2, and Mikey and Dan have a whole list of signature drinks if you're not into beer. Overall, Green Street is a great place to grab a drink, any night of the week.",
+                "reviewer_id": "VO4eCh5lDE3tFZj9otW14A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.012478901196198643,
+                    "positive_probability": 0.9875210988038041
+                },
+                "stars": 5
+            },
+            {
+                "review": "I loved this place when I was younger and they still served food. My more recent visits have been a little disappointing. Their drink specials are still a good deal and they're one of the few places to smoke hookah in town (I haven't tried any others). They do have a very \"small town bar\" feel to them, though, and I'm not sure how well that fits into the Champaign-Urbana bar scene.",
+                "reviewer_id": "YbkPwGiLcrdA2Vx4cjsIeg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.048668210042178105,
+                    "positive_probability": 0.9513317899578266
+                },
+                "stars": 3
+            },
+            {
+                "review": "I have experience in both sides of the business but I'll start with the hookah side.     This was my first experience in smoking Hookah, and it is now a favorite hobby of mine. The prices are reasonable considering how long a hookah can last. The staff is knowledgeable about hookahs and will glad strike up conversation about it or anything else.     The bar is also one of my favorite places in town. The drinks come cheap and they come strong. I'm not a beer drinking so I can't have much input there, but they mix plenty of things that are very tasty, in a fun environment.",
+                "reviewer_id": "zgKvSrWxl46DEW8Dilys_Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.008238720631590285,
+                    "positive_probability": 0.9917612793684136
+                },
+                "stars": 5
+            }
+        ],
+        "similar_restaurants": [
+            "9p3O_KoH3muITR-9WgrSnA",
+            "Aln3dngHMyG6OyPBe7fucw",
+            "RSk-BYX8s5027cKo_aELrw",
+            "dw6kMj7WSA2ZRk0FqqjqrQ",
+            "ufOY2lQHDgSvou3YLT8gHA",
+            "rm2OnyNDnlWkSNUSxETsGg",
+            "27q7XsLrKPNwr8i5RcCOvQ",
+            "oVX8BPEWRl4iBgApA3PBYw",
+            "-0GkcDiIgVm0XzDZC8RFOg",
+            "1T2rnvl67Gk9Uc0gzsCKQA"
+        ]
+    }
+}

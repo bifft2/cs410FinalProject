@@ -1,0 +1,771 @@
+{
+    "Z4ZP0LwHhG8SMTkvEcVvpg": {
+        "keywords": {
+            "bigrams": [
+                "thin_crust",
+                "spotted_goat",
+                "canopy_club",
+                "new_york",
+                "pizza_empanadas",
+                "goat_cheese",
+                "slice_pizza",
+                "pretty_good",
+                "bbq_meats",
+                "pizza_slice"
+            ],
+            "unigrams": [
+                "pizza",
+                "empanadas",
+                "good",
+                "slice",
+                "cheese",
+                "place",
+                "manolo",
+                "crust",
+                "food",
+                "slices"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "none",
+                "Ambience": {
+                    "casual": false,
+                    "classy": false,
+                    "divey": true,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "BYOB/Corkage": "yes_free",
+                "Caters": false,
+                "Corkage": false,
+                "Delivery": true,
+                "Good For": {
+                    "breakfast": false,
+                    "brunch": false,
+                    "dessert": false,
+                    "dinner": true,
+                    "latenight": true,
+                    "lunch": true
+                },
+                "Good For Groups": false,
+                "Good for Kids": true,
+                "Has TV": false,
+                "Noise Level": "average",
+                "Outdoor Seating": true,
+                "Parking": {
+                    "garage": false,
+                    "lot": false,
+                    "street": true,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 1,
+                "Take-out": true,
+                "Takes Reservations": false,
+                "Waiter Service": false,
+                "Wheelchair Accessible": true,
+                "Wi-Fi": "no"
+            },
+            "business_id": "Z4ZP0LwHhG8SMTkvEcVvpg",
+            "categories": [
+                "Food",
+                "Empanadas",
+                "Pizza",
+                "Restaurants"
+            ],
+            "city": "Urbana",
+            "full_address": "1115 W Oregon St\nUrbana, IL 61801",
+            "hours": {
+                "Friday": {
+                    "close": "02:30",
+                    "open": "08:30"
+                },
+                "Monday": {
+                    "close": "02:30",
+                    "open": "08:30"
+                },
+                "Saturday": {
+                    "close": "02:30",
+                    "open": "11:00"
+                },
+                "Sunday": {
+                    "close": "02:30",
+                    "open": "11:00"
+                },
+                "Thursday": {
+                    "close": "02:30",
+                    "open": "08:30"
+                },
+                "Tuesday": {
+                    "close": "02:30",
+                    "open": "08:30"
+                },
+                "Wednesday": {
+                    "close": "02:30",
+                    "open": "08:30"
+                }
+            },
+            "latitude": 40.106932242854,
+            "longitude": -88.223406371455,
+            "name": "Manolo's Pizza & Empanadas",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media3.fl.yelpcdn.com/bphoto/HXUo8O7Zspwn_k0pQfomhQ/ms.jpg",
+            "review_count": 65,
+            "stars": 3.5,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "As for the pizza? It was one of the best pizzas I've had. By far the best pizza in Champaign-Urbana. ",
+        "reviews": [
+            {
+                "review": "Great flavor in the empanadas but at times they don't pay attention during cooking because they can get burnt at times which sucks. Other than that I really like the place. It is a bit expensive though. The specialty pizza slices are good too.",
+                "reviewer_id": "-aljOaGKPAZJv--LnC6-ig",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7979011719229921,
+                    "positive_probability": 0.20209882807700336
+                },
+                "stars": 3
+            },
+            {
+                "review": "The slice of pizza I had was not bad at all - a \"specialty\" with fresh tomato and spinach, good sauce, nice crust. The price was way too high though: $3.89 plus tax. That's a lot more expensive than New York style pizza in NYC, and it's why I can't give Manolo's more than 3 stars. They're making a bundle off the student crowd, and I will only treat myself on occasion.",
+                "reviewer_id": "-FqXwGg8isV0ap9U1q7p6g",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4733937810790258,
+                    "positive_probability": 0.5266062189209766
+                },
+                "stars": 3
+            },
+            {
+                "review": "I recently moved out of Chambana, but I lived around the corner from Manolos for 2 years.  Their pizza wasn't too bad for by the slice.  It also wasn't ridiculously expensive for the area.  I like the traditional toppings as well as some of the unique offerings.The real gem(s) are the empanadas.  I hadn't even bothered to try them until my boyfriend ordered them one night.  I tried almost every flavor.  My favorites were the roasted chicken and chicken inferno, but I also liked the potato cheddar,sausage pizza, and san telmo carne/pollo.  They are best if you get there when they're fresh, have them made for you (takes about 10 minutes), or get delivery.  I think I ordered them about once a week for 3 years until I moved away. Now, I still crave them and have even resorted to trying to make my own......which are not nearly as good I might add.",
+                "reviewer_id": "18EQiRpS3i_L0Hx_I2PCgA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2901877109464431,
+                    "positive_probability": 0.70981228905355
+                },
+                "stars": 5
+            },
+            {
+                "review": "I've tried both a variety of their empanadas and the pizza, and I think the former is definitely the reason to try this place.  Although some of the varieties are pretty similar and really cannot be told apart without the little cheat sheet they hand out, some, such as the roasted chicken, potato and cheese(a mashed-potato like filling), and chicken jalapeno are excellent.  The sausage pizza was nothing special (a bit on the greasy side), and better can be easily found in the area.  Nevertheless, the empanadas are good enough to warrant a trip.",
+                "reviewer_id": "2vqxtgG_1I5fKMEktYVC4A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.002538986580287859,
+                    "positive_probability": 0.9974610134197157
+                },
+                "stars": 4
+            },
+            {
+                "review": "I actually really like the pizza here; the empanadas can be a bit dry, especially toward the end of the day, but they are still superior. I am expressly thrilled by Manolo's daily selection of sliced pizza and their consideration of vegetarians and people who like something other than \"pepperoni\" or \"cheese\". The sliced pizza is well-priced, thin crust and yummy, not to mention relatively creative in the flavor department so I would recommend this to the hungry passing by. I yet to try a better pizza by the slice in this area.",
+                "reviewer_id": "3NU4UJWlsVIl6kSYouaFxA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0421059212600033,
+                    "positive_probability": 0.9578940787399921
+                },
+                "stars": 4
+            },
+            {
+                "review": "I had the San Telmo pollo, potato cheddar, and chocolate brownie empanadas. They were good, but very small and a little expensive for what they are. Maybe next time I'll try the pizza.",
+                "reviewer_id": "42OpLiC5k-fMgpUvxjEzpA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.10956943999966837,
+                    "positive_probability": 0.8904305600003302
+                },
+                "stars": 4
+            },
+            {
+                "review": "I eat here at least once a week and have for the past two years.  I have always found the empanadas moist and good, if a tad salty.  Pizza is the most gourmet to be found in Champaign OR Urbana.  Far and away the best food option in the Nevada Street part of campus.  If I didn't feel the need to consume vegetables now and again I would eat there even more often.",
+                "reviewer_id": "4omuU-xWbf3ty7vrMfbP3Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.013380693546099717,
+                    "positive_probability": 0.986619306453905
+                },
+                "stars": 4
+            },
+            {
+                "review": "By far the best pizza in Champaign-Urbana. The crust is crispy on the outside, soft on the inside. All you need is the Spotted Goat. Top it with Whiteford's hot sauce, the best hot sauce you've never heard of and can't find anywhere else. I could honestly eat it two, three times a week.A little pricey per slice, but two slices will make you completely full.Empanadas are waaay too expensive for their size, but also pretty tasty.",
+                "reviewer_id": "7kLukSC2_wxMA3pziiTY-Q",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8074729700624356,
+                    "positive_probability": 0.1925270299375643
+                },
+                "stars": 5
+            },
+            {
+                "review": "The empanadas are so good. There's a vast selection & just about any of them are mouthwatering. If you haven't had the dessert empanadas, they're really tasty too. Empanadas are a little over $2 for each pocket of yum but don't let that stop you. There are deals like \"pick 6\" where you get a little discount for volume purchasing. Sometimes there are deals on Hooked or Grub Hub as well. The pizza is also delicious. It's NY style pizza so it's thin crust that's toasted when you place an order. Spotted Goat is a popular selection but my favourite is still a plain cheese slice. The place is tiny & it can get crowded in the evenings, especially if there's stuff going on at Canopy Club or Krannert. Cleanliness is not their forte. I've seen someone touch their hair then work the pizza dough with their hands. I don't like to think about that.",
+                "reviewer_id": "8O97RbJ486J3qQVOq98Obg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2159985514275938,
+                    "positive_probability": 0.7840014485724106
+                },
+                "stars": 3
+            },
+            {
+                "review": "Edited after getting a whole pizza for take-out.  It was the Chicken Carbonara and it  was magical.  The veggies tasted fresh sliced, the bacon was crispy, and there were big chunks of chicken.  It was one of the best pizzas I've had.  Not super cheap for a pizza at about $18 but so, so good.So some of the best pizzas are the specialty ones on the menu, and not just the ready-made ones under the heat lamps.  So now I say: 5 stars for the pizza, 3 for the empanadas.The pizza is - for my money - the best of its kind on campus, and certainly the best within an easy walk from the quad.  The prices per slice seemed a little high until I went to Sbarro and got a much more disappointing slice for more money.  I won't do that again.Here they usually have the traditional pizzas - cheese, sausage, pepperoni - but the standouts are their more unusual toppings.  My other favorite is the hungry goat, which has tomato, basil, mushrooms, and goat cheese.  A little bit of hot sauce from the counter and you have the perfect greasy mid-day snack.  There are other interesting options that seem to rotate - a potato pizza, a mushroom pizza, a Mexican themed pizza, and the supreme are the ones I remember from last time.  I've also seen apple butter pizza and the barbecue meats, which is good stuff.The pizza slices are about 10 inches long and 4.5 wide.  It's a more floppy, chewy pizza.  The cheeses and toppings vary, and it's usually a little greasy - though of course, it depends on what type you get.  When you order it goes in the oven to warm up.The empanadas are okay but leave me more hungry than the pizza.  I am not that great a fan of empanadas, though.  I didn't notice a huge difference between the different fillings.  I haven't tried the dessert ones, but I am told they are good.Convenient and consistently pretty good.",
+                "reviewer_id": "9LZXJu6RZ6UpIXYGSZWB7Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 6.822063850596001e-05,
+                    "positive_probability": 0.9999317793614904
+                },
+                "stars": 5
+            },
+            {
+                "review": "I haven't had their pizza to date, and would like to try it. But every time I go, their empanadas call me. I really dig them, the spicy chicken (inferno) empanadas are the most savory they have for a quick bite. I do wish they were less pricey, because that impacts value and my rating.",
+                "reviewer_id": "Ba9fIJAmGNjFXU2Oc0fyxQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8334411370352874,
+                    "positive_probability": 0.16655886296471456
+                },
+                "stars": 3
+            },
+            {
+                "review": "Really, really overpriced empanadas. Don't get me wrong, they're good. Nice and hot with a tasty filling. I had the Vegetarian Carne, Mushroom and Thyme, and Spinach and Mushroom, but I was vastly disappointed when I saw the size of them. They're so tiny! And for $2.29 a piece...not worth it. Thank goodness I had a grubhub deal...otherwise, ain't no student got money for that.",
+                "reviewer_id": "bILKQuls9XyCmUgXU-25iQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6348208693974609,
+                    "positive_probability": 0.3651791306025392
+                },
+                "stars": 3
+            },
+            {
+                "review": "Now that we have Manolo's in addition to Drew's and other pizza joints, the pizza market in C-U is getting a little saturated. Meaning, the food scene in Champaign is getting a little boring. But what sets Manolo's apart is actually their empanadas. You should feel happy because these people actually make empanadas from scratch instead of getting them from vendors. The crust is always flaky and consistent. I highly recommend their carne and mushroom empanadas. I think their empanadas are a little pricey for the size but it's worth paying for their extra effort of making food from scratch.",
+                "reviewer_id": "CX4GcrCCnzfNyAl0cPqGbg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.04240060957018593,
+                    "positive_probability": 0.957599390429819
+                },
+                "stars": 3
+            },
+            {
+                "review": "Best pizza in the area.  Not quite as good as what I grew up on, but really close.  The empanadas are pretty good too!I only wish their delivery area was a little wider, I live just outside of it.",
+                "reviewer_id": "d1I7WgowWgblUJ9uWgRn6A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.11607802503110316,
+                    "positive_probability": 0.883921974968897
+                },
+                "stars": 5
+            },
+            {
+                "review": "Second best pizza place in town. Its the only place that serves slices that's worth going to. Because its cheap and tasty, when we're stuck on campus, thats usually where we end up. I recommend the spotted goat pizza. We also get empanadas but those can get pricey if you order a lot. I was a little unimpressed with the dessert empanadas but the other flavors are good too!",
+                "reviewer_id": "D98vylCT1fLKBIU6iAKxhw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6776023189953319,
+                    "positive_probability": 0.3223976810046698
+                },
+                "stars": 5
+            },
+            {
+                "review": "When this place started, it seemed overpriced but the food was OK, especially the empanadas, which could be nice. Nowadays it is just inedible. Low quality ingredients, a TON of salt (not just salty, insanely salty, are they actually trying to put people in the hospital?). A certain empanada with herbs (thyme and such) had ingredients which were actually evidently expired and tasted so bad that I had to spit my food out. Pizza tastes much better even at a place like Papa John, not exactly gourmet food. Overpriced garbage. Never again.",
+                "reviewer_id": "dCVNBSMVy1cqpJBw1OJ_6w",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9443128566084008,
+                    "positive_probability": 0.055687143391599664
+                },
+                "stars": 1
+            },
+            {
+                "review": "Best choice of ingredients and selection of toppings I've seen in a pizza joint. Spotted goat is great but what's really great about this place is a vegan actually has options on this menu.",
+                "reviewer_id": "dN-Ppqo8OgQx1NQJeFG-4g",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.18224706508682242,
+                    "positive_probability": 0.8177529349131767
+                },
+                "stars": 5
+            },
+            {
+                "review": "The closest you'll get to NY style pizza in the Champaign area. I ordered delivery for an x-large cheese pizza and it was awesome. Only 4 stars because the delivery guy dropped my pizza or something i guess and half the pizza was smushed (still tasted good anyways). Definitely my favorite pizza joint on campus. Much better than the overrated papa dels.",
+                "reviewer_id": "Dxhyi5b0obJZurIxrpTCVQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.31978120519699615,
+                    "positive_probability": 0.6802187948030057
+                },
+                "stars": 4
+            },
+            {
+                "review": "Fucking fantastic. But I can't justify paying $5 bucks for a slice. Also everything tastes like it was loved with butter. Kinda gross. But also kinda delicious. I'm wary of food places where the employees and patrons are morbidly obese (thanks to bad experiences at \"all-American\" restaurants), and Manolo's fulfills that criterion. Overall, a win-lose.",
+                "reviewer_id": "dzKYG04n0nLXv6tGFvJX0Q",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.635118983044411,
+                    "positive_probability": 0.3648810169555939
+                },
+                "stars": 3
+            },
+            {
+                "review": "Pretty good place to grab a quick bite to eat between classes. Liked their pizza and was inexpensive.  The staff seemed sincere and nice asking twice if I wanted a box for my pizza or a plate this is unusual in champaign and I appreciated their general interest in my eating preferences.",
+                "reviewer_id": "EM3qgcLfUzPU2boJIL77eQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.007427953904079458,
+                    "positive_probability": 0.9925720460959203
+                },
+                "stars": 3
+            },
+            {
+                "review": "The empanadas are fabulous! I got a pick 6 combo that came out to be about $12. I got a pepperoni pizza, turkey dinner, bbq pork, spinach mushroom manicotti, san telmo pollo, and a chocolate brownie. They were all delicious but I'd have to say I liked the original pepperoni pizza one the best.",
+                "reviewer_id": "f4kHZ7MM5t3OwvdQBHBKIg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.21302660749873234,
+                    "positive_probability": 0.7869733925012664
+                },
+                "stars": 4
+            },
+            {
+                "review": "Wherever you can get a huge hot gourmet slice of pizza for only $3, that definitely makes me a fan.",
+                "reviewer_id": "FDpZyVjUlB0Ky4ZPoCGz_w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.08960401779617409,
+                    "positive_probability": 0.9103959822038235
+                },
+                "stars": 4
+            },
+            {
+                "review": "Hands down one of my favorite pizza places in C-U. Love the specialty pies and their occasional \"slice du jour\" (had a thanksgiving dinner one once! SO GOOD). Never have ordered a whole pizza, as their prices are a lot higher than most places, but their slices are definitely worth $4. Absolute favorite? Apple Butter Bacon! You pretty much can't go wrong, as they list all of the ingredients next to the pizzas they have made. Empanadas are also delicious, but the slices are where it's at for me.  Should definitely stop here if you're visiting town and try a slice.",
+                "reviewer_id": "GuI0CNeLXEIVAtoye0WJgQ (1)",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.014710108116443849,
+                    "positive_probability": 0.9852898918835612
+                }
+            },
+            {
+                "review": "Hands down one of my favorite pizza places in C-U. Love the specialty pies and their occasional \"slice du jour\" (had a thanksgiving dinner one once! SO GOOD). Never have ordered a whole pizza, as their prices are a lot higher than most places, but their slices are definitely worth $4. Absolute favorite? Apple Butter Bacon! You pretty much can't go wrong, as they list all of the ingredients next to the pizzas they have made. Empanadas are also delicious, but the slices are where it's at for me.  Should definitely stop here if you're visiting town and try a slice.",
+                "reviewer_id": "GuI0CNeLXEIVAtoye0WJgQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.014710108116443849,
+                    "positive_probability": 0.9852898918835612
+                },
+                "stars": 5
+            },
+            {
+                "review": "Two pizza places arrived in this area of Urbana recently- Rosati's and Manolo's. While I haven't eaten through the amazing range of items Manolo's offers, I am confident Manolo's is the best of the two.Pizza places are ubiquitous on college campuses, so I'm never too excited when one springs up. Manolos sets itself apart by having empandas, which are an excellent alternative to pizza. They have several types ranging from the more authentic spicy San Telmo Carne to flaming potato. The three types I tried were tasty and the pastry was puffy and soft. They are perfect for an on-the-go snack since they can easily be eaten while walking.As for the pizza? The cheese pizza I tried was good and had a nice crust.  Hands down the best pizza there (and the reason for the recently added extra star) is the fresh basil and mozzarella. I had it with some friends and we all agreed it was top-notch. It's fragrant from the very fresh basil and the cheese stands out as being so much better than regular pizza cheese. Specialty pizzas are a little bizarre. The one I tried, creamy chicken gorgonzola, was sans red sauce. It wasn't bad, but it was like some cheese, chicken, spinach, and (good) portabellas on dough. More like upscale breadsticks than pizza. Make sure the description says it has red sauce if you are looking for something traditional. Ditto the other reviewer- They make their food! Surprisingly enough, this is actually unusual. Many restaurants buy pre-made items from big companies, but here at Manolos you can see them rolling the dough for all the pizza and empanadas.Delivery is slow and expensive. Pick up is the better option.",
+                "reviewer_id": "HqaXK9toBpQdcz-0-rVwKw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.002560850837108997,
+                    "positive_probability": 0.9974391491628899
+                },
+                "stars": 5
+            },
+            {
+                "review": "Go here for the crispy thin crust pizza. Stay for the unique empanadas. Try the potato cheddar, bean & cheese, or chocolate brownie empanada.",
+                "reviewer_id": "idxAYKt-gl6b7q9hS4rLGw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.15231704332189755,
+                    "positive_probability": 0.847682956678105
+                },
+                "stars": 4
+            },
+            {
+                "review": "It is a rare day when I actually have BAD pizza.  I've had mediocre, I've had unexciting, but the other night I actually got a BAD pizza delivered.  In addition, this was a late night after-drinks affair, so I really wasn't picky.  The crust was so rubbery, I had trouble biting through it.  This was a plain cheese pizza.  I was very hungry, but I couldn't get through more than one piece.  Not only that, but it came to like $18 for it.  There were cheaper options, but I figured I'd try something new.  I know better now.",
+                "reviewer_id": "IJ3m1dLcXv_NjDlXQ5J8Iw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4055830223495795,
+                    "positive_probability": 0.5944169776504209
+                },
+                "stars": 1
+            },
+            {
+                "review": "This is my favorite pizza place on campus, and my favorite specialty pizza to get anywhere ever. Every single time I order, I get a small Modena Chicken (chicken, onion, spinach, mozzarella, goat cheese, and a balsamic roasted garlic cream sauce) and finish it in one sitting. I'm always WAY too full after... but it's the kind of way too full that makes you want to lounge around and watch The Office instead of die/explode.For some reason, every time I describe that pizza to someone, the response is always \"Ewww, that sounds weird/gross,\" but I know someday I'll find someone that thinks it sounds as good as I do, and then we can order one to enjoy together... then get married. (Okay, maybe not get married, but we could hang out. And order more pizza.)Assuming you didn't eat a whole pizza and still have room for the dessert, the raspberry cheesecake empanada is a lovely finish.",
+                "reviewer_id": "INbuULh98NmGYKZMy6wqwg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3006774520464397,
+                    "positive_probability": 0.6993225479535693
+                },
+                "stars": 5
+            },
+            {
+                "review": "Was all willing to give your over-priced super salty empanadas another shot at glory, man.But when called recently, over an HOUR past your stated open, no one picked up.  I've worked pizza and deli places; know how it can be.  Tried four more times to get through.Screw you, Manolos, we are so over.  Don't come crawling back next week with your lame excuses.",
+                "reviewer_id": "iWcr-TRqIuIXqMpd_MrdrQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8281279616148639,
+                    "positive_probability": 0.17187203838513243
+                },
+                "stars": 1
+            },
+            {
+                "review": "Really good, floppy pizza.. Massive slices, freshly heated, and lots of specialty varieties with tons of imaginative toppings (goat cheese is my hero!)  The bottom is crispy without being crunchy, and everything tastes great.I tried both the vegetarian pizza and the Modena veggie (the one with mushrooms and goat cheese)... The Modena was definitely the standout, but again, I would trust goat cheese with my firstborn. And all of my offspring after that.I also tried one of their empanadas, which I can't really review because I wanted the vegetarian version of their Argentinian spiced one, but I may have accidentally had a meaty one.  My mom ordered their spinach and ricotta empanada, but when she bit into hers, it looked like it had some kind of soy meat or real meat. Hard to tell, and I don't want to think about it too much! All I know is they definitely gave us one meaty empanada when we ordered two vegetarian ones-- major problem!!They also had a lot of problems charging our credit card. They tried three times, and we got all these fraud alerts afterward.BUT they were running a deal where you got a free medium cheese pizza when you spent $10... And they gave us two! (We did spend over $40).My brother was really excited to share this place with us, and he doesn't get excited about too much food-wise, so that of course made the whole experience a full star better!",
+                "reviewer_id": "JjBqZqagNKa6KuA9nH4MsA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.014373604054536047,
+                    "positive_probability": 0.9856263959454699
+                },
+                "stars": 4
+            },
+            {
+                "review": "Excellent Pizza, especially the spotted goat but all of them are good. Being Argentinian, however, I cannot approve of their empanadas. It's conveniently located next to the Music Library.",
+                "reviewer_id": "jRoaf7utXVNwW6_SCKoHvA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.22728754085669045,
+                    "positive_probability": 0.7727124591433094
+                },
+                "stars": 4
+            },
+            {
+                "review": "Great pizza, always consistent, a little too expensive in my opinion but I understand they use quality ingredients and you get what you pay for.",
+                "reviewer_id": "ljG8IJlliAkQXw-yCVMEug",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4923931618093601,
+                    "positive_probability": 0.5076068381906421
+                },
+                "stars": 4
+            },
+            {
+                "review": "So you're sitting at the Canopy Club, maybe you're drinking a beer and watching the band and/or gawking at the scenery why not have a slice of pizza as well? The super slices are $1.75 for cheese, $2.20 for 1-topping and $2.75ish for specialty. The slices are a double slice, but they are thin, which is great if you like thin crust. They are excellent!",
+                "reviewer_id": "LMuPYy-DYiouP2ULKcG9sA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9896036818590527,
+                    "positive_probability": 0.010396318140944664
+                },
+                "stars": 4
+            },
+            {
+                "review": "I've been going to Monolo's for a while now, and they're usually very consistent. Pizza by the slice is excellent and fairly portioned. The crust has a slight sourdough taste to it and the sauce and cheese is nicely balanced. As far as specialty slices go, BBQ Meats and Cuban Chicken are my favorites. Otherwise, plain cheese is good enough.I've had the empanadas, and they're also pretty good. Problem is, they're too expensive for what you get. More than $7 for three measly little pockets of meat/cheese/veggies is a bit much. I suppose the San Termo style empanadas warrant a try, but for the more standard varieties, I wouldn't bother. The specialty pizza slices are a bit pricey too.",
+                "reviewer_id": "lqcikpbU-xNgCYsTqN76ag",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8399119851586612,
+                    "positive_probability": 0.16008801484133517
+                },
+                "stars": 4
+            },
+            {
+                "review": "The pizza was mediocre at best. I ordered a roasted veggie, and I honestly prefer the Kashi frozen pizza over Manolo's version, which was greasy and a bit too crunchy. It was also a bit too pricey considering the quality.",
+                "reviewer_id": "LWk3BoiUfefDdMcUwq09eA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.10284742793377674,
+                    "positive_probability": 0.8971525720662212
+                },
+                "stars": 2
+            },
+            {
+                "review": "Love to get their pizza by the slice at Canopy Club. It is in the style of New York pizza (but I am not saying its New York pizza, so settle down, Mario). They take a slice from the carousel on the bar and stick it in the oven for a minute or so. Take a look at what is on the carousel before you order to make sure it looks good and not all orange/cancer bubbly or burnt. They also have parm cheese, red pepper, and hot sauce. I guess it is probably not 4 stars good, but there really is nothing like booze and pizza in a music venue that often smells rather strongly of *ahem* the perennial accoutrement of musicians. Kind of like how a nice afternoon at Wrigley makes Old Style taste like truffle butter infused ambrosia.",
+                "reviewer_id": "NGX1PZwHET_oQOT7vkkxag",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7653287057791897,
+                    "positive_probability": 0.23467129422081748
+                },
+                "stars": 4
+            },
+            {
+                "review": "First: open late (2:30 a.m.)! Has half a dozen pizzas already made, ranging rom plain cheese to curried chicken or \"spotted goat\" (spinach, mushrooms, gorgonzola... not a whole lot of any of them though - this is not pizza pile with ingredients, but thin crust slices with thin layers of toppings). Also a dozen or more empanadas all ready for eating. Service was quick & courteous, quality was fine, and it's a heck of a lot better than trying to find a fast food chain drive through after midnight!",
+                "reviewer_id": "OVVh6X1ZbeUwWfvmXRBHzg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9953088243604136,
+                    "positive_probability": 0.004691175639587279
+                },
+                "stars": 3
+            },
+            {
+                "review": "Depending on what time you get there (or whether you get it delivered), the empanadas can sometimes be dry or soggy.  The fillings are usually really good, and creative, but the shell is usually kind of disappointing.I tried the pizza once, and wasn't impressed.  It was just kind of thin and ominous.  It sat under a heat lamp with the empanadas.A teensy bit pricey, as well.",
+                "reviewer_id": "p5ht6rQC0NkgdtgY2OlYxg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8730775701691541,
+                    "positive_probability": 0.12692242983084615
+                },
+                "stars": 3
+            },
+            {
+                "review": "I actually really enjoy the food here, but the service is hit or miss. Usually, the owner is very respectful and quick to serve his customers. However, upon going to the restaurant with a friend last year, there was no one at the register but several workers loitering around in the back. Starving, I started to glare at them, getting impatient for proper service. When they caught my incredulous stare, they instead interpreted my anger as attraction. Seriously. One let out a guffaw and snorted, \"Look, [person B], that Korean girl is checking you out. Hahahaha...\" First of all, I'm Chinese American. If you're going to judge my ethnicity, at least get it right. Second of all, who treats a paying customer like a gawking idiot like they did? I almost wanted to throw the empanadas I bought back in the cashier's face. But I like the empanadas, and it would be such a waste left on such horrible cashiers.Basically, be careful when ordering if you happen to be an Asian American female. Some of the ridiculous workers will interpret your glare as flattery to their already blown up egos.",
+                "reviewer_id": "pD0ntLKZOopi2KmaVxSw_A",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8072357118092186,
+                    "positive_probability": 0.19276428819077812
+                },
+                "stars": 3
+            },
+            {
+                "review": "The best pizza you can get in champaign. Their spotted goat is really popular. I personally prefer just plain cheese but it never disappoints. I always get a side of ranch and add cholula. They are also connect to the canopy club which is the music venue in champaign. They are always open at the end of shows so it is a great place to stop in and get a drunken slice of pizza.",
+                "reviewer_id": "qND0y_3FE2MIRkwocUBu_A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.07022148667742002,
+                    "positive_probability": 0.9297785133225797
+                },
+                "stars": 5
+            },
+            {
+                "review": "Ah, Manolo's. My office used to be some 500 feet from this little place, and I ate lunch there literally every day. I've never had the empanadas because I've never seen the need. The pepperoni pizza is fantastic, the cheese is pretty good and the specialty slices are great- I recommend the apple butter and bacon.The staff is also wonderful- though coming in every day for a year probably helped- and I really should go more often now that I've moved. Pizza is really cheap- at $4 for a specialty slice, you can really save money on lunch costs (not as much as bringing it from home, but I'm lazy).",
+                "reviewer_id": "qR6jQSCWN94STCjsnTU8vQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.27524649137693014,
+                    "positive_probability": 0.7247535086230781
+                },
+                "stars": 5
+            },
+            {
+                "review": "Looking for something late night.  Thanks to the reviews I decided to try it and loved it.  Excellent service.  Being from an hour away, I will definitely come here for both pizzas and empanadas.",
+                "reviewer_id": "qWSke2Bzsl04VAgkhXD7Yw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5713709220191847,
+                    "positive_probability": 0.4286290779808151
+                },
+                "stars": 4
+            },
+            {
+                "review": "Empanadas are pretty easy to make. You have your filling - usually some kind of meat, some spices, onions, make it the night before, stick it in the fridge - and you have your shells - usually made out of masa harina. When you're ready to serve them you plop a spoonful onto the shell, roll it up, squeeze the edges and drop them into the fryer.It's not haute cuisine. Every culture has some kind of dough-and-filling staple whether it be Polish pierogis or Chinese dumplings. It's so basic it's hard to believe anyone could fuck it up.Unfortunately, someone has. These are, by far, the worst dough-and-filling creations I've ever had. The dough was soggy, the filling was dry, it was paradoxically bland and salty. The mushrooms in the mushroom and cheese empanada tasted like they were on the verge of going bad. Also, they should be fried. Not baked. Granted, I ate the empanadas during Thanksgiving break when not many students are on campus so maybe the management didn't really think it'd be worth it to make fresh empanadas. Then again, empanadas should never be made hours beforehand to sit under a heat lamp. You want to save money? Close up shop instead of serving an inferior product.Finally, it was overpriced (3 little empanadas for 6 bucks) and the service was lousy. The place felt kind of disorganized and grimy, the employees were lackadaisical. I don't expect the corporate shine and whitewash of a Jimmy John's. A little dirt can be ok, I appreciate texture, but I also like a little bit more professionalism. If the owner wants to make some real money I'd say get rid of the pizza, get rid of all the empanda options except for maybe the top two flavors (a spicy ground pork one Colombian style and maybe a vegetarian option), reduce your staff, get an industrial deep fryer, drop the price of each empanada to $2, make it three for $5, offer free salsa to top on the empanadas and stay open really late on the weekends. Let the smell of the fried goodness waft over the street and watch people line up outside of your door. Empanadas are blue-collared, street food in Latin America. They're also great when you're drunk or high and got the munchies. This place should be so much better.",
+                "reviewer_id": "rIeiP4uuPSlYeLmikCH9VA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 7.767642643159169e-05,
+                    "positive_probability": 0.9999223235735851
+                },
+                "stars": 1
+            },
+            {
+                "review": "Great pizza by the slice, and a bargain too.  All of them are in the $2-3 range, and are large.  Carry-out only, though there are some tables outside.  I really like the crust, and the sauce/cheese combination is to my liking.  I much prefer it to Rosati's around the corner, which costs at least twice as much and takes more than twice as long to prepare!  Have eaten here too much, esp. since I am in the School of Music!",
+                "reviewer_id": "S3dhPGW9PJfK6ZuQoJhKfA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.35924258978984636,
+                    "positive_probability": 0.6407574102101508
+                },
+                "stars": 5
+            },
+            {
+                "review": "Pretty wonderful, actually. I'm not and have never been the biggest fan of pizza, but when I'm in this area of town Manolo's is the place I like to go. They have good, huge slices (the Spotted Goat is about the best thing ever) and tasty empanadas (I like the chicken + jalapeno, with sour cream for dippin'). The place is tiny, with four or five stools at a counter and a couple of spots outside. This being campus there is almost always someone extremely irritating in line with you, but whatever. If you're coming here you're just looking for good food on the cheap, not a fine dining experience.",
+                "reviewer_id": "sIbkq8m8W0ZKPdj3sdL1zg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3404958564392846,
+                    "positive_probability": 0.6595041435607248
+                },
+                "stars": 4
+            },
+            {
+                "review": "I love the idea pizza and empanadas, two of the best foods ever. However, the empanadas weren't so good. In one word; soggy. I like my empanadas freshly fried, little bundles of goodness wrapped in a crispy shell of deliciousness. I should have known when the nadas were sitting in a display case under a heat lamp.You get 2 instead of 1, because the guys working there were nice. If I get hungry I might try the pizza and reevaluate.",
+                "reviewer_id": "SP2FoYWoKUKi_vT4vgF2vA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.222177718696082,
+                    "positive_probability": 0.7778222813039208
+                },
+                "stars": 2
+            },
+            {
+                "review": "Manolo's is a small, yet popular, place on campus to get a quick bite. Their late hours and delivery option make it very convenient, but I find the prices to be too high for what you get. The pizza is pretty good and each slice is fairly large. They have a wide selection of empanadas, including vegetarian and dessert options. My favorite empanada is the chocolate brownie, and I also really like the apple and spinach mushroom manicotti ones. The more empanadas you order, the better deal you can get. You can also find special deals online or on apps like 'Hooked' that can help save you some money. Manolo's is good for a small treat and definitely worth stopping by if you are in the area.",
+                "reviewer_id": "sRoFGJ6Avpl21hMDwQPViw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 7.227983764867176e-05,
+                    "positive_probability": 0.9999277201623419
+                },
+                "stars": 3
+            },
+            {
+                "review": "In a tired and hungry stupor I stumbled in this place as I was working a show next door.  Being on a college campus, you're usually only walking distance of chains or fast food. I quickly ordered a slice of pizza and an empanada and instantly regretted it. I looked around and nearly had an anxiety attack as everyone around me is laughing and talking and laughing and talking and shoving this garbage food down their throat. It seems like class must have ended because the tiny place fills up as I'm forced to wait in the corner. I quickly lose interest in my order as I see it sitting on the table waiting to be served.  Eventually I get my lunch and sit out on the curb and take a few bites while realizing I should talk to my parents more and possibly volunteer.",
+                "reviewer_id": "T54eiI7Iqp2ApBM_8N4_OA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.017274624250709678,
+                    "positive_probability": 0.9827253757492732
+                },
+                "stars": 2
+            },
+            {
+                "review": "of all the empanadas i tried (i got the after 10pm 6 for $9 deal), the only one that really didn't work for me was the pizza pepperoni one.  Pepperoni is meant to be eaten as garnish, not as a main ingredient.And yes, i ate all 6 in one sitting -- partly because i hadn't eaten all day and because my hotel room didn't have a microwave.",
+                "reviewer_id": "tnXBNKf94bC1-cpcgnN7mw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.13933618495429703,
+                    "positive_probability": 0.8606638150457017
+                },
+                "stars": 4
+            },
+            {
+                "review": "Good place. Good pizzas. I will usually swing by and grab a slice after a show in the Canopy Club. Sometimes when I am rushing to a class without eating anything I will also drop by that place.Thin crust and gourmet style - I am a fan of deep dish but sometimes it is good to try something new.",
+                "reviewer_id": "Tp9TCjGDyDxvUuwylkyDyg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.05706379022028037,
+                    "positive_probability": 0.9429362097797191
+                },
+                "stars": 4
+            },
+            {
+                "review": "To be fair, I do know the folks that run this place.  BUT -- I would love Manolo's anyway.  I think they have a creative menu -- not standard ingredients in their empanadas and pizza.  Very large pizza slices, and they always make it fresh.  You can buy their stuff when you are in the Canopy Club, too.  I've turned several people on to this place and I truly miss it now that I'm gone.  I think it is really affordable and a nice change to the usual pizza and campus food scene.",
+                "reviewer_id": "ugPNMeR_KqMDrkZJ14X2lA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.07093187130599149,
+                    "positive_probability": 0.9290681286940063
+                },
+                "stars": 5
+            },
+            {
+                "review": "This is a tough review to write because I absolutely LOVE their BBQ meats pizza slices, but every other slice of pizza I've ever had there was an absolute waste of money, and considering the fact you'll spend over $4/slice it's definitely not worth getting anything other than the BBQ meats pizza. Some of the empanadas are pretty nice but also vastly overpriced. I go there every now-and-again for the BBQ meats pizza but refuse to spend my hard-earned money on anything else!",
+                "reviewer_id": "UO5eCeTNpnUekttaryBCNw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4927604245072107,
+                    "positive_probability": 0.5072395754927894
+                },
+                "stars": 3
+            },
+            {
+                "review": "Ok, the last few times I got food here, it was a little better. The service is still pretty out there, however.",
+                "reviewer_id": "VFO8RtZQOGOUpOxbVpMNRA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5565416469674043,
+                    "positive_probability": 0.4434583530325964
+                },
+                "stars": 3
+            },
+            {
+                "review": "I love the empanadas.  I think the Beans-n-Rice one, while simple in theory, is delicious....they add spice and seasoning to make it really delicious, yet still the comfort food I'm craving.  And the Raspberry Cheesecake one to-die-for.  My third favorite is the Potato Cheddar....simple and delicious.",
+                "reviewer_id": "vNhHiztGh3yrcqvZ5Pk5AA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5604884602122504,
+                    "positive_probability": 0.4395115397877518
+                },
+                "stars": 5
+            },
+            {
+                "review": "I stopped here after a stats exam to eat my feelings in empanadas and pizza. I recommend the Spotted Goat pizza, it's crispy and delicious after being reheated to perfection. The empanadas are very mediocre. They are tiny, but have a very thick crust (0.5 to 0.7 cm). I prefer the empanadas from a new food truck called Empanada house, where the crust is about 2 mm thick and the filling isn't dry. I had to dock it 2 stars through because the price is just too damn high ($10+ for a slice of pizza and 2 empanadas). I suggest going to Canopy Club Monday night when they sell Manolo's slices for $1. Sure it's been out the whole day, but you can drown that remorse in $1 PBRs and the sweet sounds of amateur house music.",
+                "reviewer_id": "w3K0UQHHT8Oht5eTSIAc4Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.05943705184751234,
+                    "positive_probability": 0.9405629481524894
+                },
+                "stars": 3
+            },
+            {
+                "review": "I've only had the empanadas.  2/3 of them were good.  1/3 was terrible.I have to admit I think their pricing for empanadas is surprisingly overpriced.  I had them while visiting a friend at the University who just moved there from New York.  In New York he practically lived on empanadas, which were delicious, easy to find and cheap.  2 out of three of the varieties I had at Manolo's could survive in New York based on flavor, but none of them would survive at the prices Manolo's charges.  When you're in the middle of corn country and you're outpricing New York, something's gone horribly wrong.",
+                "reviewer_id": "W9Et1PM6R9PQ9g04zgR3Rw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2387597425879341,
+                    "positive_probability": 0.7612402574120626
+                },
+                "stars": 3
+            },
+            {
+                "review": "Isn't it nice when a place redeems themselves?After walking in to grab a slice, Manolo's has been a much better food/service experience.The pizzas by the slice are on display, and you should always ask what's in the oven to round out your choices. I don't think there's too much of a difference of a pizza coming out fresh or them putting one of the slices on display back in the pizza oven to re-crisp/melt when you order.Only issue I have with Manolo's is that recently they have been underestimating the amount and types of pizzas they have on display. If you are in the area, try their new goat cheese pizza or any of the full loaded \"supreme\" type options.I don't think the empanadas are worth it still.. little bastards are too expensive to justify stuffing my face with.",
+                "reviewer_id": "wXUGRiQf9R3ypeOB6B3pSw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9734645746251254,
+                    "positive_probability": 0.026535425374882276
+                },
+                "stars": 4
+            },
+            {
+                "review": "We've ordered pizza and empanadas in large quantities from here for work events, so it's now on our list for takeout to home as well.  They don't normally deliver out to us (W. Champaign), but they did tell me that if the bill subtotal was over $50 that they would deliver out of range a little.  I usually just go down there after work to pick up our order.I've had the BBQ Meats, Chicken Pesto, and the Supreme pizzas, and all were pretty decent.  Large slice thin crust (ala NY style), and they have a LOT of interesting combinations available.  For empanadas, the Inferno Chicken is by far my favorite.  I've tried several others as well and they are just ok.   The only ones on the menu that I tried and did not like was the Potato Cheddar and Raspberry Cheesecake.  They were just a mushy mess with not much flavor.  The empanadas are not really budget-friendly if you're getting them in quantity (2-2.50 each).  I don't normally get slices, but the whole pizza are just slightly above average compared to other places in town.Beware when trying to pick up an order if there is a popular show at the Canopy Club, because finding a place to park nearby is difficult if the show crowd is around.If you're tired of all the chain places in town, this is a nice choice to change things up.",
+                "reviewer_id": "xBejh2J752GEd7fdpMXP1A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.003936708286414482,
+                    "positive_probability": 0.9960632917135896
+                },
+                "stars": 3
+            },
+            {
+                "review": "I am across the country and cannot believe how much I miss Manolo's Pizza and Empanadas!Empanadas:So many choices and vegetarian friendly! My favorites are the pepperoni pizza and bean and cheese. Stay away from the mushroom and thyme, I thought it was awful. I haven't tried their dessert empanadas: brownie and cheesecake. The san telmo anything is okay if you want more of \"meat and veggie\" taste.Pizza:The BBQ Meats pizza is why I can never become vegetarian! Imagine a super thin pizza crust where BBQ sauce substitutes marinara sauce. Then add chicken, bacon, ground beef, pepperoni and sausage. Mmmmmm....You had me at bacon.I've also enjoyed their other specialty slices.I also have to give credit to Manolo's for having great pizza crust. The thinness of it toasts so well in the pizza oven that you have to hold yourself back from inhaling the entire slice in five minutes.Ambiance:Limited indoor seating and a few outdoor seats when the weather is nice. I suggest taking your food and sitting in the Krannert outdoor theater.",
+                "reviewer_id": "XOnwygK-EerILmQSxP2K6Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0018304136835921468,
+                    "positive_probability": 0.9981695863164052
+                },
+                "stars": 5
+            },
+            {
+                "review": "For our weekly pizza delivery, we decided to try something new and got Manolo's.We opted for the largest size thin crust with half pepperoni and half sausage. We also got 3 empanadas for $6 to go with it, delivery time was about an hour, which is to be expected on a weekend. This amount of food was just enough for our group of 3 in terms of portions.The pizza was decent, definitely better than a Papa John's or similar chain. I didn't think it was anything spectacular though. If you like thin crust, this might be for you. It reminded me of Sbarro, except a little better. My issue with this pizza, and perhaps all thin crust/New York style is the lack of sauce. The sauce is so key to the flavor that often times without it your just eating a cheesy breadstick. I might have liked it more if there was a bit more sauce. The pepperoni wasn't that good, however, the sausage was unusually good, it tasted fresh and wasn't just a mushy piece of nothing, great flavor! I think I will get sausage if I order again. The crust was good, crispy bottom but edible edges.Feedback on the empanadas was a unanimous OK. I can only personally speak for the cheesecake empanada. The filling didn't resemble something you could get at The Cheesecake Factory, but it also wasn't just dried goop. Not too bad! I think the empanadas might be a really good bargain if you got a lot of them and the price was around $1 each.I have not tried any of the specialty pizzas and I may have to do that and then update my review. I will also have to try The Empanadas House for a fair comparison.Overall we thought Manolo's was just OK, we thought it might have been just a little pricey, but we were not disappointed with our food.I'll be back!",
+                "reviewer_id": "XzIKZTb4I-7wW4BjKwV2Mw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9959789215727559,
+                    "positive_probability": 0.0040210784272537775
+                },
+                "stars": 3
+            },
+            {
+                "review": "An east coast transplant to the midwest has trouble adjusting in the realm of pizza.  Deep dish is its own animal, so I won't diss it because I enjoy it.  Then there are your chain restaurants that produce a very doughy pizza that I'm okay with, but it's not what I love.  Some places around here claim they do \"thin crust\".  Rosati's, Monical's, even Dominoes has attempted the \"thin crust\", but they basically make pizza cracker. But then there's Manolo's!  Their pizza is reminiscent of what I remember as thin crust.  If you're from New England, I guess you would understand if I said their pizza reminded me of Papa Gino's.  A little greasy, but overall a delicious slice.  Their specialty pizzas are also very good.  Got the Spotted Goat (spinach, mushroom, mozzerella, gorgonzola, goat cheese, roasted garlic alfredo sauce and red sauce).  Fantastic.  If you're looking for a \"NY/Boston\" style thin crust pizza... you'll appreciate Manolo's.  It's not home for sure, but it does the trick.",
+                "reviewer_id": "yyiII7_IWT_jTTAlm8wB7g",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.00303552543876758,
+                    "positive_probability": 0.9969644745612256
+                },
+                "stars": 5
+            },
+            {
+                "review": "The Good:-The Pizza. I have only tried the Modena Veggie, but I love it so much that I haven't wanted to get another pizza yet! -The breadsticks. My friend recommended them, and I was suspicious that they could be as good as she said, but they were delicious!-The timing is great! I've ordered pizzas from other places ahead of time for advanced delivering, and the timing always seems to be 20-25 minutes off. I requested a 6:30pm delivery and it arrived at 6:25pm, which was great!The Meh:-I honestly am not a fan of the empanadas. I've tried six of them, and none of them really impressed me, and they're a little expensive for their size.- Manolo's is a little expensive. A medium specialty pizza is $14.99, but I think this has more to do with my perception of the cost of pizza, living in a college town. The pizza's are definitely worth the price though.Overall:I've had Manolo's three times, and would order again, even if it is expensive.",
+                "reviewer_id": "ZjxfO0xvmxZ7BiNUg7ejjQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.018944831674859306,
+                    "positive_probability": 0.9810551683251337
+                },
+                "stars": 4
+            },
+            {
+                "review": "Great pizza by the slice. Crispity , crunchity crust. Nice sauce . Service was fast. Had a slice before a show at the Canopy Club. Had a slice during the show.Then for good measure had one after the show. Would most definitely go back.",
+                "reviewer_id": "zwaQi9cAm7PfcXROhu5fXg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.03625831732377844,
+                    "positive_probability": 0.9637416826762216
+                },
+                "stars": 4
+            }
+        ],
+        "similar_restaurants": [
+            "zLkok9inSL4lzVoSzfpxAA",
+            "RbThUOAzsx7am1xaft29zg",
+            "-Fwt0yM17CvpDv12ld6mmw",
+            "Rj0EiZoTEHqUo_wt-MTd0g",
+            "R-0IVFEKseAL9wYgIhPy1w",
+            "KGGYlneCtF4xQT9T5eKV5g",
+            "yTlW8Xh1wPpvHBl3dGz9mA",
+            "OkNhrobZUhpybZlpHAA_bQ",
+            "MSMdhoUraQ0DLLwmLbM28A",
+            "zMN8UGd1zDEreT58OCdnyg"
+        ]
+    }
+}

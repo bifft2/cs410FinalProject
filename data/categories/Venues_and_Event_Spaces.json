@@ -1,0 +1,392 @@
+{
+    "ygZ1n-RjzZibC80NLgHauw": {
+        "keywords": {
+            "bigrams": [
+                "daughter_law",
+                "italian_beef",
+                "chianti_bottles",
+                "dining_room",
+                "family_coming",
+                "long_time",
+                "four_stars",
+                "coming_years",
+                "marinara_sauce",
+                "italian_restaurant"
+            ],
+            "unigrams": [
+                "good",
+                "place",
+                "food",
+                "italian",
+                "sauce",
+                "service",
+                "back",
+                "great",
+                "family",
+                "love"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "full_bar",
+                "Ambience": {
+                    "casual": false,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "BYOB": false,
+                "BYOB/Corkage": "yes_corkage",
+                "Corkage": true,
+                "Delivery": false,
+                "Good For": {
+                    "breakfast": false,
+                    "brunch": false,
+                    "dessert": false,
+                    "dinner": true,
+                    "latenight": false,
+                    "lunch": false
+                },
+                "Good For Groups": true,
+                "Good for Kids": true,
+                "Has TV": false,
+                "Noise Level": "average",
+                "Outdoor Seating": false,
+                "Parking": {
+                    "garage": false,
+                    "lot": false,
+                    "street": true,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 2,
+                "Take-out": true,
+                "Takes Reservations": true,
+                "Waiter Service": true,
+                "Wheelchair Accessible": true,
+                "Wi-Fi": "no"
+            },
+            "business_id": "ygZ1n-RjzZibC80NLgHauw",
+            "categories": [
+                "Caterers",
+                "Event Planning & Services",
+                "Venues & Event Spaces",
+                "Restaurants"
+            ],
+            "city": "Champaign",
+            "full_address": "115 S 1st\nChampaign, IL 61820",
+            "hours": {
+                "Friday": {
+                    "close": "22:00",
+                    "open": "11:00"
+                },
+                "Monday": {
+                    "close": "21:00",
+                    "open": "11:00"
+                },
+                "Saturday": {
+                    "close": "22:00",
+                    "open": "17:00"
+                },
+                "Sunday": {
+                    "close": "21:00",
+                    "open": "17:00"
+                },
+                "Thursday": {
+                    "close": "21:00",
+                    "open": "11:00"
+                },
+                "Tuesday": {
+                    "close": "21:00",
+                    "open": "11:00"
+                },
+                "Wednesday": {
+                    "close": "21:00",
+                    "open": "11:00"
+                }
+            },
+            "latitude": 40.1158806,
+            "longitude": -88.2389765,
+            "name": "Manzellas Italian Restaurant",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media3.fl.yelpcdn.com/bphoto/7o9FenNIb8ABokJdWFE1rA/ms.jpg",
+            "review_count": 25,
+            "stars": 3,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "There is nothing here that isn't done much better at other Italian places in town. Overall, this is a great place to take a date or for a family gathering and I love that it's been around for such a long time. There is nothing good about this place. ",
+        "reviews": [
+            {
+                "review": "Short review- I've been going here since I could drive when this was one of the few games in town that served only Italian. Unfortunately nothing has changed since the good old days and I feel there are some definitely in need. We were greeted with the typical tepid response from mama Manzella once she realized we were there and taken to our table with little more than a word offered. My wife an I ordered our meals, veal parm for me and fettuccini alfredo for her. The salad that came with our entree's were swimming in water (I can assume it wasn't the dressing that was that watery) that they apparently forgot to wring out of the lettuce. There were a few raw onion rings and a roma tomato slice or two scattered on top of of a haphazardly put together bed of iceberg lettuce. The entree's came with little fanfare, my wife reported that her alfredo was on the low end of quality from what she has had in other establishments and my veal was tough and smothered in cheese which pretty much masked any other flavor lying beneath it. The spaghettini that I got as a side seemed to be covered in some sort of jarred sauce (Prego, Ragu?). There was tons of pasta on the side, more than I could ever consider finishing and the veal was borderline too much. I would think with the prices they charge, they could up the quality and cut on the portions and make it a trade off monetarily.  All in all I don't know what we will ever go back. I really want to like this place and I would REALLY like to support a local town staple but I'm not going to pay good money for that. Sometimes it's good to reinvent oneself and their quality and menu could use a big makeover. I am in hopes the owners eventually make me want to return.",
+                "reviewer_id": "38rvarCrnlmAvungUKUPRQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0022654366774390515,
+                    "positive_probability": 0.9977345633225484
+                },
+                "stars": 2
+            },
+            {
+                "review": "Place has went WAY downhill. Dining room was dirty, service was awful. Had to ask multiple times for drink refills every time someone needed one. Asked for crackers with soup, server brought us one pack of 2 saltines. Others in our party asked for crackers as well so she brought another 2 saltines. Food sucked. Ranch dressing on salad is clearly watered down. Ravioli was clearly frozen and not made fresh. Marinara sauce tastes like its from a jar and is watery. Alfredo sauce had NO flavor, no saltiness, cheesiness, garlic, nothing. Just tasted like cream. Entrees were $15 each and we left still hungry because of small portions. Paid $4 to have meatballs added to entree and got 2 meatballs. There is nothing good about this place. Won't be going back. Ever.",
+                "reviewer_id": "5l7JlcUkgzf15XTPvutdHg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.19833233585675122,
+                    "positive_probability": 0.8016676641432536
+                },
+                "stars": 1
+            },
+            {
+                "review": "Go there for the pizza!  To be honest, the rest of the food is slightly better than mediocre, but the pizza is by far the best in town.  For reference, I grew up in the Chicagoland area.  I'm not a deep dish fan; I'm more fond of the Chicago style hand-tossed (medium crust).  Manzella's pizza is a little on the thinner side, but the crust is very good nonetheless.  I think it's more Chicago-like than Rosati's (and better too).  If you miss your hometown pizza, then this one will serve you well while away at school.",
+                "reviewer_id": "64O6x3uS69bGVTw7HNyZRA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0054015432125884034,
+                    "positive_probability": 0.9945984567874095
+                },
+                "stars": 5
+            },
+            {
+                "review": "My family has been coming here for years.  I remember having my Little League banquet here when I was 11 or 12.  Thinking back, it was kind of a dump then, and it is a dump now.  There are two dinning rooms, and an old carpet that looks like it is older than me.  They have those old Chianti bottles (the cheep kind) hanging from the ceiling.  Cheesy looking maps of Italy hung everywhere and mounted in the glass of the tables.  This place has not been updated since the 70's, and it shows.  Still surprisingly welcoming after all these years.The service is fast and friendly.  Though, considering not many people come here, I think they are just happy when a party walks in.  Food comes out quick as well.The food is that over stuffed cheese and sweet marinara sauce faux Italian that is found all over the country.  Manicotti is bland, except for the overly sweet sauce.  For an app we had fried ravioli.  Which was OK.  The pizza, again OK.  An overly garlicy crust.  Canned sardines, the pasta is probably not freshly made.  An average wine list, crap beer list.Saying all that, this place still has a special place in my heart.  Years of coming here as a kid and with family makes this worth the nostalgic visit every once is a while when I come back to visit the family.  Though I wish Dom's was still open...",
+                "reviewer_id": "aF4FWUbU0Tq6jH0FZKSQlw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.10540765557946484,
+                    "positive_probability": 0.8945923444205431
+                },
+                "stars": 3
+            },
+            {
+                "review": "This place is ahh mazing!! The boy Eddie that works there is so sweet and nice and cute. He washes the dishes but told me that he doesn't wash his hands so.. Only four stars.",
+                "reviewer_id": "AVaHoWjKbo54lWbflaCxEQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.15950707449078586,
+                    "positive_probability": 0.8404929255092133
+                },
+                "stars": 4
+            },
+            {
+                "review": "I think I've only actually set foot in this place one time, and as I recall, it's pretty cozy.Whenever I come back home and stay with my family, we always order delivery from here and it's consistently good. The pasta is pretty well made and the sauces are simple, but delicious and hearty.",
+                "reviewer_id": "BvGV9lMMUmB5hLWkNlY3vw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.08879100457920575,
+                    "positive_probability": 0.9112089954207921
+                },
+                "stars": 4
+            },
+            {
+                "review": "At 7 pm on a Saturday night, this place was, at best, maybe 1/4 full, not a great sign in itself-we waited about 5 minutes before a staff member came by and said \"someone should be with you soon\". Five minutes later, \"someone\" came by and seated us, not at one of the several available spacious booths, but at a small card table near the kitchen. We had to ask for water, which didn't come until much later. When our soup came, we had to ask for crackers-one package to split between the two of us is all we received. I decided to go all out and ask for my very own package of crackers and one package containing two saltines is exactly what I received. Generally, in an Italian restaurant, garlic bread with olive oil and Parmesan are brought with your appetizer. Nope. Supposedly, you had a choice of either garlic or regular bread with each meal, but when our meals came-no bread. We finally asked for and were given exactly one slice of bread each. Ok, let's talk about the meal. I had been going to this place for decades, and I have always ordered the same thing-half ravioli, half spaghettini. I started to inquire about this, and this random woman cleaning a table behind us chimed in quite loudly and aggressively \"we can't do that! That just isn't possible!\" Um, why would that be, exactly? It was \"possible\" the many other times I've been there, and, as both items are still on the menu, one puzzles over why this would suddenly not be \"possible\". Most business establishments realize that making their customers happy is not only good business, but a nice thing to do. But, ok, message loudly and clearly received. I picked the spaghettini and added meatballs. We placed bets on how many meatballs close to $5 extra would buy you at Manzella's. I bet 2, and I guess you could say I won if 2 meatballs for nearly $5 is winning-not sure I do, actually. Of our meals, mine was the most edible, and it tasted like a $20 bowl of Chef Boyardee spaghetteos. We all drank water, which we did have to ASK for and wasn't brought until our meal. I guess that's a good thing, and I wish we had drank it more slowly because that one glass was all any of us ever got. My pregnant daughter-in-law was trying desperately to get extra drops out of the glasses she was so thirsty, and my son gave up trying to get a refill. They were t exactly busy but, ok, whatever. By this point, we pretty much knew what the answer was going to be to this next question, but what the heck-we were there specifically because my son's birthday was a few days ago, and my daughter-in-law's is a few days away-this was turning out to be quite the birthday celebration! BIG shocker here-No, Manzella's could give a hot damn that you chose their establishment to celebrate your birthday in-no free cake (or even an extra package of saltines or a refill of that water you had to ask for!) So then the bill comes. My daughter-in-law had asked for Alfredo sauce to be substituted on her pasta dish. By this point, I'm fully expecting a pretty healthy up charge for that, although we weren't advised of it ahead of time. I mean, this entire thing, from walking in the door to paying the bill and never coming back had been so relentlessly mediocre at best, I really didn't think they could surprise me anymore. Then, I looked at the bill. And yes, there was an up charge of about $3.75 to switch the sauce-AND another $15.00 for a dish we didn't order, written right underneath the dish she DID order-with the up charge listed below it, then, apparently, the dish that would normally have come with the sauce she asked for, we were charged for too, but of course never asked for or received! If the good had been great, or the service out of this world (in a good way), maybe that would have mitigated some of the overall unpleasantness of this entire experience. Not a single one of us had a good meal, and we truly aren't picky or high maintenance. I've been a waitress, my sister is a waitress, I still work in customer service and know what people can put you through. We aren't complainers, we don't send food back if it's not perfect. My daughter-in-law's salad dressing was full of watery substance, my sauce was runny, and my son's ravioli was half cold, and we never sent anything back or asked for better, we just tried to eat as best we could and get out of there, agreeing that we'd never go back nor would we recommend it to anyone we didn't hate. This used to be a pretty good place to get a delicious meal at a decent price from friendly and attentive staff. Sadly, none of that is true now. By 8 pm, as I sat here trying to write this, the parking lot was completely empty on a Saturday night, so I don't really think my review is really much of a surprise to anyone.",
+                "reviewer_id": "BzeSJ-tLtYjHHMlsxQBszg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 6.59175759604303e-07,
+                    "positive_probability": 0.9999993408242197
+                },
+                "stars": 1
+            },
+            {
+                "review": "Had lunch there on a rainy day. The light was dark so I did not enjoy eating there. The food was just so-so. No much choice on the menu. Don't know if they had another menu for dinner.",
+                "reviewer_id": "C74BJGf0RuKdYKxjm7SDuQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4119397526168309,
+                    "positive_probability": 0.5880602473831682
+                },
+                "stars": 3
+            },
+            {
+                "review": "Restaurant hasn't changed in more than thirty years and is very dated. The food is generally good, and service is average.",
+                "reviewer_id": "enreTB85zV-NVZ30c-3-_A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.34796912625020754,
+                    "positive_probability": 0.6520308737497926
+                },
+                "stars": 3
+            },
+            {
+                "review": "Back in CU for the holidays....boy were we disappointed. Used to love thisplace..but really gone down in quality and service. Ordered the Antipasto, which I used to enjoy when Frank was there....I got a place of lettuce with a few packaged pepperoni and NO KALAMATA olives or any type of olive at all...no pepperchoni, ,,,9 dollars and change. Absolutely terrible. Pasta was cold...Service was slow with few customers...would not be surprised if this  place closed soon. If youthink this s the ld MANZELLA..forget it...not as good or even close to what it used to be!!!!!",
+                "reviewer_id": "HaI9Cxe3P5bE_ByfmnrktQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7971550729609489,
+                    "positive_probability": 0.2028449270390475
+                },
+                "stars": 2
+            },
+            {
+                "review": "This is the real deal - a little Italy in itself.  Dimly lit, checkered tablecloths, comfortable booths and Chianti bottles hanging from the ceiling.  Romantic, a popular Valentine's Day destination.  One of our favorite places in Champaign.  I love the chicken capperi - the wine sauce is incredibly delicious.  Nice service.  Save room for dessert.",
+                "reviewer_id": "HANb8-8InWnju-XzBQQSBw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5476933399344428,
+                    "positive_probability": 0.45230666006555786
+                },
+                "stars": 4
+            },
+            {
+                "review": "An acceptable little Itali-American place. I give it four stars rather than five because a lot of their food is clearly not made \"in-house.\" If it seems awfully familiar, it is likely it was shipped in from one of the many companies that supplies ready-made entrees. But it has a nice atmosphere and overall the food is satisfying, so I still recommend it for dates or family outings.",
+                "reviewer_id": "HqaXK9toBpQdcz-0-rVwKw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.05046046539946153,
+                    "positive_probability": 0.9495395346005427
+                },
+                "stars": 3
+            },
+            {
+                "review": "One of the few places you can get really good, non-chain store, food anymore.  Everything on the menu is delicious and the service is usually very good.  My favorites are the Pizza,  Italian Beef,  Lasagna,  and Spagettini with meatballs.  The meatball sandwich is great too.",
+                "reviewer_id": "HvsHugcGph3IbLhnrM4c4Q",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.506937479919305,
+                    "positive_probability": 0.49306252008069745
+                },
+                "stars": 5
+            },
+            {
+                "review": "I love Manzella's! My family and I have been coming here for years and usually celebrate my b-day here!  The vibe  inside is very cozy and old school- red pleather booths, wine bottles lining the walls, pictures of Italy, etc.  I really like how this is a family-run restaurant and they are always there working and attending to customers.  In addition, the prices are very reasonable and the staff is really friendly! 99.99% of the time, I order the cheese manicotti with meat sauce and it's huge- definitely large enough to share!   I usually  take at least 1/2 of it home for later.  The pizza is awesome too!Overall, this is a great place to take a date or for a family gathering and I love that it's been around for such a long time.  The food and service are great and consistent! :) PS:  For those cold, snowy nights, they also deliver!",
+                "reviewer_id": "k_cDemzIDkm44br8pCVQfw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.00016609694654466057,
+                    "positive_probability": 0.9998339030534626
+                },
+                "stars": 4
+            },
+            {
+                "review": "Amazing lasagna with terrific atmosphere.",
+                "reviewer_id": "M1ZvJChPtDzWorxS23MBdA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.20217994628469105,
+                    "positive_probability": 0.7978200537153088
+                },
+                "stars": 5
+            },
+            {
+                "review": "I loooooove this place! Very nice with a cute, homey, warm, dining room. Place has been around a very long time so don't expect it to be have an updated and elegant look. Always nice friendly service. Love the ranch salad dressing! Everything on the menu is yummy.  My boyfriend loves the Italian Beef sandwich and it comes with a large basket of warm crinkle cut fries that I help myself to.  I usually get the cheese filled ravioli and they are superb! Bread served with oil and parmesan cheese. They have a large dining room to the side for very large parties and celebrations. I have never had a bad meal or experience here. My boyfriend and I love it.",
+                "reviewer_id": "MYM-tSDMaaYTo8OAdyeA1A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.17642125028805053,
+                    "positive_probability": 0.8235787497119518
+                },
+                "stars": 5
+            },
+            {
+                "review": "Ana's review is spot-on. There is nothing here that isn't done much better at other Italian places in town. Only the fact that this place is so cheap keeps it afloat. This is the Boyardee, (as opposed to the Boiardi) type of Italian food. Its Italian for people who pronounce it \"Eye-talian\", without a hint of irony and think of garlic and basil as ethnic spices.1 star for the food and campy decor, 1 star for the prices that make a step towards redeeming it.",
+                "reviewer_id": "NGX1PZwHET_oQOT7vkkxag",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.05373486458336109,
+                    "positive_probability": 0.9462651354166352
+                },
+                "stars": 2
+            },
+            {
+                "review": "I am glad to know that one of the old Italian Restaurants from my youth still exists in Champaign. With Dom's gone and Mennechi's under new ownership, this seems to be the last hold-out against the cookie cutter Italian Restaurants. And I love it.",
+                "reviewer_id": "qvZ8IGmwOTGB1-iXYxiRDg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4332956833466151,
+                    "positive_probability": 0.5667043166533862
+                },
+                "stars": 4
+            },
+            {
+                "review": "This is what I imagine the early Italian-American restaurants were like... Green can parmesan, Prego-like sauce, and supermarket quality dried pasta, enhanced by the decor of red-checker tablecloths and the chianti bottles. I ordered the linguine with white clam sauce. It was very brothy- notably lacking in garlic, or some kind of acid (lemon or white wine), and salt. All I want are fresh ingredients, toothsome pasta, and freshly-grated Parmigiano-Reggiano... For most people this will probably fit the bill, mediocre Americanized red-sauce Italian but if you are like me, and make your pesto, marinara, and Alfredo from scratch, this isn't worth a trip.",
+                "reviewer_id": "r8AulMAwAIrVrdJGHQcllA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.10739227964323046,
+                    "positive_probability": 0.8926077203567672
+                },
+                "stars": 3
+            },
+            {
+                "review": "If you're looking for something a bit more upscale than Za's on campus and Biaggi's is out of your price range, Manzella's is the place to go. The portions are big but are slightly pricey. They have a small menu but their speciality is a \"make your own\" past dish. They also have a handful of baked pastas which I found to be good as well.",
+                "reviewer_id": "SKhnKL9P9-LrUWzsw9oYNA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.07339968174920422,
+                    "positive_probability": 0.9266003182507994
+                },
+                "stars": 4
+            },
+            {
+                "review": "I'd really say its about 2.5 stars. It wasn't horrible but it was definitely forgettable.The place smells dirty. Greasy old restaurant carpeting dirty. The decor is 70s kitschy, and that's okay. But the real reason I go out is for good food and to be served.I thought the prices were high for the food quality. $12.95 for spaghetti? Really?  The tomato gravy was okay. Thick and sweet. It would be good on pizza. But they don't use enough mozzarella in their various dishes, garlic seems largely absent, and the food was tepid. (I had the baked lasagna.)When we arrived it wasn't busy, but the service was sub par. Then the restaurant filled up and the service was non-existent. It's a pity too, because I love independent, non-chains and try to frequent those establishments. But frankly, next time, I'll go to the Olive Garden.",
+                "reviewer_id": "u5qew8nK6KT5lHYw0efxyg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.1059167530262505,
+                    "positive_probability": 0.8940832469737496
+                },
+                "stars": 2
+            },
+            {
+                "review": "A good classic italian spot, but hardly anything special.  Prices are good, food's good.  Everything's good.  But nothing's great.  It's a great choice when you're in the mood for well-priced italian, though.",
+                "reviewer_id": "UHgo14XWliFG-hQrhNnSMg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.022851056044221035,
+                    "positive_probability": 0.9771489439557793
+                },
+                "stars": 4
+            },
+            {
+                "review": "Food was overpriced and not that great. Slow service wouldn't even refill my drink. Interior is dingy and the tables were sticky I would not recommend this place.",
+                "reviewer_id": "v1OkcKeo-C6npKSZ1SH6fw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7868649875271753,
+                    "positive_probability": 0.21313501247282599
+                },
+                "stars": 1
+            },
+            {
+                "review": "Went here with my girlfriend. We both agreed it was good not great. Food is about what you'd expect from a central Illinois Italian restaurant. The atmosphere is a bit dark and dated, but the staff was very friendly.",
+                "reviewer_id": "WNHdPOky5_iBsYvBMTzPUQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0888604209025849,
+                    "positive_probability": 0.911139579097413
+                },
+                "stars": 3
+            },
+            {
+                "review": "Get the Italian beef sandwiches",
+                "reviewer_id": "XWSxvgoZx_nkqejRboxWvA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6246874479079845,
+                    "positive_probability": 0.3753125520920151
+                },
+                "stars": 3
+            }
+        ],
+        "similar_restaurants": [
+            "vDnXB_JPHvzFLKfYxub-XQ",
+            "2SycDjGWWpFs1ODL-YBoHA",
+            "NMGkgrTGyNVAA5mnwYL5Ig",
+            "Z8EGaOokvK2hoD6tGup0MA",
+            "BikDzi8YhQkTJP_nAGOEUA",
+            "562AuYjOuZwtTbS1UYhY6Q",
+            "umq8alp-uLf3hXnpSC99WA",
+            "_dOcOVjrFcIKbMWX1VTdBA",
+            "qRgEy-m4sejzTKphIFKFkw",
+            "UBriZt4m5BzkvNqnCeuGmw"
+        ]
+    }
+}

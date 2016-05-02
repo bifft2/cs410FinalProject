@@ -1,0 +1,998 @@
+{
+    "BikDzi8YhQkTJP_nAGOEUA": {
+        "keywords": {
+            "bigrams": [
+                "corned_beef",
+                "fish_chips",
+                "pot_pie",
+                "bread_pudding",
+                "irish_pub",
+                "chicken_pot",
+                "irish_nachos",
+                "mac_cheese",
+                "food_good",
+                "going_back"
+            ],
+            "unigrams": [
+                "food",
+                "good",
+                "place",
+                "irish",
+                "great",
+                "time",
+                "service",
+                "back",
+                "beer",
+                "pub"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "full_bar",
+                "Ambience": {
+                    "casual": true,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "Caters": true,
+                "Delivery": false,
+                "Good For": {
+                    "breakfast": false,
+                    "brunch": false,
+                    "dessert": false,
+                    "dinner": true,
+                    "latenight": false,
+                    "lunch": false
+                },
+                "Good For Groups": true,
+                "Good for Kids": false,
+                "Has TV": true,
+                "Noise Level": "average",
+                "Outdoor Seating": true,
+                "Parking": {
+                    "garage": true,
+                    "lot": false,
+                    "street": true,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 2,
+                "Take-out": true,
+                "Takes Reservations": true,
+                "Waiter Service": true,
+                "Wheelchair Accessible": true,
+                "Wi-Fi": "free"
+            },
+            "business_id": "BikDzi8YhQkTJP_nAGOEUA",
+            "categories": [
+                "Irish",
+                "Restaurants"
+            ],
+            "city": "Champaign",
+            "full_address": "301 N Neil St\nChampaign, IL 61820",
+            "hours": {
+                "Friday": {
+                    "close": "02:00",
+                    "open": "11:00"
+                },
+                "Monday": {
+                    "close": "02:00",
+                    "open": "11:00"
+                },
+                "Saturday": {
+                    "close": "02:00",
+                    "open": "10:00"
+                },
+                "Sunday": {
+                    "close": "02:00",
+                    "open": "10:00"
+                },
+                "Thursday": {
+                    "close": "02:00",
+                    "open": "11:00"
+                },
+                "Tuesday": {
+                    "close": "02:00",
+                    "open": "11:00"
+                },
+                "Wednesday": {
+                    "close": "02:00",
+                    "open": "11:00"
+                }
+            },
+            "latitude": 40.1190386,
+            "longitude": -88.2438816,
+            "name": "Dublin O'Neil's",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media3.fl.yelpcdn.com/bphoto/PCviMGEmetSSLmHogn1bZA/ms.jpg",
+            "review_count": 95,
+            "stars": 3.5,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "The food was not very good. The food is great. I have been to this place about 7 or 8 times now. ",
+        "reviews": [
+            {
+                "review": "We were told it would be twenty minute wait. It was an hour. Food is fine but they need to be more up front on the wait time. It got better, there was food stuck to the menu and one of our party was served tea in a glass with a crack.",
+                "reviewer_id": "-cRfRNICuCuNptHtJLl78A",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7842326544885997,
+                    "positive_probability": 0.21576734551140053
+                },
+                "stars": 1
+            },
+            {
+                "review": "I will start with the service was excellent. We had a new waitress who was training,  and she was still great at it. As for the food. My group ordered the irish nachos. They were yummy,  but the topping to chip ratio was off  they need to layer some cheese lower, cause the one they use hardens fast, so it's hard to get a bit on each chip. The amount of corn beef could have been slightly more, but it tasted great.My irish breakfast however was a mess. My eggs were burnt, I ordered them sunny side up, and the yolks while runny, we're starting to get that white film over them from being cooked to long, the bottoms were brown and the edges were brown and crispy, I mean this was something that was so obviously wrong. The bangers (sausage) were a bit to vinegary for my taste, and again one was a bit burnt. The tomato was only a few slices and they were super over seasoned,  all I tasted was a super spicy tomato, they need to hold off on that a lot!. The white and black puddings were tasty. Their rashers also had a burnt taste to them and they were super tough. They look like they had been cooked over a grill,  it made them taste almost exclusively of charcoal.  The roasted potatoes... well they turned out to be french fries (super disappointing)  and the irish soda bread had had a great flavor but was also super dense.",
+                "reviewer_id": "2fJBtUVqTrSZdczLBlOoJQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.004756653707475406,
+                    "positive_probability": 0.9952433462925305
+                },
+                "stars": 3
+            },
+            {
+                "review": "We came here for NYE '13 dinner. About halfway through our dinner, a country/folk? band started performing extremely depressing songs. not my idea of new years cheer. The food was awesome! I loved every bite of it! Our waitress asked us to order the specials since they were competing to sell the most. I thought that was unprofessional and uncomfortable. All four of us ended up getting a special, but not because she had requested it.The ribs were to die for. the meat was tender and the truffles/ mushrooms were cooked well. I don't know if this special will be offered again, but if it is, i highly recommend it.Minus a star because they won't make an irish coffee. My bf ordered one and they would only serve him one of their fancy drinks. how hard is it to put whisky into coffee at a restaurant with a bar?",
+                "reviewer_id": "2g4y_xXf_tddha1oS8TcTg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.14053553565255372,
+                    "positive_probability": 0.8594644643474447
+                },
+                "stars": 3
+            },
+            {
+                "review": "Went for the Sunday brunch with my bf... Got the omelet and the bailey's French toast... It was so delicious! Different from the regular brunch menus around town. I like.",
+                "reviewer_id": "3hWvdEFSVW_-aSI2FvDDEQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3561034424672702,
+                    "positive_probability": 0.6438965575327293
+                },
+                "stars": 5
+            },
+            {
+                "review": "Better than I expected judging from decor and crowd. Corned beef made in house and kind of fatty but tasty. warning: it looks like thinly sliced lunch meat so if this will bum you out excessively skip it.  Also, skip the shepherd pie. Nothing but my lamb chunks under a layer of mash.",
+                "reviewer_id": "4omuU-xWbf3ty7vrMfbP3Q",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.999949235226241,
+                    "positive_probability": 5.076477376808979e-05
+                },
+                "stars": 4
+            },
+            {
+                "review": "First time here on a Sunday night, love irish fare so looking forward to it.  Shepard pie is lamb as it should be and wife rated as 'OK'  /  I had a favorite 'Bangers & Mash' and would eat them again.  Beer selection was good as was the service.   We will be back.",
+                "reviewer_id": "5Been7LfMV9GKBSqABGScA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6526796159026582,
+                    "positive_probability": 0.3473203840973408
+                },
+                "stars": 4
+            },
+            {
+                "review": "We have been do Dublin O'Neil's several times now and its becoming one of our favorite places.  We love the irish nachos, bangers and mash and chicken pot pie!  The service is always good and we love to put a penny in the wall each time we are there.",
+                "reviewer_id": "62LCqQH8rYzk_Q2EYvMTmQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.42869484539886243,
+                    "positive_probability": 0.5713051546011424
+                },
+                "stars": 5
+            },
+            {
+                "review": "Top o'the 'go-to' places to dine!  Pub salad / curry veggie soup and soda bread was best!  Plenty of charm and great service. Entire menu is delightful - as was the staff.",
+                "reviewer_id": "6Gr83whHbqxVeOxYhZ3qjg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.05798043324142076,
+                    "positive_probability": 0.9420195667585788
+                },
+                "stars": 5
+            },
+            {
+                "review": "I don't know anything about how authentically Irish the food, decor, or general ambiance is.  What I do know is that ALL of the meat in this restaurant is sourced locally, and is pastured - in the case of the beef, it's 100% grass-fed.  As someone who will ONLY eat local pastured meats, and therefore is limited to vegetarian or pescetarian choices in restaurants, this is an AMAZING gift!  To be in a restaurant that goes out of its way to use these kinds of meats is phenomenal.  To all those who complain about the prices - I guarantee you they are VERY reasonable for this kind of meat!  ...and worth every penny, as far as I'm concerned.  They also use these great paper to-go boxes instead of styrofoam.  I'm thrilled to support any business that goes that much out of its way to support the environment and other local businesses and small agriculture.As far as the good goes, what we had was awesome.  A couple of Irish coffees (one traditional, one Baileys) to get us warm after coming in from the cold weather, an appetizer of Irish nachos, and entrees were fish-n-chips and shepherd's pie... after the food was so fabulous, we had to try the desserts, even though it meant taking a lot of it home in the aforementioned boxes.  The flourless chocolate cake was good, and the bread pudding was amazing.We went mid-afternoon, so I can't speak to the crowds, since there weren't any.  The waitress was awesome.  The food was slow, as someone else mentioned, but we were warned ahead of time that it was all made fresh-to-order, so we were already prepared for that.All-in-all, I highly recommend it, and we'll definitely be going back!",
+                "reviewer_id": "6ihrMrm-N1YNbBpYD1CafA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 1.972574624558535e-05,
+                    "positive_probability": 0.9999802742537578
+                },
+                "stars": 5
+            },
+            {
+                "review": "Second time visit.  First time was soon after they opened. Good beer selection,  but VERY poor value. Had fish and chips for $15 and the serving size seemed to be half of what we got last time.  Fish and chips were ok quality.  Service was good, but both my wifes burger and my fish and chips left a lot to be desired.",
+                "reviewer_id": "6lLTQ5Vl5983Di-8sa-IsA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6493817679727036,
+                    "positive_probability": 0.3506182320273004
+                },
+                "stars": 2
+            },
+            {
+                "review": "My friends and I came in for an early dinner at 5:00 p.m. on a Friday.  We put in our names and hung around for 50 minutes, enjoying drinks and appetizers at the bar before being seated.  Even with a few tables opening up in the patio with the nice weather, this place is cramped and claustrophobic.  By the end of the meal, we had people's butts bumping into our faces as there was only standing room and we were seated at a table of normal height.Probably one of the loudest bars I've visited in Champaign.  It's not that they blast music at obnoxious volumes, but the acoustics of the room amplify people's voices into a deafening jargon.  I was screaming in my friends' faces for most of our meal.  I guess I would recommend this place if you have hopes of getting cozy and face-to-face with a date.Food was hit-or-miss for me.  The menu claims that their meat products are sourced from local farms (though I didn't inquire further).  My friends and I shared an appetizer of sweet potato chips, which had a nice dusting of curry powder on top.  For dinner, I had the fisherman's stew: the seafood was nicely cooked, but I didn't bother finishing the tomato broth, which was overpowering and somewhat jarring with the delicate seafood.  Since 50% of the bowl is filled with shells of various sea creatures (as you'd expect from ordering anything with mixed seafood), it makes a pretty light meal.  My friend absolutely loved the corned beef and cabbage, which was hearty and robust (I saw many plates of this popular dish being passed around the restaurant).  The dish is a little more refined than traditional corned beef; Dublin O'Neil's uses red cabbage and kale mashed potatoes in place of the usual boiled veggies.  Another friend said he always comes on Friday for the lunch special: meatloaf with some kind of spicy sauce concocted in the restaurant next door (301 Mongolia).Drinks are very much on the affordable side, with every 20-oz. draught around $5.  There's also quite an extensive list of bottles and spirits, though given the competition between bars in town, it probably doesn't have the most absurdly obscure things.  I felt like the Irish theme here was kind of forced and contrived, but I appreciated that the bartender knew how to make and serve a snakebite (snakebite = 1/2 Harp Lager + 1/2 Magner's Cider).  This is the perfect summer beverage, and I'll be stopping by Dublin O'Neil's over the next few months solely for this drink.",
+                "reviewer_id": "6nqakbu2zU6fjOmbE83_-A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 1.0720526842865978e-06,
+                    "positive_probability": 0.9999989279473462
+                },
+                "stars": 3
+            },
+            {
+                "review": "I have a mixed opinion on this place.  I've been there a couple of times for lunch, but never dinner.  I find the place reasonably priced, and the meal portions quite large (aka, that's a good thing.)  I've had a chicken pot pie, and some other chicken meal.  It was like a grilled chicken sandwich.  Both were very large portions, and are heavier feeling going down.   This is rich, savory food.  Anyway, my chicken pot pie was good, though took long to come out.  About 40 minutes and it wasn't too busy.  My chicken breast sandwich came out sooner, but I had to send it back because it was not done in the middle.  Fortunately it came back better, and I avoided any possible food sickness.  Service was always friendly, but not always fast.  Waits were on the longer side, even on non busy days.  I also had a friend that did get food sickness from some seafood dish from one of the two times I went.  All and all, not my type of place, but what I experienced was not bad.  I hear the bar/pub scene of this place is of more appeal than the food, but I only have gone for the food.",
+                "reviewer_id": "7JQ8n15WeW4D5AnNulQOCQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.900036921444268,
+                    "positive_probability": 0.09996307855572396
+                },
+                "stars": 3
+            },
+            {
+                "review": "Good food, good service. I stumbled in on a brisk afternoon, hungry & ready for something tasty. It wasn't busy or loud (which it sometime is) on this lazy Sunday afternoon. I started with Carlow O'Hara's Irish Stout (one of the many beers on tap, $2 for 7oz) and Scotch eggs ($5). Both were fantastic. My server recommended the carmelized salmon ($17), which was so delicious paired with Gouda mac N cheese and a wine reduction sauce. Dessert was bread & but pudding ($7), a crusty-gooey banana bread pudding with cinnamon ice cream & caramel sauce. So good! I biked there so I was thirsty. My glass was empty often & my server may have struggled to keep it filled. Overall: relaxing afternoon, delicious meal, good beer, good service. I recommend going when it's not too busy. As for the tab, it's not campus pricing (read: cheap) but the food is many steps above the cheap thrills of campus nosh. This is a place to treat yourself to a nice meal.",
+                "reviewer_id": "8O97RbJ486J3qQVOq98Obg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0022913258636206232,
+                    "positive_probability": 0.9977086741363979
+                },
+                "stars": 4
+            },
+            {
+                "review": "Today was the third time I've visited Dublin's.  All three times I've had the seafood chowder, which is beyond amazing.  It is so tremendously rich, though, that it makes you a little sick the rest of the day!I've had the fish and chips, which were ok.  They desperately needed seasoning--and everyone I've spoken to who has ordered it since is in agreement on that.  The curry sweet potato chips are wonderful!  Today, my sister and I split the grilled cheese which I didn't particularly like at all.  It was more toasted than grilled with butter and it was pretty much burned on both sides.  My sister tried to order a beer listed on the draft list--they were out.  She tried to order a backup--they were out of that too.",
+                "reviewer_id": "9ARfyGh_IaBn-QOLyMnZDw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0015915543297276558,
+                    "positive_probability": 0.9984084456702768
+                },
+                "stars": 4
+            },
+            {
+                "review": "I've been here a few times, and the first time I was pretty happy. They weren't very busy, and we were in and out quickly. However, the next 2 times were just awful. The second time I went the waiter knew about TWO of the beers on the menu. If you're going to carry an extensive beer list, especially with specialty beers that people may be unfamiliar with, PLEASE have a knowledgeable staff. My fish and chips were soggy and I was generally disappointed. Because my first experience was good, I decided they might have had an off day. I gave them another shot, and after an EXTREMELY long wait for both our table and our food, I ended up with a lovely case of food poisoning. From reading other reviews, this isn't an uncommon occurrence. This place had great potential, but poor service and food safety killed it for me.",
+                "reviewer_id": "_pVkPU-kY9Wea6RXhGAYhg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0008700669797799562,
+                    "positive_probability": 0.9991299330202229
+                },
+                "stars": 1
+            },
+            {
+                "review": "I went back last night for some late night food and drinks after a movie, and need to update this a bit.  The food and drinks are great.  Seafood Chowder and potato pancakes with smoked salmon are amazing.  I am addicted to their steamed mussels.  The food is still excellent.  Enjoyed some Two Brothers on tap, Baily's and Coffee for my buddy, and they had an Irish like folk band playing that was really good.The service was horrific.  There might have been two other full tables besides us, along with just two or three people at the bar.  The place was not packed at all.  It was damn near impossible to get served.  The waitress would not even look at us most the night.  I don't know what happened?  During a nearly full lunch hour, the service was spot on before.  We could not even get our bill after asking several times.  Really, you guys don't want to get money for the meal and drinks?  OK, fine with me.  We ended up just putting some cash on the table and left.  I am thinking of taking off another star.  Though the food, vibe, and drinks was still excellent.",
+                "reviewer_id": "aF4FWUbU0Tq6jH0FZKSQlw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7908248889476159,
+                    "positive_probability": 0.20917511105237507
+                },
+                "stars": 4
+            },
+            {
+                "review": "I wish I liked it more, but the only thing to get here is their mac and cheese. The food is just nothing to write home about in my opinion. Also, I was a bit annoyed that they wanted me to pay to sample a beer. Seems like that cost could be wrapped up in the beer price. Who knows though, you might love it!",
+                "reviewer_id": "amxtfaoqV0JEwbJUFeCyLg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8722057778033635,
+                    "positive_probability": 0.12779422219663705
+                },
+                "stars": 3
+            },
+            {
+                "review": "Walking in, you think of a true Irish pub with brick walls, black tables, a welcoming bearded Publican, and a cozy atmosphere. We went for lunch it was decently packed. I had the boar sausage sandwich. It was packed with juiciness and gamey flavor of the boar interrupted by the occasional fennel. It was very well done and made in house. I also tried their bread pudding dessert- also delicious and not too sweet.",
+                "reviewer_id": "aX8hmnedCsrLJ7HmD8hwvQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7577274698610269,
+                    "positive_probability": 0.2422725301389688
+                },
+                "stars": 4
+            },
+            {
+                "review": "Visiting Champaign on business and stumbled onto this great Irish pub.   First of all the decor is very traditional Irish.  Second & more importantly is they call a Snakebite a Snakebite, not  Black Velvet or one of the other abominations.  I ate before I found this gem, so no food for me.  I'll eat the next time I'm in town.   Juan was great too.Slainte!",
+                "reviewer_id": "BeCFi0Q28yodiu7XNLQu0w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.02289628666569376,
+                    "positive_probability": 0.977103713334308
+                },
+                "stars": 4
+            },
+            {
+                "review": "Went there for the first time last night. Took 10 minutes to get my beer, but the wife got her soda right away. Waiter brought the wrong appetizer.  Advised him of this after about 5 minutes (because he never came back). He realized he gave us another table's appetizer.  He took the appetizer off our table and gave it to the right table (I could not believe he did that).  Then our food came out before our appetizer.  It was very loud and service was not good.  Food was average.  Not a big menu, a little pricy, and small space.  Was the first and last time we go there.  Nothing special.",
+                "reviewer_id": "BH3OjaNua2GYT5RaC1wzVg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5914474534890244,
+                    "positive_probability": 0.40855254651097506
+                },
+                "stars": 2
+            },
+            {
+                "review": "Good food, good beers, nice atmosphere and late night dining!",
+                "reviewer_id": "BvHiCkb8P478CN0xd544AQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.30157154574491135,
+                    "positive_probability": 0.6984284542550883
+                },
+                "stars": 4
+            },
+            {
+                "review": "As this was my first trip, I can't give it 5 stars quite yet, but visit #1 was outstanding.The pros:  The food was fantastic.  We shared an order of the curried sweet potato chips, which were very good. Our main dishes, the caramelized salmon, and the pub burger were almost perfect!  Their Gouda mac and cheese was the best mac I've had outside of my kitchen.The beer list was superb, and the ability to choose from three sizes the beers on tap was great, and the prices were good as well!The cons:  there is little to no noise dampening, and it was very loud for a small place.  Also, do not sit near the front door when it's cold, because there isn't enough windbreak when the front door is opened.While the food is only Irish-ish, it's delicious and made me leave happy.",
+                "reviewer_id": "BZjl6W41tc5E2wWyvJ23gQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.006975607439643326,
+                    "positive_probability": 0.9930243925603625
+                },
+                "stars": 4
+            },
+            {
+                "review": "Had weekday lunch there twice. Foods were basically similar though I ordered different dishes: once was the beef with sour cabbage with creamy sauce served with mashed potato, the other time was a sandwich with the same beef and sour cabbage. The flavor was good. Not much meal choices though.",
+                "reviewer_id": "C74BJGf0RuKdYKxjm7SDuQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9113038062398351,
+                    "positive_probability": 0.08869619376016315
+                },
+                "stars": 4
+            },
+            {
+                "review": "Cute, small Irish pub without the pub comfort but with some gastro-pub aspirations. The best thing about Dublin O'Neil's is the shepherd's pie, made with lamb. It's not just good, it's extraordinary.  Really. Very. Amazing.Also very good are the seafood chowder (cream-based) and the soda bread. We usually also get their curried sweet potato chips (served with a side of sour cream) as an appetizer and have enjoyed their fish and chips (light batter, beautifully cooked fish).  My boy enjoys their burger.My husband loves the fresh Guinness on tap. The decor is Irish contemporary. The music is often Irish, too, for which we're grateful, being fans of the genre.Other reviewers who say the place is small, the noise level can be loud, and the staff can be slow are all on point. It's better to go when the place isn't packed.Website: http://dublinoneils.com/",
+                "reviewer_id": "Co9VOK72zpB_nSWrgaNkLg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 3.865794218477387e-05,
+                    "positive_probability": 0.9999613420578191
+                },
+                "stars": 4
+            },
+            {
+                "review": "You have to try the chicken pot pies!!!! They do take time to bake so plan on waiting at least 30 minutes, but they are soooo worth the wait! Just get a beer while you are waiting or an appetizer and the time will fly.",
+                "reviewer_id": "CW9eu3ONnfBr4psEamEa-w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3405885530209302,
+                    "positive_probability": 0.6594114469790701
+                },
+                "stars": 5
+            },
+            {
+                "review": "They just redid their menu which is good because I was quickly bored with the options here. Their food is a lot more reasonably priced than similar restaurants in the area and the quality is pretty good but sometimes their menu can seem limited. Certain dishes are better than others and even ones that sound interesting can turn out to be rather bland. They also frequently repeat specials so there's rarely something that I haven't tried.The bloody mary's we had yesterday were pretty great! and well seasoned. Could be more creative with the garnish though.On another note, the service can be hit or miss. Yesterday we experienced wonderful service but just last January four of us had to seat ourselves after standing in the front of the restaurant and being ignored for 20 minutes and then sitting down and being ignored for another 20 minutes until we even got to see menus.",
+                "reviewer_id": "D98vylCT1fLKBIU6iAKxhw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 4.0627020843308723e-05,
+                    "positive_probability": 0.9999593729791519
+                },
+                "stars": 3
+            },
+            {
+                "review": "Aw :c the server (accidentally or on purpose?) told us that a dish was vegan when it was not. We had good reason to believe it was vegan due to some server-identifying context information. When we tried it, however, it tasted... buttery. We weren't sure. I just checked the menu and it says \"flaky puff pastry\" which likely means butter. My friend ended up having an allergic reaction though which confirmed our suspicions. Other than that, this place is awesome. How in the world have I never come here before?! I love the interior and the menu is stacked and it's pretty cheap (dessert portions, IMO, are ridiculously tiny but I am also a big eater). I think it's honestly the best bar food and dining menu I have seen in Chambana........... And I eat a lot. Lol. I really wish that the servers would check with the chef about dietary information before someone is seriously harmed. Nevertheless, our server was really nice.",
+                "reviewer_id": "dzKYG04n0nLXv6tGFvJX0Q",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9402975111592377,
+                    "positive_probability": 0.05970248884075296
+                },
+                "stars": 4
+            },
+            {
+                "review": "There's only one thing that really needs to be said: Smoked Gouda Mac & Cheese. Be still my heart. I am so happy they made it an option for an entree. I ordered it with rashers; my sister with bangers. Both were very, very tasty. Everyone at the table enjoyed their food. Service wasn't slow. And dessert has never disappointed.",
+                "reviewer_id": "ESBELc8-zGwFAkk9Zuk7hw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.052806595132555964,
+                    "positive_probability": 0.9471934048674395
+                },
+                "stars": 4
+            },
+            {
+                "review": "The number 1 thing that makes an Irish Pub  Irish is its atmosphere.  Friendly, engaging employees especially the.bartenders are the key to.this . I.had a late lunch and only 2 others in place,  yet it took 25 minutes for.Pub Burger to.arrive. It looked more like a meatball on a sea if bun than a burger. The burger was.void of any.juice,  certainly not even close to.the medium rare I ordered. A generic complaint is places that have a designer burger mentality dont have standard condiments like.pickles. This place fits that category. Dublins has a great.selection of Irish whiskey and beers. I been to.many.Irish pubs/bars/restaurants all over the country  and Ireland.  In my opinion Dublin O'Neils is anything but.Irish",
+                "reviewer_id": "Ez73us0JXt0A0bWpGN5V1g",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.010089626773338172,
+                    "positive_probability": 0.9899103732266599
+                },
+                "stars": 1
+            },
+            {
+                "review": "We have always had great service at Dublin O'Neil's  but the more recent changes and fake pub atmosphere finally got to us. They are now trying too hard to compete on too high a level with surrounding restaurants. This was our favorite late evening/late night place to grab a casual meal downtown but the menu now features very non-pub food prices and the portions have suffered along with the price creep. I had two bad food related experiences but kept going back because when everything was good it was a great value, but the last meal was simply underwhelming and terribly overpriced. I contacted management twice, once regarding a serious spoiled seafood issue, and never received a response. No thanks. Not when there is better choice next door.",
+                "reviewer_id": "f5ntknFrvI2kgKCnCkmbyQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.02155965142177517,
+                    "positive_probability": 0.9784403485782206
+                },
+                "stars": 2
+            },
+            {
+                "review": "I went for lunch yesterday. I was impressed! We had a very nice waiter. I got the spinach salad and I ate every single bite. The ingredients were fresh and it wasn't over-dressed. My friend got the Pub burger. It looked amazing. He raved about it. Not sure if they take reservations. If you go in the evening, it'd be helpful to call ahead. My friends tried to go for dinner recently and they said it was shoulder to shoulder packed. Looking forward to going again and trying more dishes.",
+                "reviewer_id": "fVq5cSG1ULnAbo_GBezOKg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3965660052378176,
+                    "positive_probability": 0.6034339947621817
+                },
+                "stars": 5
+            },
+            {
+                "review": "One bad experience, I always try to understand.  Two bad experiences, won't be back.   Sorry guys.  1) Rude, aloof, slow server/bartender/whatever else he was doing in the back.  Asked him a factual question about St. Patty's Day restaurant festivities, and he had some snarky remark and didn't answer.  Amazing slow considering there was one other person in there when we arrived at about 11:30 a.m. on a weekday.  Asked me not to rest my foot on a chair.  2) Last time I was here, brought kids with us and we were essentially discriminated against because we had kids at our table (aka made us wait forever, again with little or no other patrons in the place).  Took the hint and didn't bring them back the second time.   3) Corned Beef & Cabbage was an underwhelming medium sized portion.  It tasted good though, hence the 2 stars.  4) My coworker tells me this place has gone downhill since a recent management or ownership change.  Several businesses in the immediate area are not flourishing.  Perhaps no one wants to be their neighbor.  I don't know.  In summary, C-U needs a better, less-prissy legit Irish place.  I won't be sad when this places closes down.",
+                "reviewer_id": "FxVCwoRpl89Uw8yOqArHhA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.011855570733980445,
+                    "positive_probability": 0.9881444292660055
+                },
+                "stars": 2
+            },
+            {
+                "review": "Finished a wonderful day with Dublin O'Neil's Bread and Butter Pudding. Amazing! I've never had bread pudding this good. Irish bar, not driving, had to have an Irish coffee. Asked about one and they offered to create one with Jameson... it was brought to the table warm. I asked them to heat... waiter said he would bring me another. This one was much more temperature coffee should be...Love the look of the bar, brick wall, small tables for hearing conversations, moderate volume on music... but every time door opened a blast of cold air hit you. Next time need a table toward the back.",
+                "reviewer_id": "GQ4WZbwsmjgQ1KmTttRc8Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3452960100368798,
+                    "positive_probability": 0.6547039899631287
+                },
+                "stars": 4
+            },
+            {
+                "review": "My wife and I tried this place for the first time tonight.I want to start by saying our waitress was excellent! She provided great service and was very attentive. The kitchen on the other hand, was really, really slow.We ordered beer battered bangers for an appetizer. It arrived in a reasonable amount of time and the serving was generous.For our entrees my wife ordered salmon that came with Gouda macaroni and asparagus. I ordered fish and chips. We waited almost an hour for our entrees to be served.When our food arrived it was quite tasty (or maybe I was just starving by then) and the portions were plentiful. The Gouda macaroni and cheese was very good.Besides the food preparation being really slow it was way too loud! The place isn't that big. When it's packed with people all trying to talk at the same time it's loud. Even with the sound level uncomfortably high, management still feels its necessary to crank the sound system up to a level making it impossible to hold a conversation.The food is good, but the environment makes it impossible to enjoy your meal!",
+                "reviewer_id": "hb7WR1Jie9q1NCSGBQP0kg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0002498516309043118,
+                    "positive_probability": 0.9997501483691028
+                },
+                "stars": 2
+            },
+            {
+                "review": "Pretty solid. Had the shephard's pie, the gf had the fish n chips. Portions were large for the money and good quality to boot. My only knock would be that the service was very slow. It took a long time to get the appetizer and an equally long time to get our mains.",
+                "reviewer_id": "Hrbp5EeBOu2esRdRKeMAkg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.38442190732576775,
+                    "positive_probability": 0.6155780926742335
+                },
+                "stars": 4
+            },
+            {
+                "review": "Didn't really like this place, the people were very rude and quite mean. The food was not very good. Would never come back.",
+                "reviewer_id": "IgqbTQPNGB8mmND4Hk5nYA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.17890231604217982,
+                    "positive_probability": 0.8210976839578205
+                },
+                "stars": 1
+            },
+            {
+                "review": "I've enjoyed some meals here more than others. For one reason or another though I don't find myself wanting to go back all that often. Take that for what you will.",
+                "reviewer_id": "IIRBF6_xbWYPbP_mjGI8RA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.17867658282205146,
+                    "positive_probability": 0.8213234171779495
+                },
+                "stars": 3
+            },
+            {
+                "review": "LOVE LOVE LOVE this place! I'm a bit of a sucker for Irish fare in general, but the atmosphere here takes it a step further. Small and intimate with dark woods and nice artistic accents. I've had just about everything on the menu and the only thing I was unimpressed with was the roasted chicken. Definitely try the fisherman's stew! It's sooo goooood. The corned beef and cabbage is amazing, the shepherd's pie is so savory and the bangers and mash are just wonderful. They do a great snakebite too (which down in Chambana is Guinness and cider, not Guinness and Harp)",
+                "reviewer_id": "JpVEI742APrTvGwoHln-iw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6175419802546074,
+                    "positive_probability": 0.38245801974538934
+                },
+                "stars": 5
+            },
+            {
+                "review": "Not impressed.  Went here for a group lunch and ordered the Reuben.  At first bite, it was OK, but then I got a big mouthful of fat.  I opened the sandwich and the rest of the meat was so fatty, I simply could not eat it.  I mean big globs of fat and hardly any meat.  I tried cutting out the fat, but it was pretty much all there was to the meat.  Eventually I gave up, piled the meat on my plate, and ate the soggy bread.  My colleagues also commented on the fat and how little meat was actually in my sandwich.  REVOLTING.",
+                "reviewer_id": "k_cDemzIDkm44br8pCVQfw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8286660920146656,
+                    "positive_probability": 0.1713339079853331
+                },
+                "stars": 2
+            },
+            {
+                "review": "This place is awesome.  Good food, great cocktails.   Try the Scottish Fog and the Irish Breakfast (served all day!)",
+                "reviewer_id": "kd-8-X4gxJwdYCqxI65aXg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.347972303098586,
+                    "positive_probability": 0.6520276969014138
+                },
+                "stars": 4
+            },
+            {
+                "review": "Second time here. I like this place! The decor is simple, clean, sophisticated yet pubby feeling. Each time the service was very good. The bartenders are very knowledge on the different beers, of which there are many, and helpful. The menu has a lot of very good looking choices. We had the mussels, smoked gouda mac and cheese, shepherds pie, and braised beef ribs. It was all good, the mac and cheese was awesome, and the shepherds pie was great. The short ribs were tasty and tender, and my only complaint is that it wasn't hot enough for my taste. Overall I would recommend this place for a lot of different types of nights out.",
+                "reviewer_id": "kk84PkcSR44L0h_pTmdowg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2572220416391905,
+                    "positive_probability": 0.7427779583608168
+                },
+                "stars": 4
+            },
+            {
+                "review": "For some reason my review was filtered, so... Once again!I'm not picky about service. I'm not the type who needs to be waited on hand and foot. Take my order, bring me a beer and my food, check in once in awhile to see if I need something: which they did just fine. So what I really care about when going to a restaurant is the food. I so wanted this place to be good, but after 2 visits, I just won't go again. The food is absolutely flavorless! I had the shepherd's  pie the first time. I think it's actually baked in the stone wear bowl that it is served in because it was boiling hot. And I'm not one of those people who complains coffee is too hot if i spill it. I'm just saying that everyone else in my party completely finished eating while I was still waiting for the thing to cool down enough to even touch. I finally decided to just tip the thing over onto a plate to allow it to cool down. And after all that waiting, it was completely without flavor. Absolutely no salt, and what's worse is they don't even keep salt and pepper shakers on the tables.I thought I'd give it another try because I really wanted this place to be good. Maybe I had a bad night? My friend ordered a soup (some kind of chowder) which was delicious. I ordered the fish and chips. I figured you can't screw up deep fried breaded fish right? Well again, it was absolutely flavorless. Has the chef ever heard of seasoning or, at the very least, salt? This time I asked the waitress to please bring me a salt shaker, which she did. But, I can't say I'll be going back for a while. Maybe I'll give it a 3rd try once they've had some time to figure out how to season their food. If you love bland food, go here.",
+                "reviewer_id": "KPITHAE3fGPL0Nev4bcxnw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9970051881103479,
+                    "positive_probability": 0.0029948118896386128
+                },
+                "stars": 2
+            },
+            {
+                "review": "Eh. It was okay. Probably won't be going back for a long while. Pros: Chicken pot pie was awesome, server was very nice, our food came super fast, and the beef on the pub burger is great quality.Cons: Dead silent when we got there (thankfully they dimmed lights and turned on some music 20 mins after we arrived), half my fries were cold, and I don't think the pub burger is worth $12 or $13.I'd go back for the pot pie if it was a weekend and hopefully more lively. But still feels a little pricey overall, so I know we'll end up choosing other places over this.",
+                "reviewer_id": "leIgp16pp6_1feLNEtL_JA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4295368986899698,
+                    "positive_probability": 0.570463101310028
+                },
+                "stars": 3
+            },
+            {
+                "review": "What happened to the website???The one time we ate there last year we loved the food. We had a few drinks there for St Pat's & when I looked for the website to scope out what another patron was eating...BOINNNG. No website. I should have just asked.",
+                "reviewer_id": "ljqREKkLlDQsnvlAABxruQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.24577239750889396,
+                    "positive_probability": 0.754227602491105
+                },
+                "stars": 4
+            },
+            {
+                "review": "I love this place.  Before I had complaints about the food being a little bland, but I have noticed a big change this past year. Salt! I almost always get the Irish nachos, and the whiskey sour is to die for. They use egg whites in it, so it's nice a smooth. We love this place!",
+                "reviewer_id": "Mc-HwQ4g44on75UTIe5JUg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.007277299492420426,
+                    "positive_probability": 0.9927227005075773
+                },
+                "stars": 5
+            },
+            {
+                "review": "I really like this place for two reasons:1. The restaurant & bar remind me of legit-Irish bars that I went to in the nice areas of Dublin.  The bar and decor are perfect for creating an Irish pub setting to get dinner with your kids or have some beer with your friends or to watch a baseball game at the bar.  2.  The food is great.  They have a great brunch menu featuring legit-Irish breakfasts that are the same as the ones I've had in Dublin.  Their sandwiches and burgers are really good and their mac n cheese is heavenly.",
+                "reviewer_id": "meUZRauqgSf-iNE8apyJSg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.013041056919757663,
+                    "positive_probability": 0.9869589430802503
+                },
+                "stars": 5
+            },
+            {
+                "review": "The beer selection here is really good, and I liked that you had a choice of 3 sizes to allow for tasting a variety of beers. If you love Shepherds Pie, do not get it here unless you want a very nontraditional version. I have had this dish in the UK, New Zealand, NY, and many other Irish pubs around the country, but none were at all like this dish. While the flavor of the the sauce was good, the contents were soupy (you could only eat it with a spoon), the onions were not fully cooked so were crunchy, and the lamb was very strong tasting and in chunks rather than the traditional minced meat. I won't be ordering it again. My dinner companions did seem to enjoy the chicken pot pie and the fish and chips, though.",
+                "reviewer_id": "mrUALrjfObhNAEOCnlz-FA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.798929336721224,
+                    "positive_probability": 0.20107066327878362
+                },
+                "stars": 3
+            },
+            {
+                "review": "Consistently really delicious food - I've been here three times with different groups, and no dish has disappointed.  The fish n chips is the best I've had in Champaign, with a light crunchy batter and perfectly cooked fish.   Corned beef and cabbage is also really great, served with kale mashed potatoes, red cabbage, and a yummy horseradish sauce.  My only complaint is that the corned beef is thinly sliced like it belongs on a sandwich instead of a pile of potatoes.  Don't skip dessert!  The bread pudding is absolutely ridiculous, and the chocolate cake does not disappoint.  My first choice in downtown Champaign.",
+                "reviewer_id": "mYky8fmLlSSEV5MuWwhrOw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9970995824085732,
+                    "positive_probability": 0.0029004175914346267
+                },
+                "stars": 5
+            },
+            {
+                "review": "My first and last visit. Beer selection marginal. Shepard's pie was obviously frozen and microwaved. Center was cold and greasy",
+                "reviewer_id": "nWes18Ix6JH19anyNDl7tw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2752704401350015,
+                    "positive_probability": 0.724729559864997
+                },
+                "stars": 1
+            },
+            {
+                "review": "Great place! The co-bar manager Mike was very proficient in his knowledge for their cocktails and what each ingredient taste like individually to get you the final product profile. I had the \"Rob Rye\" and it was exactly what he said it would taste like \" A Sharp Manhattan\" and I LOVED it! I also had the Smoked Marrow which were pretty good. I had a mishap with one of my marrow bones being under-cooked, but the bartender/server Kieren(excuse spelling) saw that it was under-cooked and went and got the chef to make me another piece without me asking! If that is not the definition of \"good Server\" I don't know what is. A great place, and I really liked all the people that worked their as well as their clientele. I will be back if I ever visit that area again!",
+                "reviewer_id": "O7ubc9ELpRA_FHjOv0YORw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.23809112439784752,
+                    "positive_probability": 0.7619088756021515
+                },
+                "stars": 5
+            },
+            {
+                "review": "My husband and I finally got around to trying Dublin O'Neil's and I'm glad we did!  Our waitress was very good, attentive and friendly.  We got the Irish soda bread as an appetizer and with some salty creamy butter, it was delish!  We also ordered the corned beef and cabbage.  This was not a traditional interpretation of it, as it was served over mashed potatoes.  It was very flavorful and good quality corned beef.  We'll definitely go back!",
+                "reviewer_id": "OrbBDfge09DzIospdw2Xgw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.026875161607266457,
+                    "positive_probability": 0.9731248383927423
+                },
+                "stars": 4
+            },
+            {
+                "review": "I would actually give it a 2 star, but I am *trying* to give it the benefit of the doubt since it just opened. Honestly this place has a a lot of kinks that it needs to work out. Our server seemed to not know the menu and was forgetful-she forgot my boyfriend's appetizer. In terms of the food it was meh. The seafood chowder was awesome, the chicken pot pie was flavorless and my fisherman's stew was missing the fish (not because they ran out, but because they simply forgot). The bread pudding was pretty good, may come back for that. Overall, should have gone to Carmons.",
+                "reviewer_id": "pJV6MeQbcrwUvwTZNDpHDA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9998592266764971,
+                    "positive_probability": 0.0001407733234926548
+                },
+                "stars": 3
+            },
+            {
+                "review": "Just what downtown Champaign needed! The food is great, and I love the atmosphere. My service was wonderful, and their Long Ireland cocktail was very good. The Irish Nachos are my favorite. It is a bit small in here, and the bar gets crowded with people waiting for a table, but that is the only negative.",
+                "reviewer_id": "PP_lDKOnzHQgbaFCFowjoQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.576392616343138,
+                    "positive_probability": 0.42360738365685974
+                },
+                "stars": 5
+            },
+            {
+                "review": "Irish breakfast all night.  The mac and cheese is killer.  Local produce and great service.  This place rocks!",
+                "reviewer_id": "pTTw_Z9U_RxNZxtDkkgSyQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6305609987217222,
+                    "positive_probability": 0.36943900127827667
+                },
+                "stars": 5
+            },
+            {
+                "review": "An Irish pub?  Maybe if it were at the Dublin Hyatt Hotel, but this place was a little too pretentious for Dublin or Champaign.  Lighten it up a little bit, maybe some more casual decor to offset the strikingly attractive architecture.  They did a great job making the interior beautiful, then they foul it up with two big flat-screen TVs.  What is this place?  An Irish pub with the football game on the TV or an upscale country-club cafe?They clearly hired all redheaded young women as waitstaff.  The food was delicious.  But over-priced for the tiny portions.We went for lunch on a Saturday in October, 2011. Fisherman's stew was delightfully flavored, but two miniature shrimp, two mussels, two morsels of fish, and four croutons at $9.95.  My date and I split two entrees for lunch.  Our other choice was Fish & Chips at $9.95. Also well-prepared but about as much fish as one would get with a McDonald's fish sandwich.The topper was an iced tea for $2.50.So I was paying downtown Chicago prices for downtown Champaign, and I left hungry, wishing we had gotten fish at Legends or a burger at Farren's.  With a tip and no alcohol, one iced tea, two lunch entrees, we were out of there, hungry, for $30 on a Saturday at noon.",
+                "reviewer_id": "pwyRJuJoodUS__gsQMGlMw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.005858487846440218,
+                    "positive_probability": 0.9941415121535563
+                },
+                "stars": 2
+            },
+            {
+                "review": "I've recently started going to Dublin's in the last 5 months with my friends on the weekends mostly. They've been coming since it pretty much opened. Every Friday there are dinner specials and they are usually pretty damn tasty. Everything I've tried here is good. Come have a beer, some Tullamore Dew, or a long Ireland and eat some delicious food.",
+                "reviewer_id": "qBBt0BfW4gXUWbYxX08JnA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8340743437005678,
+                    "positive_probability": 0.16592565629943237
+                },
+                "stars": 4
+            },
+            {
+                "review": "Food is only so so.  Making shepherd's pie with beef betrays the inauthentic nature of the place  - call it cottage pie or make it with lamb only.  Service was terrible - My friends and I will not be going back.",
+                "reviewer_id": "Qlj-6eVV-tKWSPZ-JQFVVQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.967278481861848,
+                    "positive_probability": 0.03272151813815033
+                },
+                "stars": 1
+            },
+            {
+                "review": "I'll qualify this review by saying that 1) I've only been here once and 2) I got the burger (I'm on a quest to find the best burgers C-U has to offer). The place is nice looking, if a bit small, and the staff was friendly enough. The beer and cider selection is okay, even if they hit you over the head with Guinness all the time. I was expecting an Irish pub, and the place is more upscale than that. The burgers were okay, if a bit dry, but the cheese and bacon on them was overpowering. It wasn't my favorite food in the world, and I've been in better pubs in other places. That said, I didn't go in to try the entrees, and so your experiences may vary.",
+                "reviewer_id": "qR6jQSCWN94STCjsnTU8vQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.016653585520068966,
+                    "positive_probability": 0.9833464144799242
+                },
+                "stars": 2
+            },
+            {
+                "review": "Excellent food choice in the Bangers and Mash. The service was great. Inside felt a bit small. The Nitro IPA was flat, but the Bent River IPA was decent. I would return again to try some of the other dishes for sure.",
+                "reviewer_id": "RdnDK9ZtOgvU6zMHVFTHBQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.054843264353575706,
+                    "positive_probability": 0.9451567356464227
+                },
+                "stars": 3
+            },
+            {
+                "review": "Perfect little place to sit and enjoy a drink/meal.  Great environment and service is good too.  The food is quality and they have a very decent amount of drink options.",
+                "reviewer_id": "rKKSvOCm4YjbowQNjDXZZg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.49450744167668875,
+                    "positive_probability": 0.5054925583233116
+                },
+                "stars": 4
+            },
+            {
+                "review": "Great cozy place for a well prepared meal.  My favorite dishes are the potato pancakes, Irish nachos, fisherman stew, and best of all,  the short ribs. Nice beer selection as well.",
+                "reviewer_id": "rpj046fGO4cJjXfiRPW_BQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.015930537789312707,
+                    "positive_probability": 0.9840694622106865
+                },
+                "stars": 5
+            },
+            {
+                "review": "Mixed feelings about this place! To be honest the food is a five but the service and atmosphere was a 2, at best. It was a slow night so our waitress decided to leave after taking our order, leaving us in the care of the bartender. She gave us one refill and visited with a really obnoxious, intoxicated girl at the bar about tattoos for the rest of our visit. The intoxicated friend smacked the glasses off the head of the man accompanying her, and called other people at the bar swear words (repeatedly). It started out borderline entertaining but she ended up being the most annoying person we've encountered while eating.  After a shot, we thought she was gonna fall down...somehow she didn't....Again, the food, no complaints! The Gouda Mac n cheese was amazing and the chicken pot pie was perfect. I'd think someone would want to take care of the other issues before the food isn't enough to bring people in!",
+                "reviewer_id": "s4vl-X6LMOUzLbyt7TObEA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3298137618938463,
+                    "positive_probability": 0.6701862381061515
+                },
+                "stars": 3
+            },
+            {
+                "review": "Dublin O'Neil's is one of those places with outstanding ambience and excellent food. The Irish Nachos are incredible. The seafood chowder may be the best chowder I've had anywhere. The macaroni and cheese is absolutely excellent with solid overtones of smoked Gouda. The only thing that made me grade them down is a lack of a kids menu. (Not difficult to add if they'd just do it.)The draught beer selection is also excellent. I'm a huge fan!",
+                "reviewer_id": "SKP8Qo3dYyV82VLuAMHkRQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.33935660337853646,
+                    "positive_probability": 0.6606433966214642
+                },
+                "stars": 5
+            },
+            {
+                "review": "Loved it. Can't wait to go back. I had Bangers and Mash for the first time ever and it was so good.  My brother ordered the Bread Pudding at the end of our meal, which was recommended but we weren't impressed. The server said it was just made but the center was cold. Sent it back. Outside warm, inside still cold. Plus it was a big wad bread with little pudding.  Entrees fantastic, dessert not so great. Will go back when I'm in CU again.",
+                "reviewer_id": "sMi36xQb-HcPG9_B-j1CCQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.055560679675065415,
+                    "positive_probability": 0.9444393203249372
+                },
+                "stars": 5
+            },
+            {
+                "review": "May I start by saying that Champaign needed a fresh, urban restaurant that offers amazing food? Now that KoFusion's service became terrible, I needed a new place to call my favorite restaurant in Champaign. After looking at Dublin O'Neil's website, I decided to give them a try. They don't take reservations, but my boyfriend and I were quickly seated on a Friday night. Their menu consists of Irish and American fare, hence the name. I love short ribs, only a few places offer them, so I had to go with that. My boyfriend picked the Shepherd's pie. Both dishes were amazing! The short ribs tasted like heaven, but what steals the show are the mashed potatoes. Their mashed potatoes are simple, but some of the best I've had in a restaurant. The dessert was nothing short of perfect. Their bread pudding, covered in sauce and topped with ice cream, is a sweet freak's dream. The wait staff were friendly and inviting, something that is rare in restaurants nowadays. I'm not a beer person, but they also have an impressive list of beer available. There's so many good things I can say about this place. Oh and they feature a new entre every weekend which is great if you're a \"try something new\" type of person. So there, I've told you the secret of my newfound love of Dublin O'Neils. I'm glad I got it off of my chest.",
+                "reviewer_id": "THZbpyV1VQDJiBrDBbWpfw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0001501526381336685,
+                    "positive_probability": 0.9998498473618553
+                },
+                "stars": 5
+            },
+            {
+                "review": "This has become one of my favorite restaurants in the area.  The food is authentic and always fresh.  There a multitude of drinks, from a wide variety of beers and wine to cocktails.  I have never been disappointed with anything I have ordered there.  The atmosphere is warm and relaxing.  The server, Ryan, is extremely knowledgeable about the food and is an efficient and great server.  If you have him as a server, he will help you answer any questions about some of the unique dishes.  I honestly cannot say anything but great things about this place.  If you want great Irish food and drinks at a reasonable price, this is the place to go.",
+                "reviewer_id": "u_lWmwXp66jWpyM0Q5eLdg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.001166952146169246,
+                    "positive_probability": 0.9988330478538401
+                },
+                "stars": 5
+            },
+            {
+                "review": "Sooooooo.... we came in around 130 am... William and Megan were so hospitable.   They were so welcoming and even allowed us to buy a couple rounds when, if I were a bartender,   I would be hard pressed not to try to get people to leave.   The level of professionalism displayed by these two was impeccable.   I even learned that Megan was coming in at 10am... Are you kidding me close to open  and so hospitable?  You have a star.  Honestly,  I didn't even look around to see the decor because I was so amazed by the service.  Six years absent from chambana and this was an experience to make me regret graduating.",
+                "reviewer_id": "UVlXxhU3se6fFstcYiWP7g",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8024882801429327,
+                    "positive_probability": 0.19751171985706084
+                },
+                "stars": 5
+            },
+            {
+                "review": "It was really great until our server farted on us. :(",
+                "reviewer_id": "v7b-3JLFNcyuFosGWgnbgQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.30766754119572637,
+                    "positive_probability": 0.6923324588042736
+                },
+                "stars": 3
+            },
+            {
+                "review": "Poor service and bad food. Never a good combination.We ordered 2 beers, and the waitress did not know anything about them. Would have been nice to get a warning they were hoppier than that type of beer usually is.BF ordered the seafood chowder which turned out to be the best item. He also got the seafood stew which was WAY oversalted, like, no one tasted it going out. Stew portion was tiny compared to other stews I've had elsewhere in the country (like 2 mussels, 2 clams, 2 shrimp). Also, the broth was thickened tomato based, which is fine I guess, but I prefer thin tomato based broth.I had the bangers and mash. The potatoes were supposed to be kale mashed, but I only found one, small piece of kale. They potatoes were cold to lukewarm at best. Clearly sitting in a pot while the sausages were cooked. They were hot, at least, but a little mushy. Gravy was ok.We told our server our issues and she said, oh. Sorry.Oh, sorry, we won't be back.",
+                "reviewer_id": "VFO8RtZQOGOUpOxbVpMNRA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.02483261744889536,
+                    "positive_probability": 0.9751673825511005
+                },
+                "stars": 1
+            },
+            {
+                "review": "I have been here for lunch and dinner multiple times and have enjoyed it. I don't really feel like there is anything very special about the food but it is good quality and reasonably priced. The first time you go, get the mac and cheese as it is possibly the best dish there. The chicken pot pie is a close second and perfect for those days you feel under the weather. The sweet potato chips as an app are very good. I am not a huge fan of the fish and chips but others like it, I just think it is too much breading. The irish breakfast is tasty as is the ruben and the corned beef. The hashers(?) are very tasty. I would definitely recommend this place to anyone wanting good food for a good price. If you get too many people in the place it can get loud but overall the atmosphere is very nice.",
+                "reviewer_id": "vgx_L9BBd8DSSGidBJ6GUQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.002003957247338761,
+                    "positive_probability": 0.9979960427526687
+                },
+                "stars": 4
+            },
+            {
+                "review": "I went there for lunch on a Monday.  I had the Pub Club (6.95) served with Sweet Potato Chips and a diet pepsi.  I thought the sandwich was huge!  Lots of meat and a tasty red pepper mayo.  Very good.  And the chips were quite tasty, \"light\" and not greasy.  My dad wasn't really hungry so he ordered a Basket of Soda Bread w/ sea salt butter.  After eating the whole basket (almost), slathering each slice with butter, he told the waitress he didn't think this was \"real butter\" she insisted it was.  I don't know...would sea salt change the flavor so dramatically that a man in his sixties who eats and enjoys butter daily wouldn't recognize its flavor?...seems a little suspect but that was the only thing I questioned.  Other than that it was a thoroughly enjoyable lunch.",
+                "reviewer_id": "vNhHiztGh3yrcqvZ5Pk5AA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.04975075404399862,
+                    "positive_probability": 0.950249245955999
+                },
+                "stars": 4
+            },
+            {
+                "review": "Two stars might be generous for me, but I'm trying to be nice. Despite the fact that there was only one other table seated, service was painfully slow and apparently, if you're a party of two, you can only have a tall table along the wall. The decor/style is okay for a \"pub,\" but that's where the pub atmosphere ends. It's just another pretentious eatery downtown in a varied genre. No music. Limited drink availability to what they perceive as \"authentic,\" and the first two I tried to order they didn't have the ingredients for. A disappointing start, for sure. The menu is largely English traditional (bangers, Americanized shepherd's pie, etc)We started with the \"Irish\" nachos because it made me giggle and I like corned beef. Most of the \"meat\" was just wads of fat and they were so greasy that it dripped off the chips as you picked them up. The couple of dry chips we found weren't too bad.I got the fish and chips which, literally, developed a pool of grease in the bottom of the basket. You have to request salt/pepper/ketchup since the tables the so tiny, I guess. I finished one of three small fillets before I just couldn't do it. My companion enjoyed the flavor of the shank, but it was a little cool in temperature.The entrees are fairly pricey ($13-$20+) from what I recall, and completely not worth it. I won't go back.",
+                "reviewer_id": "vpmMecUDvzMaTm1ygPz5xQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.13724370666753233,
+                    "positive_probability": 0.8627562933324576
+                },
+                "stars": 2
+            },
+            {
+                "review": "The mussels are great. The vegetable pot pie is okay--good flavor, but the soup part is kind of thin and runny; I wish it had more vegetables. I always end up getting the soda bread, because the butter that comes with it is so good. The bartenders are friendly. I also just tried their Sunday brunch, which I loved. I had a spinach mushroom omlette that was quite tasty.",
+                "reviewer_id": "VS89OpdxlLsD7tLtmqjcUA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5337832220093307,
+                    "positive_probability": 0.46621677799066963
+                },
+                "stars": 4
+            },
+            {
+                "review": "I had the fish and chips on Friday and I really liked it.  I also thought our server was really great.",
+                "reviewer_id": "W4ojW7f30haCertr4CzFJw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.1659112428495231,
+                    "positive_probability": 0.8340887571504764
+                },
+                "stars": 4
+            },
+            {
+                "review": "I hate to disagree with everyone, but I am NOT impressed with the food at Dublins.  I have eaten there 3 times and have been disappointed each time.  I will not be back.  The Shepard's Pie is not good at all.  I don't like eating lamb and even beyond that it was not impressive.  Maggie Miley's in nearby Normal has a Shepard's Pie to die for.  The Irish Nachos are basically pub chips (saturated in grease) with very limited toppings.  I've had better believe me. My buddy and I didn't even eat half of them.  I bascially took them home and threw them out in the backyard for the crows to pick at.  The Ruben was equally disappointing, greasy, small portion, and just plain not good.  I'm not that picky of an eater trust me, but the food here is just not good.  Great bartenders and good beer selections though.  Come full....",
+                "reviewer_id": "wopY9QEy5KjOzMjPQceI2w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.01689806514893633,
+                    "positive_probability": 0.98310193485107
+                },
+                "stars": 2
+            },
+            {
+                "review": "Seems weird to give 5 stars to a new place in a slightly cardboard building,  BUT the category is 'as good as it gets' and I always rate that according to the city in which I am....Firstly - to those who criticize it for not being 'irish' enough - get over yourselves. We're not in Dublin unfortunately, which means Champaign doesn't have access to the resources and ingredients that Dublin restaurants do.Ambience: Fun, noisy enough to get away with the occasional swear word.Service: Friendly, unobtrusive, quick.Drinks: AwesomeFood: Surprisingly good - more gastro-pub than PUB fare...excellent options for carnivores, pescatarians and veges alike.Highly recommend.",
+                "reviewer_id": "wtsl05RJj5f6YBDQPEwP2w",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7638171623454163,
+                    "positive_probability": 0.2361828376545873
+                },
+                "stars": 5
+            },
+            {
+                "review": "The one star is only because our waitress Alyssa was great, but the food was some of the worst Irish food I've ever had in my life.We started off with their potato soup. One cup came to the table looking like soup and the other two looked like congealed porridge, not to mention they where all extremely salty. The cheese curds where about the best thing they had, but the onion rings were soggy and anemic looking.My wife had the pork shank that was so over smoked, she couldn't even taste the flavor of the pork. To this day she can't eat anything smoked because of it.My son had the shapers pie and said it was bland and tasteless, not worth $13.I had the bangers and mash by the recommendation of the waitress and they where in-eatable. The gravy on the massed potatoes was a gloppy gelatinous mass that would stick to the fork like The Blob.Needless to say I will not be going back there for anything ever again. Money down the drain.",
+                "reviewer_id": "WujQQIz3Jhjlo4pD6rtPqw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9512637626146662,
+                    "positive_probability": 0.048736237385325155
+                },
+                "stars": 1
+            },
+            {
+                "review": "We had late lunch on a Saturday and the place was fairly empty.  Nice small place with a few tables outside.  Food was tasty, our server was awesome, funny and friendly.  I had veg pot pie, which was good, tasted very homemade.  My husband had a meatball sandwich and a scotch egg.  Not the best scotch egg he's ever had (Broad Ripple Brew Pub, Indiana) but the sandwich was ok.  Fun place, but kind of pricey for a casual lunch.",
+                "reviewer_id": "wZ2B3_9CiWUQCd6hS156Tw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6060265323398466,
+                    "positive_probability": 0.3939734676601576
+                },
+                "stars": 4
+            },
+            {
+                "review": "The service was subpar but the FOOD! I had the small chicken pot pie and it was incredible. Small is the perfect size. Large would be huge and make two meals. The ambiance is awesome and good vibes of Irish heritage. I want to go back right now!",
+                "reviewer_id": "xd2h1rVyvbvuMJ_W02hDVg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.037594165178222116,
+                    "positive_probability": 0.9624058348217752
+                },
+                "stars": 4
+            },
+            {
+                "review": "I have mixed feelings about this restaurant, and ultimately give it two stars based on the conversation I had with the hostess last evening (11/29). I took my mother who is from out of town to this restaurant after being amazed beyond words at the food, and especially the bread pudding (which I hate, and someone forced me to eat, and it turned me into a bread pudding lover! It's made FRESSSHHH and definitely worth the wait!)However, when we arrived, I just wanted to make sure the food was something she was interested in eating, so before sitting I asked the hostess to see the menu. We looked through, found something we both wanted, and sat. We ordered drinks, looked over the menu again, and the waitress came by to take our order, at which point we found out they were our of corned beef, platters both my mother and I wanted. We were baffled because a.) what Irish place is out of corned beef and still opens??? And b.) they had so many opportunities to tell us that! From the door, to when we sat down, to when we ordered our drinks, the waitress or hostess could have mentioned they were out of one of the main dishes on their menu! Absurd! We were glad we got the drinks for free because we left after that to get food elsewhere.Last night I took my boyfriend there and just finished telling him the story about how they were once our of corned beef, and as we entered, I too had him look at the menu. Jokingly, I asked if they were out of corned beef to the hostess. She said she would check and went to the kitchen (?? Wouldn't a hostess know what goes on in the kitchen if properly trained?) She came back and said they were not serving it that night. I was confused: are they out? Or are they choosing not to serve it even though it is on their menu (and in many different places on their menu too!) She clarified that they are choosing not to serve it. \"But it's on the menu,\" I said. She was extremely irritated, and explained that it depended on the chef that day if he wanted to cook certain items off the menu or not. ON WHAT PLANET DOES THAT MAKE SENSE IF THERE IS A FIXED MENU?? I understand always wanting to cook with the best ingredients, or with what's in season, etc, but simply not wanting to cook something because you're the chef that night screamed laziness all around. I've been to amazing restaurants all around the States and the world and have never seen this before. The least they could have done was change the menu, or inform the customers once they get in.If you choose to go to this place, call ahead, and make sure they have corned beef. For now, I would rather take a trip to Lafayette for their Irish pub, which is always, always serving corned beef and has a staff that actually cares about it's customer's and their satisfaction from the door to their seats.",
+                "reviewer_id": "XnA5iYOjo-MTDyrxOB68Nw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0004127507309382113,
+                    "positive_probability": 0.9995872492690968
+                },
+                "stars": 2
+            },
+            {
+                "review": "I have been to this place about 7 or 8 times now. I really gave this place a chance, but they have come up short. First, the food. The burger is really over spiced. After you're about halfway through, it's like eating a giant meatball. I was thrilled to have a place locally that served an Irish breakfast, something that I grew up eating. They failed here too. An Irish breakfast is meant to be fried not grilled as they do here. In Ireland, in many places they even called it a \"fry.\" They try to make all their dishes look really fancy, which doesn't go with their theme of an Irish Pub.The service was good though I must say. All the bartenders and servers were friendly each time I was there. However, this can not be said of the manager I spoke to there who was very condescending. And finally we come to the beer. Now they have a great beer selection and bring in a lot of seasonals which is great. However, they do NOT know how to pour a proper pint of Guinness and do not serve it in the proper glass. At first I just ignored them using an improper technique when pouring a pint of Guinness, but the last time I was there, I was served a pint that virtually had no head on it. I sent it back and asked for another one, but what I was given was the same as the first. I talked to the manger about this, and he tried to tell me this is how Guinness always looked there. I informed him that is no where near how a proper pint of Guinness should look and if that is what I got each time I ordered a Guinness, I would have sent it back each time. I would not be so hard on this place if it weren't for the fact they portray themselves as an \"authentic Irish pub.\" When it comes to their food, beer, and decor, they are no where near a real Irish pub. I will likely go back there, with the hope that they will get their act together, but I highly doubt it will happen.",
+                "reviewer_id": "xQ7IB7UV9V77CvGGVTEwrA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 3.642680486063334e-05,
+                    "positive_probability": 0.9999635731951324
+                },
+                "stars": 2
+            },
+            {
+                "review": "I've been here twice for brunch. I had the Irish breakfast! The portion is generous, but there's nothing really special about it. I came here mostly because they have deals for brunch bloody mary (was it $3).",
+                "reviewer_id": "xUu9gORsM_AEWJjiEN4fHg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.45828979252720753,
+                    "positive_probability": 0.5417102074727905
+                },
+                "stars": 3
+            },
+            {
+                "review": "The beer is about the best thing here. They tend to be overly creative with the food and it makes it almost too rich or too seasoned to eat. It is a rather crowded place and very difficult to hear when the live music is going.",
+                "reviewer_id": "XwCgV1qf3wZK2jAjmC26sQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.00769315348919736,
+                    "positive_probability": 0.9923068465107977
+                },
+                "stars": 2
+            },
+            {
+                "review": "This place used to be amazing. Now... It's okay.When we first started coming here, we loved the fact that they had good, reasonably priced food and a good selection of beer that was also reasonably priced. The fish and chips were really great and could easily feed two people. The boxty pancakes were high quality and decently sized. In general, everything was very good.In the past few months, however, there have been some changes. Serving sizes are smaller. Prices are higher all around. And the quality of the food just isn't up to par with what it once was. It's pretty disappointing.A year ago, I would have and did recommend this spot to pretty much everyone. Now? It's just another overpriced downtown bar.",
+                "reviewer_id": "YbkPwGiLcrdA2Vx4cjsIeg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.35927744722132016,
+                    "positive_probability": 0.6407225527786864
+                },
+                "stars": 3
+            },
+            {
+                "review": "Come here all the time with my boyfriend. I love the irish nachos, beer battered sausages, and the fish and chips the most! Will always stop by when I'm in champaign",
+                "reviewer_id": "YOwXEl0tu2KFSDNTci4iXQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.02775660713464514,
+                    "positive_probability": 0.9722433928653531
+                },
+                "stars": 5
+            },
+            {
+                "review": "A great local place to eat at. We had the Smoked Gouda Mac& CheeseDublin O'Neils Signature SaldDrunken Bread and Butter Pudding Loved the entire meal and the beers on tap. The service was great as our waitress gave us background on all the beers and helped us decided which we would like the best. The drunken bread and butter pudding is worth trying, it was served warm and was a great way to end the meal.",
+                "reviewer_id": "ZvxB_8qUClYq6BoEmix9zw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.031174633609171384,
+                    "positive_probability": 0.968825366390829
+                },
+                "stars": 5
+            }
+        ],
+        "similar_restaurants": [
+            "Z8EGaOokvK2hoD6tGup0MA",
+            "2SycDjGWWpFs1ODL-YBoHA",
+            "pXZtvvXtVSXHgodcGfiX_g",
+            "562AuYjOuZwtTbS1UYhY6Q",
+            "QUZUgIHFKgYEgM-QNROgHw",
+            "qRgEy-m4sejzTKphIFKFkw",
+            "a4JU2JqAbT0p8_A8s_v8Kw",
+            "UBriZt4m5BzkvNqnCeuGmw",
+            "K5PfWwW61Ajommy9xvXdAw",
+            "1tK0k-vRgGFC3oSZNUJ58Q"
+        ]
+    }
+}

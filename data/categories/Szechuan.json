@@ -1,0 +1,760 @@
+{
+    "VyqJehEkM6jlrzbXOudviw": {
+        "keywords": {
+            "bigrams": [
+                "szechuan_china",
+                "spring_rolls",
+                "chinese_food",
+                "chili_sauce",
+                "hot_tea",
+                "pan_fried",
+                "bok_choi",
+                "mushrooms_tofu",
+                "salty_food",
+                "give_szechuan"
+            ],
+            "unigrams": [
+                "food",
+                "dish",
+                "dishes",
+                "sauce",
+                "chinese",
+                "restaurant",
+                "szechuan",
+                "tip",
+                "good",
+                "time"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "beer_and_wine",
+                "Ambience": {
+                    "casual": false,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "Caters": false,
+                "Delivery": true,
+                "Good For": {
+                    "breakfast": false,
+                    "brunch": false,
+                    "dessert": false,
+                    "dinner": false,
+                    "latenight": false,
+                    "lunch": false
+                },
+                "Good For Groups": true,
+                "Good for Kids": true,
+                "Has TV": false,
+                "Noise Level": "quiet",
+                "Outdoor Seating": true,
+                "Parking": {
+                    "garage": false,
+                    "lot": true,
+                    "street": false,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 2,
+                "Take-out": true,
+                "Takes Reservations": false,
+                "Waiter Service": true,
+                "Wi-Fi": "free"
+            },
+            "business_id": "VyqJehEkM6jlrzbXOudviw",
+            "categories": [
+                "Szechuan",
+                "Chinese",
+                "Restaurants"
+            ],
+            "city": "Champaign",
+            "full_address": "401 S 1st St\nChampaign, IL 61820",
+            "hours": {
+                "Friday": {
+                    "close": "21:00",
+                    "open": "11:00"
+                },
+                "Monday": {
+                    "close": "21:00",
+                    "open": "11:00"
+                },
+                "Saturday": {
+                    "close": "21:00",
+                    "open": "11:00"
+                },
+                "Sunday": {
+                    "close": "21:00",
+                    "open": "11:00"
+                },
+                "Thursday": {
+                    "close": "21:00",
+                    "open": "11:00"
+                },
+                "Tuesday": {
+                    "close": "21:00",
+                    "open": "11:00"
+                },
+                "Wednesday": {
+                    "close": "21:00",
+                    "open": "11:00"
+                }
+            },
+            "latitude": 40.112825,
+            "longitude": -88.239211,
+            "name": "Szechuan China",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media1.fl.yelpcdn.com/bphoto/IDAozWhcJBvOwQckt_8k7g/ms.jpg",
+            "review_count": 15,
+            "stars": 3,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "I ordered the chicken with garlic sauce and fried rice. I ordered from the vegetarian portion of the menu and the dish that came looked interesting but it was about 50% fish. I think I have the right to say that since I tried 6 of their dishes! ",
+        "reviews": [
+            {
+                "review": "This owner has done a great job of remodeling the restaurant and offers a wide menu choice.  So glad to see someone come into that location.  Corner of Springfield and 1st street in Champaign.Food was awesome....we had it delivered to our office and everyone really enjoyed the food.",
+                "reviewer_id": "06dTG_ObnvebFz-xqnbI0A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.054774080010572906,
+                    "positive_probability": 0.9452259199894226
+                },
+                "stars": 5
+            },
+            {
+                "review": "I will start off by saying the food was excellent.  The reason that I am only giving 3 stars is price and service.  The evening that we went, they were not very busy.  As soon as we were seated, the waitress asked us if we were ready to order.  We asked for additional time as it is an extensive menu with lots of interesting dishes.  Once we ordered and received our food, our waitress never came back to check on us for refills on our drinks or to inquire whether we were enjoying our food (we were). The prices seem a bit high for the portions, but the main complaint is that a 15% gratuity was added to the bill.  I have seen this in restaurants in larger cities or with large groups (we were a party of 2), but it is not typical in this area and the service certainly didn't warrant a large tip.  Plus, when we paid by credit card, the cashier said we could add a tip to the receipt- on TOP of the tip the restaurant had added. Our bill for two dinners with only water to drink was a bit over $35, which I consider high for Chinese restaurants in this area.  Hopefully they will work out the service issues and maybe adjust their price/tip policy, but the food was great and worth at least one trip.",
+                "reviewer_id": "1pSP-UplamQv4HaKtjz4QQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.00042118073497509804,
+                    "positive_probability": 0.9995788192650065
+                },
+                "stars": 3
+            },
+            {
+                "review": "I'd give Szechuan China 2.5 stars if that was an option. The place is decorated well: quiet, neutral colors, with tasteful accents in richer tones. It's clean and grown-up in atmosphere. But, the food was okay -- not that good, not that great. The dishes offer quality ingredients, but the preparation of the entrees is uninspired and the appetizers average, with no real pop in flavor. We stopped in for lunch, since lunch specials offer a reasonable price at which to try a new restaurant. We were excited by reviews of authentic and spicy food focusing on the Szechuan region.The lunch special menu was made up of only Chinese American standard dishes, which was a disappointment. I ordered the chicken with garlic sauce and fried rice. My partner ordered General Tso's with steamed rice. We also had meat dumplings and the Shanghai spring rolls. We didn't get the soup, since a single-serving appetizer portion of soup was $5. The pricing overall is uneven.My entre, the chicken with garlic sauce, came with chicken, mushrooms, broccoli, and other vegetables. It had little to no garlic flavor, but a pleasant late lingering spice. The entree had far, far too much sauce, and of the slightly too sweet, gloppy variety (so much that I was a little disgusted by it). My partner's General Tso's chicken was crispy, but again too sweet and little spice. The fried rice with my dish was fine, but lacked any aromatics and had no meat for flavoring either. We did not receive spoons with any dish to help serve portions onto a smaller plate.The meat dumplings were in the long wrappers pinched on one side. They seemed like they might contain pork mixed with chicken. They lacked in flavor -- no ginger, garlic, herb -- and were underseasoned. The spring rolls came with a spring roll wrapper. The server (whose English was not great) said he thought they had meat in them. He agreed to cabbage but seemed less sure. They had cabbage in them, but the meat was hard to see or taste. They had a decent texture, but didn't taste like much on the inside. The dipping sauce for the potstickers was vinegary and salty (soy base) with no scallions, garlic, or other flavoring. The dipping sauce for the spring rolls was standard sweet n sour. We asked for hot mustard and received carryout packets.The portion size for lunch was generous enough. The value was decent. The hot tea was good, but was not replenished by mid meal.I complained on the way out that we were automatically charged a 15% tip on the bill for a party of two. The woman at the front counter said they are doing this because in China tipping is not done and many Chinese who eat at restaurants here do not tip. I don't think it's legal for the restaurant to include the tip automatically in the bill, but I'm not sure. There are no signs or notices about it. I told her it would offend American customers. In our case, it also cheated the server, because we usually tip 20%.We have speculated that the many authentic Chinese menu items might be better prepared and interesting. There are many dishes with traditional ingredients (such as tripe). We can't confirm that they are any better, however.Given the underwhelming preparation and the weak service with the required gratuity, I doubt that we will be back.",
+                "reviewer_id": "Co9VOK72zpB_nSWrgaNkLg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 6.114750727202239e-06,
+                    "positive_probability": 0.9999938852492587
+                },
+                "stars": 2
+            },
+            {
+                "review": "I feel very bad writing a negative review about a restaurant that clearly is popular. But I must be honest. A little over a week ago, my wife and I decided to try Szechuan China. When we walked into the place we were encouraged, because we were the only Anglos there. If Asians liked it, it must be good! And for all I know, it is outstanding according to genuine ethnic standards. The hostess was very friendly, as was our waiter, although he did not appear to understand that, when there are a gazillion items on a menu, diners should not be expected to order within three minutes of being seated. When our orders arrived (rather quickly, in fact), both were feasts for the eyes. Everything was great thus far.But that's where the feast ended. My wife ordered a dish that featured mushrooms and tofu. Although beautiful to look at, it was tasteless. We both decided that they must not have added any flavorings to it--it appeared to be just mushrooms and tofu, nothing else (except for, presumably, the cornstarch that created the lovely thickness of the sauce).My entree, a Szechuan dish featuring poached fish in a very hot chili sauce, at first impressed me with its zing. But after a minute or so, I began to taste the salt. Wow! I grew up with traditional Texas cuisine, which means that I was pretty much pickled in sodium chloride by the time I was in my teens--so saltiness is not inimical to my taste buds. But this was beyond the pale. I was still tasting the salt half an hour after I got home, even after rinsing my mouth several times with water. (I should also mention that the dish overflowed with oil.)Because we are impecunious, we never leave food on our plates at a restaurant; we even carry rather substantial containers in our car so that we don't have to ask for unecological Styrofoam containers. Yet this is the first time in our many years of marriage that we have left substantial portions of restaurant dishes on our plates. I was able to eat only about a third of my food before the extreme saltiness forced me to stop eating. My wife ate about a fourth of her entree before its tastelessness led her to stop eating. And we had absolutely no desire to take the leftovers home. I fixed some snacks for us after we got home to satisfy our still-significant hunger.To their credit, the kind folks at the restaurant offered to give us a discount (which we refused). We left a generous tip. We understand it's possible that we happened to order dishes that were anomalously poor. But we figure that, as rarely as we eat out, we dare not risk another fifty bucks by returning to Szechuan China.",
+                "reviewer_id": "GZ3-_JOf13K-Vh9LFrtfOw (1)",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 1.4184236244245128e-07,
+                    "positive_probability": 0.9999998581576394
+                }
+            },
+            {
+                "review": "I feel very bad writing a negative review about a restaurant that clearly is popular. But I must be honest. A little over a week ago, my wife and I decided to try Szechuan China. When we walked into the place we were encouraged, because we were the only Anglos there. If Asians liked it, it must be good! And for all I know, it is outstanding according to genuine ethnic standards. The hostess was very friendly, as was our waiter, although he did not appear to understand that, when there are a gazillion items on a menu, diners should not be expected to order within three minutes of being seated. When our orders arrived (rather quickly, in fact), both were feasts for the eyes. Everything was great thus far.But that's where the feast ended. My wife ordered a dish that featured mushrooms and tofu. Although beautiful to look at, it was tasteless. We both decided that they must not have added any flavorings to it--it appeared to be just mushrooms and tofu, nothing else (except for, presumably, the cornstarch that created the lovely thickness of the sauce).My entree, a Szechuan dish featuring poached fish in a very hot chili sauce, at first impressed me with its zing. But after a minute or so, I began to taste the salt. Wow! I grew up with traditional Texas cuisine, which means that I was pretty much pickled in sodium chloride by the time I was in my teens--so saltiness is not inimical to my taste buds. But this was beyond the pale. I was still tasting the salt half an hour after I got home, even after rinsing my mouth several times with water. (I should also mention that the dish overflowed with oil.)Because we are impecunious, we never leave food on our plates at a restaurant; we even carry rather substantial containers in our car so that we don't have to ask for unecological Styrofoam containers. Yet this is the first time in our many years of marriage that we have left substantial portions of restaurant dishes on our plates. I was able to eat only about a third of my food before the extreme saltiness forced me to stop eating. My wife ate about a fourth of her entree before its tastelessness led her to stop eating. And we had absolutely no desire to take the leftovers home. I fixed some snacks for us after we got home to satisfy our still-significant hunger.To their credit, the kind folks at the restaurant offered to give us a discount (which we refused). We left a generous tip. We understand it's possible that we happened to order dishes that were anomalously poor. But we figure that, as rarely as we eat out, we dare not risk another fifty bucks by returning to Szechuan China.",
+                "reviewer_id": "GZ3-_JOf13K-Vh9LFrtfOw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 1.4184236244245128e-07,
+                    "positive_probability": 0.9999998581576394
+                },
+                "stars": 1
+            },
+            {
+                "review": "I've been to Szechuan China 4 times now, still amazing and easily the best Chinese in Champaign IMO. Unfortunately, most of the people reviewing Chinese places here non-Chinese (like 90% white people). There's a reason that this place's parking lot is often full of cars; several of my international student friends that have eaten here have all said that they love it. Last time I went with some, one of them said about some of the dishes: \"It feels like I'm back in China.\" If you would like some help with what to order, I highly recommend the following:Chongqing fish filet with pickled vegetablesOx tongue and tripe with chili saucehot and sour shredded potatoeggplant with chili sauceseared cow stomachsan bei chicken",
+                "reviewer_id": "lJw_0CG8isgttEMIVUEtkg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.11450805899159983,
+                    "positive_probability": 0.8854919410084077
+                },
+                "stars": 5
+            },
+            {
+                "review": "My partner and I were excited to try this place; we both love Chinese food and spicy dishes and we love supporting local businesses. I ordered from the vegetarian portion of the menu and the dish that came looked interesting but it was about 50% fish. I explained that I don't eat animals at all and since the dish was in the vegetarian section and didn't specifically say it contained animals, I was expecting a vegetarian dish. The waitress asked if I liked vegetables (really) and suggested a tofu and bok choi dish. I was a bit apprehensive because \"tofu and bok choi\" tends to be incredibly boring, but as the staff recommended it, I thought it must be a good choice. NOPE! The dish was swimming in translucent, viscous, whitish sauce that lacked any flavor besides salt. I ate a few pieces of tofu and they were bland and squishy, the bok choi was limp and similarly flavorless. I didn't bother trying the frozen carrot cubes or peas that were floating in the sea of slime. After a few minutes, the sauce began to congeal. It was, quite frankly, disgusting. A server asked if I liked the dish and, trying to be nice, I told her it was very bland and not to my tastes. She asked if I wanted to take it to go (uh, no) and when I said I did not, she picked it up, made a strange face, sticking out her tongue, and took it away. I don't know if she didn't see that I was looking at her or if she was sympathizing.I'm sad to say, the rice wasn't even good. My partner did like his dish and said the fishy tofu was pretty good but also had a slimy sauce. They charged us for all 3 dishes and a 15% tip on top of it! The tip wasn't indicated anywhere that we could see, so basically it's a rip off.",
+                "reviewer_id": "ncZxFHnFa9c_9Y33bVzKLg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.03933287346817357,
+                    "positive_probability": 0.9606671265318365
+                },
+                "stars": 1
+            },
+            {
+                "review": "This place was amazing! reminded me of the authentic szechuan that I can get from the chinatown at home. i had been dreaming of that shredded potato dish and never thought i would be able to get it here in champaign. if you are looking for standard chinese american fare, you have to remember that szechuan is a lot more spicy, and i love that about it. when i ordered a tofu dish the server asked if it was ok that it had meat and i said of course. So i think they are starting to learn how to be more vegetarian accessible. they also asked if we had any questions about the menu. where i am from the menus for szechuan won't be that descriptive and will not have pictures, i appreciated that they took the time to explain what their dishes are. I also like how they converted the decor of the place. looking forward to trying more stuff on the menu. i love that they brought some heat to this town.",
+                "reviewer_id": "OvNUbUGurlG6jtWLV2sxgw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.00025698612818908143,
+                    "positive_probability": 0.9997430138718132
+                },
+                "stars": 5
+            },
+            {
+                "review": "Two stars for really salty food and portions being on the small side. I would expect exceptional food to justify the small-ish portions for the price, but nothing was exceptional about Szechuan China.  I have tried the beef with garlic and scallions and pan fried fish strips. The beef was really really salty. Even eating it with a bunch of rice and water I only finished about three quarters of the already small portion before deciding to save it. When I tried to eat that stuff the next day I ended up throwing out the rest. On the plus side the fish was actually pretty good compared to the salty stuff they called beef. They actually filled up the plastic container it came in this time, and it actually tasted alright. One minor complaint is that the menu said the fish was \"pan fried\" but I received more of a steamed dish. I don't know if they made a mistake in my order or the pan fried fish is actually supposed to be like that. The price was a tad expensive, but after the \"grand opening 15% discount\" was applied the prices were very reasonable. If the limited time discount went away I would definitely pass on this place. I might give Szechuan China another chance sometime soon but I doubt other dishes will be very good given my first experience with them. I wouldn't say they're horrible, but the mix of high price and subpar food is a turn off.",
+                "reviewer_id": "qZpkw9oFYughFfAFtTM8Ig",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.00021558356874286358,
+                    "positive_probability": 0.9997844164312427
+                },
+                "stars": 2
+            },
+            {
+                "review": "The first time I came to this place was when it first opened, and it was absolutely amazing. I think I have the right to say that since I tried 6 of their dishes! I came here about a month later, and it was so crowded. Everyone was so busy, and all our food were not prepared the same way at all. I was pretty disappointed, but I'm sure this review will help them improve. This restaurant has amazing potential!",
+                "reviewer_id": "tltp1yeqycXSUF73zXJ5uw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.10806518271783283,
+                    "positive_probability": 0.8919348172821621
+                },
+                "stars": 4
+            },
+            {
+                "review": "As a Chinese, I would say: the dish are not as traditional as original spicy Chinese food. But it's absolutely the best in town for spicy Chinese food.",
+                "reviewer_id": "xJZlN71GpCs_lEboEeIJWg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.15519381258145176,
+                    "positive_probability": 0.8448061874185466
+                },
+                "stars": 5
+            },
+            {
+                "review": "I went with two of my co workers. I got the generals chicken. It was crispy. Burnt black crispy.  My co worker got the hunan beef which was 90% fat and cheap meat. The tea tasted like soap water. They brought the food out one order at time with minutes in between. When we got our check we asked to split it. They responded \"no split check\" and told us that there was a 20 dollar minimum if you use debit or credit cards.  Oh and the lunch didn't come with a egg roll, and no fortune cookies after the meal. Will never return.",
+                "reviewer_id": "yWDRTEmHV_06aVBkXq2Bag",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.47499239270351534,
+                    "positive_probability": 0.5250076072964895
+                },
+                "stars": 1
+            },
+            {
+                "review": "Had a great meal of Dim Sum and hot tea.  The owner helped guide my selection.  The food was delicious and the hot tea was the perfect accompaniment.   This is a new restaurant and I was anxious to try it.I will be back!",
+                "reviewer_id": "Z-7fHyL07w5RBFTksEdIAg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.03808872185716846,
+                    "positive_probability": 0.9619112781428355
+                },
+                "stars": 5
+            },
+            {
+                "review": "Salty food and small portion. Its not authentic at all, and the food was not well prepared.",
+                "reviewer_id": "zxKbkKEfxLb0lhLE0-prLg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.18549241276229061,
+                    "positive_probability": 0.8145075872377088
+                },
+                "stars": 1
+            }
+        ],
+        "similar_restaurants": [
+            "jg8rb2o3n0WTB1cBxhEycg",
+            "DB5rZ9spvyhBJsqOwckncw",
+            "fxYiDAxCK33ANk8-QemInA",
+            "6M1F5AECDtWff1Tu3uLEWA",
+            "OQIDPNTLuOD8io9FoKKIKA",
+            "TD11IPIlFL9sLAWbN9FzdA",
+            "kMcbuXZx3iILJVEPyLgPpQ",
+            "pygZcdPZ-XMp8CY8_5tE8A",
+            "qRgEy-m4sejzTKphIFKFkw",
+            "u06X5C_pIAVuOXOznIcPYw"
+        ]
+    },
+    "jg8rb2o3n0WTB1cBxhEycg": {
+        "keywords": {
+            "bigrams": [
+                "bubble_tea",
+                "lunch_special",
+                "fried_rice",
+                "chinese_food",
+                "food_pretty",
+                "fast_food",
+                "milk_tea",
+                "chinese_restaurant",
+                "evo_bubble",
+                "lai_lai"
+            ],
+            "unigrams": [
+                "food",
+                "tea",
+                "bubble",
+                "chinese",
+                "good",
+                "evo",
+                "order",
+                "place",
+                "taste",
+                "spicy"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "none",
+                "Ambience": {
+                    "casual": false,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "Delivery": true,
+                "Good For": {
+                    "breakfast": false,
+                    "brunch": false,
+                    "dessert": false,
+                    "dinner": true,
+                    "latenight": false,
+                    "lunch": true
+                },
+                "Good For Groups": true,
+                "Good for Kids": true,
+                "Has TV": false,
+                "Noise Level": "average",
+                "Open 24 Hours": false,
+                "Outdoor Seating": false,
+                "Parking": {
+                    "garage": false,
+                    "lot": false,
+                    "street": true,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 2,
+                "Take-out": true,
+                "Takes Reservations": true,
+                "Waiter Service": true,
+                "Wheelchair Accessible": true,
+                "Wi-Fi": "no"
+            },
+            "business_id": "jg8rb2o3n0WTB1cBxhEycg",
+            "categories": [
+                "Szechuan",
+                "Chinese",
+                "Restaurants"
+            ],
+            "city": "Champaign",
+            "full_address": "711 S 6th St\nChampaign, IL 61820",
+            "hours": {
+                "Friday": {
+                    "close": "21:30",
+                    "open": "11:00"
+                },
+                "Monday": {
+                    "close": "21:30",
+                    "open": "11:00"
+                },
+                "Sunday": {
+                    "close": "21:30",
+                    "open": "11:00"
+                },
+                "Thursday": {
+                    "close": "21:30",
+                    "open": "11:00"
+                },
+                "Tuesday": {
+                    "close": "21:30",
+                    "open": "11:00"
+                },
+                "Wednesday": {
+                    "close": "21:30",
+                    "open": "11:00"
+                }
+            },
+            "latitude": 40.109459,
+            "longitude": -88.230604,
+            "name": "Evo Cafe",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media3.fl.yelpcdn.com/bphoto/4ym0ngY0ZGvSLZMjmwH0NA/ms.jpg",
+            "review_count": 40,
+            "stars": 2.5,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "Ok, everyone is right about the food. Food was okay. The bubble tea and smoothies also taste good. ",
+        "reviews": [
+            {
+                "review": "Not a super good spicy Chinese food restaurant but fair enough.",
+                "reviewer_id": "3I24ToNgaUhs67m8XEpF2w",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6414975373340104,
+                    "positive_probability": 0.35850246266598934
+                },
+                "stars": 3
+            },
+            {
+                "review": "When my fiancee and I went to U of I, Evo was one of our favorite restaurants. We would go there all the time for delicious bubble tea and Chinese food. I was especially found of the House Fried Rice. You would think fried rice tastes the same everywhere but the spices that Evo used and the gigantic pieces of chicken and shrimp made it out of this world.Fast forward to a few weeks ago. We took a trip to see the campus and made sure to stop at Evo. Something has really happened to the quality of the food. Except for the bubble tea, nothing really tasted the same as when we last went to Evo, and we were pretty disappointed. If we still lived in the area, we would still go to Evo for bubble teas and the occasional meal but it would not be the regular restaurant-of-choice that it once was.",
+                "reviewer_id": "47O4htgjIeTTv6cJ-kgRxA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8011963496248435,
+                    "positive_probability": 0.19880365037516473
+                },
+                "stars": 2
+            },
+            {
+                "review": "Alright food, alright drinks. Not really a place I'd stop by for gourmet food but still pretty okay. I'm not a fan of making drinks from syrups or powders but it is challenging to keep a full stock of fresh fruits and vegetables when smoothies aren't incredibly popular in America yet.",
+                "reviewer_id": "5BNI8ukGTlwUI2CCeyjZOw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.22723413613704177,
+                    "positive_probability": 0.7727658638629608
+                },
+                "stars": 3
+            },
+            {
+                "review": "After trying a few Chinese places around Campustown, I decided that I liked this place over the others. I really enjoy their orange chicken, the mongolian beef, and the beef with broccoli. Their sichuan food is also worth trying. The atmosphere is okay and the service is acceptable. My complaint is that the price is a little more than others but my favorite dishes taste better here than elsewhere so I am fine with that.",
+                "reviewer_id": "9i-36HhVvgCcjGA2xsCmCw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.004199067427606177,
+                    "positive_probability": 0.9958009325723952
+                },
+                "stars": 3
+            },
+            {
+                "review": "Lunch portion is pretty though the selection sucks. Fantastic bubble tea. I've had most of the over rice dishes, again portions are solid and the quality is as good as anything else out there. Service is lackluster.",
+                "reviewer_id": "_H5MEMsNrbs-VU5DLPpcAg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.02839616408455201,
+                    "positive_probability": 0.9716038359154477
+                },
+                "stars": 3
+            },
+            {
+                "review": "I tried this place a couple of weeks ago because I always see a line outside of it and they had a deal on Hooked, so I figured why not give it a shot. Not only was the food just mediocre, but the egg roll had raw pork in it. I even called them to let them know after I had discovered it. Luckily, I don't think I consumed any of that, but I will never be going back.",
+                "reviewer_id": "A7pbMhD1K1gierwhTdt1Nw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.023947723917529216,
+                    "positive_probability": 0.9760522760824689
+                },
+                "stars": 1
+            },
+            {
+                "review": "EVO seems to have gone downhill, but there is one thing they're doing right.The last time I went, I tried their spicy dry hotpot (ma la xiang guo). If you don't know what it is, try it.If you know what it is, order it.It's amazing, delicious, and about $22 a serving (good for 2 people).I've tried it at other Chinese restaurants on campus and EVO's is by far the best.",
+                "reviewer_id": "AeSr0QBHvgHiI31OG54TLw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3938582454810868,
+                    "positive_probability": 0.6061417545189135
+                },
+                "stars": 4
+            },
+            {
+                "review": "Even as a Chinese student, I never feel the staff have basic courtesy at all. Every day they serve you with their disgusting faces as if you never pay for your bill. When I see their faces I feel no appetite. This is the Chinese restaurant that I have WORST impression. When friends ask me to go eat Chinese, I must ask whether they are going to EVO. If they say Yes, I say No.",
+                "reviewer_id": "avwXSkc0SLJlrTduI8VbFQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.13512759875105024,
+                    "positive_probability": 0.8648724012489502
+                },
+                "stars": 1
+            },
+            {
+                "review": "Loved some of their food although they are expensive as hell. The biggest turn-off is super-rude behavior of nearly everyone who works there.  The waiter (who happened to the same person at the register sometimes) literally throws food items on the table without uttering a single 'enjoy your meal' or 'thank you' . The gesture almost indicates they are pissed off that I showed up in there to eat !",
+                "reviewer_id": "CcrzahdEMg5se-NMYXJTzQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.172618473413015,
+                    "positive_probability": 0.8273815265869935
+                },
+                "stars": 1
+            },
+            {
+                "review": "Dishonest management. Food is greasy and bland. Go to Empire Chinese, instead. I had the sesame chicken and it was really chewy.",
+                "reviewer_id": "Cokoez_sv4i0edUL1Eg7XQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.33989926919056157,
+                    "positive_probability": 0.6601007308094377
+                },
+                "stars": 1
+            },
+            {
+                "review": "chocolate bubble tea.game over.get it.",
+                "reviewer_id": "cpr0SwTAlIQzR-O4Hf4gsw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3124999999999999,
+                    "positive_probability": 0.6874999999999996
+                },
+                "stars": 5
+            },
+            {
+                "review": "The food is inconsistent. Not the worst on campus, but overpriced, greasy, salty, nothing to compare to a place like Lai-Lai. The reason I won't go back there is that I happened to be in the restroom and I saw one of the chefs (or the cooks, not sure) going out of the bathroom without washing his hands. This is unforgivable. I don't care how good their food could be but, anyway, trust me, it's not as good as to be worth this lack of hygiene.",
+                "reviewer_id": "dCVNBSMVy1cqpJBw1OJ_6w",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9647850145996933,
+                    "positive_probability": 0.03521498540030572
+                },
+                "stars": 2
+            },
+            {
+                "review": "Big step up this semester, especially in terms of taste. Either they had a new chef or the old one just attended summer school. Definitely the best Sichuan cuisine in town now. Taste is kind of toned down to accommodate majority but you can request more spicy for greater authenticity. They also seem more careful about hygiene now with the negative reports last semester.",
+                "reviewer_id": "DeyBukxe8-L-YhWUYSrL4A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0034544683879941264,
+                    "positive_probability": 0.9965455316120058
+                },
+                "stars": 5
+            },
+            {
+                "review": "Evo?! The biggest fighting game tournament of the year? No, doesn't look like it. Instead, it's a fast food Chinese joint. I have to say that their lunch special isn't a special at all since the amount of food you get is equivalent to any other Chinese fast food joint at the same price. However, I will say that what makes them unique is that they do serve tofu and a scrambled egg/tomato dish which I've never seen before in the myriad fast food Chinese places I've been to. It's also neat that the water bottles are free too.",
+                "reviewer_id": "eFIlrOz3TnuZQeh2Y1e17Q",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5582376900708982,
+                    "positive_probability": 0.4417623099290975
+                },
+                "stars": 3
+            },
+            {
+                "review": "Food and bubble tea aren't consistent. Sometimes it's good and sometimes it's bad.",
+                "reviewer_id": "H9YgjifTAcsqjUo3pKBTNw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.12838859638000602,
+                    "positive_probability": 0.8716114036199933
+                },
+                "stars": 3
+            },
+            {
+                "review": "People come here for the bubble tea and hotpot. Those are OK, but the rest of the food is wildly inconsistent. A lot of the food I've ordered has had an \"off\" taste. The bubble tea and hotpot would make up for it, but they are also quite rude here. They won't explain basic things and there have been many instances of people I know getting kicked out because they had finished their food...when there were tables free!",
+                "reviewer_id": "HqaXK9toBpQdcz-0-rVwKw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.05534088438725952,
+                    "positive_probability": 0.9446591156127397
+                },
+                "stars": 1
+            },
+            {
+                "review": "Food is pretty good and seems authentic enough given they draw a lot of Chinese people to eat here. I enjoyed their food but it was pretty expensive compared to the other choices on Green St. However, our waiter couldn't speak English at all and only served us water. In addition, there was a mandatory gratuity charge even though they never served us and I was only with a group of 3 total. I'd recommend places like Lai Lai Wok over this place.",
+                "reviewer_id": "I1Wv4Z_2nCMtxQ4l9dNQiA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.04041434004631968,
+                    "positive_probability": 0.959585659953684
+                },
+                "stars": 2
+            },
+            {
+                "review": "The food is extremely greasy and not well cooked at times. The only decent dish amongst all the below average ones is the Kung Pao Chicken. i have mostly gone to eat here for its cheap price lunch combo (2 entrees) meal.The ambiance is a little unhealthy, with a air of greasiness. I would suggest to sit upstairs, which is comparitively more spaced than downstairs.",
+                "reviewer_id": "Ia59s0dTQBNTPBjAkqpsJw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.05047124827741941,
+                    "positive_probability": 0.9495287517225769
+                },
+                "stars": 1
+            },
+            {
+                "review": "As an American Born Chinese who grew up in Chicago tasting authentic Chinese food since as long as I can remember, the food here is not the best but it satisfies my taste buds when I'm away from home. However, the drinks here, especially the slushes, are terrible! I tried the watermelon slush and it tasted awful. They do not use real fruits at all and they are overloaded with sugar. The watermelon slush tasted extremely artificial and it left a weird after taste that reminded me of medicine.",
+                "reviewer_id": "ILlzSaL0s4NYGNAeVyBXPA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0021755508948760553,
+                    "positive_probability": 0.9978244491051208
+                },
+                "stars": 2
+            },
+            {
+                "review": "I've never had the food here, but the smoothies are tops. The cappuccino is my favorite, and though I LOVE tapioca in my smoothies, this is one time I'll skip it just because it distracts me from how amazing the flavor is!I always order before I see the sign near the counter advertising peppermint... It sounds pretty bizarre, but still, I'm intrigued.",
+                "reviewer_id": "INbuULh98NmGYKZMy6wqwg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4353210117988144,
+                    "positive_probability": 0.5646789882011808
+                },
+                "stars": 4
+            },
+            {
+                "review": "Five Star Bubble Tea. Ok, everyone is right about the food. However, that is not the prize at Cafe Evo. Now listen, I recently moved here from Oakland, CA. The Bay Area knows alot about killer bubble tea, with tapioca pearls. No one can challenge this. But let me tell you something, Cafe Evo is the only bubble tea within a two hour drive to Chicago that is worth finding. I recommend Banana, Taro, or Coconut and you have to order it as \"banana snow with pearls.\" Shake it up before you plunge the straw in, and try not to suck it all down in the car before you get back to work. I for one, have always devoured the whole thing before I can get five minutes back across town. Pitiful, but incredible. Oh, and don't expect them to be nice.",
+                "reviewer_id": "J1TuQczoNskddDFwQUXi9A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.013900765572722202,
+                    "positive_probability": 0.9860992344272821
+                },
+                "stars": 5
+            },
+            {
+                "review": "The bubble tea here is simply amazing! I am from California, where they have tons of bubble tea places. However, Evo Cafe supplies the most amazing bubble tea I have ever ingested! They have a wide variety of bubble tea ranging from milk tea to slushies. They also have boba and many different types of jellies to go with your drink. This place has become one of my favorites to get my milk tea fix.",
+                "reviewer_id": "jPrsHiYucnzlcqm51I4G_w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.00699828196312642,
+                    "positive_probability": 0.9930017180368753
+                },
+                "stars": 5
+            },
+            {
+                "review": "Wow.  Should have read the reviews and stuck to the tea.  I had the lo mein looking noodles, spicy \"young' chicken and general tso.  The only thing I could get down was the noodles.  I went in because the place was packed with Asian students so I'd figure it was worth a shot.  Now I'm not feeling to good.  Note to self:  read yelp reviews first!",
+                "reviewer_id": "KOyNn1zsqon0oz6wfySx3A",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.704604188440302,
+                    "positive_probability": 0.29539581155970107
+                },
+                "stars": 1
+            },
+            {
+                "review": "I've been to China, and this food is authentic, particularly in southern China. It's best to go in larger groups where you can share the various dishes that typically contain just 1 or 2 items. If you're a Chinese student, you'll feel at home, right down to the rotating tables that make sharing food much easier. I liked the food very much, but will only go when I have 3 or more other people to go with.",
+                "reviewer_id": "MF6K6_OYDWIazLxRHVmZ3Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.014940326904803982,
+                    "positive_probability": 0.985059673095198
+                },
+                "stars": 5
+            },
+            {
+                "review": "My friend and I were feeling adventurous one night and decided to order things we would not typically order from a Chinese restaurant.  He ordered twice cooked pork, and I ordered spicy schezuan fish.  Now this was a bit on the expensive side ($12 for my fish dish, I think the other dish was $8 or $9), but it was totally worth it.  Quantity wise, that fish dish was my dinner that night as well as dinner the next day.  Taste wise, it was amazing!  I wouldn't eat this every day since it is a bit heavy, but this was good!  Their bubble tea drinks are mediocre, and it is a bit pricey overall, which is why I give this place 3 stars instead of 5.",
+                "reviewer_id": "MJCBX00fARCnICrNCy8I5w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.09476498224249383,
+                    "positive_probability": 0.905235017757505
+                },
+                "stars": 3
+            },
+            {
+                "review": "I've given Evo Cafe far more chances than it deserves. The food is hardly considered passable. The last time I was here, there was a piece of metal in my food. The bubble tea is alright, but most of them are made from powder anyway. The only things that are probably keeping this place going are the prime location and wide menu selection.",
+                "reviewer_id": "ppzbDTEoLJGWc6knVdoo7w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3508985922702466,
+                    "positive_probability": 0.6491014077297496
+                },
+                "stars": 1
+            },
+            {
+                "review": "Never enjoyed the food here. The mango shake however is good. But thats not a good enough reason to go to a chinese restaurant, sorry!",
+                "reviewer_id": "R-en1tx1j5iW2KyHT49GiQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.17114086711064885,
+                    "positive_probability": 0.8288591328893521
+                },
+                "stars": 2
+            },
+            {
+                "review": "I like the bomba tea here",
+                "reviewer_id": "rkiyCq0D9b5eXXhOyIH9MQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5103372405825681,
+                    "positive_probability": 0.4896627594174319
+                },
+                "stars": 3
+            },
+            {
+                "review": "The bubble tea is pretty good.  I'd often stop here after class and grab one to bring back home.  Food-wise, they're average for what else you'll find around in Champaign/Urbana.  That being said, unfortunately the service here leans toward poor/fair if you're white.  There, I said, it.  I'm not taking it back.  I've been here multiple times with my buddies and we were ignored or hardly waited on.  That would be understandable if we were loud or obnoxious, but we were 4 quiet white guys.  One time we went in, were seated, and nobody came to take our order.  I went up to the counter after about 15 min to ask if we could order.  In broken English I was told that someone would be there to take our order.  After another 5-10 minutes of waiting we decided to just up and leave.  Awesome.",
+                "reviewer_id": "SQ4iC3Qx4DKBr-pVzuYQUA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6969352412620391,
+                    "positive_probability": 0.30306475873795846
+                },
+                "stars": 2
+            },
+            {
+                "review": "Love the spicy fish there. The bubble tea and smoothies also taste good. Best spicy Chinese dishes around CU area. Love it. The lunch special is just so so. If you ordered anything during lunch special time, it will take at least 30 min.",
+                "reviewer_id": "TsgNaMUMdiHPag9HI4oVfw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.015169152152896796,
+                    "positive_probability": 0.9848308478471053
+                },
+                "stars": 5
+            },
+            {
+                "review": "Food was okay.  The smoked tofu with celery and pork shreds was okay, but underseasoned.  The spicy boiled beef was also just okay.  Not terrible - we ate the whole thing - but nothing to write home about, either.  Not thrilled with the obvious clumping from excess corn starch, either.They do have lots of space, and can be good for groups, and their milk tea with boba was good.  I'd go again, but  it's not worth going out of your way for, by any means.",
+                "reviewer_id": "W9Et1PM6R9PQ9g04zgR3Rw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6624906019623812,
+                    "positive_probability": 0.3375093980376216
+                },
+                "stars": 3
+            },
+            {
+                "review": "Food poisoning, worst taste of tea, worst service. Stay away from it for your life!We a group of 4 entering Evo for some bubble tea. We ordered coconut, taro and boba. The taste of them were terrible and we could even find the powder they used to make those tea. Coconut tasted like some out-dated milk and taro tasted like sugared water. The servers were unhappy seeing us just order drinks, not food and they paid us the worst service ever with so negative attitude. The worst part is when we got home and prepared for dinner, two of us got food poisoning. They spent the whole night to calm the pain in their stomach and vomit nothing, because they had no chance to eat anything else but those Evo tea.Please let other people read this comment, for the good of their lives!",
+                "reviewer_id": "WQk6VbzOJZ5hbeuKcf0YWw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6565759858419213,
+                    "positive_probability": 0.3434240141580766
+                },
+                "stars": 1
+            },
+            {
+                "review": "BAD! food is bad; drink is acceptable......go there only because they open til midnight.",
+                "reviewer_id": "y9zNaZyIilhOB0b3XfBDTw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6185138968289462,
+                    "positive_probability": 0.3814861031710529
+                },
+                "stars": 1
+            },
+            {
+                "review": "Waited 15 mins for service, 20mins to get the menu, 15 mins to order the food, 20 mins to get the first dish. I walked in at 6:30 and start on the first dish at around 8. Absolutely ridiculous. Never come to this place if you don't want to rise your blood pressure.",
+                "reviewer_id": "yotIURCmNzDngToJEnpFMg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4701942582824429,
+                    "positive_probability": 0.5298057417175575
+                },
+                "stars": 1
+            },
+            {
+                "review": "Didn't get a chance to try the food. But the service is rude and sucks needed a quick lunch since on break and walked in watched the cashier or owner whoever she is taking an order from a customer being VERY rude ..after he ordered it was my turn waited 15 minutes until she noticed me. (She saw me when I came in) asked if they had the lunch special she said no (understandable since its the weekend ) . Told her J needed to then look at the menu. Looked at the menu for 10 minutes but took another 15 for her to notice me (she was right there just making tea ) . Then told me I had to wait 40 min for a general tsos chicken and BBQ fried rice...walked out. Not going back.",
+                "reviewer_id": "ZprK8AiWE0dxANMxz-GVMQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9172465720378029,
+                    "positive_probability": 0.08275342796220657
+                },
+                "stars": 1
+            }
+        ],
+        "similar_restaurants": [
+            "Kck9wE9Z1S_xxzglh1Qdwg",
+            "VyqJehEkM6jlrzbXOudviw",
+            "M5E7DW8rqI4v37HhD2pzGQ",
+            "rE8048_DAh3Z8Tep466wrA",
+            "i0_W9_1abdjBS7d5-pWORQ",
+            "vubRS4bmJ_8yXpn-67wNZA",
+            "umq8alp-uLf3hXnpSC99WA",
+            "u06X5C_pIAVuOXOznIcPYw",
+            "fxYiDAxCK33ANk8-QemInA",
+            "6M1F5AECDtWff1Tu3uLEWA"
+        ]
+    }
+}

@@ -1,0 +1,380 @@
+{
+    "wYT34MQMvjXU_j62UiyFtQ": {
+        "keywords": {
+            "bigrams": [
+                "hot_pot",
+                "pot_lab",
+                "house_made",
+                "chinese_hot",
+                "made_noodles",
+                "lamb_beef",
+                "authentic_chinese",
+                "highly_recommend",
+                "service_great",
+                "environment_service"
+            ],
+            "unigrams": [
+                "hot",
+                "pot",
+                "food",
+                "good",
+                "place",
+                "service",
+                "great",
+                "broth",
+                "lamb",
+                "don"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "beer_and_wine",
+                "Ambience": {
+                    "casual": false,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": true,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "Caters": false,
+                "Delivery": false,
+                "Dogs Allowed": false,
+                "Good For": {
+                    "breakfast": false,
+                    "brunch": false,
+                    "dessert": false,
+                    "dinner": false,
+                    "latenight": false,
+                    "lunch": true
+                },
+                "Good For Groups": true,
+                "Good for Kids": true,
+                "Has TV": true,
+                "Noise Level": "average",
+                "Outdoor Seating": false,
+                "Parking": {
+                    "garage": false,
+                    "lot": true,
+                    "street": true,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 2,
+                "Take-out": false,
+                "Takes Reservations": false,
+                "Waiter Service": true,
+                "Wheelchair Accessible": true,
+                "Wi-Fi": "free"
+            },
+            "business_id": "wYT34MQMvjXU_j62UiyFtQ",
+            "categories": [
+                "Hot Pot",
+                "Asian Fusion",
+                "Restaurants"
+            ],
+            "city": "Champaign",
+            "full_address": "112 E Green St\nSte A\nChampaign, IL 61820",
+            "hours": {
+                "Friday": {
+                    "close": "00:00",
+                    "open": "12:00"
+                },
+                "Monday": {
+                    "close": "22:00",
+                    "open": "12:00"
+                },
+                "Saturday": {
+                    "close": "00:00",
+                    "open": "12:00"
+                },
+                "Sunday": {
+                    "close": "22:00",
+                    "open": "12:00"
+                },
+                "Thursday": {
+                    "close": "22:00",
+                    "open": "12:00"
+                },
+                "Tuesday": {
+                    "close": "22:00",
+                    "open": "12:00"
+                },
+                "Wednesday": {
+                    "close": "22:00",
+                    "open": "12:00"
+                }
+            },
+            "latitude": 40.110518,
+            "longitude": -88.237281,
+            "name": "Hot Pot Lab",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media3.fl.yelpcdn.com/bphoto/dwYeW9whAHDazBm-bqVOIA/ms.jpg",
+            "review_count": 29,
+            "stars": 4,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "I don't eat lamb personally but my friends like it a lot. However, the quality of ingredients is very high and the overall experience is very fun and worth trying at least once! Very expensive for a hot pot place. ",
+        "reviews": [
+            {
+                "review": "To Chinese readers. I would suggest prepare hot hot on your own instead of go to this place. Lamb and beef slices from Green Onion are far better. The good: clean and friendly stuff.The bad: the sesome sauce has a strange sour flavor. Some meats are not fresh. Very expensive for a hot pot place.",
+                "reviewer_id": "-pVnnWg3yNxDVj8tQ9Z0JQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6673897830300509,
+                    "positive_probability": 0.33261021696994486
+                },
+                "stars": 3
+            },
+            {
+                "review": "The taste is really good and the environment looks fancy as well. Very nice and friendly waitress. Authentic Chinese hot pot.",
+                "reviewer_id": "4O5pg-a1U3o_qg7WI4P9MQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5906880089482641,
+                    "positive_probability": 0.4093119910517362
+                },
+                "stars": 5
+            },
+            {
+                "review": "Best hotpot restaurant ever! Great food at reasonable price! Really enjoyed the environment and the service! If you are looking for a nice place to eat tonight, where else to go!",
+                "reviewer_id": "5ArAPSyZwoax8U1LfhxeFg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.19904376014430092,
+                    "positive_probability": 0.8009562398557004
+                },
+                "stars": 5
+            },
+            {
+                "review": "Went to Hot Pot Lab with a group of friends a couple weeks ago. Food was fresh and nicely served. It could be quite expensive but you will end up paying less if you go there with more people. They have tables for four or six people. Those stoves were super cool. We can finally have a good hot pot in Chambana!",
+                "reviewer_id": "7WV5CMWJJRmWbzOdVgjkLA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.20520999524574102,
+                    "positive_probability": 0.7947900047542559
+                },
+                "stars": 5
+            },
+            {
+                "review": "This place really hit the spot.  my wife and I had the meat lovers and seafood lovers combos one with the tomato broth and the other with the house special broth.  the process is a bit unclear to first time guests (even first time guests with a bit of \"hot pot\" experience) All of the ingredients are good with the exception of the noodles which are GREAT!There is always room for improvement for example the sesame sauce is a bit bland and old tasting and the waitress was unable to provide any kind of chili sauce which could have been a bit of help to the overall flavor.Hot pot lab is certainly worth a shot.Just keep in mind you are in rural illinois not a major city so don't set your sights too high.",
+                "reviewer_id": "afjDARma93OD7W0Id9CvQg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.07377279435796012,
+                    "positive_probability": 0.9262272056420314
+                },
+                "stars": 4
+            },
+            {
+                "review": "I am 100% Chinese, so I am qualified to review this place as the Most Authentic hot pot restaurant in town. All the food here are up to the standard of authentic, like those I taste in China, not mentioned fresh and clean. All the other restaurants in town offer hot pot could not provide food up to this standard. Based on my personal experiences, I like the tomato soup base. It brings up the flavor in vegetables. Bonus points for the soup tastes after cooking all the meat in there. Hot pot sausage is another dish you must try. The mini eggs taste incredible juicy after cooking in the broth and the egg yolk is very tasteful. I don't eat lamb personally but my friends like it a lot. For the dinning environment, I would say it is good for family, nice for a date and fun for group hang outs. It totally worths for the money you pay for. Servers here are very nice and the manager keep checking on us make sure we had a good time. Anyway, I would say Hot Pot Lab is a fun experience. It would be a good place to treat yourself. :)",
+                "reviewer_id": "aPi25hxINfCNsqdQjkNfCQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.02380568722686432,
+                    "positive_probability": 0.9761943127731472
+                },
+                "stars": 5
+            },
+            {
+                "review": "I really enjoyed with my family in this place the food is nice our waitress is so helpful for us it was little funny I ask her about a food and am a vegetarian and she helped me a lot but some of my question is very hard for her and she called the manager or I don't know the guy comes and help me to get a veggie dish but the waitress service is so nice she teach me about a food you know am nepali indian and I really don't have that much idea on Chinese food..and food is good tho...me and my family enjoy a lot ...in shortly I wanna say the best chinese restaurant in champaign il",
+                "reviewer_id": "B9pZqUd8oZxGNsiZ8GJ51w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0026071331300852613,
+                    "positive_probability": 0.9973928668699237
+                },
+                "stars": 5
+            },
+            {
+                "review": "Came here with a group of 3 late in the evening so it was quiet. The service was somewhat lacking, but it may be because they were closing down. I never got a water refill but they answered the rest of our requests in a timely manner! The spicy broth was very spicy for my taste, but after watering it down, it was very good! The price is very reasonable for the quality and amount of food that we got. Notably, the aesthetics were very good and the quality of everything was excellent! In particular, the napkins and the little plate and chopsticks were of very high quality. I would recommend this place! We appreciated that they asked us for feedback and suggestions indicating that they really valued our satisfaction.",
+                "reviewer_id": "Eh9cFjk7-Mg6DE5YyvLxWA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.003954064375122045,
+                    "positive_probability": 0.9960459356248709
+                },
+                "stars": 4
+            },
+            {
+                "review": "Wanted to try this place as the availability of hot pot in town is very scarce. The menu is easy to follow and has good variety. The waitress was extremely helpful clarifying any doubts on the menu.The hot pot was decent considering this small town but the serving sizes where small and expensive. At around 30 dollars a person better food could be eaten elsewhere.",
+                "reviewer_id": "eqEPdipx4VfS2q8fa0USeQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.005608527588717398,
+                    "positive_probability": 0.9943914724112858
+                },
+                "stars": 2
+            },
+            {
+                "review": "prefect food, fantastic service and even better experience of watching ncaa games while eating hot pot",
+                "reviewer_id": "EYYGM310_h8f8uHsVIbh5g",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.17706322316746398,
+                    "positive_probability": 0.8229367768325377
+                },
+                "stars": 5
+            },
+            {
+                "review": "Not worth the money! Don't even think about coming!There's not a single order that I don't regret ordering! The broth was so expensive and very oily. We ordered the pork balls which costs us $4 and what we got was a 5-half pork balls and tasted awful! Again, don't think about coming!!!",
+                "reviewer_id": "FZZ_K11vpdI6y3mPM_36YA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.21302250271067003,
+                    "positive_probability": 0.7869774972893259
+                },
+                "stars": 1
+            },
+            {
+                "review": "Best hot pot in Champaign Area. The bolus and shrimps are  so delicious, highly recommend~ Please try the plum juice and soy milk, they are amazing. The environment and service are great. It will be hard for you to find another place like this in Champaign.",
+                "reviewer_id": "gHQUSTyRL99O54Z8GdLjFA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.30051405959010424,
+                    "positive_probability": 0.6994859404098933
+                },
+                "stars": 5
+            },
+            {
+                "review": "Fabulous! Very cool dining experience! I came this noon, was noticed that they do special lunch offer. Broth and dipping sauce are all free!! Never thought could have such tasty food for around $18! My friend and I are so full. I'll definitely come back!",
+                "reviewer_id": "Gy4K2CxkAg34-nD8kwzbLA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.013568483889320044,
+                    "positive_probability": 0.9864315161106813
+                },
+                "stars": 5
+            },
+            {
+                "review": "All I can say is ridiculous. for 2+ years on this campus, first time, ever, will never visit a restaurant again.Ridiculously overpriced and not even authentic. well, maybe is only in chambana that this place will survive (not even 'survive', it's only opened for one month). at chicago chinatown you get everything better; better quality, quantity, service, flavor, more choices, at a much lower price. If you really wanna try authentic Chinese hot pot, maybe little sheep (unfortunately not in Chambana) pricier than AYCE hot pot but really worth the price. Chicagoland AYCE is great as well. Anyway way better than this. ps. me & my bf spent $35 here and we are still hungry. We ordered panda express right after and never though PE could be this delicious and fulfilling.",
+                "reviewer_id": "iZXnZSzTUWdXe_ZNIixgUA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.08891346487835212,
+                    "positive_probability": 0.9110865351216427
+                },
+                "stars": 1
+            },
+            {
+                "review": "A very good and traditional Chinese hot pot restuarant. recommend the server Molly. She serves fast and nice. always know wht u want and need and serve it before u ask her. good server.",
+                "reviewer_id": "JI_P7vYhsiNNowt8xICKBw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.09991865146721185,
+                    "positive_probability": 0.9000813485327869
+                },
+                "stars": 5
+            },
+            {
+                "review": "Ouch, I hate to say this, but Hot Pot Lab isn't as great as when I first came, so I'm taking a star off. For my birthday, I came with a party of four since I was excited to return, and the five us had a fun time with the cooking experience, but otherwise, the service was shoddy. The waitress didn't give us the complimentary edamame appetizer, and she also didn't give us the plate of spices to mix with the sauces. She said Hot Pot Lab stopped doing that because it was a waste of spices to do so. I wish they'd at least put out a second menu of optional spices then. No one wants to eat plain sesame oil!! The waitress also had poor communication with us and we didn't get everything we ordered. We ordered 1 vermicelli and 2 house-made noodle, but we initially only got the house noodles and we had to remind her to get the vermicelli (because she already charged us on the receipt). We noticed they poorly portioned the house-made noodles and one plate definitely had more than the other. Besides that and vegetables (which they also skimped out on making it hard to share), we wanted 2 servings of lamb and 1 beef. Our order came and we only had 1 serving of meat given to us. She said it was lamb. We asked about the other meats, so she went back to the kitchen to look. I think they are either understaffed or the waiters had poor distribution of tables because she went to serve and seat other people and took a while to get back to us. This happened while 2 waiters were chilling around the door next to the kitchen. I felt bad for her! She finally came back to us and profusely apologized, then said they were OUT of lamb. That's fine, but you'd think they'd have a lot of lamb or buy more considering it's a popular item. So what about the beef? Well, it turns out, she said she made a mistake (and you know, didn't tell us), so we were actually eating a plate of beef. That'd be fine, but we had a diner who didn't eat beef - luckily she didn't touch it. At the end, we noticed that she charged us for 1 lamb even though they were out and we didn't even get it. That's a $8 difference! We also noticed she forgot to void the charge for the meatballs (we used a FB deal) and had to tell her. Overall, it came down to $15/person with tip included, so not bad! It's cheaper to buy ingredients from Amko and make your own hot pot, but unless you have your own burner, cooking it on a kitchen stove just isn't hot pot. As usual, the broths are really good and the ingredients are very fresh. I found out the Szechuan Spicy broth (at 2 chili peppers - the scale of hotness is 1-3 peppers) is RIDICULOUSLY SPICY. Like, I wanted to cry because I licked a chopstick dipped in it and it burned so much. Even the steam emanating from the pot is intense. If you really like feeling the burn, get this! Vegetarian note: ALL THE BROTHS ARE MADE WITH PORK BONES. They do offer specially made vegetarian-friendly broths (based from a normal water base with the spices added), so ask your server for that!Side note: they have a deal where if you show the waiter you liked their FB page and checked in on FB, they give you a free side of meatballs of your choice! Limited time only.",
+                "reviewer_id": "JsHky2NY-FvugF8WTMsZtQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9964707081304378,
+                    "positive_probability": 0.003529291869579537
+                },
+                "stars": 3
+            },
+            {
+                "review": "Always go there if have a group of three or more. Quite good service and pretty fresh food.",
+                "reviewer_id": "o2Gif9SuWG9pyMHreIqPRA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5147448236934804,
+                    "positive_probability": 0.48525517630651926
+                },
+                "stars": 4
+            },
+            {
+                "review": "As a 100% Chinese, I have two comments. The quality of the food doesn't worth you a try at any price. The price doesn't worth food of any quality. The seafood sauce was as sweet as BBQ sauce you find anywhere. The Napa cabbage was uncut in whole pieces with root. 7 dollar 5oz lamb has no fat.I gave one star because I can't post comment with 0 star.",
+                "reviewer_id": "SLOl_MwZsRXLj-3NS3_cyA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.33085242883615323,
+                    "positive_probability": 0.6691475711638447
+                },
+                "stars": 1
+            },
+            {
+                "review": "I went to this place yesterday with my friends for an organizational social event. Before I check out this restaurant, I'm a little bit worried about the price as I have seen few yelpers give this restaurants low marks due to the price things. However, I don't think myself has overpaid a lot for the great environment, helpful server, and fine plates after I tried out this great place. Personally, I have visited a bunch of hot pot restaurants both in CU area and Chicago. Although they may have a lower price at this point, I have to say that the preparation of raw materials is in an extremely rough way with the 'sliced' meat piled together. Also, I'm tired of grabbing food from one large pot, and really enjoying the individual pot. For those who has underrated this fine place, I'd suggest to take the dining environment and the great taste into consideration. It's really worth trying out and I'll definitely come back again.",
+                "reviewer_id": "tzUIx48LsWKyIQpJjsOXBg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.010592049501947823,
+                    "positive_probability": 0.9894079504980662
+                },
+                "stars": 5
+            },
+            {
+                "review": "Been to the hot pot lab yesterday, and I like it a lot. The only legit hot pot you can find in champaign Urbana area. Highly Recommend!",
+                "reviewer_id": "uL_CBEW27i4RuCAwEoz6Kw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.32768887206278197,
+                    "positive_probability": 0.6723111279372184
+                },
+                "stars": 5
+            },
+            {
+                "review": "This place had a cute ambiance and definitely had great tastes of hot pot. I initially ordered the mild broth, but switched after trying the spicy (the server was really nice about the switch). It wasn't long after we put in our order we were able to eat. So much food we actually over ordered, so I would suggest ordering a few things and adding on as you eat. We got the meat lovers and instead of lamb and beef we got double beef (again server was okay with this as well). The white shrimp paste was so good!! Good thing we didn't have to eat right out of the pots as it was very hot, temperature wise. I had to cool my food on the plates provided. The service was great and they were all more than willing to help us with anything we needed.  Will definitely be my go to hot pot spot!",
+                "reviewer_id": "w6CxvpIXqU39IXkYAlF8rw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.29787897002596875,
+                    "positive_probability": 0.7021210299740364
+                },
+                "stars": 5
+            },
+            {
+                "review": "Food was not fresh....had to go to restroom immediately after I had the hot pot.. The service was great though.",
+                "reviewer_id": "YkCu4X8XPPUt9UyevG7-rw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5877278338932886,
+                    "positive_probability": 0.41227216610671047
+                },
+                "stars": 3
+            },
+            {
+                "review": "Been to Hot Pot Lab last night with family and friends. The food is fabulous! It was a very pleasant dining experience. Service is decent and friendly. A+ drink and food for a get together with groups of people. It has the most authentic Chinese hot pot around C-U area.",
+                "reviewer_id": "yTu79G_Ukwg8c1htjK_k_Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.01387701713447883,
+                    "positive_probability": 0.9861229828655189
+                },
+                "stars": 5
+            },
+            {
+                "review": "My brother and I got Szechuan broth, lamb, fish balls, Napa, quail egg, choy, mushrooms, and house made noodles. The hot pots are all individual sized, which is quite convenient. Great service, nice facilities.  Very tasty! We'll be back!",
+                "reviewer_id": "Zas5YGlpDHDHDXvYw0KDpw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.33030757893187324,
+                    "positive_probability": 0.6696924210681263
+                },
+                "stars": 5
+            }
+        ],
+        "similar_restaurants": [
+            "dnRzZsej_I1URXYqEGGm7w",
+            "3BHId7STldaICUk-WVE7sA",
+            "YPLuTiEIrkVGxfxzuq54FA",
+            "r2pKiQ9LLaaVNNvBDfPd2w",
+            "7bJ3goEhvFu_FFiyCad2oA",
+            "jKPEJgRE_WvryvExq7zogQ",
+            "fYE54FZCIFYYdFs-AkqRuw",
+            "l6KWHEZMr1AuabPA61wlUw",
+            "qRgEy-m4sejzTKphIFKFkw",
+            "EJCIIIy4RghSG3Blsg9BrA"
+        ]
+    }
+}

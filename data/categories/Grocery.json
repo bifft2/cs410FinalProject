@@ -1,0 +1,220 @@
+{
+    "caK31Iq3TClNCRB9WH9lhQ": {
+        "keywords": {
+            "bigrams": [
+                "hot_bar",
+                "indian_food",
+                "indian_restaurants",
+                "chicken_tikka",
+                "special_rice",
+                "tikka_masala",
+                "rice_dishes",
+                "authentic_indian",
+                "grocery_store",
+                "best_deal"
+            ],
+            "unigrams": [
+                "food",
+                "rice",
+                "chicken",
+                "indian",
+                "good",
+                "dosas",
+                "masala",
+                "naan",
+                "mirsung",
+                "came"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "none",
+                "Ambience": {
+                    "casual": false,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "Caters": true,
+                "Delivery": true,
+                "Good For": {
+                    "breakfast": false,
+                    "brunch": false,
+                    "dessert": false,
+                    "dinner": false,
+                    "latenight": false,
+                    "lunch": false
+                },
+                "Good For Groups": true,
+                "Good for Kids": true,
+                "Has TV": false,
+                "Noise Level": "quiet",
+                "Outdoor Seating": false,
+                "Parking": {
+                    "garage": false,
+                    "lot": true,
+                    "street": false,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 1,
+                "Take-out": true,
+                "Takes Reservations": false,
+                "Waiter Service": true,
+                "Wheelchair Accessible": true,
+                "Wi-Fi": "no"
+            },
+            "business_id": "caK31Iq3TClNCRB9WH9lhQ",
+            "categories": [
+                "Food",
+                "Grocery",
+                "Indian",
+                "Restaurants"
+            ],
+            "city": "Champaign",
+            "full_address": "49 E Green St\nChampaign, IL 61820",
+            "hours": {
+                "Friday": {
+                    "close": "21:00",
+                    "open": "11:00"
+                },
+                "Monday": {
+                    "close": "21:00",
+                    "open": "11:00"
+                },
+                "Saturday": {
+                    "close": "21:00",
+                    "open": "11:00"
+                },
+                "Sunday": {
+                    "close": "21:00",
+                    "open": "11:00"
+                },
+                "Thursday": {
+                    "close": "21:00",
+                    "open": "11:00"
+                },
+                "Tuesday": {
+                    "close": "21:00",
+                    "open": "11:00"
+                },
+                "Wednesday": {
+                    "close": "21:00",
+                    "open": "11:00"
+                }
+            },
+            "latitude": 40.1097873,
+            "longitude": -88.2404819,
+            "name": "Mirsung",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media1.fl.yelpcdn.com/bphoto/JMDK6RZ_6WbdID0KBH4p_Q/ms.jpg",
+            "review_count": 9,
+            "stars": 3,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "This place has truly authentic Indian food at good prices. I came here earlier in the week and ordered the spicy masala dosa. I ordered the chicken tikka masala with rice AND naan. ",
+        "reviews": [
+            {
+                "review": "Mirsung is given representation mostly as a grocery store (at least according to its listing on Yelp), but several months ago, it annexed a modest, \"fast food\" cafe next door to the grocery.  Frankly, the purpose of my visits have been to pick up prepared lunches, not groceries, so I can't really comment on the latter.Like other Indian restaurants in town (except for the Bombay Grill on First Street), this place is mostly a greasy lunch counter for college kids.  There are a few tables for anyone who wants to eat there, and while the space is brightly-lit by large shopfront windows, the decorations are sparse and uninspiring.However, don't be deterred by general criticisms on the restaurant's interior.  Mirsung probably has the best deal on Indian food in Champaign.  When you walk up to the front counter, you'll see a food-laden hot bar, along with a white-board listing the daily menu and prices.  If you're not familiar with Indian food, this might be a good way to try it out, as you can just pick out dishes that are visually appealing to you.  Each day, Mirsung serves 2 vegetarian entrees, 2 meat entrees, a special rice dish, soup, appetizers (including samosas), and DOSAS!  The combination meals are around $7 to $9 (depending on whether you order meat or vegetable entrees), which is quite reasonable as your take-out containers will be bulking with food when you leave.  Most of the food you receive will be rice, a contentious point for most diners (who prefer more meat for their money), but given the spiciness and richness of many Indian dishes, I usually like having more rice.  If this is indeed an issue for you, I would recommend ordering the daily special rice instead of plain basmati rice, which costs $1 more per combo plate, but can easily serve as a meal by itself.I've had good experiences with the special rice dishes, including the lemon rice, tamarind rice, and chicken biryani.  These rice dishes are flavored generously with spices, mustard seeds, and fresh curry leaves.  I like the sauces on most of the entrees, including the chicken tikka masala, chicken vindaloo, and okra masala.  The only real complaint I have regarding food is that the paneer has been a bit tough when I've had it in the past.Mirsung is located a pleasant distance from the busiest part of Green Street, which means: (1) free parking is available, and (2) you won't feel that you're trapped in some hellish war between pedestrians and traffic.  Students shouldn't be discouraged from stopping by, though, as it is still an easy walk from the campus neighborhoods on First Street.",
+                "reviewer_id": "6nqakbu2zU6fjOmbE83_-A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 1.0060500134368555e-13,
+                    "positive_probability": 0.9999999999999212
+                },
+                "stars": 4
+            },
+            {
+                "review": "AVOID THIS PLACE!!!!!I've been here twice in the past week and maybe once before that, about a year ago... they have dosas.  I LOVE dosas.   And maybe just the fact that they have dosas made me delusional.   I came here earlier in the week and ordered the spicy masala dosa.   It came out in all it's golden brown crepe-like goodness, served with mint (?) chutney and lentil soup.   I tore into it and boy was it good.  I was eating bits of the crepe and dipping it in both the chutney and the soup.   It had a bit of a kick to it!  Then I realized that I wasn't getting any \"masala\" part.  I opened it and there was maybe two tablespoons worth of filling.  Red flags should've been going up, but I just kept eating and dipping.  I was satisfied. I figured that since there was so little filling, I was keeping my calorie count down for the day! Bonus for me!!!  It cost about $9 for the dosa. I returned two nights later to pick up some takeout for dinner.  I ordered the chicken tikka masala with rice AND naan.   During the day, they have a hot bar/buffet going on which runs from 11 - 2:30.  (When I went in earlier in the week -- I came in at noon and the buffet STILL wasn't ready -- by the time I left at 12:30 -- it still wasn't there so who knows when it starts) I came in around 4pm.... the hot bar/buffet hadn't been cleaned up and there were bins with the dredges (hardened and dried and OLD food that are left at the bottom).   I kind of look grossed out by what was left and the man (cook? waiter?) assured me there was food in the back.  After I ordered, he went into the kitchen and came back out with a plastic container of rice (which looked as if it was microwaved -- there were bubbles of moisture on the inside of the plastic... if it was fresh, there would've just been cloudy steam.... these were water droplets already!!) and some naan wrapped in foil.   Then he took a takeout box and went to the hot bar and stirred up one of the containers (it was red and there was an oily lake of grease lying on top of it) and started to spoon it into a container.   I was in shock that I couldn't speak.   He remembered that I also ordered a mango lassi --- he went over to the sliding door fridge and pulled out a pre-made lassi that for all I knew, had been made yesterday!   Anyway, it was $10 and all I could think was, \"This can't be good, this can't be good.\" Picked up my son from school, went home and we sat down at the table.   I unwrapped the naan and there was a huge hole in the middle (it wasn't a rip... it was a HOLE as if somebody had eaten it from the middle!! Plus it was hard as a rock) and as I put the first bite of tikka masala in my mouth, I pulled out stems from some unknown herb..... needless to say, I couldn't/didn't even want to feed it to my son.   I wound up throwing everything down the garbage disposal and warmed up last night's leftovers of rice, shake&bake chicken and heated up some corn.    Nasty --- will NEVER EVER go back .... and even if ChampaignTaste gave it a good review.",
+                "reviewer_id": "aSyHqB5QIybJb3npJUy78A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4002651258352879,
+                    "positive_probability": 0.5997348741646763
+                },
+                "stars": 1
+            },
+            {
+                "review": "On our way from Iowa to Indianapolis, we decided to stop and have lunch. Much to my dismay, the restaurant has a sign that says they aren't serving food despite their website not reflecting that. So I proceeded to go into the store to tell them that they should update the website but the store is closed too, albeit a half hour after the posted opening time! Poor business!",
+                "reviewer_id": "chxPozez9b5bWg3E8TUk8Q",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8660300951084332,
+                    "positive_probability": 0.13396990489157093
+                },
+                "stars": 1
+            },
+            {
+                "review": "it was a terrible experience - they do not offer the full menu daily (dosas are on the menu but i have been 4 times and they have had some excuse each time).  we ordered chat, one samosa, an entree (chicken tikka) and naan.  The whole thing took 15 minutes - and not to mention, we didn't get the naan for another 15 minutes after that.  a 30 minute wait is NOT fast food.  the icing on the cake was that the samosa was soggy.there is one cook and one server working both the food and grocery side, making service TERRIBLE.  avoid this place at all costs until management decides to add some more workers...",
+                "reviewer_id": "f0fKhyu9BsCMhGgCtSQlEA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.08272801333805488,
+                    "positive_probability": 0.9172719866619407
+                },
+                "stars": 1
+            },
+            {
+                "review": "Service can be spotty, and the space is often as messy as the other campus food spots.  However, Mirsung cannot be surpassed in balancing price, quality, and quantity.  You won't get many choices each day, so plan in advance and come in when you know they are making something you want (like muttar paneer).  Haven't had any bad entrees (butter chicken, palak paneer, muttar paneer, dal) and they always hook me up with loads of good, fresh rice.  The grocery store is fine.",
+                "reviewer_id": "i7XBtYaJLQcMrXD4s7COzA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.09139538915039491,
+                    "positive_probability": 0.9086046108496001
+                },
+                "stars": 3
+            },
+            {
+                "review": "Mirsung Groceries is a great low-price option for anyone daring enough to try something new! I always find cheap read-to-eat mixes that I add plain yogurt to take down the hotness a notch.There are fresh vegetables delivered twice weekly. And FRESH samosas on Fridays. These are AMAZING!",
+                "reviewer_id": "kXhFuI3Kgkb5OAIUE7eQdg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4179017594023801,
+                    "positive_probability": 0.5820982405976242
+                },
+                "stars": 5
+            },
+            {
+                "review": "WOW! I am sooooo happy I ate here today and I'm still thinking about it late into the evening. This place has truly authentic Indian food at good prices. We had a Masala Dosa, which tasted just like it came from India Square in Jersey City, and a Veg/Non Veg combo which consisted of Garlic chicken (spicy) and Aloo Palak. The best deal is the buffet however, for which you can try everything (except Dosas) for $9.99. I saw another table get two of those and it was a HUGE amount of food. If you like AUTHENTIC Indian food and a clean but no frills dining experience, this is an excellent choice. The other great thing: they deliver for both breakfast and lunch.",
+                "reviewer_id": "Z4czntQund-OgvYca3i6lQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 3.2964554445776556e-06,
+                    "positive_probability": 0.9999967035445586
+                },
+                "stars": 4
+            },
+            {
+                "review": "One of the best Indian restaurants in town. The dosas are great, the tandoori chicken is fabulous, the butter chicken is awesome and the naan is delicious. Enough said!And they deliver; which none of the other indian restaurants do.",
+                "reviewer_id": "ZP1BSogas55ND0r02TvBXw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.06305734469945692,
+                    "positive_probability": 0.9369426553005429
+                },
+                "stars": 5
+            }
+        ],
+        "similar_restaurants": [
+            "1tK0k-vRgGFC3oSZNUJ58Q",
+            "mbHfXlcPGQyPKtuh5CJ1Iw",
+            "RSIWC7s6Mq3FCTKxuapd8Q",
+            "6UftUvNBqANqybf8wpWeNA",
+            "F1UsF9LU5h7xp1k9LytT-w",
+            "0a4lX5VhCXJOwe-idxnVbw",
+            "0P0XckSv_2_ZNKoYlhT4Gw",
+            "YkKEsYsSpOkDBbHBGKuWQA",
+            "OQIDPNTLuOD8io9FoKKIKA",
+            "TD11IPIlFL9sLAWbN9FzdA"
+        ]
+    }
+}

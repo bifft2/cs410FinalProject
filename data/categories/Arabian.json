@@ -1,0 +1,558 @@
+{
+    "fREkmfcmiusbDkXDKRit3g": {
+        "keywords": {
+            "bigrams": [
+                "mediterranean_food",
+                "chicken_shawarma",
+                "mashawi_grill",
+                "falafel_sandwich",
+                "mixed_grill",
+                "pita_bread",
+                "middle_eastern",
+                "staff_friendly",
+                "pretty_good",
+                "coming_back"
+            ],
+            "unigrams": [
+                "food",
+                "shawarma",
+                "place",
+                "good",
+                "falafel",
+                "chicken",
+                "mediterranean",
+                "great",
+                "sandwich",
+                "salad"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "none",
+                "Ambience": {
+                    "casual": true,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "Caters": true,
+                "Delivery": false,
+                "Good For": {
+                    "breakfast": false,
+                    "brunch": false,
+                    "dessert": false,
+                    "dinner": false,
+                    "latenight": false,
+                    "lunch": true
+                },
+                "Good For Groups": true,
+                "Good for Kids": true,
+                "Has TV": true,
+                "Noise Level": "average",
+                "Outdoor Seating": false,
+                "Parking": {
+                    "garage": false,
+                    "lot": false,
+                    "street": false,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 1,
+                "Take-out": true,
+                "Takes Reservations": false,
+                "Waiter Service": false,
+                "Wi-Fi": "no"
+            },
+            "business_id": "fREkmfcmiusbDkXDKRit3g",
+            "categories": [
+                "Arabian",
+                "Mediterranean",
+                "Restaurants"
+            ],
+            "city": "Champaign",
+            "full_address": "617 E Green St\nChampaign, IL 61820",
+            "hours": {
+                "Friday": {
+                    "close": "22:00",
+                    "open": "10:00"
+                },
+                "Monday": {
+                    "close": "22:00",
+                    "open": "10:00"
+                },
+                "Saturday": {
+                    "close": "22:00",
+                    "open": "10:00"
+                },
+                "Sunday": {
+                    "close": "22:00",
+                    "open": "10:00"
+                },
+                "Thursday": {
+                    "close": "22:00",
+                    "open": "10:00"
+                },
+                "Tuesday": {
+                    "close": "22:00",
+                    "open": "10:00"
+                },
+                "Wednesday": {
+                    "close": "22:00",
+                    "open": "10:00"
+                }
+            },
+            "latitude": 40.110041,
+            "longitude": -88.2296889,
+            "name": "Mashawi Grill",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media4.fl.yelpcdn.com/bphoto/pCh9r6WGwMl5oxKg_0F3zQ/ms.jpg",
+            "review_count": 44,
+            "stars": 4.5,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "The flavor of the chicken was spot-on, the tomato/cucumber salad was really tasty and the other various pickled items were also very delicious. I somehow missed this new restaurant when it opened a while back, but it was recommended by Israeli friends as the best Mediterranean food in Champaign along with authentic falafel. This place is great. ",
+        "reviews": [
+            {
+                "review": "I came here on a Satuday for lunch.  Ideal if you want to grab a quick lunch.  Not too much of a wait on Saturdays (or at least on the day I went).Prices are around $10 if you are hungry and want an entree.  However, if you want something small, there are some options for less starting from $1.49 for soup, hummus, and etc.FoodEntrees come with pickles and saladSalad - sliced tomato & cucumbers in vinegar flavor dressing.Hummus - the entree does not come with hummus but you can order it in replace of the salad or pickles.  I would recommend ordering hummus in replace of the salad/pickles.  The pita bread/chicken just tastes better with hummus.Chicken Shawarma entree - they are generous with the amount of food that is provided.  The chicken was slightly dry, but maybe because I went on a slow day?  The food was mediocre, but it's nice to have the option to eat mediterranean food.Atmosphere - it's not a fancy restaurant or anything, just somewhere to go for a quick bite...more than enough seating if you are interested in going with a group of friends.Customer Service - friendly, no complaintsI would want to check out the other restaurants on the street prior to coming back here.",
+                "reviewer_id": "1s02C404f51Qpd42jqzPjg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9999196558879304,
+                    "positive_probability": 8.034411206341862e-05
+                },
+                "stars": 3
+            },
+            {
+                "review": "I've been here a couple of times for lunch.First time I got the chicken shwarma plate. It was HUGE. I would not order it again just for myself. The next time, I opted for the chicken shwarma sandwich instead. It was the appropriate size, and tasted pretty good.I will try the falafel sandwich next time.",
+                "reviewer_id": "2eICeRlxg8Mb51cTnw4r0A",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.971981686930813,
+                    "positive_probability": 0.028018313069186337
+                },
+                "stars": 4
+            },
+            {
+                "review": "This place is really awesome! Great flavor, great quality, excellent customer service and very authentic meals. I've had the mixed grill entree, falafel sandwhich, shawarma and all of them were scrumptious. The only complaint is that they are pretty slow (relative to other green st places) but I hope that they will get faster as time goes on.",
+                "reviewer_id": "5k8dXm2qAsg6VfcSOVJj8g",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.02829921332560514,
+                    "positive_probability": 0.9717007866743962
+                },
+                "stars": 5
+            },
+            {
+                "review": "Wow! I was really surprised by the cheap prices, and even more surprised at how good it tasted. I had the Chicken Shawrma sandwich and it was absolutely delicious. Wait was a little long, but that was because I went before they were officially opened. Staff was nice, and I'm sure service is faster now. Will be checking them out again soon. Definitely worth checking out.",
+                "reviewer_id": "7iyt-6pNnUKrRh1fvEO8QA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9309562522375554,
+                    "positive_probability": 0.06904374776244603
+                },
+                "stars": 5
+            },
+            {
+                "review": "Excellent food - shwarma, rice, Jerusalem salad, pickled turnips & olives - and inexpensive! Can't wait to go back.",
+                "reviewer_id": "7Po5Awb-3F4DwI2bQEnkRg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6108038222518878,
+                    "positive_probability": 0.38919617774811216
+                },
+                "stars": 5
+            },
+            {
+                "review": "Had the chicken shawerma entree, $7.99 and came with a generous amount of chicken and rice along with pitas.  I agree with other person that some sauce on the side would have made it even better. Maybe five stars if I had a sauce.  Looks nice inside, food was ready fast. Can't tell this used to be Qdoba.",
+                "reviewer_id": "8oJRVNV3Bi3VHAuI1Su7-A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.05570164124748454,
+                    "positive_probability": 0.9442983587525146
+                },
+                "stars": 4
+            },
+            {
+                "review": "Excellent food and service. Authentic Mediterranean food that is well priced as well. Highly recommend the hummus as well as the shwerma sandwich. Conveniently located on campus with large, open seating areas.",
+                "reviewer_id": "90u2m1UAuu3YW5d9Z6D8wQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.14989494285667412,
+                    "positive_probability": 0.8501050571433272
+                },
+                "stars": 4
+            },
+            {
+                "review": "Wow wow wow!What can I say! Since their opening early this semester, I've eaten here almost every week. The owner is very friendly and knowledgeable. They have a nice, clean store, and the food is amazing.They have two doner kebabs, chicken and beef. The shawarma sandwich is a deliciously juicy, succulent, and quick fix lunch. Or you can get a platter, they offer great mediterranean feasts like kofte on saffran rice with middle eastern salad; and shawarma over hummus provided with pita bread. They also occasionally have great spiral shaped baklava (they usually have the square dry kind too), as well as namoura and kanafeh. With that you can enjoy some delicious (and well made) Turkish coffee. There are about 3-4 places in the C-U area you can get Turk kahve, and this place does it the best. And with all of the delicious food and amazing portions, great convenient location on Green st, its amazing that the price is extremely generous. Falafel set for 1.99? Shawerma sandwich for 4.99? With this quality and this price, students dont need to go to Layalina, which is far from the campus heartland and a bit expensive.Wow wow wow.",
+                "reviewer_id": "aX8hmnedCsrLJ7HmD8hwvQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.15721243726951345,
+                    "positive_probability": 0.8427875627304808
+                },
+                "stars": 5
+            },
+            {
+                "review": "The price is unbeatable. You can't get anything like it for the price unless you're talking about fast food. But this is nothing like fast food. The food is so flavorful, the spices just right. Everything is fragrant. The falafel is so cute. The portions on most of the dishes are HUGE. It's great! Mashawi is excellent for the price and speed.",
+                "reviewer_id": "dzKYG04n0nLXv6tGFvJX0Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.1738701298429055,
+                    "positive_probability": 0.8261298701570966
+                },
+                "stars": 5
+            },
+            {
+                "review": "I had a shawerma sandwich and it was pretty meh. It would be nice if they listed all the toppings that are in their entrees. There was something in there that I didn't enjoy so much. It also took an inordinate amount of time for my friend to get his simple burger order.",
+                "reviewer_id": "eFIlrOz3TnuZQeh2Y1e17Q",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.916933582281863,
+                    "positive_probability": 0.08306641771813754
+                },
+                "stars": 2
+            },
+            {
+                "review": "Super cheap, pretty good value. You can get lunch--falafel and pita--for less than $3. I got the falafel sandwich and while it was a little dry it was still tasty.",
+                "reviewer_id": "eIQwlepZ2qgvv3ZnCPfucA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8493671992373072,
+                    "positive_probability": 0.15063280076269392
+                },
+                "stars": 3
+            },
+            {
+                "review": "Restaurant reviewFinally a restaurant to rave about. It truly is a 5 star based on taste and price. By no means is this the best restaurant, but when you compare around with other choices you can't go wrong with Mashawi Grill. I somehow missed this new restaurant when it opened a while back, but it was recommended by Israeli friends as the best Mediterranean food in Champaign along with authentic falafel. It was very easy to order off the menu and no line during the weekend lunch hour. The food did not take long to get unlike other similar restaurants and the staff were very friendly. Prices are simply amazing for the type of food you get. I ended up with the 10 dollar mixed grill that had a little bit of everything. Menu to be uploaded soon. The chicken kabobs were moist and very flavorful. They give you two types of seasoned rice and two types of salads as well. The only thing missing was tahini sauce or the yogurt sauce which would go well with this combo. Plus you get a pita that you can put all of your food in! I actually forgot to order the falafel and had to go back a second time. Somehow the freshness and flavor is unbeaten by any other falafel I have ever had. Soft, not too greasy, and well balanced in flavor. I could eat these all day long. Plus for 2 dollars you get 6! I hope this place stays at this level of perfection because I will be back!Pros: Fresh Mediterranean food, inexpensive, fast service, friendly employees. Best falafel in Illinois!Cons: No hummus, tahini or yogurt sauce to go with the entrees which makes it a bit dry.Hidden deals: Sandwich only cost around 5 dollars with 2 dollars more for drinks/friesHealth code rating: B, looks clean but the one health inspection was so so on food temperature. http://champaign.il.gegov.com/champaign/estab.cfm?facilityID=2213",
+                "reviewer_id": "f1a9KwsObpE54Yp9A1fVoA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 2.604613900428833e-06,
+                    "positive_probability": 0.9999973953861188
+                },
+                "stars": 5
+            },
+            {
+                "review": "This is the only Mediterranean place on campus I know of and it is delicious. The falafel sandwich which is really a wrap is always my go to. I tend to get either a Jerusalem salad or side of hummus to go with it to put on as an extra topping. I have never had a bad experience coming here",
+                "reviewer_id": "Fz4fcDEnniI1tdrodZJbSQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6099349486985918,
+                    "positive_probability": 0.3900650513014109
+                },
+                "stars": 4
+            },
+            {
+                "review": "This place is something that I've been meaning to try, especially since I've heard good things about it. I was super excited when I saw that Mediterranean places have been catching on in the Illinois scene recently. However it left me a little disappointed since I've been to very good Mediterranean places in DC and the Chicago suburbs. I had the shawarma and it was ok on flavor. They didn't have the sauces that are typically added with shawarma, so the meal itself was a little dry and felt like something was \"missing\" flavor-wise. Overall, it's an ok place to eat but not the best in terms of Mediterranean food. The service is great here though. The order taker was super nice and made sure to clarify what I was ordering since it was my first time. It's a nice place to come by since it's the only Mediterranean place that's decent around town. I may come back when I'm craving Mediterranean food!!",
+                "reviewer_id": "gbmcMMESQUS5oYyFk-wpxg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.24083029956601557,
+                    "positive_probability": 0.7591697004339872
+                },
+                "stars": 3
+            },
+            {
+                "review": "Price and quality are the two reasons that Mashawi is above the pack. As other reviewers have mentioned, the sandwiches and entrees are affordable. Authenticity is a huge draw to Mashawi - when I want to taste real Mediterranean food, I go to Mashawi first. Their service is quick and I usually will grab their food to go. Check them out!",
+                "reviewer_id": "gHTzOYMc5vT1mL65TeWGZw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.48121332824858337,
+                    "positive_probability": 0.5187866717514137
+                },
+                "stars": 5
+            },
+            {
+                "review": "As a middle eastern, if this restaurant was in my home country, I'd rank it among one of the good restaurants. This place is authentic and excellent.I hope that they keep the same level of quality.",
+                "reviewer_id": "gKM_kHki5Fk2EVfuovbsTg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.03177888087078876,
+                    "positive_probability": 0.9682211191292106
+                },
+                "stars": 5
+            },
+            {
+                "review": "Loved the food! I was pretty sad when another Mediterranean restaurant shut down but this one right in the middle of hustle bustle of green street is awesome! The food tasted real good the only problem I faced was slow service, I had to wait about 20-25 mins before my food was ready and the place wasn't even busy at the time. But hey, it was well worth the wait.",
+                "reviewer_id": "goz54FSSoQkvWnElKz__iw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.011956927503957751,
+                    "positive_probability": 0.9880430724960393
+                },
+                "stars": 4
+            },
+            {
+                "review": "Wonderful, inexpensive Middle Eastern food provided by a very nice family. Mashawi Grill has a relatively simple menu, with sandwiches/wraps (super cheap!), entrees, and sides.  The pita are delicious, the food much higher quality than you'd expect for the price, and the ambiance super casual. You can get two entrees, with drinks, for $17.50, or a sandwich for $5.  Such a good deal! The shish tawook (grilled spiced chicken with rice, salad and pita) is fantastic, as is the shwarma and hummus platter (served with lots of bread!).  Highly recommended.",
+                "reviewer_id": "HP56L5EKlsmFkZTsOE6ISA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.06410038418488538,
+                    "positive_probability": 0.9358996158151149
+                },
+                "stars": 5
+            },
+            {
+                "review": "Really happy about this restaurant addition to Green St. Campus was lacking a good Mediterranean option for food. Mashawi Grill has very tasty shawarma and nice portions. The staff is very friendly too. I'll be coming back.",
+                "reviewer_id": "I1Wv4Z_2nCMtxQ4l9dNQiA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.12710422815933003,
+                    "positive_probability": 0.8728957718406689
+                },
+                "stars": 5
+            },
+            {
+                "review": "I ate here again. Couldn't resist. This time I got the Baba Ganoush and Chicken shawarma sandwich. Incredible. Maybe even better than the falafel sandwich (but really tough call). The only thing I wish they had was Sriracha at all the tables but that is really minor.",
+                "reviewer_id": "IIRBF6_xbWYPbP_mjGI8RA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8143021765493843,
+                    "positive_probability": 0.18569782345061633
+                },
+                "stars": 5
+            },
+            {
+                "review": "It was the first time I have ever tried Mediterranean food. That being said, I thought that the food here was brilliantly done and was cheap for the price. It was very flavorful and there was plenty of it to keep you filled. There is plenty of seating and free Wi-Fi for customers. I would definitely go again!",
+                "reviewer_id": "jf3Egs4Ge5gGc4uQ0sHMgw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3636582449102011,
+                    "positive_probability": 0.6363417550897994
+                },
+                "stars": 5
+            },
+            {
+                "review": "I have been to Greece, eaten at Mediterranean restaurants all over the state and I have to say... This was the best hummus I have had so far. I had the chicken shawarma and had enough food left over for lunch the next day. That's a good deal for 7.99!!!! The toppings were fresh and full of spices. The pita was warm and fluffy. The rice was aromatic and perfectly cooked. But I would go back any day just for the gummed. It was creamy, balanced and prefect with the olive oil and paprika. Once you have this... Store bought will never satisfy.",
+                "reviewer_id": "kGVK_HmOjliHrKiPGiXmxQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0005905956945342129,
+                    "positive_probability": 0.9994094043054629
+                },
+                "stars": 5
+            },
+            {
+                "review": "Had the shawarma and it was better than any other shawarma place on campus. Definitely coming back here for lunch very often. The service was great and the people are very friendly.",
+                "reviewer_id": "kwVgwiyiihbXlSP06Xa1wg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.446851082128051,
+                    "positive_probability": 0.5531489178719501
+                },
+                "stars": 5
+            },
+            {
+                "review": "This is one of the best places to eat on a budget in Champaign-Urbana area.The food is awesome, service is nice.They add complementary sides, and sometimes desserts.I like the Shawarma sandwiches and mix grill plates.The sandwiches are big enough to fill you up, while a plate is more than enough. The plate can sustain you for a full day.Prices are relatively cheap, 4.99 for sandwich and 7.99 for plates.I highly recommend it to anyone who wants to enjoy a great meal on a budget.",
+                "reviewer_id": "lf56uazJqMPa5z1rqtEu5g",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.014132097031956961,
+                    "positive_probability": 0.985867902968042
+                },
+                "stars": 5
+            },
+            {
+                "review": "Great shish kabob and falafel. Can't go wrong with any of the dishes. Meats are cooked perfectly, portions are generous, and prices are more than fair. Rice is on point!! Casual, relaxed atmosphere. In all honesty, Green Street really needed a place like this. Will be coming back often.",
+                "reviewer_id": "mdOh-Xfo5wdaNX14TBu-5w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4050233636937623,
+                    "positive_probability": 0.5949766363062373
+                },
+                "stars": 5
+            },
+            {
+                "review": "So delicious I'm from out of town I came here with some friends and we all got different food and it was all amazing. Be warned though if you don't know what Turkish coffee is look it up before you order it.",
+                "reviewer_id": "nbi78mLlLtJpD6GxbjZLmw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5869500247311291,
+                    "positive_probability": 0.4130499752688684
+                },
+                "stars": 5
+            },
+            {
+                "review": "Tasty, incredibly affordable, and they have Mexican cokes!I ordered the chicken shawama for lunch. A little too much white sauce for my liking, and they used a wrap instead of a pita, which was unexpected but I didn't mind. The prices were great. I went on the third day that they were open, and the wait was much too long--about 20 minutes. I expect that it's probably gotten better by now. I'll definitely be back. I'm happy this is on Green Street. Staff was very friendly.",
+                "reviewer_id": "oRCWQ7eaS0IM0DHeCMwBKw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.007027368395446878,
+                    "positive_probability": 0.9929726316045497
+                },
+                "stars": 4
+            },
+            {
+                "review": "Awesome spot. The staff was really friendly! I complicated my order by replacing rice with salad and yogurt, and they were really nice about it. Ask for hot sauce on the side, it's great! My friends had the kabse, and they said it was just like home cooking!",
+                "reviewer_id": "owcAFYn1C9Kk6p6O6_e-kg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.05610944295926613,
+                    "positive_probability": 0.9438905570407353
+                },
+                "stars": 5
+            },
+            {
+                "review": "There is a lot of competition for mediterranean food in Champaign but Mashawi Grill is definitely a winner. It is a typical student oriented place with ample seating, self serving with plastic and paper utensils. Cheap options to attract more students on tight budget but all options are great for lunch or dinner. We had a falafel sandwich, yogurt salad and baba ganoush appetizer. All of these were delicious dishes. It was enough for two people. There is ample seating upstairs with a nice view if you find a table near window. The place can use some upgrade but who cares as long as they keep serving delicious food. Great place for a quick bite which is delicious and inexpensive.",
+                "reviewer_id": "qL7fhzHgiH7SNZv24GxPig",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.010502244874392119,
+                    "positive_probability": 0.9894977551256153
+                },
+                "stars": 4
+            },
+            {
+                "review": "I was so happy to discover that the UIUC campus has a mediterranean restaurant on campus! I have walked by this place countless times and hadn't ever given it a second look until a friend recommended I try it. The food comes out quickly and is not very expensive! They give you decent portion sizes and the meat is excellent. The hummus doesn't have a huge flavor to it, but I really liked that since I was pairing it with the shawarma meat.  The employees are friendly and there is a huge seating area upstairs, looks like it would be great for a big group! If you haven't given this place a try, I definitely recommend you stop in. This place is fast casual and will happily make your oder to go if you need. Also, they just started using the Hooked app, so check out their deals on there!",
+                "reviewer_id": "qXiN4Gi9N0FOeQYoeiWU8g",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.544606846980507,
+                    "positive_probability": 0.45539315301949057
+                },
+                "stars": 5
+            },
+            {
+                "review": "Lives up to the reviews. Excellent chicken shawarma. However, the things keeping this from a 5 star are:1) no spicy shawarma2) the veggies in salad weren't especially flavorful or fresh. I should have gotten the hummus for sure. If you're in the mood for Mediterranean food and happen to be on campus, this place can't be beat. I know I'll be back to try that hummus.",
+                "reviewer_id": "rA3yPo9y-nxEMgx58m9vLQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.38439999669602243,
+                    "positive_probability": 0.6156000033039819
+                },
+                "stars": 4
+            },
+            {
+                "review": "The kabobs and shawarma are delicious. The meat is cooked tender and crisp with generous portions. Their falafel is great too.",
+                "reviewer_id": "SXX0h42QIknXyYb_-r75Xg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.17231371273646287,
+                    "positive_probability": 0.8276862872635361
+                },
+                "stars": 5
+            },
+            {
+                "review": "A coworker told me this place was better than Layalina, and them's fightin' words, so off I went for lunch.Interior is nice, airy spacious, a bit loud and echoey with upstairs seating. Not exactly a cozy intimate dinner spot, still retains that fast-foody 'get in, eat, get out' atmosphere of most places on Green.In order to get a good cross-sample I ordered the mixed grill. Wait was a solid 15 minutes, and there was a steady trickle of customers the whole time (during spring break, I imagine they will be busier during school). The menu said they had hot tea but I saw none in evidence, just a soda fountain, cold bottle drinks behind the counter, and an iced tea server.Got the food to go and got back to the office. The chicken (shish tawook) was perfectly done, which for white meat at an understaffed restaurant (they had help wanted signs in the window) is a mark in their favor. The beef was also well done and mildly flavorful but not quite the explosion of spiciness that Layalina provides. The kufta kabob was also mild and well-cooked. Nothing was dry or tasteless, the pita bread was fresh, the two sides they give you, one was some kind of jerusalem salad that was 90% tomatoes so I passed on it after taking one bite for review purposes (yup, tomtaoey. Yuck. The things I do for you people) and the other was this odd, neon-pink pickled... something. Not cabbage, not radish, not sure what it was. Its not on the menu. I ate it anyway. It was... pickled radishy but not too strong. Serving sizes were more than enough for lunch unless you're super hungry, I was and still felt full about halfway in but it was good enough that by picking at it over the course of an hour I managed to finish everything but the pita.The rice was a little on the oily side but good if again, not as spiced as Layalina. All in all this was a nice, freshly-cooked, healthy meal for a great price. I've heard the owners are Afghani so its possible the food is a milder form than I'm used to. Either way it was fresh, hot, tasty and a great deal for the price. I wouldn't do a dinner date here or anything but for a casual nice lunch or dinner that's not the same fast food fare, I definitely recommend it.",
+                "reviewer_id": "tBiAJtAB4RsXiB4uWxtWrA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 6.845238304857731e-07,
+                    "positive_probability": 0.9999993154761692
+                },
+                "stars": 4
+            },
+            {
+                "review": "This place started off great. It was the talk of the town. Their shawarma's were very good and filling as welll as their lamb chops.But, what attracted me to the place was their Greek Salad with Gyro meat. They served it perfect at the start but over time their quality deteriorated with nothing but lettuce in the salad and finely chopped onions. Very disappointed. I hope they revisit their quality policy or like many other places in its location, Mashawi would be history soon.",
+                "reviewer_id": "U-UQzI4kp-btg4Ee3Vo1JQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0029132282790675958,
+                    "positive_probability": 0.9970867717209347
+                },
+                "stars": 2
+            },
+            {
+                "review": "Food is decent, hub and I ordered chicken shawarma wrap, and I had the shawarma entree with rice veggies and fries, we also had a piece of baklava. Chicken shawarma was a bit dry, rice and fries were good. We are from Chicago and used to have the sandwich in a pita, this was a burrito style wrap. I tried the wrap, didn't like it, hubs says it was okay. I didn't like the pickles veggies, but just not a fan of pickled veggies in general. Not sure if we'd come back. Here's some pics!",
+                "reviewer_id": "u1adXRnyr3fqvzkEjlkBww",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8404239563177414,
+                    "positive_probability": 0.15957604368225875
+                },
+                "stars": 3
+            },
+            {
+                "review": "This place is great.  I had the chicken shawarma wrap.  It was delicious and only $5.   My small order of 6 falafel for $2 was perfect to share with my friend.  I did  wish they gave me more sauce.  We sat upstairs.  The view is great to people watch while eating.  I didn't have room for the baklava today, but I will be back!",
+                "reviewer_id": "vDKvLpsVOp_rU8JsVaAXSA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.030127056838604272,
+                    "positive_probability": 0.9698729431614006
+                },
+                "stars": 4
+            },
+            {
+                "review": "Best shawarma on campus. Still a three star rating because I grew up in the Middle East and gorged on the best Lebanese shawarmas in Montreal. That said, I love the North American take on shawarmas- the fresh, lightly herb marinade dunked lettuce, tomatoes, purple cabbage, and cucumber. It always comes down to the meat though. And that's a 3 star one here. Still the best on campus though.",
+                "reviewer_id": "WIMjZojWHQgZTjpTSfJ7BA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0013557907361398886,
+                    "positive_probability": 0.9986442092638633
+                },
+                "stars": 3
+            },
+            {
+                "review": "Tried this place for lunch yesterday.  It's in the old Qdoba location, but since I rarely venture on campus unless school is out, I didn't know Mashawi Grill had replaced it.Ordered Chicken Shawarma entree ($7.95), which came with yellow and orange rice, 2 pieces of very dry pita bread, a tomato/cucumber mix, and some lettuce and picked veggies that were inedible.  Also ordered a 6-pc order of falafel. ($1.99)I thought the shawarma was very dry and lacking in flavor, and combined with the pita bread I was really wishing that I had ordered some hummus with it.   One of my dining companions ordered the same but with a side of hummus, and he said that it definitely made the dish better.  The falafel was by far the best part of the lunch, but I think Layalina's are a bit better.  Still, for $2 it was pretty good.It was average, but I probably won't make a special trip to campus for it.",
+                "reviewer_id": "xBejh2J752GEd7fdpMXP1A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0030096785570176273,
+                    "positive_probability": 0.996990321442981
+                },
+                "stars": 3
+            },
+            {
+                "review": "I had one of my best buds down for the weekend and he loves Mediterranean food almost as much as I do, so naturally I had to suggest the new Mashawi Grill since I had such a good experience there last time.This time was just as good and my roommate even tagged along to try it for himself!We got 2 orders of the chicken shawarma , a lamb kabob and some falafel. The flavor of the chicken was spot-on, the tomato/cucumber salad was really tasty and the other various pickled items were also very delicious. I particularly like the very liberal use of spices in this cuisine, especially mint!The portions were huge, one entre is more than enough for a single person and we found ourselves struggling to finish everything. The falafel is also a really good deal, only about $0.50 per piece and not only are they huge, but so very delicious with the dipping sauce.Can't really complain about the price, it's pretty fair.My only minor gripe would be that the food comes out a little slow, we waited about 10 minutes for our food and my roommate's lamb kabob took over 15. Perhaps they need some more hands in the kitchen?Still a really awesome choice on campus for Mediterranean fare, I'll be back again for sure.",
+                "reviewer_id": "XzIKZTb4I-7wW4BjKwV2Mw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 5.8864370480841025e-06,
+                    "positive_probability": 0.9999941135629623
+                },
+                "stars": 4
+            },
+            {
+                "review": "Greet Shawrma and Flafel",
+                "reviewer_id": "ynn9OI6stbJi8kq-6Smu6A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.5,
+                    "positive_probability": 0.5
+                },
+                "stars": 5
+            },
+            {
+                "review": "I write this amidst a food coma. I went here today for a quick and cheap bite as per a recommendation from yelp. I have to say this place is a diamond in the rough of Champaign. I got the falafel sandwich for 2.99 and  shawarma sandwich for 4.99. This was an amazingly large portion of food and it was so good. This will definitely be a top place for a good quick bite to eat. Highly recommended that everyone should try!",
+                "reviewer_id": "zFXaeUsB2C5oZk-1Ukcvpg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6098857382625222,
+                    "positive_probability": 0.390114261737479
+                },
+                "stars": 4
+            },
+            {
+                "review": "The Good:- Very good food. I had the chicken shawarma and fries, S.O. had the beef shawarma and the falafel. I do not typically care for Mediterranean or Middle Eastern food, but I enjoyed my meal.- It is very, very price conscious. I think our entire meal was less than $20.- Mashawi Grill has plenty of seating. There is a second level that could easily accommodate groups of 6 or more.The Meh:- It is a little slow, but when we went, the place had just recently opened, so that might have changed.The Bad:- I wish they would give more details about their food options on the menus. I did not know that the shawarma had pickled vegetables in it, and was surprised when I first bit into my sandwich/wrap. Overall:- I liked it, and would recommend it to anyone that enjoys this type of cuisine, especially for how well-priced it is.",
+                "reviewer_id": "ZjxfO0xvmxZ7BiNUg7ejjQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0933630222643121,
+                    "positive_probability": 0.9066369777356901
+                },
+                "stars": 4
+            }
+        ],
+        "similar_restaurants": [
+            "GpxGxY8Txj509bbQPCvNQg",
+            "q8gBakl8Z6NOS2oTu8d6zA",
+            "7LAtL5exU4nrC-5W6HT4cQ",
+            "ey7-ihj-OjM4sEOwWTc06Q",
+            "uJczFcnoK8f9uWgtb0hFGw",
+            "-1oj6-fkP-iO6OyW8QBqPg",
+            "uhzZM-WwNsaVuvGRjv3mXw",
+            "F1UsF9LU5h7xp1k9LytT-w",
+            "iUuHgmsuCPstwJlr5jH02w",
+            "sPI0AqWHMeJB_UeZ5FRscg"
+        ]
+    }
+}

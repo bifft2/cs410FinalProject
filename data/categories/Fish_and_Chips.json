@@ -1,0 +1,408 @@
+{
+    "XMLbJeauBC6DANgNsJO6CQ": {
+        "keywords": {
+            "bigrams": [
+                "fish_chicken",
+                "big_portions",
+                "guy_counter",
+                "mess_fries",
+                "customer_service",
+                "jj_fish",
+                "fish_shrimp",
+                "fried_chicken",
+                "coming_back",
+                "big_jj"
+            ],
+            "unigrams": [
+                "food",
+                "fish",
+                "chicken",
+                "good",
+                "fried",
+                "fries",
+                "friendly",
+                "back",
+                "wings",
+                "price"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "none",
+                "Ambience": {
+                    "casual": false,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "Caters": true,
+                "Delivery": false,
+                "Drive-Thru": false,
+                "Good For": {
+                    "breakfast": false,
+                    "brunch": false,
+                    "dessert": false,
+                    "dinner": false,
+                    "latenight": false,
+                    "lunch": true
+                },
+                "Good For Groups": true,
+                "Good for Kids": true,
+                "Has TV": true,
+                "Noise Level": "quiet",
+                "Outdoor Seating": false,
+                "Parking": {
+                    "garage": false,
+                    "lot": true,
+                    "street": false,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 1,
+                "Take-out": true,
+                "Takes Reservations": false,
+                "Waiter Service": true,
+                "Wi-Fi": "free"
+            },
+            "business_id": "XMLbJeauBC6DANgNsJO6CQ",
+            "categories": [
+                "Fast Food",
+                "Fish & Chips",
+                "Chicken Wings",
+                "Restaurants"
+            ],
+            "city": "Champaign",
+            "full_address": "1114 N Market St\nChampaign, IL 61820",
+            "hours": {
+                "Friday": {
+                    "close": "00:00",
+                    "open": "10:30"
+                },
+                "Monday": {
+                    "close": "23:00",
+                    "open": "10:30"
+                },
+                "Saturday": {
+                    "close": "00:00",
+                    "open": "10:30"
+                },
+                "Sunday": {
+                    "close": "21:00",
+                    "open": "11:00"
+                },
+                "Thursday": {
+                    "close": "23:00",
+                    "open": "10:30"
+                },
+                "Tuesday": {
+                    "close": "23:00",
+                    "open": "10:30"
+                },
+                "Wednesday": {
+                    "close": "23:00",
+                    "open": "10:30"
+                }
+            },
+            "latitude": 40.126987,
+            "longitude": -88.238622,
+            "name": "Big J J Fish & Chicken",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media4.fl.yelpcdn.com/bphoto/Q3XRDFhbhiW8jCEQwHdjTQ/ms.jpg",
+            "review_count": 15,
+            "stars": 4.5,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "When I came into JJ Fish the first time, I felt like I was back at home in Chicago. And best of all DELICIOUSLY FRIED food. Big jj fish & chicken have the best fried fish chicken &shrimpnice friendly guys work there ",
+        "reviews": [
+            {
+                "review": "This was a very pleasant surprise for me and my mom. We both got the JJ sampler and it was way too much food, we could have shared one, but it was outstanding. The price is really good, the portions generous, the grease level and everything is actually very low and the catfish and hush puppies are to die for. My mom, who ate the chicken, said it was very good too and we both enjoyed the coleslaw and fries as well. Overall, no complaints, only compliments to the owners and cooks here. I will be going back when I feel like fast, fried but high quality down to earth food.",
+                "reviewer_id": "3NU4UJWlsVIl6kSYouaFxA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.532175708759405,
+                    "positive_probability": 0.4678242912405915
+                },
+                "stars": 5
+            },
+            {
+                "review": "Great gyros sandwichWhole wingsBretty good friesFriendly serviceMade to orderLike all greasy goods, don't let it get cold. When it's hot, though, it's great. Big portions, too!",
+                "reviewer_id": "cz9L3et-Q6ondk4qtRKDEg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3220359986053227,
+                    "positive_probability": 0.6779640013946768
+                },
+                "stars": 5
+            },
+            {
+                "review": "New to the Champaign area I was craving some wings. I could easily have gone to the chain wing stops, or tried something off the beaten path. I'm so glad I did! The wings are massive and meaty, dripping with the sauce of your choice (or on the side, if you prefer). The mild sauce isn't too hot, and has a hint of sweetness.I called my order in and walked out of the establishment in 15 minutes with a huge bag of wings! 10/10 will devour again.",
+                "reviewer_id": "DmYGpszKAFWQ8A1viee0vw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4481610336480983,
+                    "positive_probability": 0.5518389663518972
+                },
+                "stars": 5
+            },
+            {
+                "review": "I liked this place although the food seems dry and it is halal. Although nice food for fish and fries were tasty.",
+                "reviewer_id": "EM3qgcLfUzPU2boJIL77eQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5106506715472876,
+                    "positive_probability": 0.4893493284527099
+                },
+                "stars": 4
+            },
+            {
+                "review": "Big jj fish & chicken have the best fried fish chicken &shrimpnice friendly guys work there",
+                "reviewer_id": "eXf9lWsf0-1YClZxRc5_4A",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5081894091709762,
+                    "positive_probability": 0.4918105908290213
+                },
+                "stars": 5
+            },
+            {
+                "review": "For the price and the portion sizes, this is as good as it gets in Champaign. So glad I discovered this spot. Their subs are huge and the wings are to die for! Apart from the delicious sauce the best part is that the wings are actually huge and meaty which isn't something you come across even at expensive wing places. The fried chicken is pretty good and crispy as well. The desserts are cheap and pretty decent. The guy behind the counter has always been really friendly. All in all it's been a wonderful experience everytime.",
+                "reviewer_id": "goz54FSSoQkvWnElKz__iw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.00456901752097212,
+                    "positive_probability": 0.9954309824790232
+                },
+                "stars": 5
+            },
+            {
+                "review": "Very friendly staff. Nice big portions. And best of all DELICIOUSLY FRIED food. I'm going be coming back",
+                "reviewer_id": "I1Wv4Z_2nCMtxQ4l9dNQiA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.36928940856864373,
+                    "positive_probability": 0.6307105914313558
+                },
+                "stars": 5
+            },
+            {
+                "review": "Been wanting to check this place out 'cuz I miss the fry-up places in Detroit and Chicago.  Big JJ is pretty dang good.  I got the catfish fillet sammie.  Tasty fish, a tad on the thin side though, covered in a cornmeal batter.  Everything was right about it.  I'd for sure come back when cravings for fried chick'n or fish overwhelm me.They have a decent list of sides, and since I somehow didn't notice fries came included in sandwich price; ordered the fried okra.  Yum!  Can't go wrong there.  Had enough leftover fries n' okra to share pre-dinner \"apps\" with some housemates.Prices here are super reasonable.  It seems mostly a take-out business, as there is very little seating.  It's a tad shabby 'round the edges, as a good you-buy-we-fry shop should be.  Counter guy super nice and friendly.",
+                "reviewer_id": "iWcr-TRqIuIXqMpd_MrdrQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3517506600989863,
+                    "positive_probability": 0.6482493399010051
+                },
+                "stars": 4
+            },
+            {
+                "review": "Since moving to Champaign from Chicago, I've really come to miss what I would call the \"greasy brown paper bag\" restaurants.  A paper bag filled with a mess of fries and sandwich that are so greasy they leak right through, leaving a dark stain on the bag.When I came into JJ Fish the first time, I felt like I was back at home in Chicago.  The people inside waiting for their food were talkative and friendly, the guy behind the counter was a bit of a jokester with a sly smirk and a warmth to his demeanor.  The air was thick with fried chicken, fish, and grease.For $2.99, I got a freshly-cooked fish sandwich served up hot with cheese, tartar sauce, and a whole mess of fries.  The food was very tasty, but wasn't anything terribly special outside the context.  Given the price, though, and the fact that I got to have a humorous conversation with the cashier, it made it worth coming back a week later to do the same.  Later, I'd like to give the chicken a shot, since it seems to be what most everyone else in there orders.  They must know something I haven't yet discovered.A slice of local Chicago culture a hundred miles outside the city limits.",
+                "reviewer_id": "NKbyFkybUzRt4nug1n7nqA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0020782270801897053,
+                    "positive_probability": 0.9979217729198295
+                },
+                "stars": 4
+            },
+            {
+                "review": "This place is amazing!!! Eaten there many times and I feel the food gets better everytime!! The fish and shrimp are to dye for!! So delicious!! Service is super quick and the people are very friendly!! Definitely make you feel like home with the best comfort food. Will continue to go there when I am in town!!!",
+                "reviewer_id": "rkC0rLl2GpTMsQnPu53mDA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.45288448859662517,
+                    "positive_probability": 0.5471155114033778
+                },
+                "stars": 5
+            },
+            {
+                "review": "excellent food and even better customer service.... didnt think when i stepped in that the food would be that great. i was wrong, and damn, the food was fantastic, and the prices, ha cheaper than you could imagine!",
+                "reviewer_id": "u0rXaNMS1nEcMewsruQ9XA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6376479644843706,
+                    "positive_probability": 0.36235203551562783
+                },
+                "stars": 5
+            },
+            {
+                "review": "These mutha-suckas! I ordered chicken and it smelled like it had been cooked in Pennzoil. I returned it and shared that they needed to change their oil because it's old. The smurf behind the counter quickly became agitated, and told me it was NOT burnt. I never said it was burnt, I told him it was old and they shouldn't serve carcinogens to the public.He became furious and started slamming things and told me to get the F@ck out. I remained calm, which wasn't easy and told the manager, his brother, I would be happy to leave once I get my money back.  I also explained that I was going to tell all who would listen about how poorly I was treated and never support this chicken shack again!! Please drive past these disrespectful, poultry hooligans and do not support their business,",
+                "reviewer_id": "uIRo2g1MN6aSyIaf3xUEbQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.010000700137814823,
+                    "positive_probability": 0.9899992998621949
+                },
+                "stars": 1
+            },
+            {
+                "review": "For a fast food restaurant, this place was great. Excellent customer service, short wait time, and fresh, delicious food. Both the fish and the shrimp that I had were really good. I'd definitely recommend this place for someone who wants quick food, in large amounts, at a cheap price.",
+                "reviewer_id": "yQZo0tJzB3uBG22d6e_0xA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6812442276152939,
+                    "positive_probability": 0.3187557723847051
+                },
+                "stars": 5
+            },
+            {
+                "review": "Phone in your orders because they're cooking your food to order.My last year of undergrad, I called in so many times the guy knew my voice (when I changed my phone number, he still recognized me).I could eat a half dark meal every day.",
+                "reviewer_id": "zlFnsrynYyPu7VuO6CGBmA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.28032702723414915,
+                    "positive_probability": 0.7196729727658508
+                },
+                "stars": 5
+            }
+        ],
+        "similar_restaurants": [
+            "p7pGpir_7sZZrxmOUV3Leg",
+            "PYG1nrz2yYDSQk3W-vYwAA",
+            "M2boe4Te0rQ5RasVJkPXng",
+            "ucqMmYA5hiXZO1uV0YN8Vw",
+            "-3GT67Nuddlp4E_Udb3GKw",
+            "yZwl-dXM4SpEDEiihrfZnw",
+            "9w1FCHEGc2CWBl0nzX-SUg",
+            "gVSokyUWqy14UEp_JNVL7Q",
+            "3AtlNePpVHC-D1a49LqFtA",
+            "SQASst3NU4tA-t4cmWLILA"
+        ]
+    },
+    "xJwYqy04FB7GRRUNQmMDBQ": {
+        "keywords": {
+            "bigrams": [
+                "food_places",
+                "fries_friend",
+                "place_clean",
+                "think_place",
+                "highly_recommend",
+                "obviously_takes",
+                "running_place",
+                "quantity_good",
+                "makes_sure",
+                "times_signs"
+            ],
+            "unigrams": [
+                "food",
+                "place",
+                "gyro",
+                "obviously",
+                "proprietor",
+                "satisfied",
+                "make",
+                "places",
+                "piles",
+                "twist"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "none",
+                "Ambience": {
+                    "casual": false,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "Delivery": true,
+                "Good For Groups": true,
+                "Good for Kids": true,
+                "Has TV": false,
+                "Noise Level": "average",
+                "Outdoor Seating": false,
+                "Parking": {
+                    "garage": false,
+                    "lot": false,
+                    "street": false,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 2,
+                "Take-out": true,
+                "Takes Reservations": false,
+                "Waiter Service": false,
+                "Wi-Fi": "no"
+            },
+            "business_id": "xJwYqy04FB7GRRUNQmMDBQ",
+            "categories": [
+                "American (Traditional)",
+                "Fish & Chips",
+                "Restaurants"
+            ],
+            "city": "Champaign",
+            "full_address": "705 N Neil St\nChampaign, IL 61820",
+            "hours": {},
+            "latitude": 40.1221402,
+            "longitude": -88.2435604,
+            "name": "Tasty Fish Chicken & Grill",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media1.fl.yelpcdn.com/bphoto/-Yn7cpHnWc7nCYMyFSRF-Q/ms.jpg",
+            "review_count": 3,
+            "stars": 4.5,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "The proprietor was running the whole place. The place was clean. Same food you can get a few other places, but with just enough of a twist to make it something more. ",
+        "reviews": [
+            {
+                "review": "Food quantity is good and well...tasty! I think this place is closed, I've gone there twice at different times and no one there but there are no signs...",
+                "reviewer_id": "K2KJj1KIasyrrVD2jMJRXQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4055768612208113,
+                    "positive_probability": 0.5944231387791885
+                },
+                "stars": 4
+            },
+            {
+                "review": "The best place in town for this type of menu. Same food you can get a few other places, but with just enough of a twist to make it something more. Prices are fair, and the portions are excellent.",
+                "reviewer_id": "nZNAvWL0cIZ7AukSJjOwdw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.18459433935308922,
+                    "positive_probability": 0.8154056606469131
+                },
+                "stars": 5
+            },
+            {
+                "review": "We were attracted by the gyro advert on the side of the shop. We mentioned wanting Mediterranean food and it appeared for us. The proprietor was running the whole place. He took a moment to get to us, but because he was obviously finishing making others food. He makes sure all of the food is fresh. Between the gyro and the fish sandwich, and our piles of fries, my friend and I were totally satisfied with our food.The place was clean. The proprietor obviously takes pride in his work. Highly recommend. Will return if in Champaign again.",
+                "reviewer_id": "zA3Tu8WeBuogq4_sTfFlCg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.054262783858671566,
+                    "positive_probability": 0.9457372161413321
+                },
+                "stars": 5
+            }
+        ],
+        "similar_restaurants": [
+            "UV04TEpMGWoQs36FkBwOgQ",
+            "O_HxmcRtxdJluerS2RYqtA",
+            "Gf9HbiraKNZpxbxwScHBVw",
+            "Z8EGaOokvK2hoD6tGup0MA",
+            "0kRBRm5xOWclzemsLl9iQA",
+            "jS0mmzYf4mouMEcGzQ5Z-Q",
+            "KUpdnQi16DGP54FlDWOJ6g",
+            "jydmaHFFWpKKDKTJLwThyA",
+            "RSk-BYX8s5027cKo_aELrw",
+            "-3GT67Nuddlp4E_Udb3GKw"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "restaurant_id": {
+        "metadata": {},
+        "similar_restaurants": [],
+        "keywords": [],
+        "review_summary": "",
+        "reviews": [
+            {
+                "reviewer_id": "",
+                "review": "",
+                "stars": 0,
+                "sentiment": {
+                    "positive_probability": 0,
+                    "negative_probability": 0,
+                    "neutral_probability": 0,
+                    "label": ""
+                }
+            },
+        ]
+    },
+}

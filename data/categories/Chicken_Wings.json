@@ -1,0 +1,958 @@
+{
+    "JhEA8qHfNmIh8c6OHXnaYA": {
+        "keywords": {
+            "bigrams": [
+                "grilled_cheese",
+                "college_town",
+                "buffalo_shrimp",
+                "work_tips",
+                "quality_food",
+                "good_service",
+                "wild_wings",
+                "food_served",
+                "fries_cold",
+                "buffalo_wild"
+            ],
+            "unigrams": [
+                "hooters",
+                "service",
+                "wings",
+                "food",
+                "waitress",
+                "good",
+                "great",
+                "better",
+                "don",
+                "chicken"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "beer_and_wine",
+                "Ambience": {
+                    "casual": false,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "BYOB/Corkage": "no",
+                "Caters": true,
+                "Coat Check": false,
+                "Delivery": false,
+                "Good For": {
+                    "breakfast": false,
+                    "brunch": false,
+                    "dessert": false,
+                    "dinner": false,
+                    "latenight": false,
+                    "lunch": true
+                },
+                "Good For Dancing": false,
+                "Good For Groups": true,
+                "Good for Kids": false,
+                "Happy Hour": true,
+                "Has TV": true,
+                "Noise Level": "quiet",
+                "Outdoor Seating": true,
+                "Parking": {
+                    "garage": false,
+                    "lot": true,
+                    "street": false,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 2,
+                "Smoking": "outdoor",
+                "Take-out": true,
+                "Takes Reservations": false,
+                "Waiter Service": true,
+                "Wheelchair Accessible": true
+            },
+            "business_id": "JhEA8qHfNmIh8c6OHXnaYA",
+            "categories": [
+                "Bars",
+                "American (Traditional)",
+                "Sports Bars",
+                "Nightlife",
+                "Chicken Wings",
+                "Restaurants"
+            ],
+            "city": "Champaign",
+            "full_address": "1706 State St\nChampaign, IL 61820",
+            "hours": {
+                "Friday": {
+                    "close": "01:00",
+                    "open": "11:00"
+                },
+                "Monday": {
+                    "close": "00:00",
+                    "open": "11:00"
+                },
+                "Saturday": {
+                    "close": "01:00",
+                    "open": "11:00"
+                },
+                "Sunday": {
+                    "close": "00:00",
+                    "open": "11:00"
+                },
+                "Thursday": {
+                    "close": "00:00",
+                    "open": "11:00"
+                },
+                "Tuesday": {
+                    "close": "00:00",
+                    "open": "11:00"
+                },
+                "Wednesday": {
+                    "close": "00:00",
+                    "open": "11:00"
+                }
+            },
+            "latitude": 40.1271729,
+            "longitude": -88.2468548,
+            "name": "Hooters",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media4.fl.yelpcdn.com/bphoto/7duc_ISRZ8I1EYzfVOtCNg/ms.jpg",
+            "review_count": 21,
+            "stars": 2.5,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "The service was ok not good just ok, and my wife and I where the only customers at the time. BTW-for a college town, the girls weren't good looking at all. Best hooters ever! ",
+        "reviews": [
+            {
+                "review": "The combination of both beer and wings from hooters makes me sick in the morning I continue to eat there for years. As always the servers fake like they care but that don't bother me as long as a get good service and I do. Plus they are easy on the eyes.",
+                "reviewer_id": "5ZIbB1o742vx77ZgO67ZQw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.700258294375846,
+                    "positive_probability": 0.2997417056241565
+                },
+                "stars": 3
+            },
+            {
+                "review": "Pretty much what you'd expect.  Way overpriced, extremely low quality food served by not-that-bright, fake-baked girls wearing shiny nylons, big puffy socks, and the most unflattering shorts imaginable.Great if you're a perv from '86, decidedly not great for everyone else.",
+                "reviewer_id": "6uSW2qLSL5w0iz0g-Iwa-g",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.67745228787219,
+                    "positive_probability": 0.3225477121278133
+                },
+                "stars": 1
+            },
+            {
+                "review": "The most disgusting food I have ever been 'served' in my life. The grilled cheese sandwich was nothing more than two pieces of Texas Toast bread that had been smeared with butter and thrown in the microwave with two greasy slices of cheese in the middle. The fries were cold and the service was less than desirable. There were only about four other people in the entire restaurant, and yet our 'waitress' never bothered to give me a refill......I didn't bother to leave a tip.I don't recommend anyone go to the Champaign Hooters. Instead, go to Buffalo Wild Wings - WAAAAAY better!",
+                "reviewer_id": "99Qos7AunXZnaDogiP847w",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9982049341508374,
+                    "positive_probability": 0.0017950658491608035
+                },
+                "stars": 1
+            },
+            {
+                "review": "Wings and buffalo shrimp were great. Fried pickles were cooked just right. Service was above average but it was a very slow night. As always, Hooters didn't disappoint. Will be back next time in town!",
+                "reviewer_id": "_gTKw_ID9tIWEY2kR2haPQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9680879457358658,
+                    "positive_probability": 0.03191205426413543
+                },
+                "stars": 4
+            },
+            {
+                "review": "Tons of cute Hooter's girls, but I've been there twice since moving to Champaign and it seems like their wings consistently lack any crunch, even soggy. Everything tastes fine, just missing some texture.",
+                "reviewer_id": "aSoU3C8Wg5GRs18xNTIPsA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5145196733225234,
+                    "positive_probability": 0.48548032667747715
+                },
+                "stars": 3
+            },
+            {
+                "review": "If u've been here, u may very well kno the setup is terrible. Even jus finding this place (located behind Hardee's)is difficult. It's as if Hooters took over a previous establishment not big in business. The bar only seats 10 with a large square room. There r only 2 Hooters signs on the building itself. If this place wants to make better business, I suggest they move to a location more visual from Route 45. On the other hand, I noticed a fellow yelper complain about the texture of the food but it was fairly consistent for my experience. Also, this location employees pretty young ladies, after all it is a college town. Ur welcome! ;) Only 3* for mediocre-ism",
+                "reviewer_id": "BoHgB2oBz_Tk4PSLtdc9_A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.02055197970073288,
+                    "positive_probability": 0.979448020299259
+                },
+                "stars": 3
+            },
+            {
+                "review": "Wow! Don't know where to start so many bad things say,and so little time.Let us keep it simple. Food really, really bad. Price oh my God them must be gold plated chickens,maybe thats why they taste so bad. The service was ok not good just ok, and my wife and I where the only customers at the time. Save your money fire up the grill make your own, I guarantee they will be better then what you would have spent way to much for at Hooters. I rated the noise level as quiet because my wife and I didn't make much noise. I gave it 4 [ $]  just because it so overpriced.",
+                "reviewer_id": "CKvc4tdLWAKS-OMEojiRkg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5628150345476081,
+                    "positive_probability": 0.43718496545239705
+                },
+                "stars": 1
+            },
+            {
+                "review": "The Philly cheesesteak and burger we had for lunch were very good. The service was great, waitress was very attentive.There was only one negative while we were there. There was a university of Illinois football game on. One of the waitress (not our, thank goodness) seemed to get very agitated if she found out anyone was rooting for the other team. She actually came up to our table, gave us a dirty look, and told us she has friends on the team. You can root for whatever team you want, but you probably shouldn't try to pick fights with customers when you work for tips!",
+                "reviewer_id": "h8dFvPzgLSePDVjfHZJFwQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.07245253944799873,
+                    "positive_probability": 0.9275474605520105
+                },
+                "stars": 4
+            },
+            {
+                "review": "They get a 4 star just off the buffalo chicken dpi and they are playing the pacquio fight. I'm a woman so I can't go higher than a 4.... Even if the food is bomb... A little difficult to find compared to others. Set up is a little awkward. I nearly walked past the hostess booth",
+                "reviewer_id": "Kuk0ody1l9jtj_dnnRc3nw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.22199189431423033,
+                    "positive_probability": 0.7780081056857747
+                },
+                "stars": 4
+            },
+            {
+                "review": "I love hooters!  This however was the worst food I have ever had at any location.  The chicken was so dry and cheese sauce was hard and tasted disgusting.",
+                "reviewer_id": "nRHT5CAgDGe_s8Ol_FAJ3A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.47546754162248445,
+                    "positive_probability": 0.5245324583775173
+                },
+                "stars": 1
+            },
+            {
+                "review": "This place was bad I came in hooters because of course I love it This is a tester store So they try new menus But here is the weird part I'm 100% Puerto Rican a well respected one the strange part I'm beginning to believe this is a racist town hello it's 2015 Because there was plenty of seats But they sat me in the corner in the dark away from everyone instead of where I wanted to sit down It was very strange and weird and I never felt so uncomfortable in my life although the food was good and my waitress was good I just could not get this vibe that they put out don't go to this place I would not recommendedThe most horrible feeling I have ever felt thank you hooters for making me sad on my journey back home",
+                "reviewer_id": "qO36EWck90PvMar9bTaDcA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0029908126186289174,
+                    "positive_probability": 0.997009187381374
+                },
+                "stars": 1
+            },
+            {
+                "review": "Still out on the quality of the food as we're still waiting 40 minutes after ordering for 3 out 4 orders!",
+                "reviewer_id": "QxMKHFXOKFI83uklk2zS4Q",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9698173215160196,
+                    "positive_probability": 0.030182678483979753
+                },
+                "stars": 1
+            },
+            {
+                "review": "The food was great, as usual. The service however, oofa, it really was as bad as the other reviews. Zero on Hooters philosophy on customer service. I do come here to check a little leg too, but ugh, don't come here looking for a college hottie to serve you and chit chat a little. As I leave I think I'll let the GM know, this is my worst Hooters experience in 25 years. Not worth it.",
+                "reviewer_id": "T0AV3ryHEUR9OWSJMEHlYw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.19241883974339402,
+                    "positive_probability": 0.8075811602566024
+                },
+                "stars": 2
+            },
+            {
+                "review": "One of the better hooters I have been to in the Midwest!The interior is large with tons of seating came here to watch the Cubs wild card game and the Hawks opener. Didn't have the Hawks on any tv but our waitress gladly changed 2 of the Tvs so we could watch both the cubbies and the Hawks. Hooters wings are the same wherever you go. The fries were cold which was a bummer because our food came out in like 5 minutes. Also the \"talent\" of this hooters is top notch, I feel like some hooters have gotten lazy with who they hire and I will say this one had a great group of friendly ladies. Expensive draft beer, plus they brought me a bud lite when I ordered a Budweiser but I know it's just so hard to keep those 2 straight. Still beats going to an over crowded crappy service Buffalo Wild Wings, I'll be back again I'm sure.",
+                "reviewer_id": "twF_2RKnDgJqmKMU3K9A5w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.013988070427741157,
+                    "positive_probability": 0.9860119295722598
+                },
+                "stars": 4
+            },
+            {
+                "review": "Why five stars you ask?  And why review a Hooters in Champaign when I live in Chicago?  Well once a very long time ago, when I attended the U of I, my roommate and I were eating lunch here on a weekday and in walks Harrison Ford.  Thats right, Han Solo/Indian Jones himself walks in, by himself and treats himself to the delicious Hooters cuisine.  There must of only been about 3 or 4 other patrons where, so it wasn't a big todo or anything.  That is totally random (there is a airport down the road, and Hooters was on of the first restaurants you see when you drive up from it towards town, so he was probably refueling or something).   So +1 star.So that aside, as a fried chicken review, I give Hooter's Chicken 4 stars.  The very thing that makes it unique you either love or hate,  Hooter's batters its chicken wings.  Hooters also leaves the \"tips\" on its wings too.  You can ask for them naked, but as its kind of the specailty of their wings I prefer the batter.  The batter does soak up a lot of sauce and oil, so it is by no means healthy.  It does keep ok, but its better reheated if you let it go cold.  Hooters sauces are notoriously non-spicey (and I'm a big wuss when it comes to spice).  \"Hot\" is about medium, \"medium\" is less than what is considered mild at most places, it has no flavor at all besides a buttery oilyness for some color.  Please order at least \"hot\", don't be afraid, its not hot.  The fried buffalo shrimp are pretty good too (but they go too quick).  Grilled cheese was favorite too, but some of these options are not offered as many Hooters are franchised.",
+                "reviewer_id": "TZCbIU6_8rTxxtFNUo3hBA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6651243932201939,
+                    "positive_probability": 0.33487560677980094
+                },
+                "stars": 5
+            },
+            {
+                "review": "Worst Hooters ever! Walked out after sitting for 10 minutes - no service. Waitress standing around. Empty tables all around.",
+                "reviewer_id": "V5NK3oG59GvPaMZD53HXgg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7135814795923092,
+                    "positive_probability": 0.28641852040769017
+                },
+                "stars": 1
+            },
+            {
+                "review": "Waitresses were great! Better wings than I've had at other hooters. Waitress came around offering a free margarita to critique the bartender. Best hooters ever!",
+                "reviewer_id": "w52--0BfkoixxXvA5cmKrw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6008511326708479,
+                    "positive_probability": 0.39914886732915256
+                },
+                "stars": 5
+            },
+            {
+                "review": "I just wanted a beer and the service was HORRIBLE .  I waited at my table for a waitress but that didn't happen so I sat at the bar  and wasn't much better.  I got one beer and couldn't get the bartender to come back.  I don't think they realize that they work on tips for good service not because they have a skimpy costume.BTW-for a college town, the girls weren't good looking at all.  Maybe because it was Monday night and the C team was working.",
+                "reviewer_id": "wj9nwbdSoh1QvHSXXs_TwQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9865846505539594,
+                    "positive_probability": 0.013415349446045714
+                },
+                "stars": 1
+            },
+            {
+                "review": "LOVE the wings here, i think next to black dog they are the best in the city.  The grilled chicken sandwich is excellent as well with a side of hot sauce and curley fries.Only drawback is the price, they are pretty expensive.",
+                "reviewer_id": "xZhXEZnxK9eJ-gMzAn5GRg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.01845482931119482,
+                    "positive_probability": 0.9815451706888069
+                },
+                "stars": 4
+            }
+        ],
+        "similar_restaurants": [
+            "RSk-BYX8s5027cKo_aELrw",
+            "rm2OnyNDnlWkSNUSxETsGg",
+            "-0GkcDiIgVm0XzDZC8RFOg",
+            "l8B35OwrDUQTg5ojQu0tEA",
+            "ufOY2lQHDgSvou3YLT8gHA",
+            "27q7XsLrKPNwr8i5RcCOvQ",
+            "1T2rnvl67Gk9Uc0gzsCKQA",
+            "9p3O_KoH3muITR-9WgrSnA",
+            "JlcbIU8V6ohFCwfuMr7tBg",
+            "PeQ3gtLHAg9ov0YuM-m21A"
+        ]
+    },
+    "XMLbJeauBC6DANgNsJO6CQ": {
+        "keywords": {
+            "bigrams": [
+                "fish_chicken",
+                "big_portions",
+                "guy_counter",
+                "mess_fries",
+                "customer_service",
+                "jj_fish",
+                "fish_shrimp",
+                "fried_chicken",
+                "coming_back",
+                "big_jj"
+            ],
+            "unigrams": [
+                "food",
+                "fish",
+                "chicken",
+                "good",
+                "fried",
+                "fries",
+                "friendly",
+                "back",
+                "wings",
+                "price"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "none",
+                "Ambience": {
+                    "casual": false,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "Caters": true,
+                "Delivery": false,
+                "Drive-Thru": false,
+                "Good For": {
+                    "breakfast": false,
+                    "brunch": false,
+                    "dessert": false,
+                    "dinner": false,
+                    "latenight": false,
+                    "lunch": true
+                },
+                "Good For Groups": true,
+                "Good for Kids": true,
+                "Has TV": true,
+                "Noise Level": "quiet",
+                "Outdoor Seating": false,
+                "Parking": {
+                    "garage": false,
+                    "lot": true,
+                    "street": false,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 1,
+                "Take-out": true,
+                "Takes Reservations": false,
+                "Waiter Service": true,
+                "Wi-Fi": "free"
+            },
+            "business_id": "XMLbJeauBC6DANgNsJO6CQ",
+            "categories": [
+                "Fast Food",
+                "Fish & Chips",
+                "Chicken Wings",
+                "Restaurants"
+            ],
+            "city": "Champaign",
+            "full_address": "1114 N Market St\nChampaign, IL 61820",
+            "hours": {
+                "Friday": {
+                    "close": "00:00",
+                    "open": "10:30"
+                },
+                "Monday": {
+                    "close": "23:00",
+                    "open": "10:30"
+                },
+                "Saturday": {
+                    "close": "00:00",
+                    "open": "10:30"
+                },
+                "Sunday": {
+                    "close": "21:00",
+                    "open": "11:00"
+                },
+                "Thursday": {
+                    "close": "23:00",
+                    "open": "10:30"
+                },
+                "Tuesday": {
+                    "close": "23:00",
+                    "open": "10:30"
+                },
+                "Wednesday": {
+                    "close": "23:00",
+                    "open": "10:30"
+                }
+            },
+            "latitude": 40.126987,
+            "longitude": -88.238622,
+            "name": "Big J J Fish & Chicken",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media4.fl.yelpcdn.com/bphoto/Q3XRDFhbhiW8jCEQwHdjTQ/ms.jpg",
+            "review_count": 15,
+            "stars": 4.5,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "When I came into JJ Fish the first time, I felt like I was back at home in Chicago. And best of all DELICIOUSLY FRIED food. Big jj fish & chicken have the best fried fish chicken &shrimpnice friendly guys work there ",
+        "reviews": [
+            {
+                "review": "This was a very pleasant surprise for me and my mom. We both got the JJ sampler and it was way too much food, we could have shared one, but it was outstanding. The price is really good, the portions generous, the grease level and everything is actually very low and the catfish and hush puppies are to die for. My mom, who ate the chicken, said it was very good too and we both enjoyed the coleslaw and fries as well. Overall, no complaints, only compliments to the owners and cooks here. I will be going back when I feel like fast, fried but high quality down to earth food.",
+                "reviewer_id": "3NU4UJWlsVIl6kSYouaFxA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.532175708759405,
+                    "positive_probability": 0.4678242912405915
+                },
+                "stars": 5
+            },
+            {
+                "review": "Great gyros sandwichWhole wingsBretty good friesFriendly serviceMade to orderLike all greasy goods, don't let it get cold. When it's hot, though, it's great. Big portions, too!",
+                "reviewer_id": "cz9L3et-Q6ondk4qtRKDEg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3220359986053227,
+                    "positive_probability": 0.6779640013946768
+                },
+                "stars": 5
+            },
+            {
+                "review": "New to the Champaign area I was craving some wings. I could easily have gone to the chain wing stops, or tried something off the beaten path. I'm so glad I did! The wings are massive and meaty, dripping with the sauce of your choice (or on the side, if you prefer). The mild sauce isn't too hot, and has a hint of sweetness.I called my order in and walked out of the establishment in 15 minutes with a huge bag of wings! 10/10 will devour again.",
+                "reviewer_id": "DmYGpszKAFWQ8A1viee0vw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4481610336480983,
+                    "positive_probability": 0.5518389663518972
+                },
+                "stars": 5
+            },
+            {
+                "review": "I liked this place although the food seems dry and it is halal. Although nice food for fish and fries were tasty.",
+                "reviewer_id": "EM3qgcLfUzPU2boJIL77eQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5106506715472876,
+                    "positive_probability": 0.4893493284527099
+                },
+                "stars": 4
+            },
+            {
+                "review": "Big jj fish & chicken have the best fried fish chicken &shrimpnice friendly guys work there",
+                "reviewer_id": "eXf9lWsf0-1YClZxRc5_4A",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5081894091709762,
+                    "positive_probability": 0.4918105908290213
+                },
+                "stars": 5
+            },
+            {
+                "review": "For the price and the portion sizes, this is as good as it gets in Champaign. So glad I discovered this spot. Their subs are huge and the wings are to die for! Apart from the delicious sauce the best part is that the wings are actually huge and meaty which isn't something you come across even at expensive wing places. The fried chicken is pretty good and crispy as well. The desserts are cheap and pretty decent. The guy behind the counter has always been really friendly. All in all it's been a wonderful experience everytime.",
+                "reviewer_id": "goz54FSSoQkvWnElKz__iw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.00456901752097212,
+                    "positive_probability": 0.9954309824790232
+                },
+                "stars": 5
+            },
+            {
+                "review": "Very friendly staff. Nice big portions. And best of all DELICIOUSLY FRIED food. I'm going be coming back",
+                "reviewer_id": "I1Wv4Z_2nCMtxQ4l9dNQiA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.36928940856864373,
+                    "positive_probability": 0.6307105914313558
+                },
+                "stars": 5
+            },
+            {
+                "review": "Been wanting to check this place out 'cuz I miss the fry-up places in Detroit and Chicago.  Big JJ is pretty dang good.  I got the catfish fillet sammie.  Tasty fish, a tad on the thin side though, covered in a cornmeal batter.  Everything was right about it.  I'd for sure come back when cravings for fried chick'n or fish overwhelm me.They have a decent list of sides, and since I somehow didn't notice fries came included in sandwich price; ordered the fried okra.  Yum!  Can't go wrong there.  Had enough leftover fries n' okra to share pre-dinner \"apps\" with some housemates.Prices here are super reasonable.  It seems mostly a take-out business, as there is very little seating.  It's a tad shabby 'round the edges, as a good you-buy-we-fry shop should be.  Counter guy super nice and friendly.",
+                "reviewer_id": "iWcr-TRqIuIXqMpd_MrdrQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3517506600989863,
+                    "positive_probability": 0.6482493399010051
+                },
+                "stars": 4
+            },
+            {
+                "review": "Since moving to Champaign from Chicago, I've really come to miss what I would call the \"greasy brown paper bag\" restaurants.  A paper bag filled with a mess of fries and sandwich that are so greasy they leak right through, leaving a dark stain on the bag.When I came into JJ Fish the first time, I felt like I was back at home in Chicago.  The people inside waiting for their food were talkative and friendly, the guy behind the counter was a bit of a jokester with a sly smirk and a warmth to his demeanor.  The air was thick with fried chicken, fish, and grease.For $2.99, I got a freshly-cooked fish sandwich served up hot with cheese, tartar sauce, and a whole mess of fries.  The food was very tasty, but wasn't anything terribly special outside the context.  Given the price, though, and the fact that I got to have a humorous conversation with the cashier, it made it worth coming back a week later to do the same.  Later, I'd like to give the chicken a shot, since it seems to be what most everyone else in there orders.  They must know something I haven't yet discovered.A slice of local Chicago culture a hundred miles outside the city limits.",
+                "reviewer_id": "NKbyFkybUzRt4nug1n7nqA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0020782270801897053,
+                    "positive_probability": 0.9979217729198295
+                },
+                "stars": 4
+            },
+            {
+                "review": "This place is amazing!!! Eaten there many times and I feel the food gets better everytime!! The fish and shrimp are to dye for!! So delicious!! Service is super quick and the people are very friendly!! Definitely make you feel like home with the best comfort food. Will continue to go there when I am in town!!!",
+                "reviewer_id": "rkC0rLl2GpTMsQnPu53mDA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.45288448859662517,
+                    "positive_probability": 0.5471155114033778
+                },
+                "stars": 5
+            },
+            {
+                "review": "excellent food and even better customer service.... didnt think when i stepped in that the food would be that great. i was wrong, and damn, the food was fantastic, and the prices, ha cheaper than you could imagine!",
+                "reviewer_id": "u0rXaNMS1nEcMewsruQ9XA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6376479644843706,
+                    "positive_probability": 0.36235203551562783
+                },
+                "stars": 5
+            },
+            {
+                "review": "These mutha-suckas! I ordered chicken and it smelled like it had been cooked in Pennzoil. I returned it and shared that they needed to change their oil because it's old. The smurf behind the counter quickly became agitated, and told me it was NOT burnt. I never said it was burnt, I told him it was old and they shouldn't serve carcinogens to the public.He became furious and started slamming things and told me to get the F@ck out. I remained calm, which wasn't easy and told the manager, his brother, I would be happy to leave once I get my money back.  I also explained that I was going to tell all who would listen about how poorly I was treated and never support this chicken shack again!! Please drive past these disrespectful, poultry hooligans and do not support their business,",
+                "reviewer_id": "uIRo2g1MN6aSyIaf3xUEbQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.010000700137814823,
+                    "positive_probability": 0.9899992998621949
+                },
+                "stars": 1
+            },
+            {
+                "review": "For a fast food restaurant, this place was great. Excellent customer service, short wait time, and fresh, delicious food. Both the fish and the shrimp that I had were really good. I'd definitely recommend this place for someone who wants quick food, in large amounts, at a cheap price.",
+                "reviewer_id": "yQZo0tJzB3uBG22d6e_0xA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6812442276152939,
+                    "positive_probability": 0.3187557723847051
+                },
+                "stars": 5
+            },
+            {
+                "review": "Phone in your orders because they're cooking your food to order.My last year of undergrad, I called in so many times the guy knew my voice (when I changed my phone number, he still recognized me).I could eat a half dark meal every day.",
+                "reviewer_id": "zlFnsrynYyPu7VuO6CGBmA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.28032702723414915,
+                    "positive_probability": 0.7196729727658508
+                },
+                "stars": 5
+            }
+        ],
+        "similar_restaurants": [
+            "p7pGpir_7sZZrxmOUV3Leg",
+            "PYG1nrz2yYDSQk3W-vYwAA",
+            "M2boe4Te0rQ5RasVJkPXng",
+            "ucqMmYA5hiXZO1uV0YN8Vw",
+            "-3GT67Nuddlp4E_Udb3GKw",
+            "yZwl-dXM4SpEDEiihrfZnw",
+            "9w1FCHEGc2CWBl0nzX-SUg",
+            "gVSokyUWqy14UEp_JNVL7Q",
+            "3AtlNePpVHC-D1a49LqFtA",
+            "SQASst3NU4tA-t4cmWLILA"
+        ]
+    },
+    "p7pGpir_7sZZrxmOUV3Leg": {
+        "keywords": {
+            "bigrams": [
+                "order_online",
+                "chicken_wing",
+                "original_hot",
+                "boneless_wings",
+                "bad_service",
+                "quality_wings",
+                "wings_awesome",
+                "wings_came",
+                "time_today",
+                "garlic_parmesan"
+            ],
+            "unigrams": [
+                "wings",
+                "fries",
+                "order",
+                "place",
+                "good",
+                "don",
+                "service",
+                "time",
+                "ordered",
+                "back"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "beer_and_wine",
+                "Ambience": {
+                    "casual": false,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "Caters": true,
+                "Delivery": true,
+                "Good For": {
+                    "breakfast": false,
+                    "brunch": false,
+                    "dessert": false,
+                    "dinner": false,
+                    "latenight": false,
+                    "lunch": false
+                },
+                "Good For Groups": false,
+                "Good for Kids": false,
+                "Has TV": true,
+                "Noise Level": "very_loud",
+                "Outdoor Seating": false,
+                "Parking": {
+                    "garage": false,
+                    "lot": true,
+                    "street": false,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 2,
+                "Take-out": true,
+                "Takes Reservations": false,
+                "Waiter Service": false,
+                "Wi-Fi": "free"
+            },
+            "business_id": "p7pGpir_7sZZrxmOUV3Leg",
+            "categories": [
+                "Chicken Wings",
+                "Restaurants"
+            ],
+            "city": "Champaign",
+            "full_address": "512 S Neil St\nChampaign, IL 61820",
+            "hours": {
+                "Friday": {
+                    "close": "00:00",
+                    "open": "11:00"
+                },
+                "Monday": {
+                    "close": "00:00",
+                    "open": "11:00"
+                },
+                "Saturday": {
+                    "close": "00:00",
+                    "open": "11:00"
+                },
+                "Sunday": {
+                    "close": "00:00",
+                    "open": "11:00"
+                },
+                "Thursday": {
+                    "close": "00:00",
+                    "open": "11:00"
+                },
+                "Tuesday": {
+                    "close": "00:00",
+                    "open": "11:00"
+                },
+                "Wednesday": {
+                    "close": "00:00",
+                    "open": "11:00"
+                }
+            },
+            "latitude": 40.110411,
+            "longitude": -88.242982,
+            "name": "Wingstop",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media1.fl.yelpcdn.com/bphoto/RkXToPOOz0vfPLgHQIvpHA/ms.jpg",
+            "review_count": 22,
+            "stars": 2.5,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "The wings are a little on the small side (hence the 4 stars rather than 5, but the flavors are GREAT. I rate this place 4 out of 5 stars, but I'm giving it a 5 to combat the unfair reviews. ), wings were ok. ",
+        "reviews": [
+            {
+                "review": "This place was aggressively disappointing.The french fries are sprinkled with table sugar. So nasty.The wings are tiny.The Original Hot flavor could be sold to Gerber for consumption by infants. Tastes good, but absolutely mild.The Atomic flavor has the opposite problem - spicy, but doesn't taste good. And unlike a buffalo chicken wing, the Atomic sauce is the consistency of tomato paste. This is not a buffalo wing.The carry-out packaging is nice, but the fries were thrown in there loose. And all the food I received was just above room temperature. Bad form.One and done on this joint.",
+                "reviewer_id": "-mqE7uZSnGEAb_quhfcyJQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.039825753819810204,
+                    "positive_probability": 0.9601742461801873
+                },
+                "stars": 2
+            },
+            {
+                "review": "The fries are soggy and the wings come swimming in a pool of grease.  Not worth the money at all!",
+                "reviewer_id": "2DtXmVRBslroHeIcDA4Y6g",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8573427558739098,
+                    "positive_probability": 0.14265724412609043
+                },
+                "stars": 1
+            },
+            {
+                "review": "Their atomic and garlic parmesan wings are awesome!!! Fresh baked rolls and fries are also very good !!!",
+                "reviewer_id": "6i2Zi4iSYKAsBgCoV0BZpg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4376341533130749,
+                    "positive_probability": 0.5623658466869237
+                },
+                "stars": 5
+            },
+            {
+                "review": "Never again...never again!!' This place is terrible!!!!!!! I would never go here. Save your money!!!!!!!!!!",
+                "reviewer_id": "ahGMDuCuQrRF8QTlxtiz6A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4267436597618205,
+                    "positive_probability": 0.5732563402381795
+                },
+                "stars": 1
+            },
+            {
+                "review": "Sure, the staff are kind of disappointing, but the wings are tasty; I usually prefer them for take-out over BWW, especially their atomic wings. I can't speak to the non-chicken parts of the menu--I've only ordered sides once with low expectations, so I honestly don't remember if I was satisfied or not.Overall, call ahead and get take-away for some of the cheapest, tastiest wings at home. No, it won't revolutionize your chicken wing world, but it's good enough to make a regular appearance at movie night.",
+                "reviewer_id": "b6IXt6cx2LCRd2sAA_Pckg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0292368724716837,
+                    "positive_probability": 0.9707631275283195
+                },
+                "stars": 3
+            },
+            {
+                "review": "I don't understand why people hate this place. The wings are delicious and the fries are to die for(Cajun especially). The staff is also always nice to me. I rate this place 4 out of 5 stars, but I'm giving it a 5 to combat the unfair reviews.",
+                "reviewer_id": "CTNW-Ok7TSNgWpm3Na1pGw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.07634310683984254,
+                    "positive_probability": 0.9236568931601534
+                },
+                "stars": 5
+            },
+            {
+                "review": "I think their wings are AWESOME.  Much better than BW3 and I actually like that place a lot as well. I'm shocked this place doesn't have a five star rating as their service has always been on point, consistent, and their staff consists of the friendly-tattoo-guy types which is great IMHO. I usually order for takeout but the restaurant seems clean and with a good atmosphere.",
+                "reviewer_id": "EZ6UB9mX59z-RRy8TVkitQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.027203238840445843,
+                    "positive_probability": 0.9727967611595539
+                },
+                "stars": 5
+            },
+            {
+                "review": "Do not order online if you do not wish to be charged twice. I used to go to wingstop when I lived in Peoria and always enjoyed the wings. The wings in Champaign were good and I was not really disappointed in the quality of the wings. The employees there are the reason why I will not go back. I ordered online, and when I went to pickup the wings I was asked for my charge card again. They say they do this when you order online. I attempted to use a coupon and they just took it, did not give me my free fries. Fed up I just left the store. I ordered 24 wings and a large fry. 12 of one flavor and two orders of 6. I received the 12 of one flavor then 7 of another and 5 of the last. Then the next day I realized that I was charged twice on my credit card. If you walk in and order maybe your experience will be better.",
+                "reviewer_id": "gYQiH_7A1ga9r10HA2s_vw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.10447184549775969,
+                    "positive_probability": 0.8955281545022364
+                },
+                "stars": 1
+            },
+            {
+                "review": "Yuck!This place is GARBAGE.You would think that with all the NEGATIVE reviews I would listen.But nope, I was too hungry to care.I regret every dollar spent on this place.I ordered 15  boneless wings, 10 BBQ and 5 with Honey Sauce.It was dry, dehydrated pieces of turds with a lackluster sauce thrown over the wings in a cheap attempt to masquerade the low quality of the wings.The fries that I ordered along side the \"wings\" were standard at best.The only plus side to the fries was the seasoning, which consists of sugar instead of pure salt.But I could of saved the $15 dollars and just swallowed tablespoons of sugar instead.0/10 Would not Bang.Avoid this place.You've been warned.",
+                "reviewer_id": "K8CnUuWFdGBudrL7O9DaXg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.31284569932518946,
+                    "positive_probability": 0.6871543006748102
+                },
+                "stars": 1
+            },
+            {
+                "review": "I love the wings here, however the fact that three  carryout orders came in after us and left before we even received our food was quite disappointing. The man with a forearm tattoo made an inappropriate comment to my husband when calling our order after waiting 30 mins+.",
+                "reviewer_id": "kEtDRBp5OxolmR_LH2NNYg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.29062426557485443,
+                    "positive_probability": 0.7093757344251442
+                },
+                "stars": 1
+            },
+            {
+                "review": "Worst service and mediocre wings. Took 2 hours only to receive half of my order, then were very hesitant to give a refund. Super sketchy, don't recommend.",
+                "reviewer_id": "Kl4JBIvg4hK5bfO0vMhQvQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9229824643317621,
+                    "positive_probability": 0.07701753566823966
+                },
+                "stars": 1
+            },
+            {
+                "review": "I eat a lot of chicken like most Americans. Wing stop is one of those places you frequent because it is open at midnight, you don't want to turn on your oven, and you may have had just one too many. The wings are known for their seasoning which I find extremely salty. They can be pricey too with wings and fries running you about $6-8. And these are not big wings. It also takes a while to make them for some reason. I figured the small amount of meat on the bone would mean a shorter cooking time but maybe I'm wrong. Personally I prefer BWW for my cheap wings. I only come here when my niece wants something.",
+                "reviewer_id": "lR8ztGfJzRv-dp9ZPyooUA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7219100853060126,
+                    "positive_probability": 0.27808991469399325
+                },
+                "stars": 2
+            },
+            {
+                "review": "Had lunch here for the first time today. Wings were great and fresh from the fryer (unlike Bdubs!) and fries were solid, though my husband thought his were too salty (mine were Cajun). Earned a spot in the lunch rotation.",
+                "reviewer_id": "LZZmcGv_6JQu_phjlNuYmA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9265394621278041,
+                    "positive_probability": 0.07346053787219584
+                },
+                "stars": 4
+            },
+            {
+                "review": "Don't have them do delivery for your order.  They use a service called Zoomer and no one tells you that you need to answer a phone call from a random cell number to actually receive your order once the delivery person nears your location.  I took me about two hours from the time I submitted the order online to the time I receive my cold food.  Fries were seasoned with sugar (?), wings were ok.  Had a conversation with the owner by phone.  He likes to talk over people.  He was more polite a while after we had spoken, and sent me a text to confirm I had my food.Wings were acceptable, but cold.  Spend your money elsewhere.",
+                "reviewer_id": "riV_X4xEGMA5Hr9Y3oT2ug",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.006032013128186407,
+                    "positive_probability": 0.9939679868718119
+                },
+                "stars": 1
+            },
+            {
+                "review": "Tried for the first time today. I don't see what all the complaints are about, but maybe they had bad service or something a couple years back. The guy that served us today was quite nice, patient, and helpful. He even offered to let me try the serrano sauce without my asking him. The wings were no bigger or smaller than any other wings I've ever had, the sauce was really good, and they were hot and fresh. I wasn't a fan of the fries. People have commented that they are soggy and coated with table sugar. I think them not being crispy is on purpose (you can select \"crispy\" on their web site), and I don't know that I tasted sugar on them. They seemed way, way salty to me. While we were eating several other customers trickled in and I didn't see any of the people working there being rude to anyone. Overall I thought the wings were good, the fries just aren't my speed (and I don't need the fries anyway), the store was clean, and the staff was friendly. I'll visit again.",
+                "reviewer_id": "t2bvnZZkvS-db_4I-1f3nA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.004331007091687776,
+                    "positive_probability": 0.9956689929083036
+                },
+                "stars": 4
+            },
+            {
+                "review": "We got 20 wings here recently and they were literally the worst wings I have ever had.They were small, soggy, had a gray tint and were generally unappetizing. We're poor students, so I ate them anyways, and thanked my lucky stars when I wasn't up puking all night. That is the best thing I can say- that they didn't give me food poisoning. They were small, like, a bite of chicken on each wing, weren't crispy at all and the flavors were bland and tasted a bit off, like gone bad off. As an employee/business owner, I would have been so  embarrassed to sell these things. They were priced the same as Buffalo Wild Wings, whose wings are big and crispy at least. I will never, ever, eat here again and I caution anyone else to avoid them as well. Eating here is a terrible waste of money.",
+                "reviewer_id": "V-rBl-X12vISHVaLSqiV8Q (1)",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9783635405617249,
+                    "positive_probability": 0.021636459438265792
+                }
+            },
+            {
+                "review": "We got 20 wings here recently and they were literally the worst wings I have ever had.They were small, soggy, had a gray tint and were generally unappetizing. We're poor students, so I ate them anyways, and thanked my lucky stars when I wasn't up puking all night. That is the best thing I can say- that they didn't give me food poisoning. They were small, like, a bite of chicken on each wing, weren't crispy at all and the flavors were bland and tasted a bit off, like gone bad off. As an employee/business owner, I would have been so  embarrassed to sell these things. They were priced the same as Buffalo Wild Wings, whose wings are big and crispy at least. I will never, ever, eat here again and I caution anyone else to avoid them as well. Eating here is a terrible waste of money.",
+                "reviewer_id": "V-rBl-X12vISHVaLSqiV8Q",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9783635405617249,
+                    "positive_probability": 0.021636459438265792
+                },
+                "stars": 1
+            },
+            {
+                "review": "Finally some decent competition for the mediocre BWW.... I've ordered from Wingstop twice since they opened and have been impressed each time.  The wings are a little on the small side (hence the 4 stars rather than 5, but the flavors are GREAT.  I haven't tried them all yet, but the Original Hot, Lousiana Rub and Garlic Parmesan are all really tasty.  Give them a try, you won't be disappointed.",
+                "reviewer_id": "VmlCGP0FGeTWBfaRFZ03fg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.12012662345827542,
+                    "positive_probability": 0.8798733765417199
+                },
+                "stars": 4
+            },
+            {
+                "review": "Rude employees, high prices, soggy fries, slow service. I was double-charged for an order once and it took 7 days (and several trips back) to finally get my money back. They acted like it was my fault it happened. I also placed an order online, and when I went to pick it up the order slip was still sitting on the printer, and I had to wait 25 additional minutes for them to make the order. No apologies, no compensation for the inconvenience. Just bad service. I won't be returning.",
+                "reviewer_id": "xP0H-ujAev-bPqARDSyZYA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.21711670922352863,
+                    "positive_probability": 0.7828832907764687
+                },
+                "stars": 1
+            },
+            {
+                "review": "I was between the 'experienced better' and 'a-okay' for this review. What helped push it into the 3-star territory was the fact that I enjoyed the service here having eating in. My sister and I came in late night for some sibling bonding, also, we forgot where Steak-and-Shake was. We ordered the 2-person Combo of 15 boneless wings that came with a serving of any kind of their fries and two soft drinks. Not a bad price I must say as it came out to about $20 for all of that. The fries were okay, not my favorite. They weren't very flavorful to me or salty enough. As for the boneless wings, I enjoyed the juiciness of the parmesan garlic wings, but the parmesan wasn't really pronounced nor was the garlic. Meanwhile, the Hawaiian wings came out a little dry and chewy and almost a little too ginger-y. But despite that, my sister and I still had a good time and joked with the staff there whenever they passed by, so I definitely appreciate that. Overall, it's a fine late-night pit stop. Have some fun with it.",
+                "reviewer_id": "Xwt0LinDiYavllo6XxJmnQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5453951970710162,
+                    "positive_probability": 0.45460480292898603
+                },
+                "stars": 3
+            },
+            {
+                "review": "My favorite wing place finally came back to CU!  I got hooked on these guys when they were in urbana, when they left i had to go to Decatur for these wings, now i'm very pleased to see they are back.the Original Hot, Cajun, and Garlic Parm wings are all excellent.  the Fresh cut seasoned fries are simply excellent.This place is a very welcome addition to the CU culinary cuisine",
+                "reviewer_id": "xZhXEZnxK9eJ-gMzAn5GRg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.16958474239892396,
+                    "positive_probability": 0.8304152576010776
+                },
+                "stars": 5
+            }
+        ],
+        "similar_restaurants": [
+            "XMLbJeauBC6DANgNsJO6CQ",
+            "8LCPOZXh_yvigEOWg0ZR2g",
+            "A2T1l1RUrJ25YxfCbTN7-g",
+            "sPI0AqWHMeJB_UeZ5FRscg",
+            "EMjKhNWBprdlb5Obcia2uA",
+            "4MeniYcsZrwc_Cq6WSd3zQ",
+            "Z8EGaOokvK2hoD6tGup0MA",
+            "pXZtvvXtVSXHgodcGfiX_g",
+            "BikDzi8YhQkTJP_nAGOEUA",
+            "OQIDPNTLuOD8io9FoKKIKA"
+        ]
+    }
+}

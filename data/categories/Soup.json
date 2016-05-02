@@ -1,0 +1,637 @@
+{
+    "d1ZT8gm7MTNHipyHEphKYA": {
+        "keywords": {
+            "bigrams": [
+                "customer_service",
+                "cinnamon_roll",
+                "iced_tea",
+                "horseradish_tomato",
+                "sierra_turkey",
+                "panera_usually",
+                "heat_cinnamon",
+                "taste_buds",
+                "roll_heated",
+                "try_order"
+            ],
+            "unigrams": [
+                "panera",
+                "food",
+                "good",
+                "don",
+                "order",
+                "sandwich",
+                "soup",
+                "salad",
+                "bread",
+                "coffee"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "none",
+                "Ambience": {
+                    "casual": false,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "Caters": true,
+                "Delivery": false,
+                "Good For": {
+                    "breakfast": true,
+                    "brunch": true,
+                    "dessert": false,
+                    "dinner": false,
+                    "latenight": false,
+                    "lunch": false
+                },
+                "Good For Groups": true,
+                "Good for Kids": true,
+                "Has TV": false,
+                "Noise Level": "quiet",
+                "Outdoor Seating": true,
+                "Parking": {
+                    "garage": false,
+                    "lot": true,
+                    "street": false,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 2,
+                "Take-out": true,
+                "Takes Reservations": false,
+                "Waiter Service": false,
+                "Wi-Fi": "free"
+            },
+            "business_id": "d1ZT8gm7MTNHipyHEphKYA",
+            "categories": [
+                "Soup",
+                "Sandwiches",
+                "Salad",
+                "Restaurants"
+            ],
+            "city": "Champaign",
+            "full_address": "1903 Convenience Place\nChampaign, IL 61820",
+            "hours": {
+                "Friday": {
+                    "close": "22:00",
+                    "open": "05:30"
+                },
+                "Monday": {
+                    "close": "21:00",
+                    "open": "05:30"
+                },
+                "Saturday": {
+                    "close": "22:00",
+                    "open": "05:30"
+                },
+                "Sunday": {
+                    "close": "21:00",
+                    "open": "07:00"
+                },
+                "Thursday": {
+                    "close": "21:00",
+                    "open": "05:30"
+                },
+                "Tuesday": {
+                    "close": "21:00",
+                    "open": "05:30"
+                },
+                "Wednesday": {
+                    "close": "21:00",
+                    "open": "05:30"
+                }
+            },
+            "latitude": 40.138507,
+            "longitude": -88.243173,
+            "name": "Panera Bread",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media4.fl.yelpcdn.com/bphoto/KhQZMP2TXTqbKna1AYR6-A/ms.jpg",
+            "review_count": 22,
+            "stars": 2,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "It's a chain, but a damn friendly one, filled with soup and delicious sandwiches, topped off by hot coffee and free wi-fi. I have been to Panera several times. But they are frequently out of coffee (one time completely out at 9:10 am and after waiting 5 min. ",
+        "reviews": [
+            {
+                "review": "Panera is usually where my wife and I go when we don't really know what we want, but this one was terrible. To start things off the staff was just kind of rude. Then, my wife wanted tea..there was no sweet tea so she decided to have unsweet. Unfortunately BOTH of the unsweet teas were just about empty. She got half a cup and wasn't able to get more till we were leaving. The place was also filthy! There were a ton of open tables, but not one clean table and no one was cleaning tables. We picked the cleanest one and wiped it off ourselves. Also, the floor was littered with trash. On our way out my wife was refilling her tea, since she never got a full cup to start with, and a worker was straightening out the condiments, nodded to herself about a job well done and left. She also left another complete mess as there was sugar spilled all over the place. We will not be back.",
+                "reviewer_id": "0BG18g4AMZRViepqiccrMA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.009968369868061745,
+                    "positive_probability": 0.9900316301319445
+                },
+                "stars": 1
+            },
+            {
+                "review": "I had the Greek Salad and Strawberry Fruit Smoothie. Both were excellent.",
+                "reviewer_id": "3qFI4GeLEDUtWNRpLBY68Q",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5326928813950776,
+                    "positive_probability": 0.46730711860492263
+                },
+                "stars": 5
+            },
+            {
+                "review": "I tried this place for the 1st time and will never go back I was ordering a sandwich and asked if I could get it on a different type of bread they could have no and I would have been fine with that but instead they went on to tell me that the bread they use is the best bread for that sandwich when I told I dont like that bread they got into an argument with me about what bread was good with that. I think its way overpriced for what you get",
+                "reviewer_id": "5QwDvcqj2780HHi8N7cmwQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9473391752994788,
+                    "positive_probability": 0.052660824700523724
+                },
+                "stars": 1
+            },
+            {
+                "review": "16 minute wait in drive thru with only 2 cars in front of me. The guy made me repeat my order twice cause he said he forgot for my 2   items. Car in front of me was asked to move up he waited 6 mins and gave up he did not even wait for the coffee he paid for. Took them 5 mins to just acknowledge me at the window. Got my sandwich and he asked if I wanted cream and sugar I said yes. And now I'm drinking black coffee.",
+                "reviewer_id": "5ZIbB1o742vx77ZgO67ZQw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9985924138774132,
+                    "positive_probability": 0.0014075861225897298
+                },
+                "stars": 1
+            },
+            {
+                "review": "This location's customer service could really use improvement. I continue to eat at Panera because I like their food and it's a healthy-ish option close to home but the staff always seem annoyed, irritated that you are there, and like you have severely inconvenienced them. I've started ordering online and picking it up through the drive thru just to avoid the staff.",
+                "reviewer_id": "60juruDHOc7-yhc2bE2Elw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5120107342057978,
+                    "positive_probability": 0.48798926579419927
+                },
+                "stars": 2
+            },
+            {
+                "review": "grabbed breakfast here this morning and enjoyed the spinache artichoke souffle and a coffee.  do not try to order a latte or other espresso drink because you will be disappointed.  just opt for their house blend or their columbian.  i like this panera better than the one at old farm shoppes because the clientelle seems a bit more diverse.  free wi-fi is a plus too.  yummy soups and salads but don't try to order any of the panini sandwiches without meat...they'll tell you no.  they are all premade and just waiting for the sandwich iron...kind of makes you glad you weren't allowed to order one.",
+                "reviewer_id": "6pC5j-hfP4xLZB2W0Wi1vg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.19679593567319278,
+                    "positive_probability": 0.8032040643267989
+                },
+                "stars": 4
+            },
+            {
+                "review": "I stood and watched a man put on gloves on then rub his dirty hat with them. He then proceeded to use his hands to prepare my salad. Needless to say it was tossed it the garbage and I will never be returning. The staff needs training in preparing food in using safe and sanitary measures.",
+                "reviewer_id": "9oUanpbyyuAfFAVpTkr2eg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9377501920164043,
+                    "positive_probability": 0.06224980798359752
+                },
+                "stars": 1
+            },
+            {
+                "review": "I have gone to Panera for YEARS and usually they are top notch and reliable....This location, however, is not.  Before I put my review, let me say that I have had to contact corporate TWICE to try and see any type of resolve...Let's hope this second time will actually work... I have gone to the same Panera for the past three days and apparently they do not feel the need to pay attention to detail to those in the drive thru.  The first two days, I ordered exactly a large black iced tea with a cinnamon roll heated up.  The first day, they heated up and placed it inside the bag without a box, completely unsanitary.  The second day, they said \"we don't heat up cinnamon rolls here.\" I had to in fact inform the employee that they did heat cinnamon rolls, however, yet again, my cinnamon roll was thrown into a bag with my napkins and such thrown on top.  The third day took the cake.  I decided to spell it out for them because clearly they did not understand that a cinnamon, like any other pastry, goes in a box. So, I ordered a large black iced tea with a cinnamon roll heated up in a box.  And what did I get? A cinnamon roll, in a bag, not heated up.  The customer service here is beyond poor.  Upper management needs to step in because clearly the management at the store is not providing proper training.",
+                "reviewer_id": "CxYbWShHHDnNiQ00xSKciw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.00030196128726021123,
+                    "positive_probability": 0.9996980387127529
+                },
+                "stars": 1
+            },
+            {
+                "review": "Good Food, Good Coffee.  And you can get a genuine ceramic mug, very civilized!",
+                "reviewer_id": "d1I7WgowWgblUJ9uWgRn6A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.39614267473303605,
+                    "positive_probability": 0.603857325266964
+                },
+                "stars": 4
+            },
+            {
+                "review": "Horrible customer service, since it was the first time we order from the lunch menu we asked the cashier questions about what's in the soba bowl, the cashier, Robin, was very rude and acted like she cannot understand me when I placed my order. Don't eat here unless you want to be treat like an idiot.",
+                "reviewer_id": "DGot8Hab8qNGQMGFfAF_8Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.27499393080665296,
+                    "positive_probability": 0.7250060691933425
+                },
+                "stars": 1
+            },
+            {
+                "review": "I'd give them a five for food, but a 3 for customer service. Our cashier was Kellie jo and she was so polite and warm and friendly. She gets a 5! However, as we were standing in line, Robin was open at the cashier next to her and had no customers as she stood there and did not ask to help us while Kellie was busy with another customer. When it was our turn to be waited on by kellie, Robin then turned around and talked with another employee. Other than that, kellie needs a raise and i will come back, if she's working. The food, however is always wonderful and makes my taste buds want more.",
+                "reviewer_id": "GlLMYh0etCbXzSIpAyeq2g",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0006618056351731113,
+                    "positive_probability": 0.9993381943648313
+                },
+                "stars": 3
+            },
+            {
+                "review": "Don't know why I haven't done this before but absolutely the worst Panera I've ever experienced. Gave them many chances because I do like their food and they are convenient to work. But they are frequently out of coffee (one time completely out at 9:10 am and after waiting 5 min. Still no coffee!) customer service? Worst ever! Management? Disengaged at best. Downright worthless the rest of the time. Corporate needs to wake up. I've boycotted this location for the past 4 months and feel much better for it!",
+                "reviewer_id": "jvTmrtXOXecph-UPyV1wVQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9905972262568062,
+                    "positive_probability": 0.00940277374319166
+                },
+                "stars": 1
+            },
+            {
+                "review": "The worst Panera I have ever been to.  One of the worst places in the C-U. We went there to get some bread, and stood in line for 5 minutes while receiving awkward looks from their employees.  No one came to help us or take our order.  There must have been at least 10 employees standing around, doing absolutely nothing, ignoring us.  It was so bad we left, along with the other customers behind us.  Do not waste your time at an establishment that cannot be bothered to take your money.",
+                "reviewer_id": "mlxwcI_dMNzdwwYzjADn-A",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9834090775665019,
+                    "positive_probability": 0.01659092243349122
+                },
+                "stars": 1
+            },
+            {
+                "review": "This national chain is going to save my life because it is probably one of the healthiest chains now available in most locales across America. I had the kale salad with the French Onion Soup. Yes, maybe the soup is a little salty - but hey, salt gives flavor. The kale salad is new and has the name ingredient, romaine, parmesan, some sort of little wafer-like crouton and chicken. They give a 1/2 lemon and simple olive oil for dressing. Delicious! Oh, and get the unsweetened Acai Iced Tea! Maybe they have new management, maybe I was there on a good night, maybe I'm not that critical... I don't know what the other reviewers are talking about... service was friendly and professional... and no Panera is quick, duh, it's considered slow fast food just like 5-Guys and some other relatively new chains, you have to wait 5-10 minutes for your food because they make it to order. When you expect that and you see they are especially busy, I suppose 15 minutes could happen. I don't know. I had a good experience here and I enjoyed my meal. It sure beats MacDonalds...Cheers!",
+                "reviewer_id": "P6DpZi2xvUZBylskBhu9fQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.16984437629524005,
+                    "positive_probability": 0.8301556237047518
+                },
+                "stars": 4
+            },
+            {
+                "review": "This is the worst Panera I have ever visited. Whomever was is charge around 3: 30pm was extremely rude. He was condescending to the other employees, and seemed to be on a power trip. I saw employees rolling their eyes behind his back. I had ordered one full salad and a half salad. They both were the same size. When I brought it to their attention that both were half salads, they insisted that one with the bigger bowl was the full salad.",
+                "reviewer_id": "p940gbT1Z4fZXdbUalTa_w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0691577864313537,
+                    "positive_probability": 0.9308422135686424
+                },
+                "stars": 1
+            },
+            {
+                "review": "Panera's generally very good, but this location is... well, not. Today, I ordered a sandwich to go (the Asiago Steak, which is normally good) but asked for no horseradish or tomato. Lo and behold, when I get home... there's horseradish and tomato. This is after they gave me chips instead of the baguette I wanted, which I managed to catch.When you're paying $10 for a sandwich and a side, especially one made right there, I don't think that it's an unreasonable request to take off the condiments. If Subway will do it... Anyway, I've learned my lesson.",
+                "reviewer_id": "qR6jQSCWN94STCjsnTU8vQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.12523573969138901,
+                    "positive_probability": 0.8747642603086063
+                },
+                "stars": 1
+            },
+            {
+                "review": "Being a chain, the food is pretty much the same no matter what branch you go to. What sets this place apart from the other branches I frequent are the sour expressions on all 3 people behind the counter. At 6:00 a.m., it would be nice to see even a half smile from the lady taking our order. Nope! This place scores zero on customer service.",
+                "reviewer_id": "rzBxepHfdWxMGgAeD95R_w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.13798810012801713,
+                    "positive_probability": 0.8620118998719878
+                },
+                "stars": 1
+            },
+            {
+                "review": "It's a chain, but a damn friendly one, filled with soup and delicious sandwiches, topped off by hot coffee and free wi-fi.  Great spot.However, just a word of warning.  If you're there to take a breather and collect yourself, avoid move-in week.  Stressed soccer moms with their soon to be inebriated freshmen children do not help keep one's sanity in the newly packed environment.That said, great job, Panera for giving us grad students free wifi and great food.  Excellent.",
+                "reviewer_id": "SpKVX3rt892E-BrL-yeqiw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.023425187593340134,
+                    "positive_probability": 0.9765748124066631
+                },
+                "stars": 5
+            },
+            {
+                "review": "One of the better Panera's in IllinoisThey have Apple Pay! Don't find that in many places even though Apple made it seem like it was the future.The girl behind the counter was friendly and efficient.The food came out fast and the soup was hot and delicious.I have been here 3 times and it's always a pleasant experience. No surprises just a solid Panera",
+                "reviewer_id": "twF_2RKnDgJqmKMU3K9A5w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.06839813918071429,
+                    "positive_probability": 0.931601860819283
+                },
+                "stars": 5
+            },
+            {
+                "review": "Less than full soup and no replacements as promised.  5$ a bowl is too much money anyway.  Will probably not return.",
+                "reviewer_id": "uPjjcNgxbUK3otgj5X42zA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9207820876323685,
+                    "positive_probability": 0.07921791236763259
+                },
+                "stars": 1
+            },
+            {
+                "review": "I have been to Panera several times.  The broccoli cheese soup and french onion soup are the best,.  However, I have never had a good apple from Panera.  EVER.  They are always tasteless and thick skinned.  I am not sure where they get their apples from but it might not be bad idea to shop around and have someone with taste buds pick the apples.The Sierra turkey is a really good Cafe sandwich but the onions on it are a bit hot and strong.  I picked them off. The Chipolte mayo was a little spicy but added great flavor to the sandwich. It comes on Asiago cheese focaccia which I probably would have picked a different bread. I have tried other sandwiches and I have liked most of them.I tried one of the new pasta dishes the other day and was not overly impressed.  But I am not a pasta person.I went through the drive through for the first time today and I was really impressed with how quickly I got in and out of it.  It seems you wait longer for you food when you dine in.",
+                "reviewer_id": "W4ojW7f30haCertr4CzFJw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9308471007544258,
+                    "positive_probability": 0.06915289924557404
+                },
+                "stars": 3
+            },
+            {
+                "review": "Panera is usually a pretty reliable place to stop when traveling, but this location left much to be desired.  The person who waited on us was not friendly at all; a smile or a \"hi\" would have been nice.  The food wasn't up to par, either  There was one small dot of chipotle mayo on my Sierra turkey; guess they were rationing condiments that morning. The pricing structure on the You Pick Two has changed, now each thing is individually priced .  Our lunch was over $18; we drink water.....pretty pricey for a half sandwich with a salad or soup.  Bathroom needed some work as well.  Won't be back here.",
+                "reviewer_id": "zm3VcsS2h2OdB_7-TThhiw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.998385438882236,
+                    "positive_probability": 0.0016145611177593065
+                },
+                "stars": 2
+            }
+        ],
+        "similar_restaurants": [
+            "q4raCE4a8wMEETPG45HgAA",
+            "j9N_fG1PVCSY-3HY1TRQ5Q",
+            "ey7-ihj-OjM4sEOwWTc06Q",
+            "jv-VfERRGsx0-MF7kLj8XQ",
+            "mSTjlawGZcbg8YBQx9UxFg",
+            "leH24AjTrmcImAbsdh4HFQ",
+            "elwuxXreWA3IVAW5qNOw3g",
+            "uhzZM-WwNsaVuvGRjv3mXw",
+            "4PatE4TUcea0Dj0hKICGJw",
+            "Fb3Pl0PO_ojEyChkM_SApA"
+        ]
+    },
+    "q4raCE4a8wMEETPG45HgAA": {
+        "keywords": {
+            "bigrams": [
+                "great_place",
+                "panera_bread",
+                "black_bean",
+                "pretty_good",
+                "broccoli_cheddar",
+                "leaves_desired",
+                "cheddar_soup",
+                "bean_soup",
+                "breakfast_sandwich",
+                "luke_warm"
+            ],
+            "unigrams": [
+                "panera",
+                "good",
+                "place",
+                "soup",
+                "great",
+                "food",
+                "bread",
+                "free",
+                "pretty",
+                "salad"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "none",
+                "Ambience": {
+                    "casual": true,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "Caters": true,
+                "Delivery": false,
+                "Good For": {
+                    "breakfast": true,
+                    "brunch": false,
+                    "dessert": false,
+                    "dinner": false,
+                    "latenight": false,
+                    "lunch": true
+                },
+                "Good For Groups": true,
+                "Good for Kids": true,
+                "Has TV": false,
+                "Noise Level": "average",
+                "Outdoor Seating": false,
+                "Parking": {
+                    "garage": false,
+                    "lot": false,
+                    "street": false,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 2,
+                "Take-out": true,
+                "Takes Reservations": false,
+                "Waiter Service": false,
+                "Wheelchair Accessible": true,
+                "Wi-Fi": "free"
+            },
+            "business_id": "q4raCE4a8wMEETPG45HgAA",
+            "categories": [
+                "Soup",
+                "Sandwiches",
+                "Salad",
+                "Restaurants"
+            ],
+            "city": "Champaign",
+            "full_address": "616 E Green Street\nChampaign, IL 61820",
+            "hours": {
+                "Friday": {
+                    "close": "21:00",
+                    "open": "07:00"
+                },
+                "Monday": {
+                    "close": "21:00",
+                    "open": "07:00"
+                },
+                "Saturday": {
+                    "close": "21:00",
+                    "open": "08:00"
+                },
+                "Sunday": {
+                    "close": "21:00",
+                    "open": "08:00"
+                },
+                "Thursday": {
+                    "close": "21:00",
+                    "open": "07:00"
+                },
+                "Tuesday": {
+                    "close": "21:00",
+                    "open": "07:00"
+                },
+                "Wednesday": {
+                    "close": "21:00",
+                    "open": "07:00"
+                }
+            },
+            "latitude": 40.1106295,
+            "longitude": -88.2296312,
+            "name": "Panera Bread",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media1.fl.yelpcdn.com/bphoto/EuDzr8Ck6iR75qjAftrnHQ/ms.jpg",
+            "review_count": 16,
+            "stars": 3,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "Great place. The food is good. Panera is great. ",
+        "reviews": [
+            {
+                "review": "This may be a concern that relates to all Panera Bread locations so keep that in mind. Generally it seems that Panera puts decent food out. My complaint is the constant implication that they are all about healthy eating when they offer a single item on the menu that is vegan and it is only sporadically on the menu. The Black Bean soup is supposed to be vegan and is the only thing - other than a small side salad or an apple - that is a vegan meal. My issue other than the fact that there is no selection is that the Black Bean Soup is only on the menu certain days and not always reliably. Thus, it isn't worth going in to even try the place.  I raised the issue with an employee and she said they are \"working on it.\" That is pretty far behind the times and how hard is it to put a few more vegan items or to offer the one you have consistently? This is not generally and overall a healthy place to eat and really tries to make it look like it is. I hope someday they catch up and offer some vegan choices and more vegetarian fare also.",
+                "reviewer_id": "1QBi1Cx0mWaVY2xtZqtYzA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.00082797206617369,
+                    "positive_probability": 0.9991720279338338
+                },
+                "stars": 2
+            },
+            {
+                "review": "I love panera bread!! This specific location has always provided great service to me . Their food is always fresh and tastes great. It is a great place to meet up with friends or sit down and do homework while enjoying food! Their panera rewards program is also really great. It is free, so you should enroll for discounts and free items!! :)",
+                "reviewer_id": "44GzCA_7s9Xq3kzl2xD1TQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9133178048086378,
+                    "positive_probability": 0.08668219519135845
+                },
+                "stars": 5
+            },
+            {
+                "review": "Panera is great. The salads, sandwiches, and soups are wonderful. I really like that you can customize your order by replacing an ingredient or going without it. Makes your order a little healthier. I have cravings for their Mediterranean egg white sandwich. The salad varieties are always creative. The asiago cheese bagel is delicious! I also like their granola parfaits. You really can't go wrong with any of the options there. The service is fast and friendly too. Great place for a U of I student to grab a bite and study at the same time. I had an oatmeal raisin cookie there once and it was perfectly chewy (got it for free). I also like that the MyPanera rewards card gets you rewards like free drinks, pastries, soups, etc. The only thing I don't like about Panera is the calorie count of their foods, but it's nice to splurge every once in a while. I'm so grateful they post their nutrition information online, and in the store.",
+                "reviewer_id": "cwk-2n5y1FjSZZRnqb7XZw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.07319623098182895,
+                    "positive_probability": 0.9268037690181613
+                },
+                "stars": 5
+            },
+            {
+                "review": "I would give it four or five stars if it weren't for the terrible customer service. Some of the employees are okay, but many of the employees on the registers are unfriendly and cold. Paneras are known for their friendly and welcoming workers, but this location shows otherwise.",
+                "reviewer_id": "dWrsoRZSOfbwvdwXGI_5RA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6350463527156827,
+                    "positive_probability": 0.3649536472843165
+                },
+                "stars": 3
+            },
+            {
+                "review": "The paninis are generally the best sandwiches to order. Overall, this place is fairly average. You get a pretty solid sandwich if you're hungry.",
+                "reviewer_id": "eFIlrOz3TnuZQeh2Y1e17Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4856313525277833,
+                    "positive_probability": 0.5143686474722157
+                },
+                "stars": 3
+            },
+            {
+                "review": "So a Panera is a Panera, I guess... in general they range for me, averaging somewhere around a 4-star, I mean they are a chain but I tend to crave some of their soups and sandwiches... and they have free wireless... which should be standard now-a-days but isn't.This location was just okay because my soup was only luke warm and did not come with any bread. I'm pretty sure a bowl of soup comes with bread; if it doesn't it should.  What am I supposed to dip into my soup? Since it was only luke warm and all I had was an apple I turned my broccoli cheddar soup into fondue.Meh, I'll search for a local place next time.",
+                "reviewer_id": "F24V0h4b9IalOxWSSQPNSQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9531664936305979,
+                    "positive_probability": 0.046833506369399355
+                },
+                "stars": 3
+            },
+            {
+                "review": "I went in to get some cupcakes but there were flies sitting all over the cakes and scones ... I lost my appetite and left the place. They should at least have a plastic cover for all of the pastries like Atlanta Bread. It was disgusting... Sanitary issueeeee",
+                "reviewer_id": "fsFtniglGtomYpcFud8GEQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9628993587571704,
+                    "positive_probability": 0.037100641242828705
+                },
+                "stars": 1
+            },
+            {
+                "review": "Great place. Great atmosphere. Great food. Coffee leaves something to be desired however. And there is an unfortunate lack of electrical outlets. Laptoppers, beware!",
+                "reviewer_id": "Lj1dmFYx5iBtFAGRiDrC7Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4977396346004092,
+                    "positive_probability": 0.5022603653995918
+                },
+                "stars": 4
+            },
+            {
+                "review": "I've always enjoyed Panera since they first showed up on campus many years ago on John Street.  I prefer patronizing the paces off campus where you can get seats.  On campus, students take up space doing homework while diners walk around looking for seats.  The food is good.  The sandwichs are interesting and tasty.  The soups are mostly good, especially in a bread bowl.  Salads are also tasty and you can mix and match the sandwich, soup, and salads.  The Mediterranean Veggie is a fav, but the consistency of its assembly leaves much to be desired.  Sometimes it's sloppily slapped together and may be missing an ingredient or have a small amount of it.  The Baked Potato soup is quite good.  The seasonal Wild Mushroom soup is awesome.  They've had some other great soups on occasion, like Fire Roasted Corn.  The bagel selection is good but they're really nothing like New York bagels.  More bread than bagel.  The breads are excellent and the bakery items decadent.  Great Bear Claws and Danish and the Cobblestones are pretty good, though sometimes dry.  The Cinnamon Rolls are good in the centers but the outer edges are usally dry.",
+                "reviewer_id": "OZCzq4BvNGdTpBE2iUg0Tw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9306397644928817,
+                    "positive_probability": 0.06936023550710063
+                },
+                "stars": 4
+            },
+            {
+                "review": "The food was what I expected from Panera. The apple Fuji salad was delicious. My wife enjoyed her salad too. Although, they forgot to put dressing on her salad. When I brought it to their attention that they forgot the dressing they insisted that they did, but gave me salad dressing still. The most irritating part was that after we started to eat, they decided to clean around our table. They were cleaning the AC vent and the hanging light fixtures that were hanging above and around the table. A little consideration would be nice! Having dirt fall on you from above, and around you, is not a pleasant way to eat your food.",
+                "reviewer_id": "p940gbT1Z4fZXdbUalTa_w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0052820320171763,
+                    "positive_probability": 0.9947179679828261
+                },
+                "stars": 2
+            },
+            {
+                "review": "Don't get me wrong. The food is always delicious. However, they are pretty expensive for a place that cooks all the paninis at 6 in the morning and then leaves them in a fridge for the day. They also overcharge for the soup considering the fact that is has been frozen in a bag for a few days and then warmed up in warm water. They do have the loyalty card which does come in handy but you have to be a regular customer to actually receive good rewards.",
+                "reviewer_id": "qND0y_3FE2MIRkwocUBu_A",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.862308106480491,
+                    "positive_probability": 0.13769189351950423
+                },
+                "stars": 3
+            },
+            {
+                "review": "As many people that crowd this Panera Bread, there should be more reviews for this place! This is a hangout spot for a lot of people, including me. They are a great place to grab breakfast, lunch, and dessert. Their hot sandwiches are delicious and I always get the chips with one, even though you also have the choice of a baguette or apple. I took the unhealthy route with chips, but they're pretty good.Their bagels are a staple there. My favorite is the French Toast and the honey walnut cream cheese is to die for.Their breakfast sandwich, the Power Breakfast Sandwich, or whatever it's called, is really good and you should try it was sausage instead of ham and add some jelly.The pastries are also really good. The mini Pineapple Upside Down cake is delicious and not too sweet. Their brownies are some of the best I've had from a to-go food place. The chocolate chip cookies (get them in the bag) are so good, I'm curious how they get them to be that good.I'm a die hard Panera fan and I recommend you go because there are options for everyone.",
+                "reviewer_id": "THZbpyV1VQDJiBrDBbWpfw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.1731407781212936,
+                    "positive_probability": 0.8268592218787127
+                },
+                "stars": 5
+            },
+            {
+                "review": "Nothing feels better for a sore throat than warm chicken noodle soup (which is exactly what I had here last night for dinner)!I can't even begin to explain how excited I was when I learned a Panera was opening right on Green St. this summer.  It's one of my staples back home, and while it is a chain, they still have a great selection of food and baked goodies.Typically, I'll get their you-pick-2 (frontega chicken + broccoli cheddar soup = YUM!).  I love dipping their sourdough baguette into the warm soup.It's definitely a good place to stop by for lunch as they're quick, and you can always grab it to go.  Always a safe bet.  Plus!  Free wi-fi!",
+                "reviewer_id": "urDog6OhPoNKPJFUDob7AA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.15919597489474457,
+                    "positive_probability": 0.8408040251052477
+                },
+                "stars": 4
+            },
+            {
+                "review": "Went by after work (which isn't that late, around 5pm) to pick up some bagels for breakfast, and discovered that this location closes at 3pm. I could have sworn that I've had dinner at Panera before, so it must be a quirk of this particular one.",
+                "reviewer_id": "wBtPzdzr-IUVuEXdcViEYA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9039612047253278,
+                    "positive_probability": 0.09603879527467396
+                },
+                "stars": 3
+            }
+        ],
+        "similar_restaurants": [
+            "d1ZT8gm7MTNHipyHEphKYA",
+            "ey7-ihj-OjM4sEOwWTc06Q",
+            "uhzZM-WwNsaVuvGRjv3mXw",
+            "VI-zVIlK11AUz47mro8nMA",
+            "elwuxXreWA3IVAW5qNOw3g",
+            "YkKEsYsSpOkDBbHBGKuWQA",
+            "j9N_fG1PVCSY-3HY1TRQ5Q",
+            "Rh2Zb7J4n9M60ByTndWH2A",
+            "mSTjlawGZcbg8YBQx9UxFg",
+            "Uw1DZhEtTmLzMcXmdpR8Pw"
+        ]
+    }
+}

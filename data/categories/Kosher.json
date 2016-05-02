@@ -1,0 +1,159 @@
+{
+    "ec1gbPLxYhUYDu_1h4c7dQ": {
+        "keywords": {
+            "bigrams": [
+                "cafe_sababa",
+                "grilled_cheese",
+                "especially_pizza",
+                "pizza_fries",
+                "simple_healthy",
+                "delicious_food",
+                "place_staff",
+                "gone_times",
+                "healthy_delicious",
+                "fries_pickle"
+            ],
+            "unigrams": [
+                "fries",
+                "grilled",
+                "cheese",
+                "aaron",
+                "gone",
+                "special",
+                "matt",
+                "sandwich",
+                "center",
+                "items"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "none",
+                "Ambience": {
+                    "casual": false,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "Caters": false,
+                "Delivery": false,
+                "Good For Groups": true,
+                "Good for Kids": true,
+                "Has TV": false,
+                "Noise Level": "quiet",
+                "Outdoor Seating": false,
+                "Parking": {
+                    "garage": false,
+                    "lot": false,
+                    "street": false,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 1,
+                "Take-out": false,
+                "Takes Reservations": false,
+                "Waiter Service": false,
+                "Wi-Fi": "free"
+            },
+            "business_id": "ec1gbPLxYhUYDu_1h4c7dQ",
+            "categories": [
+                "Kosher",
+                "Vegetarian",
+                "Pizza",
+                "Restaurants"
+            ],
+            "city": "Champaign",
+            "full_address": "503 E. John St\nChampaign, IL 61820",
+            "hours": {
+                "Monday": {
+                    "close": "13:30",
+                    "open": "11:30"
+                },
+                "Thursday": {
+                    "close": "13:30",
+                    "open": "11:30"
+                },
+                "Tuesday": {
+                    "close": "13:30",
+                    "open": "11:30"
+                },
+                "Wednesday": {
+                    "close": "13:30",
+                    "open": "11:30"
+                }
+            },
+            "latitude": 40.108761,
+            "longitude": -88.231538,
+            "name": "Cafe Sababa",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media3.fl.yelpcdn.com/bphoto/AfOCXW7tbFzPiVfRM3INZA/ms.jpg",
+            "review_count": 4,
+            "stars": 5,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "I've gone to Cafe Sababa a few times already, and I'm always impressed with the care Aaron and Matt put into every order. ), the pizza, and the fries. What makes a simple\" grilled cheese sandwich taste gourmet? \"",
+        "reviews": [
+            {
+                "review": "What makes a \"simple\" grilled cheese sandwich taste gourmet? Several cheeses, grilled to perfection, plus Chef Aaron's special touch. Add seasoned fries and a pickle, and you have an amazing lunch for only 5 bucks!",
+                "reviewer_id": "6O2oYkVnDow7PZoufWh8pg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9487590238883121,
+                    "positive_probability": 0.051240976111687424
+                },
+                "stars": 5
+            },
+            {
+                "review": "I've gone to Cafe Sababa a few times already, and I'm always impressed with the care Aaron and Matt put into every order. This is anything but an anonymous place, and the staff is always willing to cater to special requests, talk about new menu items, or just hang out. My personal favorite items are the falafel sandwich (which they made with fries inside especially for me!), the pizza, and the fries.",
+                "reviewer_id": "eUr1wjuVp3K_fcjGLHkMGw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.49568938896653864,
+                    "positive_probability": 0.5043106110334652
+                },
+                "stars": 5
+            },
+            {
+                "review": "I've been going to Cafe Sababa inside of the Cohen Jewish Center for about a year now - and I have yet to be disappointed. Aaron Stevens and Matt Harsh work in the kitchen, occasionally with a student (like myself) who will help out. The lunch is non-meat, so tuna melts, grilled cheese, pizza slices, and BYOB's (build your own bagel) are the standard fare. They also do some really tasty nacho fries, which is jalapenos, cheese, tomatoes, and onions on seasoned french fries.",
+                "reviewer_id": "gHTzOYMc5vT1mL65TeWGZw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.07941375017154546,
+                    "positive_probability": 0.920586249828458
+                },
+                "stars": 5
+            },
+            {
+                "review": "Simple, healthy and delicious food right in the center of campus at Hillel! I've gone several times and always enjoyed myself, so you should too!",
+                "reviewer_id": "N7cIbEOvl55MQ9Syz6QQvw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.09648954567661845,
+                    "positive_probability": 0.9035104543233812
+                },
+                "stars": 5
+            }
+        ],
+        "similar_restaurants": [
+            "zLkok9inSL4lzVoSzfpxAA",
+            "-Fwt0yM17CvpDv12ld6mmw",
+            "KGGYlneCtF4xQT9T5eKV5g",
+            "M73ttBKGZsw1Jg0XbNuKsw",
+            "mv1gFZ8FYsFIOTENKhXddw",
+            "AEqvyxNHm3YFzArBinr2_Q",
+            "yTlW8Xh1wPpvHBl3dGz9mA",
+            "hXjOPGuc2mbzQNregzer9g",
+            "qUWDPFWaW0fOY66lL0diqg",
+            "OkNhrobZUhpybZlpHAA_bQ"
+        ]
+    }
+}

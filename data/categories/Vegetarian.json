@@ -1,0 +1,2466 @@
+{
+    "0a4lX5VhCXJOwe-idxnVbw": {
+        "keywords": {
+            "bigrams": [
+                "indian_food",
+                "food_good",
+                "indian_restaurant",
+                "food_great",
+                "lamb_vindaloo",
+                "garlic_naan",
+                "downtown_urbana",
+                "champaign_urbana",
+                "best_indian",
+                "quality_food"
+            ],
+            "unigrams": [
+                "food",
+                "good",
+                "indian",
+                "chicken",
+                "place",
+                "naan",
+                "service",
+                "great",
+                "sitara",
+                "time"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "beer_and_wine",
+                "Ambience": {
+                    "casual": true,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "Caters": true,
+                "Delivery": true,
+                "Good For": {
+                    "breakfast": false,
+                    "brunch": false,
+                    "dessert": false,
+                    "dinner": false,
+                    "latenight": false,
+                    "lunch": true
+                },
+                "Good For Groups": true,
+                "Good for Kids": true,
+                "Has TV": true,
+                "Noise Level": "average",
+                "Outdoor Seating": false,
+                "Parking": {
+                    "garage": false,
+                    "lot": false,
+                    "street": true,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 2,
+                "Take-out": true,
+                "Takes Reservations": true,
+                "Waiter Service": true,
+                "Wi-Fi": "no"
+            },
+            "business_id": "0a4lX5VhCXJOwe-idxnVbw",
+            "categories": [
+                "Vegetarian",
+                "Indian",
+                "Restaurants"
+            ],
+            "city": "Urbana",
+            "full_address": "114 S Race St\nUrbana, IL 61801",
+            "hours": {
+                "Friday": {
+                    "close": "22:00",
+                    "open": "16:30"
+                },
+                "Monday": {
+                    "close": "22:00",
+                    "open": "16:30"
+                },
+                "Saturday": {
+                    "close": "22:00",
+                    "open": "16:30"
+                },
+                "Sunday": {
+                    "close": "21:30",
+                    "open": "12:00"
+                },
+                "Thursday": {
+                    "close": "22:00",
+                    "open": "16:30"
+                },
+                "Tuesday": {
+                    "close": "22:00",
+                    "open": "16:30"
+                },
+                "Wednesday": {
+                    "close": "22:00",
+                    "open": "16:30"
+                }
+            },
+            "latitude": 40.111959,
+            "longitude": -88.208652,
+            "name": "Sitara",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media1.fl.yelpcdn.com/bphoto/JdTVxEEPPNTJt4ZxdBvONw/ms.jpg",
+            "review_count": 103,
+            "stars": 4,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "The food here is always good. Order something with naan; they are really good. The food was okay.\" \"",
+        "reviews": [
+            {
+                "review": "Great Indian food! Really delicious, generous portions. They have a Thali special is an amazing array of Indian favorites that is offered vegetarian or no vegetarian for $7.99 and $8.99 respectively. The also have a pretty well executed menu to choose from with a lot of traditional north Indian dishes. I love Indian food for all its complexity and flavor and this place did not leave me disappointed. Definitely try it out for a quick and delightful lunch.",
+                "reviewer_id": "-6l7CsWbTPJeFgflI-V4Fw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.009438475913750832,
+                    "positive_probability": 0.9905615240862498
+                },
+                "stars": 4
+            },
+            {
+                "review": "I was so terribly sorry to visit this place that I decided to leave a review about it's pathetic customer service and unpalatable food.I have been here once before, and was disappointed with both the customer service and food quality. The server took forever to serve our order, and kept on messing with it. We ordered chicken and he brought something else, and so on for many other dishes. My friend was so disgusted that he left a big ZERO as the tip amount.But for whatever reason, we decided to give it a second try, assuming that it was a bad day. But what are the odds that the same incidents happened during the second visit as well. Imagine what are the odds for that. The server was arrogant. The table was full, and there wasn't enough space to keep the incoming dishes on the table. So we requested him to keep them on the nearby table for the time being, since it was empty. He insisted that we keep it on our table only. I asked him to free up space on the table if he could, and he started to stack the dirty plates one upon the other on the table itself, not to collect them but to leave them there only. The food was so horrible that I had to leave my dinner unfinished. This time I left a ZERO dollars as the tip.I am never going back to this place again.",
+                "reviewer_id": "-FaQbOh9gQffjZ-ozy8Zwg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.015390260456617967,
+                    "positive_probability": 0.984609739543364
+                },
+                "stars": 1
+            },
+            {
+                "review": "Tried this place for lunch on a Saturday. The staff was nice and the vegetarian options were yummy and inexpensive ($14 for two lunch entrees and naan). It's a great addition to downtown Urbana and it's nice to have an option for Indian food outside of Bombay.",
+                "reviewer_id": "0glyAUxS2utznxoQ2eibdA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3083802412851879,
+                    "positive_probability": 0.6916197587148082
+                },
+                "stars": 4
+            },
+            {
+                "review": "Really good northern Indian food.  Not too spicy.  Plenty for the money.",
+                "reviewer_id": "2cy_r-I5gx4FCindBHYBBQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.257199293252551,
+                    "positive_probability": 0.7428007067474491
+                },
+                "stars": 5
+            },
+            {
+                "review": "I like the Indian food here; the vindaloo is to die for, the nan is perfect and the lassi drinks will make you want a second stomach. The service seems decent and the food comes out at a good rate; I'm not a huge fan of the inside and the Bollywood dance videos on the TV's but that's not a hard thing to get over.",
+                "reviewer_id": "3NU4UJWlsVIl6kSYouaFxA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.05711913277773186,
+                    "positive_probability": 0.9428808672222688
+                },
+                "stars": 5
+            },
+            {
+                "review": "Went back again for take out. Portions were great and the flavor was above average. Ordered the lamb vindaloo, and got a heaping container of vindaloo and another good sized container for rice. And the garlic naan was very very good. When I stopped by to pick it up I asked one of the staff members why Somosa wasn't on the menu, he said \"it's on the dinner menu, you can ask for it any time\"Very helpful and friendly staff. Food is still good and at a fair price.",
+                "reviewer_id": "4b_Yo9nopZRqRoTQRXp9EQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9108175196256331,
+                    "positive_probability": 0.08918248037436528
+                },
+                "stars": 4
+            },
+            {
+                "review": "Food was great but their service was bad. My party having called in, in advance, was made to wait 20 minutes until we got a table. Then we ordered food and it took a moderately long time for it to arrive. I understand they were busy so I am not basing my review off the time for the food to arrive to our table, but the fact that they didn't have our spots ready by the time we arrived. Going back to the food, I grew up in an    indian household having eaten indian food everyday and their food was amazing. Compared to all the other indian restaurants I've tried in the Chambana area (Bombay Indian Grill, Amber Indian etc.) This place had the best food. The food itself kind of made up for the service so it bumbed up my review from 3 to 4 stars. I recommend the Fish Makini with Garlic Naan or over just plain white rice. If your looking for a restaurant with great food and are in the mood for indian cuisine I really recommend you check this place out if they are not busy.",
+                "reviewer_id": "58GtMEekuSshWefW9rY5vQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0037261976657523583,
+                    "positive_probability": 0.9962738023342459
+                },
+                "stars": 4
+            },
+            {
+                "review": "Welcome to my regular rotation, Sitara. I can't imagine another Indian restaurant in the area being better. I don't know why I waited so long to try here - the reviews are good, colleagues have recommended it, but for some reason I waited over a year. Got dinner to-go, and even tested out some items that might be questionable after the drive home. The naan was excellent (simple, but great), the veg app sampler was surprisingly good (not greasy, and the sauces added great zip), and the lamb vindaloo was still very tender. Now that I've tried out my \"tester\" dishes, I am ready to explore the menu. I'm hoping that they can bring a little more heat in the future.",
+                "reviewer_id": "7cU03OKZgmjNLLLGpbBiOw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.08012452786581674,
+                    "positive_probability": 0.9198754721341807
+                },
+                "stars": 5
+            },
+            {
+                "review": "Its alright. Good place to sit down, good decor etc. Samosas could have been better. I feel the food is kind of the same as all the other indian places in C-U.",
+                "reviewer_id": "7FtTK0f85orj5NUva-2iGw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3600651975310692,
+                    "positive_probability": 0.6399348024689322
+                },
+                "stars": 3
+            },
+            {
+                "review": "Love the decor and the food is even better to me than Bombay. Nice people working there. I love the lamb vindaloo for $9 at lunch.",
+                "reviewer_id": "8oJRVNV3Bi3VHAuI1Su7-A",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7288227514036335,
+                    "positive_probability": 0.27117724859636866
+                },
+                "stars": 5
+            },
+            {
+                "review": "We've been 3-4 times now.  This is one of the places that my wife and I go with her family when they're in town and we've never been disappointed.  It's one of our go-to spots in Urbana.  The tandoori chicken is extremely good - nicely flavored and tender.  Plus you get the fun presentation when it comes out on the sizzling metal platter, surrounded with onions and peppers.  We have tried a variety of dishes and they've always been tasty.  Some of the standouts are the lamb korma, the saag paneer, and the chicken makhani.  I also had a very tasty fish curry.  I like how the dishes come out in the small bowls - it also makes it easier to share and for everyone to try a little bit of everything.  The sauces are very rich and filling, so we almost always end up with leftovers.  The naan is fluffy and delicious.  The rice is good too, but it's hard not to get the naan every time.The service has also been fairly prompt - in the past we've gone and it's been almost empty, but last time the restaurant was fairly full, so I guess the word is getting out.",
+                "reviewer_id": "9LZXJu6RZ6UpIXYGSZWB7Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 8.000184921966776e-08,
+                    "positive_probability": 0.9999999199981421
+                },
+                "stars": 5
+            },
+            {
+                "review": "Food was great. Naan is huge and delicious. Would have been a 5 star rating if they had had more tables as my fianc and I had I sit at the bar to eat dinner, which is pretty difficult when eating Indian food. We will be back again, and will most likely be our go to to-go takeout spot.",
+                "reviewer_id": "9O1BDu1h57gw8C_ceEqUQQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.49950030855307437,
+                    "positive_probability": 0.5004996914469233
+                },
+                "stars": 4
+            },
+            {
+                "review": "Came in for lunch and had the chicken vindaloo. The curry was good, had good flavor and the right amount of spiciness. I have tried all but 1 other of the Indian restaurants in the CU area and this is at the top of the list so far.1 star deducted for 2 reasons:1. Service was subpar. The glass of water I got was lukewarm. Had maybe 1 sip of water left in the glass and the server looked at my table, walked by a few times without refilling, went back behind the bar and was on his phone. About the 4th time he finally came back and finally refilled the water....with more lukewarm water.2. The vindaloo had broccoli in it. I've had vindaloo plenty of times and have had different places add a variety of veggies, but never crunchy broccoli. It was kind of random and kind of seemed like it was a random vegetable added to the dish to stay true to the menu that said \"a curry with assorted veggies\". Honestly it took away from the dish. I would most probably come back here and try another dish and hope that service is a little better.",
+                "reviewer_id": "_BD1QxR67CF-pI0KDhCTxg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.11286411926789372,
+                    "positive_probability": 0.8871358807321085
+                },
+                "stars": 4
+            },
+            {
+                "review": "The food here is great! Full of flavor and very fresh. The restaurant is also very nice and clean and the staff are extremely professional. I'd go here instead of Bombay, the food is better and the prices are a lot cheaper!!!",
+                "reviewer_id": "ahGMDuCuQrRF8QTlxtiz6A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.11185441866168012,
+                    "positive_probability": 0.888145581338318
+                },
+                "stars": 5
+            },
+            {
+                "review": "Best place in Chambana to get delicious Indian food. Good prices, too!",
+                "reviewer_id": "amxtfaoqV0JEwbJUFeCyLg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.31543625554633786,
+                    "positive_probability": 0.684563744453662
+                },
+                "stars": 5
+            },
+            {
+                "review": "First time here and I had an ok experience.  It's located two doors down from the Iron Post in Urbana.   The restaurant looks like a bar.... A really long bar with a dozen seats....not sure what the purpose of it was....I guess they didn't bother renovating from the previous tenants.  Then a bunch of booths and a few tables.... Think Black Dog but with more room.   I had my 1yr old with me and figured she'd love some chicken korma and rice.  She LOVES rice... But not here... korma is usually fairly mild (as stated in their menu) with lots of flavor, but this had a bit of a kick to it....my nose was running.  After three bites, she was spitting it out and pushing it away.   I also ordered some samosas, and they were really good, but again a bit of a kick and my daughter didn't like them.  We tried ordering a mango lassi from the menu, but the waiter said that they had a mango shake....i asked what the difference was and he just shrugged his shoulders and said, \"They're similar\".   Similar as in how?  He couldn't tell me.   He suggested mango juice, so I agreed and he basically sat a glass of mango concentrate in front of me.... Kind of gross.  From where we were seated, i had a decent view of the kitchen....I saw them putting a lot of things in the microwave....heard lots of beeping as dish after dish finished in there...not sure what they were nuking... Kind of made me uneasy.... I've been in enough restaurants, cooking classes and seen enough food network to know that microwaves aren't really used that often or at all?!   Anyway,  it was ok...but I'd opt for Bombay Indian Grill any day of the week.",
+                "reviewer_id": "aSyHqB5QIybJb3npJUy78A",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9953480717186436,
+                    "positive_probability": 0.004651928281354018
+                },
+                "stars": 2
+            },
+            {
+                "review": "Went here for the first time with coworkers at lunch on 9/25. It was an excellent experience. The three of us each had samosa as appetizers (they're not on the lunch menu, but just ask for them) and we shared three entres, along with plain and garlic naan.The samosa were excellent, with good flavor and a healthy kick - probably the tastiest samosas I've had in a while. The coriander chutney was deliciously fresh, and one coworker who accompanied me said it was reminiscent of the way she liked it back home in India.The naan (garlic and plain) was delicious, and our main courses - two chicken dishes and channa masala also met with our satisfaction. The two different chicken dishes had distinct flavors with a good level of spice and flavor. The channa masala was also delicious; we asked them to crank up the heat on this one, and they obliged.We were all pleased with our meal, and the price was fair for the quantity and quality of food. The entres are served in brass bowls with china plates.It's hard to believe that a mere dozen years ago, we had NO Indian cuisine in Champaign-Urbana; we now have several excellent choices including Sitara, both on-campus and off.We will definitely be back. This fine Indian restaurant is a great addition to the dining options in downtown Urbana.",
+                "reviewer_id": "aTl3t2nJTFdb6FGk7rFubg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 5.111641269423675e-08,
+                    "positive_probability": 0.9999999488835772
+                },
+                "stars": 5
+            },
+            {
+                "review": "Hands down best Indian food in the Champaign-Urbana area. Good location. Priciest of all the options but a great deal considering the quality of food. Let me start with the lassi, which they make. It is the perfect consistency not too thick- to die for. Then, their samosas and fried paneer are just perfectly done and spiced. The butter chicken curry, malai kufta, and lamb vindaloo are all amazingly mouthwatering. The flavor is done just right. The meat and vegetables are pronounced and mix subtly well with the spices. So good. The basmati rice is freshly cooked and the naan is warm and soft. But definitely try their aloo paratha- that is one decision you will never regret! My stomach is growling now... But to finish off they have a nice selection of desserts which includes mango kulfi that comes sliced like a cake! A+ for taste and presentation. So much better than Bombay Grills which tasted like a 7-11 Slushie! I would definitely go to Sitara over any other restaurant in Champaign-Urbana 100 times out of 100.",
+                "reviewer_id": "aX8hmnedCsrLJ7HmD8hwvQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.05867767039621486,
+                    "positive_probability": 0.9413223296037739
+                },
+                "stars": 5
+            },
+            {
+                "review": "Took wife here 03/27/15. Great food and service. I received all kinds of husband points and wife rewards later.",
+                "reviewer_id": "bLHH-pg1xCO4n0PlxA10yg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5279765930488248,
+                    "positive_probability": 0.47202340695117534
+                },
+                "stars": 5
+            },
+            {
+                "review": "The food was \"okay.\" It's not the real-deal because it lacks the 12+ spices that you'd get in a homemade meal. Maybe my perspective is warped by fantastic indian food in other cities, but the food is probably not worth the price (to me).",
+                "reviewer_id": "BTTOrtL1Li_ZcGyoucUmRw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.06137125819628206,
+                    "positive_probability": 0.9386287418037184
+                },
+                "stars": 2
+            },
+            {
+                "review": "We live in Chicago and have some pretty amazing Indian food up there. But since we come to Champaign/Urbana often I was so pumped to hear about this place opening.We came in and we were literally the only other people in there which was kind of a bummer. There was also no real signage out front and no real decoration inside. I've been to that space when it was the pizza place, and then when it was Red Star before that and not much has changed besides the fact that there were Bollywood movies playing.The service was fine, maybe a touch slow given that there was no one else there, but everyone was pleasant. The food was good too, perfectly spicy (and like spicy). I would surely come back. The only thing that worries me is the fact that they've failed health inspections. So what would've been a four star spot is now at two.",
+                "reviewer_id": "BvGV9lMMUmB5hLWkNlY3vw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.750426974551094,
+                    "positive_probability": 0.2495730254488998
+                },
+                "stars": 2
+            },
+            {
+                "review": "Had the thaili(not sure if I spelt the name correct. It's on the last page of the menu) lunch. It was only $8.99, but contains chicken, rice, salad, and dessert! Like their Dessert very much. It was a kind of milk dessert, and seems contains rice. Creamy but not very sweet. And the sweet yogurt drink Tassi was also very good. It could be better if they have some cooked vegetables in the chicken meal.",
+                "reviewer_id": "C74BJGf0RuKdYKxjm7SDuQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7983083957233902,
+                    "positive_probability": 0.20169160427660796
+                },
+                "stars": 4
+            },
+            {
+                "review": "The food here is always good. I'm not Indian so I can't speak to how authentic it is but I frequently see Indian people here so I think that's a good sign. Our go to favorite is the palaak paneer which is basically Indian creamed spinach and a good thing to try if you're apprehensive about Indian food. We usually try to get something spicy to balance out the creaminess of the spinach. The beer they have is also good. They only have Indian beer which all have super cliche names like Maja Raja, Taj Mahal, and Kingfisher. I was surprised to find out their beer is nothing like anything I've tasted. They're all lagers but they have an unexpected malty sweetness and they're  not super hoppy.",
+                "reviewer_id": "D98vylCT1fLKBIU6iAKxhw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.11150651735726314,
+                    "positive_probability": 0.888493482642737
+                },
+                "stars": 5
+            },
+            {
+                "review": "It was good! A nice treat in downtown Urbana. I love the smell and the vibe of this place. The naan was a temptation, I haven't had better. The prices were cheap and they give you a standard size that was enough to fill me up. And Indian channel with non-stop music videos was playing, that added to the overall entertainment.",
+                "reviewer_id": "da-w3Sx9ZMlIl6d7XxOAHQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.09130282653232813,
+                    "positive_probability": 0.9086971734676744
+                },
+                "stars": 4
+            },
+            {
+                "review": "Sitara was a pleasant surprise in the Indian food scheme of the C-U area, with good flavors and a casual but comfortable ambience.  The tandoori chicken was pleasantly tender and moist (a hit-or-miss in C-U).  Prices in general are OK, at $9-12 for entrees.  The only complaint is that the staff didn't cut up the naan, which made eating and sharing a bit awkward.  Stop by if you're in the area, for a casual lunch or dinner experience.",
+                "reviewer_id": "DC5yifhqWT1gQdcazBA0jQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0054746751316201376,
+                    "positive_probability": 0.9945253248683767
+                },
+                "stars": 3
+            },
+            {
+                "review": "I came here twice within one week. We ordered lamb curry and butter chicken with naan the first time and samosas + naan + 2 orders of lamb curry the latter. The first time was a Saturday evening and it was busy, taking us close to 45 min to get our food but goodness EVERYTHING was fresh. I would wait that long again. The curry was labeled mild but had a lot of spices and seasonings which made it great. Service was nice but best of all were the prices. Amazing meal with quality and portions but won't break the bank.",
+                "reviewer_id": "DFQu-MLFt3d-ufZBiQlJdQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.005737273300597962,
+                    "positive_probability": 0.9942627266994056
+                },
+                "stars": 5
+            },
+            {
+                "review": "Tasty food, the Alloo Tiki (sp? - app for 2.99) were delicious and vibrant. Entrees, a chicken curry and a masala, were good (9.99 a 10.99) and the accompanying basmati was brightened with some saffron, shaved carrots and a hint of fennel.Service was prompt and helpful.  Great addition to Urbana fare.",
+                "reviewer_id": "dtLG0Ik3luVP3Ju93VCLOQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.02779705542503039,
+                    "positive_probability": 0.9722029445749691
+                },
+                "stars": 4
+            },
+            {
+                "review": "I like Sitara but it's not any different from Casablanca Kabab House. There's not a strong enough pull to leave campus for this place.",
+                "reviewer_id": "dzKYG04n0nLXv6tGFvJX0Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.28810868797975037,
+                    "positive_probability": 0.7118913120202501
+                },
+                "stars": 4
+            },
+            {
+                "review": "It's a shame that I had to give this place only a 3 star rating, even though the food was quite good and I have recently started to really like Indian food. The problem was the service. I'm normally not picky about service, as long as I get what I ordered I'm happy. But decide for yourself whether the following is acceptable to you. They're supposed to open at 4:30, and we arrived at 4:35 to find the door closed and locked. My wife and I then walked around the block for a few minutes to wait, came back, and the place still wasn't open. I peered through the window to check if anyone was inside, and made eye contact with two of the restaurant staff. They stared at me, then went back to chatting with each other (they weren't even busy preparing tables or anything). By this time it was around 4:45.Once inside, we basically got the cold shoulder treatment, as if they were being passive-aggressive about my peering inside earlier. No smiles, no welcoming attitude, and when they came to take our order they just stood next to us without saying or asking anything. We ordered a lot so we had plenty left over, and specifically asked for TWO boxes to go, and they only brought one of the small boxes, which was clearly inadequate for how much we had left. So in summary, 4/5 for the food, 1/5 for the service, 3/5 overall.",
+                "reviewer_id": "eAwlEPPnWniLDYtyB9cyXg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0825844361926851,
+                    "positive_probability": 0.9174155638073048
+                },
+                "stars": 3
+            },
+            {
+                "review": "Should have discovered this place earlier. Best Indian restaurant in town with very reasonable prize. Awesome environment and good services. My boyfriend and I ordered sauteed shrimp as appetizer, a chicken entree, a lamb grill, plus two lasses for only a little over $30. The tandoori specialties are must-tries! I ordered seekh kabab, a lamb sausage kabab, and it tastes awesome!",
+                "reviewer_id": "eBmY2wSyt9uWy6GkAoeK3g",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6129051335241904,
+                    "positive_probability": 0.3870948664758051
+                },
+                "stars": 5
+            },
+            {
+                "review": "Great place.  I eat here often for lunch.  Why do I keep going back?  Because it is really good!  The naan is the star of the show here.  Whoever the chef is really knows how to use the tandoori oven.  For me, the rest of the meal is just a vehicle by which I can consume more naan.  That being said, the jasmine rice is really good too.  I've only had it once... because I absolutely cannot resist the naan.  Man... I could go for some naan right now...I've tried a lot of the items on the menu, and all of them have been good.  Plus, you get a lot of food for the price.  I wish they would cut out about half the bar to add more seating.  It sometimes gets pretty crowded at lunch (again, because it's REALLY good!).The chicken korma is probably my favorite.  Really good flavor and heat.  It's a perfect dish for dipping naan in.  You know... because I like naan.",
+                "reviewer_id": "EMxz314z1gFKqCZau7ye0g",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.12334700528320697,
+                    "positive_probability": 0.876652994716787
+                },
+                "stars": 5
+            },
+            {
+                "review": "Restaurant reviewI may have missed the sitara special non-vegetarian thali on my first visit so I may need to go back. This looks like a super chicken curry combo dish that would easily rival Aroma curry cafe's lunch special. I went with the chicken tikki masala lunch special with naan. The food was prepared quickly. One downside here is that they don't have a lunch buffet option which is always nice to pay a little more so you can have a variety. The chicken tikki masal was quite spicy. I guess it is more authentic that way. The protein serving was ample and filling. The only downside is the one large piece of naan which may not be enough for all of the curry that comes with your dish. My opinion is still mixed, anbar has a lunch and dinner buffet which allows for a large selection of indian food at a lower quality, but the lunch entrees here balance the heat of the curry along with a healthy serving of protein. I will have to come back and see if they have the lunch combo which would be your best bet if still offeredPros: spicy northern indian food, authenticCons: parking is scarce, no buffet optionHidden deals:Lunch specials are a good deal",
+                "reviewer_id": "f1a9KwsObpE54Yp9A1fVoA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 1.5031157331271884e-07,
+                    "positive_probability": 0.9999998496884268
+                },
+                "stars": 4
+            },
+            {
+                "review": "The foods really good but mannnn its SLOW when it gets busy... 40 minutes waiting to get 2 curry.",
+                "reviewer_id": "Fjc8RkOgpSWwljUJzJKRNQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6458453911862363,
+                    "positive_probability": 0.3541546088137633
+                },
+                "stars": 3
+            },
+            {
+                "review": "This is the only Indian restaurant in the CU area that serves authentic indian food. Definitely very spicy because thats what comes along with the indian food. If you cannot take the spice i suggest you mention it to you server prior to ordering. I would choose this place over any other indian place in the CU area",
+                "reviewer_id": "GsAglbf1Q-k01XOVmxP7AQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.1224105467705403,
+                    "positive_probability": 0.8775894532294589
+                },
+                "stars": 5
+            },
+            {
+                "review": "Been going there  two a week now. We had Curry fish, Aloo Gobi, Lamb Saag today. Curry was very rich and savory without strong scents of coconut. Aloo was unbelievable with bright reddish tomato paste. Lamb Saag, the saag still surprises me every time and it's a full bowl of lamby lamb chops today.",
+                "reviewer_id": "h-fFKLKmE28bvoyMY98j0w",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8090948148628393,
+                    "positive_probability": 0.19090518513716118
+                },
+                "stars": 4
+            },
+            {
+                "review": "I visited Sitara just after they had opened. There was a surprise inspection there at the same time. They had to shut off their oven ( which makes me wonder what was wrong in the first place) due to which we could not get any type of breads that we had previously ordered. This was told to us after waiting 30-40 mins for the food. They just got the curry along with rice and told us this is all they can make right now. No apologies, nothing. I heard good reviews about the food and went back to give it another shot. But the food failed to impress me. I tried a couple of different chicken dishes. The food was just average. Nothing great.  I even tried a bread other than the Naan. It was nothing like what it is supposed to be ( I am from India and I know what I'm ordering)",
+                "reviewer_id": "H7yNgdpG17O3Ha5KCIN_1Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.04610556839653804,
+                    "positive_probability": 0.9538944316034624
+                },
+                "stars": 1
+            },
+            {
+                "review": "Simply amazing! There are few times in my life that I've received food still steaming and crackling because it was so hot and fresh. The sampler was top notch and I would recommend it to anyone.",
+                "reviewer_id": "HDsqH9oeCsHhZZgUu3ejYw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.031654666755741113,
+                    "positive_probability": 0.9683453332442579
+                },
+                "stars": 5
+            },
+            {
+                "review": "Fairly disappointed with the food..seeing so many good reviews we decided to try this one out - we ordered the masala papad, aloo tiki, chicken biryani and a new dish garlic masala chicken but almost all the dishes were just about average..there are many other better Indian restaurants in this area - try them out first!",
+                "reviewer_id": "IAZ-Xm2tkO14YbzeCwritg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0004049366701027854,
+                    "positive_probability": 0.9995950633299022
+                },
+                "stars": 3
+            },
+            {
+                "review": "Avoid this place. They took 45 min to get our food. Others please share your experiences",
+                "reviewer_id": "inbKDTwXioKzdAqNvBysRw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.339007693212662,
+                    "positive_probability": 0.6609923067873392
+                },
+                "stars": 1
+            },
+            {
+                "review": "The food is great. I had lamb vindaloo, samosas, and paneer pakora, I would order them all again. The place gets really busy, and there isn't a ton of space for people to wait so it can get cramped. They also do a lot of take out business, so aside from people waiting to dine in, there are also people waiting for carry out. Service is ok, I sat at the bar, so I felt better taken care of than those sitting at the tables. There aren't that many people working, so I suggest you go early to ensure better service. Overall, I am looking forward to my next visit to Sitara.",
+                "reviewer_id": "jfnxH8u5ksFVLoZlyzIkEA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9241409022115561,
+                    "positive_probability": 0.07585909778844618
+                },
+                "stars": 4
+            },
+            {
+                "review": "I'm here on a weekly basis, often multiple times a week to get my fix. I've finally had a less than ideal experience and I'm so happy that the owner handled it perfectly. I would hate to lose my delicious Indian food because of one unpleasant experience! As soon as the owner heard of my displeasure, he handled it immediately and appropriately. I still love, love, love this place!",
+                "reviewer_id": "JgHGyWS2emyHq6aq144SLQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.01899117093836144,
+                    "positive_probability": 0.9810088290616364
+                },
+                "stars": 5
+            },
+            {
+                "review": "Strongly recommend most or all of the vegetarian options -- the malai kofta, paneer makhani, paneer tikka masala, paneer do pyaza are all delicious! I would actually say this is one of my favorite restaurants in CU. The only downside is that some nights of the week it can be hard to get a table. Tuesdays for some reason seem to be packed...",
+                "reviewer_id": "JIlYVnE8vM2MuANmg85WhQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.020650655441844586,
+                    "positive_probability": 0.9793493445581575
+                },
+                "stars": 5
+            },
+            {
+                "review": "Consistently good with fast, attentive service.  Spicy available upon request!",
+                "reviewer_id": "jrArXpCDX49mD8Qj0iNAmg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.04607673745257988,
+                    "positive_probability": 0.9539232625474213
+                },
+                "stars": 4
+            },
+            {
+                "review": "This place is the real deal...Had panak paneer and lamb curry with naan and it was excellent. Would highly recommend and I will definitely be back in the future.",
+                "reviewer_id": "K_E_UAk7IQGPHqz8IE7iSw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.04432256601290576,
+                    "positive_probability": 0.9556774339870949
+                },
+                "stars": 5
+            },
+            {
+                "review": "The good: I used to settle for Bombay Indian until this place opened. I love their Baigan Bharta (veggie eggplant) and they have this naan with lamb that is always delicious. Service is pretty good. The bad: There isn't a ton of seating and I have gotten cold dishes sometimes. Overall, good food and decent prices (most entrees are $8-12)",
+                "reviewer_id": "lR8ztGfJzRv-dp9ZPyooUA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2850094748277403,
+                    "positive_probability": 0.7149905251722604
+                },
+                "stars": 4
+            },
+            {
+                "review": "Place was busy waiting period for both or table was over 30 min It was 7:15 pm Saturday I should have known in Urbana IN student town! Anyway using my Hindi I got spot on Bar! Not comfortable but when you are hungry any thing goesOrdered kadai paneer - soft cheese cubes with green peppers and tomato in spicy sauce see pic of bowl Food was prepared medium hot and Nan extra rice with glass of Red wine Cabernet Delicious , good service , Place like a diner with booths",
+                "reviewer_id": "LveLWNZnfH2MD_m0-dSnZw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.418692771678074,
+                    "positive_probability": 0.5813072283219206
+                },
+                "stars": 4
+            },
+            {
+                "review": "the food here is quite good.  came by with water frequently.  take out takes them awhile...expect 40 minutes.  my only complaint is that they either never have the Indian pickles, or forget to bring them out to me.  the ambience is nice inside, but sit near the front for better AC.  I sat in the back once and it was really hot.",
+                "reviewer_id": "LW09F4m0l6Ku0-N1NEs2aQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9383830653201346,
+                    "positive_probability": 0.061616934679861915
+                },
+                "stars": 4
+            },
+            {
+                "review": "My friend and I went here after I read other reviews on Yelp, and consulted another friend of mine.  We had TONS of food (3 appetizers, naan, and a main course for each of us) and our total was just under $40.  This was my first experience with Indian food, and I'm pleased to say that I'll be back!  I had the Butter Chicken, which is Tandoori Chicken in a tomato sauce with rice.  It was delicious.  My friend had the Chicken Vendaloo, which was also quite tasty.  The naan was soft and pillowy and great for sopping up the extra sauce.  We each had a samosa (yummm) and shared the aloo tikki appetizer (so, so good with each of the provided dipping sauces).  We split the chicken sekuwa appetizer as well.  After being intimidated by Indian food for so long, I'm glad I finally took the plunge at Sitara.UPDATE:  I visited again the other night and had the Tandoori Shrimp.  Holy cow, it was amazing.  It's served with rice and yellow dal and everything was so tasty.  Thanks again, Sitara!",
+                "reviewer_id": "LyhDaybYK7tMS1y-Z6xBJw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 2.1301956396236568e-05,
+                    "positive_probability": 0.999978698043599
+                },
+                "stars": 5
+            },
+            {
+                "review": "I am new to the area and am starting to test out restaurants.  This one did not disappoint.  I deducted one star because the delivery time was going to take an eternity, so I had to go pick it up.  I know that doesn't sound like a huge hardship, but I was already in my PJs and parking is a little tricky there.  That said, the food was great.  I ordered the following:Samosas:  they were crispy and soft in the perfect way.  The potato filling was super tasty and they are not shy with spices. The green dipping sauce (sorry, no idea what it's called) was spicy and delicious.  I could eat these all day.  Probably shouldn't.Veggie curry: Fantastic!  Great mix of veggies, not too much cream. Even better reheated the next day.  Finishing it as I type.I look forward to eating there, it looks like a cute, laid-back space.",
+                "reviewer_id": "m0vNicCTXaRmrtCYdLfZ_g",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.007049947756704976,
+                    "positive_probability": 0.9929500522432992
+                },
+                "stars": 4
+            },
+            {
+                "review": "Not the best north Indian food we have ever tried, but the best in town. We ate here several times since it opened and it was consistently good. If you're like me and don't get anything that doesn't contain meat, I recommend you make an exception for the Bhindi Masala (okra curry).",
+                "reviewer_id": "N3M-bHI-uYpunI7rpvES0A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.008273289279107837,
+                    "positive_probability": 0.991726710720891
+                },
+                "stars": 5
+            },
+            {
+                "review": "Glad to update that this place definitely deserves 5 stars. At Sitara they consistently serve delicious Indian cuisine for a great price. Service never disappoints, and we just love coming here. If you haven't been yet, what are you waiting for?",
+                "reviewer_id": "N7cIbEOvl55MQ9Syz6QQvw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.09134613967883713,
+                    "positive_probability": 0.9086538603211608
+                },
+                "stars": 5
+            },
+            {
+                "review": "Clean and nice atmosphere. Waiters were attentive and gave refills when needed. Lunch was garlic nan, chicken tikka masala, and side of rice. Food was pretty good in comparison to the authentic foods I had in India.",
+                "reviewer_id": "noPh2OdeARnyFiwbcqakAg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0020003817076807815,
+                    "positive_probability": 0.9979996182923181
+                },
+                "stars": 4
+            },
+            {
+                "review": "Sitara is the most authentic Indian food I've ever had. I absolutely love it. Great quality for the price and quick! I would eat here every day if I could. The Na'an is fantastic!!",
+                "reviewer_id": "oGRK6mxd7jed067DErg4_w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.146516290253558,
+                    "positive_probability": 0.8534837097464442
+                },
+                "stars": 5
+            },
+            {
+                "review": "One of my favorite places to eat. Very reasonably priced and the food is delicious. I suggest the chicken tika masala, lamb vindaloo and the garlic naan. I highly recommend it! Service is also polite. They make sure that you always have enough to drink and are speedy.",
+                "reviewer_id": "P29uma96Ut2nRv0o4Yd-Yg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.03357223902674425,
+                    "positive_probability": 0.9664277609732597
+                },
+                "stars": 5
+            },
+            {
+                "review": "Sitara opened on Tuesday, September 3, 2013. The owner used to be the counterman at Bombay at 4th & Green in campus.Unlike Bombay, Sitara serves on china plates with metal flatware, waiter service and nicer digs all around.I had the spicy fish chili  for $7.99 at lunch.  The Fish Chili has large chucks of whitefish and green peppers in a hot brown sauce. Excellent, with a nice kick to it. This place will be a regular lunch stop for Downtown Urbana folks.  Prices are reasonable, about the same as the Bombay at 4th & Green, but not eating off of styrofoam with plastic forks.  Lunch entrees were $5.99, $6.99 and $7.99.Sitara is in the space formerly occupied by the Embassy, The Red Star Liquors, and Black Rock Pizza; all across the street from Busey Bank's parking lot on Race Street between Elm and Main.",
+                "reviewer_id": "pwyRJuJoodUS__gsQMGlMw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9526722638878015,
+                    "positive_probability": 0.04732773611219068
+                },
+                "stars": 5
+            },
+            {
+                "review": "I've been to Sitara three or four times now and the food is really good - especially the chicken tikka masala and the palak paneer. The naan bread is very fresh and tasty. The service is great and they deliver too, promptly and cheerfully. So glad they opened up in downtown Urbana.",
+                "reviewer_id": "pZhhLfJQGiRsJmvgZJZZwg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.27227614908393316,
+                    "positive_probability": 0.7277238509160638
+                },
+                "stars": 4
+            },
+            {
+                "review": "Great food. Awful service. I went one night at 7pm and was immediately sat at the bar. I waited 15 minutes to order. After ordering I waited at least 45 minutes for the food. Drink refills were slow. Waiter was not friendly. Honestly, order take out and then you don't have to deal with the service. The food was great but didn't make up for the time spent waiting.",
+                "reviewer_id": "Q_sDeVjJvMoQ5vdafAe0jA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9657167523225962,
+                    "positive_probability": 0.034283247677402456
+                },
+                "stars": 2
+            },
+            {
+                "review": "Solidly good Indian fare. Went with a group and had the huge booth in the back. Good ambiance. Friendly servers. Good selection of 'ethnic' beers. Friends got the Flying Horse Royal Lager which was pretty awesome (light). All the apps and breads were tasty. My chicken korma was great. Was totally full, but still squeezed in some mango and pistachio ice cream. Certain to be my Chambana Indian restaurant for both in-house and take-out.",
+                "reviewer_id": "QcUu5RAGsGj7TaTObT6asQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.1120816209015539,
+                    "positive_probability": 0.887918379098442
+                },
+                "stars": 4
+            },
+            {
+                "review": "I looooooooooove Indian food! For so many years, the only place I went in the CU area was Bombay on Green Street. Not long after Sitara opened, my mom took me for my birthday dinner when I was down from the city. So this review is a bit delayed :) Like I said I am always down for Indian, and I was happy to learn that a new restaurant had opened in downtown Urbana! I was very pleased with the service as well as the food. We came in later on a Wednesday night and were one of the only ones in the place. We shared a couple of entrees and were delighted with everything we ordered. I would definitely recommend Sitara to an Indian food veteran or novice! It is a great place to eat.",
+                "reviewer_id": "qCWAhycUgwCMmCladkrlrA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0015724600717232265,
+                    "positive_probability": 0.9984275399282755
+                },
+                "stars": 5
+            },
+            {
+                "review": "Really good Indian, especially enjoyed the chicken tiki marsala and the naan. The yellow dal was a little runny for my personal taste, but still very flavorful. Generally good service (I have a toddler, and they were VERY supportive and attentive to what we needed), although a couple missteps. All in all, we're headed back again!",
+                "reviewer_id": "qgYsOi1d7ItJU62Y-GTlxw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0006078499281775718,
+                    "positive_probability": 0.9993921500718258
+                },
+                "stars": 4
+            },
+            {
+                "review": "Sitara has the standard north-Indian cuisine which is toned down a little to suit the american palate without loosing the flavor!Ambiance is of a closed dance-bar or a gastro-pub. There is a huge bar which seems out of place. The bathroom area is best to be avoided before ordering your food. Overall service is less than good. Wait staff is running around doing a lot of things and don't have time to tend to your needs, so if you need something ask anyone!! We had two vegetarian entrees with rice and naan and some raita. Everything was freshly made without frozen curry. Taste was very good and overall I enjoyed the meal. Portion sizes are good for two people to share but only one dish between two might be too little for main meal. I was able to get a lunch out of left overs the next day. This restaurant has potential to provide better experience but as long as food is good, I will still come back again.",
+                "reviewer_id": "qL7fhzHgiH7SNZv24GxPig",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.015043076545395459,
+                    "positive_probability": 0.9849569234546014
+                },
+                "stars": 3
+            },
+            {
+                "review": "Went to Sitara yesterday for the first time.  What a nice surprise after having eaten at another Indian restaurant int he area a few months ago.  Great service, excellent food and  nice decor.  Staff were friendly and attentive and service was quick.  Excellent food!  Will be going back.",
+                "reviewer_id": "QlkCVNDTDhu0Mjbh2mVtBg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0004676619678717922,
+                    "positive_probability": 0.9995323380321239
+                },
+                "stars": 4
+            },
+            {
+                "review": "My favorite Indian place in town! The staff is so friendly and always knows exactly how we want our food done (even if we aren't sure how we want it done, haha!). It gets packed at dinner time, but take out is a good option too! Never been disappointed with a meal from here!",
+                "reviewer_id": "QpTo3py9yik7AJCeCFgHDQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.20702621354161044,
+                    "positive_probability": 0.7929737864583892
+                },
+                "stars": 5
+            },
+            {
+                "review": "I was on a short visit to Urbana, and visited this place. There are three types of Indian restaurants: 1. The ones Indians love, because it is authentic (but is not very much liked by others) 2. The ones everyone else loves, but Indians generally do not, because the cuisine is 'westernized' to cater everyone and 3. the rare ones that is liked by everyone because the food is just plain awesome. This one belongs to the second category, and I feel is pretty over-hyped. You can visit here once!",
+                "reviewer_id": "Qyy0C-2LLm2oFmjt3KJGHw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.014862609735811376,
+                    "positive_probability": 0.985137390264187
+                },
+                "stars": 3
+            },
+            {
+                "review": "I feel like giving them a 2 star is being kind. Should of paid better attention to the health department warning outside. Food is just okay, but the overall cleanliness is not up to par. Would not recommend. Wait staff is very slow.",
+                "reviewer_id": "qZJ6bbq5rHb_T75pj3v3eQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.20002690057912426,
+                    "positive_probability": 0.7999730994208738
+                },
+                "stars": 2
+            },
+            {
+                "review": "Food was spicy even it said to be mild. But the curry tasted very good. Nan was soft and warm!",
+                "reviewer_id": "r_qusk0u1v7kAOek0LK7xw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.054668080843723786,
+                    "positive_probability": 0.9453319191562757
+                },
+                "stars": 4
+            },
+            {
+                "review": "I love Sitara. I always get the same thing, but it's because it is so good that I don't want to try anything else. (I probably should, I am sure that everything they cook is delicious). I usually got samosa chaat and chicken vendaloo. Samosa chat is so delicious, so fresh and full of glavor! And vindaloo is perfectly spicy and chicken is so tender that it really melts in your mouth. Service is very attentive when I dine there and I order for delivery frequently as well.",
+                "reviewer_id": "Rbgad6WYUC5rIaaWTwoLxA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.00018180333432697886,
+                    "positive_probability": 0.9998181966656714
+                },
+                "stars": 5
+            },
+            {
+                "review": "I love this Indian restaurant! I've been to many across Central Illinois and have even been to India. Their chicken mahkani is great and can be ordered at several levels of spicyness. Naan is great, too. The service has always been excellent. They even made lamb jalfrenzi for me even though it wasn't on the menu. In addition, their prices are some (if not the most) affordable in town!",
+                "reviewer_id": "rQBGuKfWbgSgsdpUd99qOQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.023008326635602167,
+                    "positive_probability": 0.9769916733644013
+                },
+                "stars": 5
+            },
+            {
+                "review": "Service was a bit slow but the food and drinks were very good. Try one of their lassis and a vindaloo dish for an amazing combination. Their naan is pretty much on-point as well.",
+                "reviewer_id": "RvYWDZSFv-wL4waACRswrQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.33554243834151426,
+                    "positive_probability": 0.664457561658484
+                },
+                "stars": 4
+            },
+            {
+                "review": "The restaurant was very clean and the service was good. The food was very rich, delicious and well spiced. I also found that their menu descriptions and spiciness ratings were accurate for the dishes we tried. Overall, a great value for the money. I have eaten at a lot of Indian restaurants in the bay area and Sitara is on par with big city cuisine. I recommend trying them!",
+                "reviewer_id": "SBQYD580gsDXAa9eTpKEIg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.03167829767553774,
+                    "positive_probability": 0.9683217023244626
+                },
+                "stars": 4
+            },
+            {
+                "review": "Its a new place and we went to check it out. The ambience was really good but the food was exactly opposite to that...In one word it was \"horrible\" and the presentation was even \"worse\". We ordered lamb and chicken biryani. It seems that it was more of boiled rice mixed with turmeric and cooked meat. The appetizers were also not well cooked. The lollipop chicken was so small in size that I felt sorry for the actual weak chicken. There was some $16 chicken dish with 5-6 different styled chicken dishes. I felt one of the chicken pieces tasted funny...oohhh... The food was totally bland and tasteless...worst indian food I have had in my 6 years of Champaign life. The only good thing I would say was the mango lassi and the gulab jamun. Although I am not sure if the gulab jamun was made in their kitchen or was from a tin can.The owner of this place used to work in Bombay India on Green St and the food there was good or atleast the biryani there was pretty good. His current place Sitara's food is no where compared to the Bombay's food. It is surprising. With this kind of food, I am not so sure this restaurant will survive. Probably change the cook. I am never going there again and would not recommend it to any of my friends.",
+                "reviewer_id": "ssWrIMkV2R_BbgD1HwA9Sw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.027161936581336935,
+                    "positive_probability": 0.9728380634186582
+                },
+                "stars": 1
+            },
+            {
+                "review": "Huge pleasant surprise! The naan was so delicious like those we find on Devon street (Indian Town) in Chicago. The rest of the dishes were a bit salty but still very tasty.",
+                "reviewer_id": "t3Db5XLZEPscxzXBoD70lg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.07693535274111836,
+                    "positive_probability": 0.9230646472588834
+                },
+                "stars": 4
+            },
+            {
+                "review": "The best Indian food in the area. Period. My favorite chill spot.I have been in champaign on a small time for work. Probably around 7 months. I travel more than most and rely and the vast Internet for food and drink. The Internet didn't provide me this spot. The locals praise it and directed me towards it. It has not only the friendliest staff but it has amazing Indian food for the area. It had amazing Indian food for all the places I've been to. Need a place to decompress? Have a beer at their bar and order something amazing.",
+                "reviewer_id": "T4ADiU8_TX5ztHgC69hiPQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0026267824247417928,
+                    "positive_probability": 0.9973732175752565
+                },
+                "stars": 5
+            },
+            {
+                "review": "Chicken Vindaloo and Tandori Chicken... (yeah, I like chicken!) was had today for lunch.  It was way good.  The naan was massive.  The staff was on top of things.  one star off for making me ask for Raita for my Tandori chicken.. come on!  Overall it was great.i'll be back.ps. thanks for not being an Indian Buffet spot, there is a time and a place for that, but not in downtown Urbana.  Make us order dishes, and not have to waddle out big american style.",
+                "reviewer_id": "Tl2Gw7MX0srZ-S0W_lCiwA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.45734480954582385,
+                    "positive_probability": 0.5426551904541752
+                },
+                "stars": 4
+            },
+            {
+                "review": "Amazing food and service. The owner is wonderful. My favorites are dal makahni and palak paneer. Extensive vegetarian menu. I love this place!",
+                "reviewer_id": "TRGxSMXsZuCzpwA8aEMK0w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.222258955206483,
+                    "positive_probability": 0.7777410447935177
+                },
+                "stars": 5
+            },
+            {
+                "review": "Some of the best Indian food in Champaign. But the service is definitely not good.",
+                "reviewer_id": "U-UQzI4kp-btg4Ee3Vo1JQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2693731678526485,
+                    "positive_probability": 0.7306268321473512
+                },
+                "stars": 4
+            },
+            {
+                "review": "Great kebabs...adequate spice...would strongly recommend...ambience is good...we ordered paneer tikka which had more gravy than expected but it turned out to be good...lassi was excellent",
+                "reviewer_id": "UDJkLRsvXWMBorbw9VheKQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.22949828316717594,
+                    "positive_probability": 0.7705017168328229
+                },
+                "stars": 4
+            },
+            {
+                "review": "Quite easily the best (Northern) Indian restaurant in Champaign-Urbana, and one of the best I've been to anywhere. The food is fresh, and the range of flavors broad and well balanced. Spice level is very moderate and can be increased on request for those desiring a more invigorating experience. The napkins are cloth and quite absorbent, very capable of handling a level 3 Vendaloo's worth of forehead sweat.I'd list the dishes I prefer but they have all been excellent and I have no one favorite, though I do get the fish curry and chicken do pyaza more frequently than others. I love rice but choose paratha nine times out of ten, only occasionally getting rice or garlic naan. The samosas are perfect and don't forget the tamarind sauce, which is a great highlight to the main dish also.I'm not sure how anyone could give this place one star, especially having not even tried the food. The owner Bobby is a straight shooter, by all means check your ticket but I find it difficult to believe he or his staff are cheating the totals.",
+                "reviewer_id": "UeMX4z69M0IW7H9fyWWT8g",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 1.0934331031883167e-05,
+                    "positive_probability": 0.9999890656689505
+                },
+                "stars": 5
+            },
+            {
+                "review": "Lunch special Thalis offer a nice variety. Otherwise, the rice dishes, e.g number 37, is another great option for people who enjoy tasting a little bit of everything, and want to avoid the stress of deciding which curries and rice or naan to order a la carte. Fair prices, tasty food, and comfortable location.",
+                "reviewer_id": "uILpE4ihC09BBdNf7LgDHw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.04758580928619374,
+                    "positive_probability": 0.9524141907138084
+                },
+                "stars": 4
+            },
+            {
+                "review": "Friendly attentive service, serving tasty Indian cuisine. I've had their biryani and lamb vindaloo. Both dishes were beautifully prepared and came piping hot from the kitchen. The naan is very good here as well. I've had the garlic and cheese varieties (so far).I like my food spicy and they had no problem making my order spicier than usual. The Bollywood shows they have on the TVs provided good entertainment during the meal as well.Overall I'd say this place is deserving of the good ratings it has received so far.",
+                "reviewer_id": "uIrIwjy4fy1cGAPDUgSBSw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 8.096695056487705e-05,
+                    "positive_probability": 0.9999190330494342
+                },
+                "stars": 5
+            },
+            {
+                "review": "I absolutely love this place and get the same thing every time: The shrimp vendaloo spicy x2. The naan is incredible and for lunch it's around $8.00. My only complaint is that the bar is underutilized. They need to do something with the decor to make that more appealing.",
+                "reviewer_id": "uzUFxNjZSpFjHX6LaaSq9g",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7929873279870152,
+                    "positive_probability": 0.20701267201298787
+                },
+                "stars": 4
+            },
+            {
+                "review": "After hearing from a friend that the Chef and manager who had previously worked at Bombay was working at this new restaurant, we had to go. My girlfriend and I had been going to Bombay almost every week for two years but noticed a gradual decline in the quality of the food. The food we were looking for was at Sitara.The food was just as great as it was before. I always get the chicken korma 2x spicy while my girlfriend gets the (Sitara) chicken aloo also 2x spicy. The naan amazing and a must-have.The only reason I am giving this a 4 is because the service is very dependent upon your server. Sometimes everything will be perfect, other times you'll be ignored from the time you get your food to when you get the check handed to you without a thing being said.",
+                "reviewer_id": "w1wvLrrPQZWHF2aB9POTMw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0014890742355688881,
+                    "positive_probability": 0.9985109257644232
+                },
+                "stars": 4
+            },
+            {
+                "review": "I'm not sure what kind of drugs they're putting in their food but I am seriously addicted. I struggle not to eat there more than once a week. It's not just some of the best Indian/curry around, it's some of the best food of any genre I have found in C-U. I am so thankful my coworkers took me here as I am from Colorado and have been struggling to find good restaurants around the area. Highly recommend the chicken tikka masala with rice and naan. I haven't even ordered it with any spice but I hear good things. Check em out!",
+                "reviewer_id": "we86SYw-dL7szBlSIwlXvQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.013363754299246725,
+                    "positive_probability": 0.9866362457007516
+                },
+                "stars": 5
+            },
+            {
+                "review": "This place is the best Indian food in the CU area. The Chicken Korma and the Naan are to die for. I can't get enough of Sitara!",
+                "reviewer_id": "wHH8VS5oxWnicRo1iiwhkA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3853521256677567,
+                    "positive_probability": 0.6146478743322439
+                },
+                "stars": 5
+            },
+            {
+                "review": "Order something with naan; they are really good. I ordered grilled lamb and they are delicious too.",
+                "reviewer_id": "wVQab8RRmPwhQ2fGiQnhyA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2670039190984603,
+                    "positive_probability": 0.7329960809015406
+                },
+                "stars": 4
+            },
+            {
+                "review": "I am definitely a fan of the food at Sitara. The quality of the food is good, and the flavors are spot on. I've done both eating in and take out, and I would suggest doing take out if you're short on time because the service can be a bit slow. I personally feel like the entrees could be just a little bit bigger, and I wish they would add onion chutney to their chutney offerings.",
+                "reviewer_id": "x8zEbTbVFv9Ju1U_Y3xrIw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.06662194087434274,
+                    "positive_probability": 0.933378059125657
+                },
+                "stars": 5
+            },
+            {
+                "review": "This is now my favorite Indian place in town.  The food was hot and good, portions were a bit small as usual with most indian places but it was still plenty for leftovers with some naan & two entrees.  The vegetable korma is the best in town.",
+                "reviewer_id": "xi2-U4ma6tgBScEv3eCgYA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.07543283488416343,
+                    "positive_probability": 0.9245671651158411
+                },
+                "stars": 5
+            },
+            {
+                "review": "This is in the top 5 of ALL restaurants in Champaign/Urbana.  The garlic naan, spicy chicken, shrimp, Samosas, all excellent.My only criticism, they seem to have an aversion to putting ice in your drinks, its odd but easily remedied.I look forward to every visit go this wonderful place!",
+                "reviewer_id": "xZhXEZnxK9eJ-gMzAn5GRg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.025673275984787747,
+                    "positive_probability": 0.9743267240152087
+                },
+                "stars": 5
+            },
+            {
+                "review": "This was my first experience with Indian food and I wasn't too impressed. Sitara has the best reviews on Yelp and I even ordered a lot of food to try and get a variety of different things.I had the mixed grill which is Malai, Tikka, Garlic and Tandoori Chicken, and also comes with a lamb seekh kabob. I also got the Paneer Pakoras and the yellow Dol and rice which came with the meal.Almost all of the chicken were in boneless chunks, with the exception of 2 wings, which I believe were the Tandoori. They were all pretty dry and almost similar to each other. Maybe this is because they are grilled rather than fried? Maybe I'm just used to heavily breaded chicken? I'm not sure. I did like the flavor of the Tikka(?) though, it was a little sweet and spicy. The lamb kabab was a little more flavorful and better in consistency but still wasn't as good as I'd hoped. Now, the rice that came with my entre was surprisingly good for being just basmati rice. I was also given what felt like at least a pound of it, so no shortage there. The yellow Dol is not something I ever had before, but that I did like. It had a really interesting herbal flavor to it and can most closely be described as a soup.I also got an appetizer of Paneer Pakoras which I'd say are similar to a mozzarella stick but not as greasy and heavy. These were good but by the time I had gotten around to eating them were inevitably cold. They were unusually tasty and came with 2 dipping sauces. One was a VERY spicy green sauce and I'm not sure about the other one, possibly a sweet berry sauce. Either way these sauces were delicious and I ended up dipping my chicken in them.Overall the portion to price ratio was pretty good, although I wasn't very happy about how expensive my meal was considering I didn't much care for the chicken which was most of my dinner.Delivery speed was really quick probably about 30 minutes but I actually think the delivery was the reason I didn't enjoy my food. Often times with delivery things sit around and get overcooked in the process. I think if I am ever to try Sitara, or any Indian food again, I will definitely go into the actual restaurant. From the pictures I've looked at, most Indian food looks very moist and saucy which is what I was hoping mine would be, but it was kind of dry.",
+                "reviewer_id": "XzIKZTb4I-7wW4BjKwV2Mw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.020127482084586083,
+                    "positive_probability": 0.9798725179153955
+                },
+                "stars": 2
+            },
+            {
+                "review": "I have never seen peoples  like this down to earth owners always ready for any kind of food ...I have never seen indian restaurant like this in chicago or Champaign I have tasted many restaurant like:India houseChicago curry house Curry hut Clay ovenindian gardenMt. Everest Curry bowl Punjabi dhabaBombay bistros Bombay chat Peacocks indian resturaant Tava  indian resturaant I rate sithara one of the best food.Best of luck for my friend Bobby, Hari and Ujjal ...keep up the good work",
+                "reviewer_id": "yD8IVbVV8mOaydNJOawJFQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.001358709775090905,
+                    "positive_probability": 0.998641290224905
+                },
+                "stars": 5
+            },
+            {
+                "review": "The food here is amazing and the service has improved markedly since the last time I was here two months ago!!! A must for any vegetarian eater in the area.",
+                "reviewer_id": "yRfZuha43mCJdNEX4FADpg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.014005552793117363,
+                    "positive_probability": 0.9859944472068817
+                },
+                "stars": 5
+            },
+            {
+                "review": "When it comes to Indian this is the place. I have had almost everything under the chicken menu. Never disappoints. Great atmosphere and friendly staff. Prices are great and they have great deals on gift certificates too for the holiday season.",
+                "reviewer_id": "zvMcMGuG7nXP1zUdsY0AwQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.06147091034188403,
+                    "positive_probability": 0.938529089658116
+                },
+                "stars": 5
+            }
+        ],
+        "similar_restaurants": [
+            "6UftUvNBqANqybf8wpWeNA",
+            "1tK0k-vRgGFC3oSZNUJ58Q",
+            "mbHfXlcPGQyPKtuh5CJ1Iw",
+            "F1UsF9LU5h7xp1k9LytT-w",
+            "RSIWC7s6Mq3FCTKxuapd8Q",
+            "caK31Iq3TClNCRB9WH9lhQ",
+            "oP8KsXHOUA_otHHI5JHScQ",
+            "cmLB5X26RJXWdZ2qrS5KOg",
+            "mtQHSFxx35emKstqMxp9Cw",
+            "IZOKtFjm_hiL4OGmCq2NNA"
+        ]
+    },
+    "IZOKtFjm_hiL4OGmCq2NNA": {
+        "keywords": {
+            "bigrams": [
+                "vegan_restaurant",
+                "vegan_food",
+                "dancing_dog",
+                "dirty_dog",
+                "lavender_cake",
+                "chocolate_chip",
+                "chocolate_cake",
+                "fish_chips",
+                "place_great",
+                "tofu_scramble"
+            ],
+            "unigrams": [
+                "vegan",
+                "food",
+                "place",
+                "great",
+                "good",
+                "menu",
+                "dog",
+                "restaurant",
+                "time",
+                "think"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "beer_and_wine",
+                "Ambience": {
+                    "casual": true,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "Caters": false,
+                "Delivery": false,
+                "Good For": {
+                    "breakfast": false,
+                    "brunch": false,
+                    "dessert": false,
+                    "dinner": false,
+                    "latenight": false,
+                    "lunch": true
+                },
+                "Good For Groups": true,
+                "Good for Kids": true,
+                "Has TV": false,
+                "Noise Level": "quiet",
+                "Outdoor Seating": false,
+                "Parking": {
+                    "garage": true,
+                    "lot": false,
+                    "street": false,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 2,
+                "Take-out": true,
+                "Takes Reservations": false,
+                "Waiter Service": true,
+                "Wi-Fi": "free"
+            },
+            "business_id": "IZOKtFjm_hiL4OGmCq2NNA",
+            "categories": [
+                "Food",
+                "Vegetarian",
+                "Juice Bars & Smoothies",
+                "Vegan",
+                "Restaurants"
+            ],
+            "city": "Urbana",
+            "full_address": "126 W Main St\nUrbana, IL 61801",
+            "hours": {
+                "Friday": {
+                    "close": "20:00",
+                    "open": "11:00"
+                },
+                "Monday": {
+                    "close": "20:00",
+                    "open": "11:00"
+                },
+                "Saturday": {
+                    "close": "20:00",
+                    "open": "11:00"
+                },
+                "Sunday": {
+                    "close": "14:00",
+                    "open": "11:00"
+                },
+                "Thursday": {
+                    "close": "20:00",
+                    "open": "11:00"
+                },
+                "Tuesday": {
+                    "close": "20:00",
+                    "open": "11:00"
+                },
+                "Wednesday": {
+                    "close": "20:00",
+                    "open": "11:00"
+                }
+            },
+            "latitude": 40.112757,
+            "longitude": -88.2085029,
+            "name": "The Dancing Dog Eatery & Juicery",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media2.fl.yelpcdn.com/bphoto/C7QIQ57fVm2kO6UdXOyN1Q/ms.jpg",
+            "review_count": 33,
+            "stars": 4.5,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "Their soup of the day (veggie chili) was great and their tofu scrambled burrito was out of this world. Great place for vegan food, will be back for sure! YOU DON'T HAVE TO BE VEGAN TO LIKE IT. ",
+        "reviews": [
+            {
+                "review": "My friend and I came in for lunch one afternoon and I am so glad that we did! I was very excited to try an all-vegan menu. I enjoyed their broccoli soup, a fresh glass of orange juice, and the dancing dog nachos. Everything was great from service to taste. My orange juice and soup were exceptional!The ambiance that afternoon was very calm and perfect for the two of us. I love the decor and the wait staff is very kind! I finished my meal with a freshly baked chocolate chip cookie - which was easily one of the best cookies I've ever had. Definitely recommend!",
+                "reviewer_id": "-yYFnBCAVc3mgFt7m3syTw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.014484166878821056,
+                    "positive_probability": 0.9855158331211802
+                },
+                "stars": 5
+            },
+            {
+                "review": "I don't know, I liked the food here but I was also somewhat let down because I hold vegetarian and vegan food to a higher standard than what they seem to serve here. The food here is alright but it has so much more potential to be great, and more flavorful, especially for such a price. I think they need to become more creative and up their standards here until they can be compared to the trendy vegetarian restaurants in Chicago.",
+                "reviewer_id": "3NU4UJWlsVIl6kSYouaFxA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.05624719612993224,
+                    "positive_probability": 0.9437528038700683
+                },
+                "stars": 3
+            },
+            {
+                "review": "Wonderful vegan food! The tacos, quinoa salad, bruschetta and hummus are all delicious! The desserts; specifically the mousse was great. The wait staff was very friendly. Whether vegan or carnivore this place is a great spot.",
+                "reviewer_id": "4ltqEIRZk7eVVjgIdKhT9w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.40673566902739916,
+                    "positive_probability": 0.5932643309725989
+                },
+                "stars": 5
+            },
+            {
+                "review": "I wandered in from the biting cold to find a cozy eatery with so many vegan choices. It's a vegan's dream to find a restaurant with this many options. And the atmosphere was warm, colourful, & inviting. The tofu scramble burrito ($8.50) is so good! Tofu scramble with black beans, roasted red peppers, cheddar cheeze. There are hints of curry, black beans, & potatoes in every tasty bite. The burrito is rather large & they don't skimp on the scramble. Yet, I was able to consume all of it because I have an enormous appetite that I justify with biking everywhere. It's served with fries, salsa & guacamole. The burrito comes with the choice of a side & I chose fries because I have a fetish for quality fries. These fries did not disappoint. They were potatoey, crisp on the outside, & lightly salted. I had all this with a Tingler ($4.95, 8oz) - a concoction of spinach, kale, beets, carrots, cucumber, parsley, ginger, lemon, line, orange & apple juices. Everything was delicious but the whole time, I was making eyes at the lavender cake so of course I had to have a slice ($4.95). After the first bite, I was contemplating getting a whole cake for myself. I departed full & happy. It was a fantastic brunch/lunch/whatever at Dancing Dog",
+                "reviewer_id": "8O97RbJ486J3qQVOq98Obg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0001753640168126604,
+                    "positive_probability": 0.9998246359832033
+                },
+                "stars": 5
+            },
+            {
+                "review": "Not a lot of vegan places in the area, certainly a gem in town. Good vegan food and awesome dessert!",
+                "reviewer_id": "A3Vyf2gAC4z6BhFiO1WTGg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.07018640808595217,
+                    "positive_probability": 0.9298135919140483
+                },
+                "stars": 4
+            },
+            {
+                "review": "Urbana has a vegan restaurant! Definitely a fan. Their desserts were GOOD; my favorite is the carrot cupcake! You must try it if you go! Their food is very tasty; however, I'm hoping in the future that they can expand their menu to include some creative vegan dishes that don't depend on fake-meat. There's a plethora of options available! Until then, I'm sure this will satisfy any vegan and NON-VEGAN's taste buds. :)",
+                "reviewer_id": "bILKQuls9XyCmUgXU-25iQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.07137453513958682,
+                    "positive_probability": 0.9286254648604158
+                },
+                "stars": 4
+            },
+            {
+                "review": "I came in nutrient-deficient, craving fruits and veggies. I've been back a couple of times and really enjoy their smoothies.  A couple reviews mention the smoothies are overpriced, but I think they're quite reasonable, given the high quality (real, fresh) ingredients -- if you want to save money, go to the local mega smoothie franchise and enjoy your blend of ice and artificial high-fructose concentrate something-or-other, but personally I'm glad places like this exist!",
+                "reviewer_id": "bJsVht7Ayo1KNVFVca7N0w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.016924519239437736,
+                    "positive_probability": 0.9830754807605641
+                },
+                "stars": 5
+            },
+            {
+                "review": "We came in after yoga last Saturday for lunch. It was surprisingly busy. It's good to see an urbana business doing well.  When I saw the menu,  I was disappointed to see that most of it consists of things from the vegan frozen section at the grocery store - things that are just as convenient for me to make at home for a fraction of the price since the prices are a little inflated here in my opinion. We got the soup and the tempeh salad sandwich and ordered a beer and a smoothie while we waited. For some reason, our waitress felt it necessary to apologize 3 or 4 times for the wait on food. We gave no indication that we were in a rush.  It made us uncomfortable. She eventually started blaming inexperienced kitchen staff which was unnecessary. When she brought out the smoothie, it was about 2 inches shy of filling the glass which was odd. They need to either make bigger smoothies or buy smaller glasses to serve them in. I couldn't help but feel like I had been shorted. When the food came out, we both felt like it was under seasoned. There wasn't salt and pepper at the tables for me to fix my soup. When I considered asking for some, I decided against it. I didn't want our waitress to have more things to apologize for.In the end, we were underwhelmed. The smoothie was good but not worth the price. Save yourself some money and make yourself a veggie hot dog or fibbish fry at home.  If they add some more homemade items to the menu, I might try it again but I don't think we'll be back.Also, I'm not sure if it's a great idea to attempt to make gluten free desserts in the same facility where you make seitan from scratch. I know from experience that pure wheat gluten has a tendency to make its way everywhere.",
+                "reviewer_id": "D98vylCT1fLKBIU6iAKxhw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.08072562477052361,
+                    "positive_probability": 0.9192743752294901
+                },
+                "stars": 2
+            },
+            {
+                "review": "I wanted to love this place as I'm a vegetarian and this place is very conveniently located for me, and I like the vibe/atmosphere.  However, after eating there twice, I can say I found the food really disappointing.  I got their lentil soup and it was totally flavorless! I asked the waitress if they could add some more spice to it. She said okay but then didn't return for another 15 minutes. By then I had given up and just added salt to the bowl and ate it.  I also got one of their smoothies and was similarly unimpressed. I'm not sure why they are so expensive; I don't think they even use organic ingredients. Really surprised by what a high rating this restaurant is getting.  To me the food and smoothies severely lacked flavor.",
+                "reviewer_id": "DL8GF-ptGsBeegb6OWFptg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.1033222504992994,
+                    "positive_probability": 0.8966777495007057
+                },
+                "stars": 2
+            },
+            {
+                "review": "Love this place! Stumbled upon it and found fresh and creative smoothies, crunchy veggies, well seasoned soups, baked fries of high quality, friendly service, and a quaint environment. Need I say more?! This place is the real deal and I highly recommended it. I'll be back tomorrow!",
+                "reviewer_id": "drKE6cwj218-wlLP5TuoTw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.012304520543895817,
+                    "positive_probability": 0.9876954794561047
+                },
+                "stars": 5
+            },
+            {
+                "review": "The vanilla lavender cake tastes exactly like the weird cakes from Strawberry Fields :/.",
+                "reviewer_id": "dzKYG04n0nLXv6tGFvJX0Q",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9519060041414538,
+                    "positive_probability": 0.048093995858545686
+                },
+                "stars": 2
+            },
+            {
+                "review": "Best for lunch in Urbana. YOU DON'T HAVE TO BE VEGAN TO LIKE IT. EVERYTHING IS SO YUMMY! You won't be able to tell you're eating vegan. Everything is made fresh from scratch. Service is fast and friendly.",
+                "reviewer_id": "gSsG7SxlyPiTjzWF2DLYFg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5028226190053395,
+                    "positive_probability": 0.49717738099465936
+                },
+                "stars": 5
+            },
+            {
+                "review": "Had the FIBBISH sandwich......very good. If you are non, or part time vegan...this is the way to go. Comes with choice of sides...we had the home cut French fries...also very good. Smoothies are good. And the salads were HUGE.....well worth a trip, and reasonable. Fibbish plate was around $7.00, but had nice huge portion, plus big tomato slice,and more. Love the serving sizes.",
+                "reviewer_id": "HaI9Cxe3P5bE_ByfmnrktQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.013072793452374817,
+                    "positive_probability": 0.9869272065476232
+                },
+                "stars": 5
+            },
+            {
+                "review": "Really great experience my second time here. It seems they have worked out the kinks in the menu. Fish and Chips were excellent. will definitely be back.",
+                "reviewer_id": "IIRBF6_xbWYPbP_mjGI8RA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5112439665793401,
+                    "positive_probability": 0.48875603342065854
+                },
+                "stars": 4
+            },
+            {
+                "review": "Sooo good!!! The  desserts are unreal and they're healthy!!! It's a must to stop by this local gem. Don't leave Urbana without doing so!",
+                "reviewer_id": "jqXIEG4t6NwHQEbkWjHBgw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.15257498354406873,
+                    "positive_probability": 0.8474250164559307
+                },
+                "stars": 5
+            },
+            {
+                "review": "After spending over a year researching vegan eats all over the east coast, I knew the thing I would miss most about NYC and Philly is the array of vegan dining options that central IL is severely lacking. Luckily, this Dog came dancing into my life and did more than soften the blow...Specific favorite things about DD:1.) Dessert: Ever heard of Vegan Treats in Bethlehem, PA? It was named one of the top 10 bakeries in the world. I can honestly say that after trying ~ 20 treats from there, I have had DD desserts that I've enjoyed more than many at VT. DD has new desserts every day, so it's my favorite part each visit to walk in and see what's on display. Some days have a better selection than others, so I wish the pastry department would expand to guarantee at least 2-3 cakes/cupcakes each day (always so moist and decadent). Some gems I've tried are GF vanilla lavender cake, \"ricotta\" cheesecake trifle, peanut butter fudge, and an oatmeal cream pie that would make Little Debbie abandon her reign and go veg for life.2.) Lunch/Dinner options: I'm happy to see the menu is expanded, although I certainly don't have a problem with the kitchen continuing to experiment with even more options for me to try. (; Here are some highlights:-- Soups. They have an actual soup wizard working for them. One Soup of the Day I was particularly impressed with a couple months ago, humbly titled \"mushroom\", was full of beautiful shiitakes, shining in a rich and silky umami broth of love. The chili is offered daily and it is also very tasty, hearty yet light and full of vegetables in addition to the beans.-- Down & Dirty Dog.  This dog isn't made of random appendages from who knows how many species of animal. Nor is it the beige rubber stick that vegans have been begrudgingly choking down at bonfires for years. It's the best dog I've ever had. And the slaw and baked beans are even better, offering a hint of sweetness and a creamy crunch. There's also a pickle involved if you want even more crunch and tang, but I kind of liked eating the pickle separately because the slaw and beans are too good to be \"speared\" like that (ha).-- Seitan Rueben. I've had other versions of this, including the famous Chicago Diner one, but DD's is special in its own right. I love that the seitan is made in-house because I know many vegan restaurants (even Vedge, the best vegan restaurant in the country) use seitan from outside sources. Plus DD's thousand island relish is crazy good. -- Quinoa Scoop On A Bed. I once heard another customer tell a server the salad should be renamed to \"Mound of Goodness\". I wouldn't disagree. Mostly because of that tangy avocado dressing, but also because I when I want a salad, I want a legit sized bowl full of dark green and purple leaves, not a handful of lettuce with a tasteless tomato on top. 3.) The Veggs Bennedog for Sunday brunch. The Hollandaise sauce is insane. Who needs egg yolks ever? Even better with spinach!4.) Staff: Everyone I've met here has been awesome; not just knowledgeable about the food but actually excited about it too (an unfortunate rarity in the food industry). I've even had a some interactions with the owners Linda and Brian (who are usually around - another sign of a great restaurant), and I can tell they are wonderful people who care about the food being served, and treat their employees well.Overall, the Dancing Dog executes well what it has set out to be: a place where vegans and non-vegans can happily mingle with plenty of satisfying and tasty options, mostly reminiscent of traditional cafe/diner fare. They're still new and have a ton of potential to grow, which is exciting because they are off to an excellent start. This being said, the main suggestion I'd like to see more of in the future is fresh produce shining in more dishes.. Especially seasonal; it is winter so I'd love something like sweet potato gnocchi and roasted kabocha squash in sage brown butter sauce. (Also I hope real lemons are used in lemon cakes, not lemon extract, for example.) (Final note, in response to a previous comment about using items from the vegan section of a grocery store... First, only a few menu items here even contain faux meats, certainly not the majority of the menu. And much like how non-veg restaurants do not construct chicken cutlets out of pantry ingredients and witchcraft, I'm guessing DD chooses certain faux meats because they cannot produce them in the kitchen. No, vegan restaurants do not NEED to use processed faux animal products, but the truth is that many vegans and non-vegans alike are intrigued by dishes that resemble childhood favorites, for instance, that we no longer eat because of the poor practices of the meat and dairy industries. Regardless, while 3-4 dishes on the menu use such \"meats\" as a component, the kitchen does their own seasoning/treatment to them, and all the accoutrements they are served with are house-made and delicious!)",
+                "reviewer_id": "kExw8TGrYqHhGbpv8JAO3g",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 3.9653169369917044e-18,
+                    "positive_probability": 1
+                },
+                "stars": 5
+            },
+            {
+                "review": "Great ambience, it's a quirky restaurant that you can take out or dine in. Awesome juices and vegan dishes. Their soup of the day (veggie chili) was great and their tofu scrambled burrito was out of this world. It was so good we went back twice in 2 days!",
+                "reviewer_id": "OMZAGyR1TX6qT3Y7WBOa5g",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8253087687733551,
+                    "positive_probability": 0.17469123122664337
+                },
+                "stars": 5
+            },
+            {
+                "review": "I like how calming and casual this place is. And the food is great. I got this one type of carrot juice that I think about often.",
+                "reviewer_id": "OvNUbUGurlG6jtWLV2sxgw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7754958780984463,
+                    "positive_probability": 0.22450412190155603
+                },
+                "stars": 5
+            },
+            {
+                "review": "I have visited five times and each time the food and service has been wonderful. Linda and Brian do an amazingly creative job with vegan fare. The fruit is always ripe and the smoothies are divine. My favorite is the burrito - so good. Love the cole slaw. We had our company Holiday Party there in January and it was a big success with great appetizers and wine. The prices were very reasonable, and the atmosphere was great with candles on all of the tables and festive music. Such a welcome addition to Chambana.",
+                "reviewer_id": "pZhhLfJQGiRsJmvgZJZZwg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.010945481175061451,
+                    "positive_probability": 0.9890545188249309
+                },
+                "stars": 5
+            },
+            {
+                "review": "This place was recommended to me by a friend who is a regular here. I am not vegan, but I love to try almost anything. I really wanted to try the Fibbish and Chips, but they had run out. So, I ended up going with The Down and Dirty Dog with the quinoa and corn salad as my side. I also had a Pineapple Blueberry smoothie. Just drinking that smoothie made me feel healthier (technically one smoothie won't make you healthier, but that's besides the point). I get my smoothie first and they had made it wrong, it tasted a little off and looked kind of not right in color, but I actually wasn't going to say anything. They knew though and had another made for me that looked much better when I got it.  Then, my food came. The quinoa and corn salad is very light. I like it, although I think if they use lemon at all in it, maybe a little more. The Down and Dirty Dog is delicious! The beans and slaw on it are the pice de rsistance. I love the slaw! :) I decided that I might as well finish with a dessert since I was going to do a review. I was going to get a piece of their double chocolate cake, but someone literally ordered the rest of it before I was able to acquire a piece. Oh well, another time. I did however, get one of their big chocolate chip cookies. It has walnuts in it and I don't normally like walnuts in my chocolate chip cookies, but the walnuts added to the flavor and texture of the cookie. It was a little crispy on the edges and nice and soft otherwise. It was a really good food experience and I will be back.",
+                "reviewer_id": "qBBt0BfW4gXUWbYxX08JnA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.14113071119679807,
+                    "positive_probability": 0.8588692888032173
+                },
+                "stars": 4
+            },
+            {
+                "review": "Holy crap, this place is great. My boyfriend and I came down from Chicago to visit family and decided to check this place out. We started with the hummus plate and the hummus tasted fresh and so were the veggies. I got the dirty dog, which is a must-try. It is a veggie dog with baked beans, coleslaw and a pickle on top. Yum!!!My boyfriend got the tofu scramble burrito and it was delicious as well!We weren't expecting to find such an amazing vegan cafe in Urbana, everyone needs to try this place out!",
+                "reviewer_id": "t9SJIGLN7LU1nRofonS4rA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.010686240684054302,
+                    "positive_probability": 0.989313759315939
+                },
+                "stars": 5
+            },
+            {
+                "review": "Fresh squeezed juices! Thank you for delivering healthy options. Nice cozy spot to get some lunch and work done.",
+                "reviewer_id": "uhw4jPdmMBqJXHg5KvLJww",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.12663819291882342,
+                    "positive_probability": 0.8733618070811777
+                },
+                "stars": 4
+            },
+            {
+                "review": "I visited The Dancing Dog this evening, had an excellent meal, and the service was wonderful as well. The staff are very friendly, and everything on the menu (including the wine) is 100% vegan. I had the vegan fish and chips. I think the vegan fish pieces (there were three) are Sophie's Choice brand, and they are deep fried, so if you are looking for vegan health food, this might not be the dish for you. However, if you want the closest thing I've ever tasted to British-style fish and chips, this would be it. The tartar sauce was tasty and the coleslaw was some of the best I've had anywhere. For dessert, I ordered the chocolate chocolate chip, cookie, which was also excellent. Dense and chocolatey, slightly crispy on the outside and soft on the inside.I will definitely visit here again the next time I'm in Urbana. Any vegans and vegetarians in town should feel lucky to have this wonderful restaurant.",
+                "reviewer_id": "UlmQStYUblQpHtdKLNXnOg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 9.080209075586569e-05,
+                    "positive_probability": 0.9999091979092434
+                },
+                "stars": 5
+            },
+            {
+                "review": "Had dinner here tonight and ordered The Tingler (with kale, beets, lemon, and ginger) along with the vegan lasagna (which came with a side salad).  The juice, lasagna, and salad were all excellent.  Portions seemed generous and fresh.  We also ordered the German chocolate cake and the frosting was delicious, but the cake itself was a little dry and had a sawdust texture.  Otherwise, it was decent.Overall, however, this proved to be a better experience than my first time dining here, when it was becoming very chilly this past winter and I ordered a tempeh wrap thinking it would be a hot sandwich--only to have it arrive cold.  Not appetizing.  I hope they continue to experiment some more, and consider offering more rice or quinoa dishes that deviate from the expected (spaghetti, for example).",
+                "reviewer_id": "uT5j3gacwwzZ3LO5P4_1KA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0006261905058107405,
+                    "positive_probability": 0.9993738094941902
+                },
+                "stars": 4
+            },
+            {
+                "review": "Who would have thought, that an amazing vegan restaurant would be nestled in the main street of Urbana, IL. I had not eaten all day and I was ready to chow down. Usually in situations like this, I think Mexican food. But my friend Issac said we have a cool vegan place 2 blocks from where you are playing you should check it out! Oh man Im so glad we did. I got this wonderful Peanut Butter thai veggie bowl with rice that had the most amazing flavor and totally hit the spot for a perfect dinner option! The place was cool, you can order anything off the menu vegan, and they have amazing looking deserts! I went back the next morning to get coffee for the road and I loved how they had Soy Creamer (not just soy milk) for the coffee! Really wonderful spot! I must stop of the highway next time I'm driving through to hit this place up again!",
+                "reviewer_id": "vlWwsOG5fL8byQRZ7IIBZQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3125437956195457,
+                    "positive_probability": 0.6874562043804546
+                },
+                "stars": 5
+            },
+            {
+                "review": "So nice to finally have a place dedicated to cruelty-free and people with special diets. The nachos are amazing.  I hadn't had a Reuben in 5 years and finally had the vegan one which was awesome.  It's a great place for an intimate lunch or a dinner out. My husband took me there for Valentines Day this year and we left so happy. The desserts are amazing too.",
+                "reviewer_id": "XOKy3A0DCZuzeglHZw76XQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.011287856669636703,
+                    "positive_probability": 0.9887121433303617
+                },
+                "stars": 5
+            },
+            {
+                "review": "I usually dis vegetarian food/ place, but this place is different. I had the quinoa on a bed, which was just like salad you would find anywhere - it was ok. However, my friend had the vegetarian chorizo, and it was awesome. It tastes just like meat!! I think the type of vegetarian meat that they serve changes every now and then. We also had the lavender cake for dessert. It was a little too sweet, but it's still yummy!",
+                "reviewer_id": "xUu9gORsM_AEWJjiEN4fHg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.36272614840405926,
+                    "positive_probability": 0.6372738515959444
+                },
+                "stars": 4
+            },
+            {
+                "review": "How is it fair that Urbana has a vegan restaurant, and all the way in Naperville I have to settle for my infrequent trips to the city in order to eat at a restaurant that actually serves food I'll eat???!!! Yes, I'm jealous!!The menu here wasn't super extensive, but I actually really like that in a vegan restaurant. I spend less time agonizing over what to order, and more time looking forward to eating it. I got a seitan reuben, and it lived up to all of my expectations. I did think it was on the rather small side, but it was still filling, and came with a nice, heaping pile of fries. Yummmmm.I guess I'll just have to be back to visit my good friend in Urbana more often and try out the rest of the menu!",
+                "reviewer_id": "yjRh-hnfVdTQ_wpgiDbAgQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9388094213375845,
+                    "positive_probability": 0.06119057866241093
+                },
+                "stars": 5
+            },
+            {
+                "review": "A friend recommended me this place. The Lasagna and chocolate cake with vanilla frosting both were great. Overall everyone loved whatever they tried. I have heard that Tingler is good too, although I haven't tasted that yet. Great place for vegan food, will be back for sure!",
+                "reviewer_id": "z8pj_lrILY57qU2zvrROpQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5355197629347311,
+                    "positive_probability": 0.4644802370652641
+                },
+                "stars": 5
+            }
+        ],
+        "similar_restaurants": [
+            "cmLB5X26RJXWdZ2qrS5KOg",
+            "0a4lX5VhCXJOwe-idxnVbw",
+            "4UG9uGnByKgoiuVpC0DthA",
+            "YkKEsYsSpOkDBbHBGKuWQA",
+            "SeQv-RJ2rS070NvSRh_siQ",
+            "doCqqCuoDsIQYDSY2gkUtQ",
+            "fYE54FZCIFYYdFs-AkqRuw",
+            "R3dSeFD8k_Z-EHNLlUELiw",
+            "cab8Jri_Zdz2487hG5em6w",
+            "i0_W9_1abdjBS7d5-pWORQ"
+        ]
+    },
+    "_iA4svuQPq5cMJ7HfwYN0Q": {
+        "keywords": {
+            "bigrams": [
+                "chips_salsa",
+                "mexican_food",
+                "mas_amigos",
+                "hot_sauce",
+                "rice_beans",
+                "cocina_real",
+                "new_location",
+                "tell_husband",
+                "food_good",
+                "longer_option"
+            ],
+            "unigrams": [
+                "food",
+                "order",
+                "service",
+                "pick",
+                "place",
+                "mexican",
+                "chips",
+                "salsa",
+                "minutes",
+                "phone"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Ambience": {
+                    "casual": false,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "Delivery": true,
+                "Good For": {
+                    "brunch": false
+                },
+                "Good For Groups": true,
+                "Good for Kids": true,
+                "Has TV": true,
+                "Noise Level": "average",
+                "Outdoor Seating": false,
+                "Price Range": 2,
+                "Take-out": true,
+                "Takes Reservations": false
+            },
+            "business_id": "_iA4svuQPq5cMJ7HfwYN0Q",
+            "categories": [
+                "Vegetarian",
+                "Mexican",
+                "Restaurants"
+            ],
+            "city": "Urbana",
+            "full_address": "1106 W University Ave\nUrbana, IL 61801",
+            "hours": {
+                "Friday": {
+                    "close": "22:00",
+                    "open": "11:00"
+                },
+                "Monday": {
+                    "close": "21:00",
+                    "open": "11:00"
+                },
+                "Saturday": {
+                    "close": "22:00",
+                    "open": "11:00"
+                },
+                "Sunday": {
+                    "close": "20:00",
+                    "open": "11:00"
+                },
+                "Thursday": {
+                    "close": "21:00",
+                    "open": "11:00"
+                },
+                "Tuesday": {
+                    "close": "21:00",
+                    "open": "11:00"
+                },
+                "Wednesday": {
+                    "close": "21:00",
+                    "open": "11:00"
+                }
+            },
+            "latitude": 40.1166489377499,
+            "longitude": -88.2230757951795,
+            "name": "Mas Amigos",
+            "neighborhoods": [],
+            "open": false,
+            "photo": "https://s3-media4.fl.yelpcdn.com/bphoto/eVFI-VykSZZHV4AiX6CfOA/ms.jpg",
+            "review_count": 17,
+            "stars": 3,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "Service was a little spotty once the place started to get really busy, but the food was definitely worth the wait. Nothing comes with your order! i tell him my husband is sitting in his restaurant right now, waiting to pick this food up. ",
+        "reviews": [
+            {
+                "review": "Amazing!! Service was great and the food was delicious. Manuel was extremely helpful with describing what each dish was. This place is perhaps even better than Cocina Real! I don't know what Deborah ordered but it must have been off the sides menu because everything we got at my table came with all the sides! Cannot wait to go again! Delicious!",
+                "reviewer_id": "1FpwC2F7l6iAoaa6Mjrw9g",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.07162286096347768,
+                    "positive_probability": 0.9283771390365192
+                },
+                "stars": 5
+            },
+            {
+                "review": "I remember eating here very often when it was located at the previous location. I graduated and moved on and now I come back to review and they have moved so I am wondering if my opinion is even valid. However, for whatever it's worth, I do want to share that their beefsteak tacos with cilantro and onion with a hint of lime is absolutely as authentic as it gets from Mexico. I always ordered the tacos with rice and beans. If not ordering take-out and dining-in, I do agree with everyone's love for the never ending chips and salsa. I almost got full for over eating the chips one time. Despite the apparent decline in service from other reviews, I am purely making my high marks for their authentic Mexican tacos and bottomless chips and salsa. I am a creature of habit...when I find something I love and taste, I stick to it and don't order other things on the menu. I only went their to eat my beefsteak tacos. Uno mas!",
+                "reviewer_id": "4C5qJ_azTyJ3xz_cdrcgMQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.007247924020302011,
+                    "positive_probability": 0.9927520759796947
+                },
+                "stars": 5
+            },
+            {
+                "review": "This looked exactly like the place which I typically enjoy - a locally owned, authentic Mexican restaurant. Chips and salsa were very promising but everything went quickly downhill from there. The chicken (Pollo Mas Amigos) - apparently their signature dish was poorly presented (a heaping mass of veggies) and poorly cooked with no flavor - either in the veggies or in the chicken.The desserts were nothing to speak of either. Skip it.",
+                "reviewer_id": "4Hb_OxYpfeKENS0sWWuPow",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9659162712924648,
+                    "positive_probability": 0.03408372870753853
+                },
+                "stars": 1
+            },
+            {
+                "review": "Great Mexican food in town. Will come again.",
+                "reviewer_id": "7z5BKZF6_tQDbGcBlv2tIw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5087913239151627,
+                    "positive_probability": 0.4912086760848368
+                },
+                "stars": 4
+            },
+            {
+                "review": "Cut above most other places in town, making a go of the old Dos Reales #2. Chips and salsa are good.",
+                "reviewer_id": "8oJRVNV3Bi3VHAuI1Su7-A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.054097082506501616,
+                    "positive_probability": 0.9459029174934981
+                },
+                "stars": 4
+            },
+            {
+                "review": "Eh.  When it was Cocina Real (just a few months ago) ti was one of my favorite places.  But now, even though the menu is almost exactly the same and the people working there are the same, it seems like the food has gone down in quality and quantity.  Nothing comes with your order!  My order of quesadillas - no rice or beans on the side, no salsa or guac.  My friend ordered a burrito - also nothing on the plate but a burrito.  Pretty lame.",
+                "reviewer_id": "cnANiTAXs6kCQrLqLD-a4Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.004564499537845808,
+                    "positive_probability": 0.9954355004621535
+                },
+                "stars": 2
+            },
+            {
+                "review": "no thanks.... and here's why...i ordered from mas amigos online for pick up.  the address was listed on springfield... my husband went to pick it up.   20 minutes later, he returns to tell me the building is empty.  he has no idea where to go.  i called the number and asked if they had moved, and the woman on the phone said, \"yes.  to university ave.\"  i tell her my husband is coming to pick up an order.  he will be there in 20 minutes.  she says, \"no problem.\"he gets back in the car... and away he goes.  across town.  again.he has been gone for about 20 minutes when the phone rings.  a man tells me he is delivering my food from mas amigos, and he can't seem to find my address.  i tell him i've ordered online for pick up, not delivery.  he tells me that \"pick up\" is no longer an option.  no longer an option?!  as of when?!  20 minutes ago?  i direct the man to my door who hands me the food, i've already paid for online.  i tell him my husband is sitting in his restaurant right now, waiting to pick this food up.  he shrugs his shoulders at me, and sort of walks off, telling me to apologize to my husband for him.  (yep.  that ought to do it.  i'm sure he will be supremely less pissed now.)my husband comes in the door 20 minutes later with no food.  he tells me that he was charged for our food again at the restaurant because the woman at the counter (who ironically was reading \"things fall apart\") didn't know that there was any order for pick up.  she re-rung the entire order and charged him for it.  she then received a call from the delivery guy explaining what had happened.  she said she couldn't void the transaction, and that the manager would do it when he came in the next day.  guess what?  he didn't, and it took me two days of calling him to get it done.  guess what?  my food was cold when i got it and it was so not worth paying for it once.  guess what?  i'll never eat at mas amigos again.  their customer service was crap.  their website information was wrong -- the address, the pick up vs. delivery information, even their phone number was incorrect.the employees seemed to not even know what was going on or what the policies were.  the manager was unapologetic and they didn't handle this situation very well at all.  if their food is good, i have no idea, and i probably won't know because i won't order from them again.",
+                "reviewer_id": "CPcJRsqLzTLEj6oPrtFtYw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.39532324370365113,
+                    "positive_probability": 0.6046767562963622
+                },
+                "stars": 1
+            },
+            {
+                "review": "We were extremely dissatisfied by our visit. We  used to frequent Cocina Real, in the same location, and since the staff and management are the same we assumed the quality would be as well. Right off the bat we realized how sub-par the food actually was- the tortilla chips were completely disgusting. They were so oily (the wax paper lining the chip basket was completely soaked) and a horribly flaky texture. We wondered if the chef has fried the tortillas at the wrong temperature or for too long. When we received our food, we were horrified at the greasiness of our food. It went beyond the typical unhealthiness of mexican food- the food was literally inedible from the amount of oil it was covered in. The size of our orders was so small for the price we paid for them. We were terrified to order dessert for fear that our flan would come drenched in oil as well. When we received the check, the prices we were charged did not match those on the menu (we were charged additional). We will not be returning to this restaurant.",
+                "reviewer_id": "hRlsVtQW91nJ0yk77-neaw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.06917291289623316,
+                    "positive_probability": 0.9308270871037716
+                },
+                "stars": 1
+            },
+            {
+                "review": "The chips are so good. Also recommend the torta. Not sure why reviews are so poor compared to the old location...everything tastes the same as far as I can tell.Update: Since I was back a second time to this new location, the quality of the food and service seems to have degraded. I don't think I can reasonably rank this as 4 stars even though the chips continue to impress.",
+                "reviewer_id": "IIRBF6_xbWYPbP_mjGI8RA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.09734935571792437,
+                    "positive_probability": 0.9026506442820712
+                },
+                "stars": 3
+            },
+            {
+                "review": "This place has excellent Mexican food. I've come here a few times in my various visits to campus and always try to get something different each time. Service was a little spotty once the place started to get really busy, but the food was definitely worth the wait. Plenty of space and parking at their new location.",
+                "reviewer_id": "nuDluohucnGMT2K0Id8jYA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.021086895154021807,
+                    "positive_probability": 0.9789131048459743
+                },
+                "stars": 4
+            },
+            {
+                "review": "I used to eat here all the time when the place was on Springfield and Champaign but the new place in Urbana does not taste the same It has no flavor no seasoning and very slow service And the salsa taste like spaghetti sauce and they don't have their homemade red hot sauce",
+                "reviewer_id": "nVWnktD05l-LbwdigLy1mg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.17733558537777588,
+                    "positive_probability": 0.8226644146222276
+                },
+                "stars": 1
+            },
+            {
+                "review": "I really like this place. It's a nice, cheap Mexican joint with good, greasy food, and probably my favorite Mexican place in Champaign.I've only been to the new location once, but my experience was positive. The food was good; I had the chicken quesadila and my girlfriend had the steak fajitas. There were only three tortillas with the fajitas, but that's only a bit of a quibble. Portions are nice and big, and I liked the chips and salsa. The margaritas weren't the best I've ever had, but they're okay for the price, and they're pretty strong.",
+                "reviewer_id": "qR6jQSCWN94STCjsnTU8vQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.06947678108463581,
+                    "positive_probability": 0.930523218915366
+                },
+                "stars": 4
+            },
+            {
+                "review": "Wow is the service bad!! I made an online order for delivery and what a mistake. I waited 30 minutes after the 60 minute approximate delivery time to call them to ask where my food was. The guy who answered the phone (after letting the phone ring for  2 minutes) proceeded to argue with me that he had called and spoke to me twice and no one answered the door to pick up the food. I had been waiting by my phone since I had made the order and had not once received a call. They didn't even offer to fix their mistake and bring me my order. So incredibly disappointed.",
+                "reviewer_id": "RhlcbcBFS1HjrhqmE4TsAg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8026064098352678,
+                    "positive_probability": 0.19739359016472321
+                },
+                "stars": 1
+            },
+            {
+                "review": "By far the worst Mexican food I've ever had. It only gets the 2nd star because the service was decent probably due to being one of three people in here. The salsa had no flavor and looked like vomit. Tried to doctor it with their hot sauce to no avail. Chicken enchilada tasted like bumblebee tuna drenched in ranchero sauce that tasted like tomato soup with a touch of hot sauce. Steak burrito had no flavor and was the size of a taco. Rice and beans are the same the burrito...no flavor! As I received the bill an ant crawled across the table!  Awful place! Awful experience!",
+                "reviewer_id": "x5_1j2Z5vElxzuYXyZ1ymA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5367360564439286,
+                    "positive_probability": 0.46326394355606776
+                },
+                "stars": 1
+            },
+            {
+                "review": "Que horrible! This was my favorite local Mexican restaurant...until tonight.  My husband and I go there enough to know that they are capable of better. Unfortunately today they did not care about providing even the most fundamental elements of customer service. Our server clearly did not want to be there which was evident by his blatant lack of attentiveness.  After he finally brought us menus, we quickly decided on what to order. Unfortunately, in the amount of time it took our server to return to the table, we could have read the menus front-to-back, two times over. We figured hey maybe the kitchen is very busy at this hour. Then I realized that our server was sitting in a booth rolling silverware. Not just him, three others as well! I've been a server before. I get it. You have to roll silverware, but to do that in lieu of tending to (well-tipping) patrons is a sign of carelessness. What was most annoying was that I made eye contact with them and was ignored. Eventually, I was able to wave down our server and we ordered. I guess he grew tired of us and recruited a coworker to take over. The new server was better. Although he did take my drink and disappear without refilling it for a while. At least he cracked a smile and showed some sign of life. The worst part of this experience was watching everyone else get service...except us. I'm not likely to return to a restaurant when I'm left feeling unwelcome.",
+                "reviewer_id": "xn0N9g1YmErgqPnl9ZNfEA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8863968660518489,
+                    "positive_probability": 0.11360313394813593
+                },
+                "stars": 1
+            }
+        ],
+        "similar_restaurants": [
+            "cT9uP_Lr5bz6jhIqZPlLcw",
+            "UBriZt4m5BzkvNqnCeuGmw",
+            "sPI0AqWHMeJB_UeZ5FRscg",
+            "cFivwA18popY5GH2tJtXlQ",
+            "ivZo1goh7HXdep03NfA7Cg",
+            "KWXYM3bpbKrC6QNR9dxf1A",
+            "iYaDjwYdtqhLMY_tQFRlKA",
+            "_dOcOVjrFcIKbMWX1VTdBA",
+            "kLHPR_eUmAsOl-XLJSSO2Q",
+            "RRCF1uUIkmLcQdZauqZJAQ"
+        ]
+    },
+    "cmLB5X26RJXWdZ2qrS5KOg": {
+        "keywords": {
+            "bigrams": [
+                "red_herring",
+                "love_place",
+                "hit_miss",
+                "corn_bread",
+                "vegetarian_vegan",
+                "vegan_vegetarian",
+                "vegetarian_food",
+                "portion_size",
+                "great_place",
+                "monday_night"
+            ],
+            "unigrams": [
+                "place",
+                "food",
+                "red",
+                "good",
+                "herring",
+                "vegetarian",
+                "vegan",
+                "great",
+                "soup",
+                "eat"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "none",
+                "Ambience": {
+                    "casual": true,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "Caters": true,
+                "Delivery": false,
+                "Good For": {
+                    "breakfast": false,
+                    "brunch": false,
+                    "dessert": false,
+                    "dinner": false,
+                    "latenight": false,
+                    "lunch": true
+                },
+                "Good For Groups": true,
+                "Good for Kids": true,
+                "Has TV": false,
+                "Noise Level": "average",
+                "Outdoor Seating": false,
+                "Price Range": 1,
+                "Take-out": true,
+                "Takes Reservations": false,
+                "Waiter Service": false,
+                "Wheelchair Accessible": false,
+                "Wi-Fi": "free"
+            },
+            "business_id": "cmLB5X26RJXWdZ2qrS5KOg",
+            "categories": [
+                "Vegetarian",
+                "Cafes",
+                "Vegan",
+                "Restaurants"
+            ],
+            "city": "Urbana",
+            "full_address": "1209 W Oregon St\nUrbana, IL 61801",
+            "hours": {
+                "Friday": {
+                    "close": "14:30",
+                    "open": "09:00"
+                },
+                "Monday": {
+                    "close": "14:30",
+                    "open": "09:00"
+                },
+                "Thursday": {
+                    "close": "14:30",
+                    "open": "09:00"
+                },
+                "Tuesday": {
+                    "close": "14:30",
+                    "open": "09:00"
+                },
+                "Wednesday": {
+                    "close": "20:00",
+                    "open": "17:00"
+                }
+            },
+            "latitude": 40.106704,
+            "longitude": -88.225188,
+            "name": "The Red Herring Vegetarian Restaurant",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media1.fl.yelpcdn.com/bphoto/9b5dvNuEgbwcqD-M4EFCcg/ms.jpg",
+            "review_count": 46,
+            "stars": 4,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "All I want is for this place to do well. I REALLY want to like this place. Definitely a place you have to go and try out. ",
+        "reviews": [
+            {
+                "review": "After living in the area for many years, I finally got a chance to try The Red Herring. I took my wife to lunch on a Friday afternoon. Service was friendly and questions were answered politely.I had the Dragon Bowl special, which was very good. I only wish that I had ordered the full portion instead of the half portion. My wife ordered a tofu dish (not sure exactly which one) which was excellent. She also wished that she had ordered the full portion.The prices were fair and we had a good first experience here. We will return.",
+                "reviewer_id": "-KZ0k14H3zdZVzEnhVq1ag",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.05239681148865327,
+                    "positive_probability": 0.9476031885113491
+                },
+                "stars": 4
+            },
+            {
+                "review": "So I'm not really a vegetarian, but I like to be a poser, I ate at Field of Greens while in the dorms and I eat here when I actually have my lunch hour free on campus.  Sure a lot of people have said this can be hit or miss, but I find the hummus sandwiches to be excellent every time.  They always have fresh veggies on them and have a lot of flavor, plus the homemade wheat bread is awesome.  The sweet potato and corn chowder is quite good as well.  Alas I still haven't been able to try the cornbread, it seems they always run out within the two people ordering in front of me, so get there early if you can.  The coffee isn't outstanding, for that  I would walk down the street to Espresso. Great place to support and cheap eats, I usually spend no more than $6.  Basically you should go if you are on campus for lunch and want a healthy alternative to chains on green st.",
+                "reviewer_id": "-swXonAzCYdZMpkDo0i_FA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.024999389388041887,
+                    "positive_probability": 0.9750006106119641
+                },
+                "stars": 5
+            },
+            {
+                "review": "Go to their Wednesday night dinners! It's a straight up vegan haven. Their deserts are especially tasty, and most of their vegetables and herbs are sourced from their own garden, as well as Sola Gratia! I take my parents almost every week (they're omnivores) and they love it too! Wonderful ambiance as well! Highly recommend!",
+                "reviewer_id": "0wQC8wf4g1-t5hl2PkNHUg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.03429850846206645,
+                    "positive_probability": 0.9657014915379348
+                },
+                "stars": 5
+            },
+            {
+                "review": "It is so nice to have a vegan restaurant in CU. I see another is opening and claiming to be the first. Well The Red Herring was first a long time ago and it is great. The variety of flavors offered makes it a place you can return to often. The atmosphere is, well, laid back and comfy. Nice in the middle of a frenetic day. The staff is always friendly and welcoming and they know their dishes enough to make great recommendations. In short, whether you are vegan or not you should visit The Red Herring and enjoy a great lunch served with a smile in a place that begs for a good book or a good friend to join you. Try it. You'll like it.",
+                "reviewer_id": "1QBi1Cx0mWaVY2xtZqtYzA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.004235525401936231,
+                    "positive_probability": 0.9957644745980678
+                },
+                "stars": 5
+            },
+            {
+                "review": "OK, I have to say that I am very spoiled when it comes to vegetarian or vegan food; I prefer the \"gourmet\" vegetarian and vegan food that takes a lot of preparation and hours in the kitchen for someone to crank out. This place is not that and I didn't know this going in. The hippies and the sloppy \"chill, man\" attitude around the joint quickly made me realize what I was in for and I was right. The food was OK, as in I can, and do, make it at home so it's not very interesting. The portions were HUGE and the price a bit steep; I'd rather pay less for a smaller portion. The place is definitely unique but not as great as I though it should be; I kept hearing such great things that I expected more. But, I'll give them another try sometime to see if it gets better.",
+                "reviewer_id": "3NU4UJWlsVIl6kSYouaFxA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.02449291392583327,
+                    "positive_probability": 0.9755070860741736
+                },
+                "stars": 4
+            },
+            {
+                "review": "It is a great place to eat whether you are a vegetarian or not . The food is fresh and local with fair prices. The people working there are always friendly and provide good service. :)",
+                "reviewer_id": "44GzCA_7s9Xq3kzl2xD1TQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.025174923642119363,
+                    "positive_probability": 0.9748250763578797
+                },
+                "stars": 5
+            },
+            {
+                "review": "Used to be quite good. Sadly I could not eat more than a few bites of my \"spinach pesto\" which was made of mashed up spinach rather than basil and had no flavor. Even the cornbread was bad. on the upside when I returned it uneaten they insisted on giving me some chili for free. Unfortunately that wasn't good either but I ate it because I was starving.",
+                "reviewer_id": "4omuU-xWbf3ty7vrMfbP3Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.04593269519678374,
+                    "positive_probability": 0.954067304803217
+                },
+                "stars": 2
+            },
+            {
+                "review": "On an icy winter's day, Red Herring soup melts my insides. I'll reject red meat any day for it. Their soup menu changes daily... and everyday it's made fresh by volunteers. So - if you're low on cash, you can work here in exchange for food. Not too shabby!I have heard rave reviews about the Krishna dinner... and damn! I forget almost every Monday. But how could the reviews be wrong? Five bucks for an all you can eat, organic, home cooked meal? Damn straight!",
+                "reviewer_id": "7zSppEZd2C6ASpNeBebxAA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7977924757043848,
+                    "positive_probability": 0.2022075242956191
+                },
+                "stars": 4
+            },
+            {
+                "review": "I really wanted to like this place, being both vegetarian and right next to my building.  After several visits though, I had to concede that it just isn't that good.  Tables are constantly dirty.  Food is inconsistent, too expensive for the quality and portion size, and generally not very tasty.The employees are in a constant state of confusion, seemingly overwhelmed by the trickle of customers during the lunchtime \"rush\".  The ordering process is inefficient, with very little thought put into organization of the process.Basically, this place has all of the drawbacks of a small, quirky cafe, with virtually none of the payoff.  I am currently at the restaurant again, having given in to proximity over quality, and I am regretting it.",
+                "reviewer_id": "9DH-Q7ngZVF1u1f1Ba4Mog",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.00148496685001284,
+                    "positive_probability": 0.9985150331499889
+                },
+                "stars": 2
+            },
+            {
+                "review": "I REALLY want to like this place.  On paper it sounds amazing, super healthy vegan/vegetarian food.  Lots of organic, free trade type stuff.Unfortunately it usually fails to impress.  The dishes usually bland and uninteresting (mostly stews and vegan imitations of american and western european meat dishes that most meat eaters don't even like that much, like beef stroganoff for example).   On top of that I made the trip out there on four separate occasions only to find the place was closed with a note on the door saying \"Sorry we are too tired to cook today.  Here's a recipe if you want to make your own dinner.\"  WTF.  I know this place is a non-profit but they seem to reject the notion that a business should strive to please their customers if they expect to survive.  Of course only greedy capitalists care about such things..",
+                "reviewer_id": "BHq_bwUa1lw-6tD2O0c9Pw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9982958911644896,
+                    "positive_probability": 0.001704108835511299
+                },
+                "stars": 3
+            },
+            {
+                "review": "Oh, Red Herring!  Be still my heart.  I loved this place before I ever considered eating vegan, and it's been a haven for me since then.  The specials never fail to delight, so much so that I went six months never trying a regular menu item because I was so entranced by the daily specials.  The BBQ seitan is outta control good--so fantastic that I find myself picking up the escaping pieces of seitan with my fingers and then licking the sauce off.  The falafel is phenomenal as well.  Meat-eaters, have no fear.  I've brought many a devout omnivore to Red Herring, and they've raved about their eats as well.  The chef does a fantastic job of dreaming up dishes that are flavorful and filling (and still pretty damn cheap).  I find the whole sandwich fills me up nicely for $5, and the specials are always a meal-and-a-half for a bit more.I'm sad they weren't able to keep dinner service going, but I've got my fingers crossed they'll revisit that another time.  Red Herring, thank you for satisfying my stomach, making sure this mostly vegan gal never feels frustrated grabbing a lunch out, and helping me feel completely guiltless about eating out.",
+                "reviewer_id": "bPzcpkhSeQDu6WQTUh08yw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 5.891156145008167e-05,
+                    "positive_probability": 0.9999410884385647
+                },
+                "stars": 5
+            },
+            {
+                "review": "Had the weekly stew. Foods are okay. The corn bread was hard. I don't like it. But seemed the corn bread is the only dessert they have. Furniture is classic and mixed. Thought they collected the furniture from various places. A nice place to have a rest.",
+                "reviewer_id": "C74BJGf0RuKdYKxjm7SDuQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.30794654044440056,
+                    "positive_probability": 0.6920534595556036
+                },
+                "stars": 4
+            },
+            {
+                "review": "The ambience here is somewhat lacking, but the menu features eclectic options and eco-conscious choices. The food was tasty, but sat a bit heavy for me. Large portions and decent prices make this a worthwhile place, but with room for improvement.",
+                "reviewer_id": "cTSSA0PFK6_xJAlj_uhN-A",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8929167855531648,
+                    "positive_probability": 0.10708321444684
+                },
+                "stars": 3
+            },
+            {
+                "review": "The food is bland and the portions meager, but as the only dedicated vegetarian restaurant on campus, Red Herring gets stars for being cool. Surface over substance.",
+                "reviewer_id": "dzKYG04n0nLXv6tGFvJX0Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3526329371232438,
+                    "positive_probability": 0.6473670628767549
+                },
+                "stars": 3
+            },
+            {
+                "review": "I used to go to Red Herring at least once/twice a week during my undergrad years.In my opinion, the best lunch option near campus, and never as packed as some of the shittier places nearby.  Soup and sandwiches were always great, and the entrees were good too.  I could never convince my friends to come with me, because they were idiots.The food definitely fluctuated in terms of taste/quality depending on who was working that day. I still remember a specific dish I had back in '05 that still ranks among the top 10 things I have ever eaten. Unfortunately, by comparison, nothing else from there ever lived up to that one dish, even though it was always excellent.",
+                "reviewer_id": "Ec6w-g5MZLzAEqLr6tjZ8w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.10672106463203537,
+                    "positive_probability": 0.8932789353679682
+                },
+                "stars": 5
+            },
+            {
+                "review": "Requires a bit of an open mind, but I love what this place stands for and that I can get a full plate of food for less than $8 and it's nothing I'll have ever tried before. I've gotten their nachos with vegan cheese, tried their deep dish pizza made with chickpea flour, as well as a Indian dish. It's always a really nice, cozy experience venturing to this side of the quad.",
+                "reviewer_id": "eIQwlepZ2qgvv3ZnCPfucA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0027938951487498998,
+                    "positive_probability": 0.997206104851251
+                },
+                "stars": 4
+            },
+            {
+                "review": "Fantastic bbq seitan sandwich. Even better than the one offered @ clover in cambridge, ma!",
+                "reviewer_id": "G2O4kR8xXH_Et4J6a7gzrA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6152136737912642,
+                    "positive_probability": 0.3847863262087369
+                },
+                "stars": 5
+            },
+            {
+                "review": "hippies are weird. but one thing they do well is make vegetables taste good. i've enjoyed everything i've had here and it's a great atmosphere to relax during a busy day.",
+                "reviewer_id": "gbxWeKTC7vzLA7i-cAPp8w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.021422901154289627,
+                    "positive_probability": 0.9785770988457079
+                },
+                "stars": 4
+            },
+            {
+                "review": "I admit, this place can be hit-or-miss when it comes to dining, but I love it and so will you.  Open for lunch, grab a sandwich and soup, a choice of vegetarian entrees and coffee.  The Krishnas put on a Monday night meal, all you can eat for $5.  Very peaceful and cooperative, and spiritually and gastronomically healthy.",
+                "reviewer_id": "HANb8-8InWnju-XzBQQSBw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.03282291100204532,
+                    "positive_probability": 0.9671770889979557
+                },
+                "stars": 4
+            },
+            {
+                "review": "OK, I'll admit it- I generally detest vegetables, so the idea of a vegan restaurant did not initially appeal to me. However, thanks to the Red Herring, I have been converted to the veggie cause. The Red Herring is staffed by dedicated volunteers and generally these are people quite knowledgeable in the ways to making vegetables delectable. It's a small place, nothing fancy, but it's quite nice for a non-for-profit establishment. On a cold day there I always like to get their $3.00 bowl of vegetable soup with corn bread. The soups, like the entrees and desserts, vary each day. Some days might be better or worse than others, but I can usually find something I like. The corn bread is the wonderful constant in this equation. It's soft and melts in your mouth. Besides the cornbread, the next best thing is the ingredients. They use lots of local and organic products.Even if you are not exactly crunchy and you like your red meat, I suggest trying The Red Herring. Hopefully you'll be pleasantly surprised.P.S. They are now serving dinner.",
+                "reviewer_id": "HqaXK9toBpQdcz-0-rVwKw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.00047784777097898887,
+                    "positive_probability": 0.9995221522290277
+                },
+                "stars": 4
+            },
+            {
+                "review": "Very hit or miss at this place. I've never had anything that is *bad* but I've also never eaten anything here that really blew me away. I did enjoy the vegan/vegetarian chili that I had there a couple of times. Definitely not a must eat though.",
+                "reviewer_id": "IIRBF6_xbWYPbP_mjGI8RA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.10794681024033465,
+                    "positive_probability": 0.8920531897596654
+                },
+                "stars": 3
+            },
+            {
+                "review": "I love this place.  The food is vegan but you would probably not even realize it if you weren't paying close attention because it is delicious, flavorful, and makes a lasting impression.  The staff is super friendly, the ambiance is friendly, welcoming, and open.  The concept is wonderful.  The prices might be a little steep for the amount of food you get sometimes but it all balances out in the end.  Totally my favorite place to go for lunches during the day because of its proximity to the quad.",
+                "reviewer_id": "iKt9RWLOS_PE4SKBRFkKww",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.02802254103677513,
+                    "positive_probability": 0.9719774589632255
+                },
+                "stars": 5
+            },
+            {
+                "review": "Awesome staffAmazing Vegetarian lunchesLots of seatingSocially Conscious businessLove this place!",
+                "reviewer_id": "irvYCzno1PlbDsLKkAKNFw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5045720925060944,
+                    "positive_probability": 0.4954279074939056
+                },
+                "stars": 5
+            },
+            {
+                "review": "5 buck karma-free Monday night dinner?  Gotta give that a shout out.  Anyplace that satisfies my evening grubbin' needs that cheaply can make the whole day seem even better.Down the steep stairs and into the warm scent of good hippie eats.  You get in line, toss your fiver in a basket, and are given large portions of whatever they cooked up.Tonight was rice, veggies with Indian flavors, kick-ass lentil soup, and a brownie.  Drinks cost extra, water is free with dinner.  You can eat as much food as can be shoveled down.The atmosphere is like a laid-back commune, with a smattering of all campus types.  Punk, hippie, geek, frat/soror, etc.  It's a really friendly place with a community-building-is-awesome vibe.My friends who've been in town awhile say it can be a tad hit or miss.  Tonight was for the win, fo' sho'.  Another tip I was given is to bring a Tupperware.  If you accidentally get more seconds than you can eat, you'll be able to have some noms for lunch the next day.  Or, ya know, snacking on the way home.  It might be a little less karma free that way, though...",
+                "reviewer_id": "iWcr-TRqIuIXqMpd_MrdrQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7309729949895496,
+                    "positive_probability": 0.26902700501043736
+                },
+                "stars": 4
+            },
+            {
+                "review": "This is easy to miss in the Unitarian corner building near the foreign language and across from the science building.  It's a place you have to come to, though, if you like vegetarian fare and really one of your only legit options if you want vegan and don't want to just have a celery stick or raw veggies at some other restaurant.  All food is freshly prepared, their main menu item changes every day.  On top of this all it's fairly cheap as well.  Definitely a place you have to go and try out.That said, I have talked to a connected friend who told me horror stories about the management changes as well.  I guess it passes between different people since it's run by the Unitarians and there is some sort of committee for it.  Apparently sometimes the place was not run in a, shall we say, cleanly and efficient manner.  That said, I hear the current manager, just like nifty c. says, is very good and the place is top quality.",
+                "reviewer_id": "IXFGCmgnB8YY-jtPCaNYeQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 5.1276974303073206e-05,
+                    "positive_probability": 0.9999487230256903
+                },
+                "stars": 4
+            },
+            {
+                "review": "I'm not a vegetarian but I love this place. One of the few, possibly only places on campus to get a real-food meal made with fresh, unprocessed ingredients. Alot of their ingredients are sourced locally. I started out going here for lunch on occasion but lately I have been going to their vegan fusion dinners.",
+                "reviewer_id": "K_E_UAk7IQGPHqz8IE7iSw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.036967114428570425,
+                    "positive_probability": 0.9630328855714327
+                },
+                "stars": 5
+            },
+            {
+                "review": "I love the daily specials- I eat here every time I can (which isn't often because they are only open for weekday lunches I think). Such delicious food and definitely a worthwhile place to give my $5 for lunch too.",
+                "reviewer_id": "M8CXD-xhjCRh7abUOrk2tg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2729363197572959,
+                    "positive_probability": 0.727063680242708
+                },
+                "stars": 5
+            },
+            {
+                "review": "I loved this place. The atmosphere is lovely and relaxed and so is the food. I've been meaning to come here for quite some time, but the hours that they are open never match up with when I have wanted to go. The hours are pretty random and short but it is worth planning a trip. The food is very good and very fresh, it is a little pricey for the portion size, which is pretty small, but it was worth it. I would recommend for any vegans, vegetarians, ethnic cuisine lovers, or just healthy eaters!",
+                "reviewer_id": "o_xI4gJDuJmN6wT_8DED7g",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5790117715279782,
+                    "positive_probability": 0.4209882284720248
+                },
+                "stars": 4
+            },
+            {
+                "review": "I am a former vegetarian working nearby, but was scared to come here.  On a previous visit, a friend and I left because of the crowd, which I know now was probably a buffet night.I'm glad I finally got over it and gave it a try, because that was some of the best falafel I've ever had.  I also had the curry soup, which was very flavorful and seasoned just right.  A half falafel \"sandwich\" (which includes popcorn and a dill spear), cup of soup du jour, and a cookie cost me roughly $7.  They also have a water cooler with a stack of non-disposable cups.",
+                "reviewer_id": "p5ht6rQC0NkgdtgY2OlYxg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.02852562243640505,
+                    "positive_probability": 0.9714743775635885
+                },
+                "stars": 4
+            },
+            {
+                "review": "I'm a carnivore, but this place is so delicious. It might be one of the only places to get real, non-greasy food around campus. It always makes me feel satisfied for several hours, whereas other places you feel hungry about an hour later.Om nom nom! Try a cup of chili with brown rice + veggies.Furthermore on fridays they have a really sweet band playing, today there was a guitar, banjo, and a double-bass. Awesome.",
+                "reviewer_id": "petFpNRk6Kw60d-sAGOI1Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.005231767848548821,
+                    "positive_probability": 0.9947682321514484
+                },
+                "stars": 5
+            },
+            {
+                "review": "We were actually brought here by Annie W. during our visit to UIUC. (Not sure if you can tell, she's a big fan!)I ordered half a hummus pita with a garden salad on the side. I actually liked the hummus, although I don't eat hummus as much as I'd like to. There were lots of fresh veggies in there, although the distribution through my little pita pocket was a bit awkward. (Chock full o' hummus on one side, lots of veggies on the other.) I ordered the salad with the sesame tahini, but I wasn't a huge fan of the tahini. I don't eat tahini often, though, so maybe I'm just not a tahini person? (The vinaigrette would've complemented the meal better.) The meal was served with some plain popcorn.I found my meal okay, but I would definitely be cautious to omnivores (and especially carnivores xD). Many of the people I was eating with were pretty dissatisfied with the flavors in their food? Even the little bottle of hot sauce (I think it was a kind of salsa?) wasn't really doing much to quench their hunger. I'm a bit more used to vegetarian food, but if your friends aren't used to vegetarian food, this is probably not the place to try to introduce them to it.I liked the atmosphere of the restaurant, but again, it can come off as \"weird\" and \"hippie-ish\" for people who aren't used to it. We had a guy playing BOTH the guitar and the xylophone up front and, not going to lie, he was reinforcing the stereotype of \"hippie-ish\" in this restaurant with his look a wee bit, according to some of my lunchmates.But I liked it. There was a little station for you to fill up on water, iced tea, or hot tea, cane sugar, organic teas... considering that you're not paying a whole lot, I thought that you got a pretty great deal, ESPECIALLY if you are a vegetarian or a vegan, you know? However, if you're bringing a friend who has never heard of seitan and doesn't really like that organic feel, then this is the wrong place to bring him/her. If you're into that, though, this is an AWESOME place. Even the back of the bathroom door contributed to the overall feel of this restaurant that I had to descend into. It is very much like a co-op (if you've been to one before), but I'll admit, not everyone is going to love it. I personally liked it, though.",
+                "reviewer_id": "PwGDqzdywqGHDAoOn7VZHQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 2.8789926977726795e-05,
+                    "positive_probability": 0.9999712100730243
+                },
+                "stars": 3
+            },
+            {
+                "review": "This is one of the coolest places in Urbana. The Red Herring has been around for many years - my mom used to hang out here in the late 60s and early 70s when she was in high school. I may be biased about the food as one of my best friends used to be the head chef, but I love it!I have never had a bad experience here. The most recent time I went, I had the chili and the vegan nachos. Let me start out by saying that I'm not vegetarian OR vegan but I am always down to try new things! Both had great flavor, and the cashew nacho cheese actually tastes just like cheese!It is also a great place to come just to grab coffee. It is usually quiet inside, with a mix of casual lunchers and people studying with soft music playing. It is a great atmosphere to catch up with a friend.I love the Red Herring and you should too!",
+                "reviewer_id": "qCWAhycUgwCMmCladkrlrA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0025222218057860575,
+                    "positive_probability": 0.9974777781942108
+                },
+                "stars": 5
+            },
+            {
+                "review": "I am not vegan or vegetarian but my friend is so I went with him and thought I would try it. I had the BBQ seitan and for someone who doesn't eat that type of thing normally it was actually pretty good. It had the look, feel, and taste of bbq pork. I also had a side salad that had a yummy herb vingearatte. I don't think I would go back again because I like my meat but it was definitely tasty and if you are looking for a vegetarian type of place definitely go check it out!!",
+                "reviewer_id": "rgjdVmK5nYVOxrK6YeQJNQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.08545214443177483,
+                    "positive_probability": 0.9145478555682256
+                },
+                "stars": 4
+            },
+            {
+                "review": "This is the kind of place you want to support, you want to see survive.While I was living in CU, it closed down a few times, but always came back to life.It has been said the food is hit or miss - I agree. But I think more times than not - it is delicious and filling.I always did my best to try something new and was usually left feeling warm and satisfied.",
+                "reviewer_id": "rMf_QIAUHMIr3OJybv5Ylw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.05700180449915577,
+                    "positive_probability": 0.9429981955008435
+                },
+                "stars": 4
+            },
+            {
+                "review": "All I want is for this place to do well.  It deserves it.Basically, if you survive the terrifyingly steep steps downstairs, you'll enter what appears to be a speakeasy beneath the Unitarian Center.  And by speakeasy, I don't mean Prohibition Chicago era hideouts for liquor runners, I mean a Vegetarian Speakeasy for hippies--the best kind of speakeasy. :)The decor is eclectic and homemmade.  It basically looks like a co-op and is inhabited by the usual college town cast of characters: hipsters, professors, crunchy folk, punkers, and any person who likes great food.I enjoyed my butternut squash bisque soup and was disappointed that they were out of cornbread today--Keep that in mind and come relatively early to avoid having them run out of foodage.  Otherwise, you should enjoy.Go and at least check out this awesome local community spot that really seems to care about the area around it.  Good call. :)One note, they only take cash, much like the Y-Thai.  But really, if you're eating on campus, you should spend your money on places like Y-Thai or Red Herring rather than the soulless, corporate eateries lining Green Street in CampusTown.And there's free wifi.  Hot damn.",
+                "reviewer_id": "SpKVX3rt892E-BrL-yeqiw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0003569395443339753,
+                    "positive_probability": 0.9996430604556749
+                },
+                "stars": 4
+            },
+            {
+                "review": "The Red Herring manages to leave an impression on everyone who goes there. The restaurant is just a stone's throw from the Quad, making it a super convenient place to grab a bite to eat between classes. When entering from the main door, there is a a small area full of different community posting and stairs leading down to a basement. Don't worry, you are in the right place, restaurant itself is in the lower level of the house. There is a second entrance from Oregon St. that allows you to enter directly though the basement as well. The staff is every welcoming and helpful with any questions you may have about the menu. The specials are always changing, so be sure to ask what is new. There is a noticeable rush during the lunch and dinner hours, but if you go in the morning or mid-afternoon it can be a nice, quite place to get a little work done. This place definitely has that hippie/divey vibe about it. I absolutely love the colorful interior! I went to one of their open mic nights with some friends and they had a nice little stage area in the corner that worked well. It very much feels like a place that is aware of the community, with all of the information and local ads on their boards.Stop in sometime and see what the specials are or what programs are taking place!",
+                "reviewer_id": "sRoFGJ6Avpl21hMDwQPViw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.002086614696161484,
+                    "positive_probability": 0.9979133853038399
+                },
+                "stars": 4
+            },
+            {
+                "review": "As soon as I walked in I felt like I was transported to Ithaca, NY.  The ambiance is cozy with a funky, nature-loving theme.The food was incredibly delicious and satisfying, even for a non-vegan.  I had a cornbread muffin which surprised me by being not very sweet.  Instead it was a bit crumbly and grainy in a really savory way.I also had the green goodness soup which is easily some of the best green soup I've ever had!  When I first saw it, I was a little worried it would taste like chopped veggies with a weird after-taste. That was totally wrong.  I could taste the chopped up vegetables alongside smooth spices and a hint of lemon.  I enjoyed every bite!I completely recommend this place if you're in the mood for well-made food or if you miss Ithaca ;D",
+                "reviewer_id": "w-ptvHIIsRVb7TTAxfzhJg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.015736958341155502,
+                    "positive_probability": 0.9842630416588507
+                },
+                "stars": 5
+            },
+            {
+                "review": "If there is one thing I mass about ol' Chambana - it's Red Herring. This place is just so wonderful. Where do I start?My typical memory of it would be walking in on a blisteringly cold day. I'd be greeted by steamy warm, earthy air. My glasses would fog up and I'd go blind for a moment. Once the fog disappeared I'd be greeted with a wide variety of the community - from the still thinks-it's-the-70s hippie to the like-oh-my-god-check-out-my-North-Face-fleece! sorority girl - everybody is represented. Definitely more hippies than greeks - but yeah. I suppose I fall in the middle there and never felt out of place.The place is staffed mostly by volunteers who as I recall get paid with a meal for a certain amount of work. Go there for a little while and you'll quickly get to know the staff - they're all great.So next it's time to order. They have their daily menu listed and it's always different. Prices are not bad - $5-8 will get you a full meal as I recall.So the food - I have yet to buy something here that wasn't fantastic. Maybe I'm easy to please (as some of the other reviewers would make one think) - but geeze - it's all so great! There is a clear stand out though - the BBQ tempeh sandwich. I've tried to recreate this item at home (since I now live halfway across the country!) but I just can't get it as good as Red Herring did.I've taken many people here - from red blooded meat lovers to normal folk and everybody else - and I have yet to hear a complaint. Fantastic place - highly recommended!",
+                "reviewer_id": "we3wNaG0cZujkRpzzKHmuQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.02927938698835868,
+                    "positive_probability": 0.97072061301164
+                },
+                "stars": 5
+            },
+            {
+                "review": "This is probably one of the few places on campus I can depend on to get food that won't lead to a grease coma. The food tastes fresh and healthy. The downside may be that the portions are a little small compared to other restaurants for the same price. I would recommend the chili with a cornbread muffin.",
+                "reviewer_id": "x8zEbTbVFv9Ju1U_Y3xrIw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0016116152070756405,
+                    "positive_probability": 0.9983883847929219
+                },
+                "stars": 4
+            },
+            {
+                "review": "In 2011, for the very first time, I sat down at a paint chipped table in the middle of what could only be described as a \"Church basement\" -- slightly damp, definitely dark -- and looked around at what art and food, and culture had brought together.  I was with a friend, at the time.  An extremely good friend.  Neither one of us knew what to expect, or how to really proceed, but two mushroom risotto later, and.. I mean.. LIFE. CHANGED. right there.This place is a cash and carry.  You pay for the plate, and if you're part of the collective, you sweep your own dishes.  No one pampers you, here, but that's not really the point of what they're doing.  They're just doing warm, sincere, totally honest food (on par with any haute cuisine), keeping it free from anything that isn't vegetable or mineral (and plenty of carbs ;D).  Truly, spectacular, filling food for a great price.  Just don't come in expecting a waitress or to pay with your plastic.  That's a no go.TRH is still one of Urbana's best kept secrets.  Sometimes things are better that way.  Stay shiny, Red Herring.  Shine on!--After years, it appears things have changed.  Apologies!  THEY ACCEPT YOUR PLASTIC, NOW.  YAY!",
+                "reviewer_id": "YtbXNQJEJAHZK_2DFXSa6w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.003390982917657866,
+                    "positive_probability": 0.9966090170823413
+                },
+                "stars": 5
+            },
+            {
+                "review": "I had lunch here for the first time yesterday. I had the falafel salad and the soup of the day, I think it was called Samosa. Both things were excellent, Im probably going back today for their fusion meal.SO GLAD I FOUND THIS PLACE! No better way to spend $10 for lunch!",
+                "reviewer_id": "ZB5yx64AVO-O1An2rMadzg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.19851990585490178,
+                    "positive_probability": 0.8014800941450975
+                },
+                "stars": 5
+            },
+            {
+                "review": "NEW MANAGEMENT ALERT!  The Red Herring is a local institution but the quality changes dramatically as the place has passed through many hands.  I recall with some fear the staff of years past: one cashier enjoyed candidly sharing with me stories of their disagreements with the health department.  (This was as I ordered food.)  But that has changed.  The new manager is reportedly the same person who originally opened the place in the 1970s (says the cashier).  As a regular visitor for seven years, I found the effect striking.The food was good!  Not just a passable alternative option as Mimi N. wrote, or something that vegetarians must eat out of desperation after they tire of green salad and fruit plate from the local chains.  The red herring is not the only option for those with a lentil craving anymore.  It is a place that you might actually go to for the food -- food that is actually good.  It didn't taste like the Red Herring I know at all; it tasted a lot better.I had the corn chowder and the ingredients were obviously carefully selected and very fresh.  The kernels had a crisp, sweet bite.  The toasted mozzarella sandwich was also a treat with good quality cheese and fresh bread.Unfortunately, while change is good in this case, I did notice the portion sizes have declined dramatically.  Maybe they are still working this out?  (I hope.)I spent $7 for a half sandwich and cup of soup, and almost immediately I found that I had to go out to a second lunch.  It was the smallest half sandwich I have ever been seriously offered and charged for.  At first I mistook it for a sample or a scrap trimmed from someone else's sandwich.  I would have preferred a bowl of soup but this tiny cup size was the only choice.  $7 for a sandwich trimming and a tiny cup of soup is a little steep around here.So enjoy the food but don't order half of anything -- the result will be too small.  Rest assured that the crunchy atmosphere you love is still there... but cleaner.  The staff still seems to be the kind of staff that will say \"Peace out!\" after you complete your order and will lend you money if you are short.Peace out!",
+                "reviewer_id": "zq815p7o2OM1kNHG8OdobA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 2.7709601559394843e-06,
+                    "positive_probability": 0.9999972290398575
+                },
+                "stars": 4
+            },
+            {
+                "review": "Let me start by saying that I really like this place. Until just recently, I've only been here for lunch (which never disappoints). Having just gone to my first Monday night krishna buffet, I am in total awe. The food was unbelievably tasty, cheap, and there was an overall jolly atmosphere going around.If I could take off a half-point, I'd only do so for the times that I'm not carrying any cash on me. Besides that, I love this place.",
+                "reviewer_id": "zQ_nVFkZRBz_pTTKGWsqLA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6449364987548025,
+                    "positive_probability": 0.35506350124519787
+                },
+                "stars": 5
+            }
+        ],
+        "similar_restaurants": [
+            "IZOKtFjm_hiL4OGmCq2NNA",
+            "0a4lX5VhCXJOwe-idxnVbw",
+            "DntkMrzlbFPdOdxJtEWLBw",
+            "ey7-ihj-OjM4sEOwWTc06Q",
+            "wO8c-FbduauxCGiEHchGRA",
+            "fYE54FZCIFYYdFs-AkqRuw",
+            "oHKjjwehNipcGIYBThWg9w",
+            "ZSTTU_-duEqyIDZgLV45DA",
+            "UrxAu3jjRM_u6iQXDPzkSQ",
+            "6UftUvNBqANqybf8wpWeNA"
+        ]
+    },
+    "ec1gbPLxYhUYDu_1h4c7dQ": {
+        "keywords": {
+            "bigrams": [
+                "cafe_sababa",
+                "grilled_cheese",
+                "especially_pizza",
+                "pizza_fries",
+                "simple_healthy",
+                "delicious_food",
+                "place_staff",
+                "gone_times",
+                "healthy_delicious",
+                "fries_pickle"
+            ],
+            "unigrams": [
+                "fries",
+                "grilled",
+                "cheese",
+                "aaron",
+                "gone",
+                "special",
+                "matt",
+                "sandwich",
+                "center",
+                "items"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "none",
+                "Ambience": {
+                    "casual": false,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "Caters": false,
+                "Delivery": false,
+                "Good For Groups": true,
+                "Good for Kids": true,
+                "Has TV": false,
+                "Noise Level": "quiet",
+                "Outdoor Seating": false,
+                "Parking": {
+                    "garage": false,
+                    "lot": false,
+                    "street": false,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 1,
+                "Take-out": false,
+                "Takes Reservations": false,
+                "Waiter Service": false,
+                "Wi-Fi": "free"
+            },
+            "business_id": "ec1gbPLxYhUYDu_1h4c7dQ",
+            "categories": [
+                "Kosher",
+                "Vegetarian",
+                "Pizza",
+                "Restaurants"
+            ],
+            "city": "Champaign",
+            "full_address": "503 E. John St\nChampaign, IL 61820",
+            "hours": {
+                "Monday": {
+                    "close": "13:30",
+                    "open": "11:30"
+                },
+                "Thursday": {
+                    "close": "13:30",
+                    "open": "11:30"
+                },
+                "Tuesday": {
+                    "close": "13:30",
+                    "open": "11:30"
+                },
+                "Wednesday": {
+                    "close": "13:30",
+                    "open": "11:30"
+                }
+            },
+            "latitude": 40.108761,
+            "longitude": -88.231538,
+            "name": "Cafe Sababa",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media3.fl.yelpcdn.com/bphoto/AfOCXW7tbFzPiVfRM3INZA/ms.jpg",
+            "review_count": 4,
+            "stars": 5,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "I've gone to Cafe Sababa a few times already, and I'm always impressed with the care Aaron and Matt put into every order. ), the pizza, and the fries. What makes a simple\" grilled cheese sandwich taste gourmet? \"",
+        "reviews": [
+            {
+                "review": "What makes a \"simple\" grilled cheese sandwich taste gourmet? Several cheeses, grilled to perfection, plus Chef Aaron's special touch. Add seasoned fries and a pickle, and you have an amazing lunch for only 5 bucks!",
+                "reviewer_id": "6O2oYkVnDow7PZoufWh8pg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9487590238883121,
+                    "positive_probability": 0.051240976111687424
+                },
+                "stars": 5
+            },
+            {
+                "review": "I've gone to Cafe Sababa a few times already, and I'm always impressed with the care Aaron and Matt put into every order. This is anything but an anonymous place, and the staff is always willing to cater to special requests, talk about new menu items, or just hang out. My personal favorite items are the falafel sandwich (which they made with fries inside especially for me!), the pizza, and the fries.",
+                "reviewer_id": "eUr1wjuVp3K_fcjGLHkMGw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.49568938896653864,
+                    "positive_probability": 0.5043106110334652
+                },
+                "stars": 5
+            },
+            {
+                "review": "I've been going to Cafe Sababa inside of the Cohen Jewish Center for about a year now - and I have yet to be disappointed. Aaron Stevens and Matt Harsh work in the kitchen, occasionally with a student (like myself) who will help out. The lunch is non-meat, so tuna melts, grilled cheese, pizza slices, and BYOB's (build your own bagel) are the standard fare. They also do some really tasty nacho fries, which is jalapenos, cheese, tomatoes, and onions on seasoned french fries.",
+                "reviewer_id": "gHTzOYMc5vT1mL65TeWGZw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.07941375017154546,
+                    "positive_probability": 0.920586249828458
+                },
+                "stars": 5
+            },
+            {
+                "review": "Simple, healthy and delicious food right in the center of campus at Hillel! I've gone several times and always enjoyed myself, so you should too!",
+                "reviewer_id": "N7cIbEOvl55MQ9Syz6QQvw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.09648954567661845,
+                    "positive_probability": 0.9035104543233812
+                },
+                "stars": 5
+            }
+        ],
+        "similar_restaurants": [
+            "zLkok9inSL4lzVoSzfpxAA",
+            "-Fwt0yM17CvpDv12ld6mmw",
+            "KGGYlneCtF4xQT9T5eKV5g",
+            "M73ttBKGZsw1Jg0XbNuKsw",
+            "mv1gFZ8FYsFIOTENKhXddw",
+            "AEqvyxNHm3YFzArBinr2_Q",
+            "yTlW8Xh1wPpvHBl3dGz9mA",
+            "hXjOPGuc2mbzQNregzer9g",
+            "qUWDPFWaW0fOY66lL0diqg",
+            "OkNhrobZUhpybZlpHAA_bQ"
+        ]
+    }
+}

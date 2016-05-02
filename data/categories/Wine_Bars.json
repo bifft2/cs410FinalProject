@@ -1,0 +1,974 @@
+{
+    "CcsJm10_5ULE0j41DkcQ6g": {
+        "keywords": {
+            "bigrams": [
+                "downtown_champaign",
+                "pork_belly",
+                "restaurants_area",
+                "lamb_shank",
+                "glass_wine",
+                "shrimp_toast",
+                "dining_experience",
+                "second_time",
+                "addition_downtown",
+                "funnel_cake"
+            ],
+            "unigrams": [
+                "great",
+                "wine",
+                "food",
+                "good",
+                "menu",
+                "service",
+                "restaurant",
+                "glass",
+                "time",
+                "place"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "full_bar",
+                "Ambience": {
+                    "casual": false,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": true
+                },
+                "Attire": "casual",
+                "Caters": false,
+                "Coat Check": false,
+                "Delivery": false,
+                "Good For": {
+                    "breakfast": false,
+                    "brunch": false,
+                    "dessert": false,
+                    "dinner": false,
+                    "latenight": false,
+                    "lunch": false
+                },
+                "Good For Dancing": false,
+                "Good For Groups": true,
+                "Good for Kids": false,
+                "Happy Hour": false,
+                "Has TV": false,
+                "Music": {
+                    "background_music": true,
+                    "dj": false,
+                    "jukebox": false,
+                    "karaoke": false,
+                    "live": false,
+                    "video": false
+                },
+                "Noise Level": "average",
+                "Outdoor Seating": true,
+                "Parking": {
+                    "garage": true,
+                    "lot": false,
+                    "street": false,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 3,
+                "Smoking": "no",
+                "Take-out": true,
+                "Takes Reservations": true,
+                "Waiter Service": true,
+                "Wi-Fi": "free"
+            },
+            "business_id": "CcsJm10_5ULE0j41DkcQ6g",
+            "categories": [
+                "Wine Bars",
+                "Bars",
+                "Restaurants",
+                "Nightlife",
+                "Sandwiches"
+            ],
+            "city": "Champaign",
+            "full_address": "122 N Neil St\nChampaign, IL 61820",
+            "hours": {
+                "Friday": {
+                    "close": "02:00",
+                    "open": "14:00"
+                },
+                "Monday": {
+                    "close": "00:00",
+                    "open": "16:00"
+                },
+                "Saturday": {
+                    "close": "02:00",
+                    "open": "10:00"
+                },
+                "Sunday": {
+                    "close": "00:00",
+                    "open": "10:00"
+                },
+                "Thursday": {
+                    "close": "00:00",
+                    "open": "16:00"
+                },
+                "Tuesday": {
+                    "close": "00:00",
+                    "open": "16:00"
+                },
+                "Wednesday": {
+                    "close": "00:00",
+                    "open": "16:00"
+                }
+            },
+            "latitude": 40.117237,
+            "longitude": -88.2431919,
+            "name": "V Picasso",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media2.fl.yelpcdn.com/bphoto/x1ksuY8p7VhIu8oa2xyC0w/ms.jpg",
+            "review_count": 40,
+            "stars": 4,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "A perfect dining experience with your loved ones or even group of friends. The food was still good the service was just off. So I'm happy my dish was the lasaniga :) Our server was very attentive and helped us to a great wine selection. ",
+        "reviews": [
+            {
+                "review": "Good food, great intimate atmosphere. If you go avoid Zack as your server or your experience will be tainted. The cocktails are fantastic and Josh the bartender is amazing. Interesting menu items and lots of great specials. Sunday brunch is fun and they feature $20 mimosa bottles  Definitely a wonderful addition to the downtown Champaign restaurant scene.",
+                "reviewer_id": "-6l7CsWbTPJeFgflI-V4Fw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.10618480169252495,
+                    "positive_probability": 0.893815198307473
+                },
+                "stars": 4
+            },
+            {
+                "review": "I don't make it back to Champaign very often, but V. Picasso has been a real treat to discover. Along with a great waitstaff, Champaign finally has a selection (albeit different) of wines to keep up with the quality of Bacaro.  Throw Josh in there with his incredible knowledge and inviting personality (honestly he's what's kept me coming back), and you have a restaurant that has shown up to compete.  Color me impressed.",
+                "reviewer_id": "-l6aYdVK6WgxtdUo50jodA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.014104960281917453,
+                    "positive_probability": 0.9858950397180845
+                },
+                "stars": 4
+            },
+            {
+                "review": "The food was outstanding. The produce was farm  to table, very fresh. We had a salad with a light cream sauce, tuna tartar, and two different flatbreads: pork belly and beet/white bean humus. We will go back. We had dinner outside. When we return, we will sit further from the street or inside. Neil street is pretty well transited and the traffic can be distracting. The service was very nice.",
+                "reviewer_id": "1UT66pVUsNzJRbXdyHPSUg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5672845310070018,
+                    "positive_probability": 0.43271546899299457
+                },
+                "stars": 5
+            },
+            {
+                "review": "I felt like I was back in downtown Austin, TX or dining off of Randolph Street in Chicago, IL. This restaurant brings major city dining, service and ambiance to a small college town. Ambiance - The entire experience was spot on. From the moment we walked in, we were pleasantly surprised by the attention to decor details. Backlit stained glass windows, wine bar with lounge, reclaimed wood on walls, \"edison\" bulb lighting, short mason jars with candles on tables. It felt great being in the space. Getting a table - The hostess was friendly, knowledgeable and attentive. Took down our number to call us when the table was ready. Said it would take 30-40 minutes, told us the group sizes ahead of us. 40 minutes later phone rang and our table was ready. We arrived around 7 - 7:30pm. They were getting ready to do their second seating. If you aren't going to arrive by 6, consider arriving between 7:30 - 8:30pm as things appeared to clear out a bit by then. Seating - We sat in a booth, which I love doing so I can sit next to my husband. There are a limited QTY of booths, thus if this is your preference you should consider putting in that request with a hostess early. If weather is nice, they have a lot of outdoor tables on Neil Street. Bonus - when Cowboy Monkey has bands playing (around the corner), you can get music for free!Service - I don't know if all waiters that work here are as talented and knowledgeable as ours, but as a previous server at a high-end restaurant while in college - wow! He was attentive, well-spoken, knew the menu inside and out (props to the chef for letting your servers try everything - it makes a big difference), and was super knowledgeable about wines (we are not). My husband had ordered a malbec, enjoyed it, and put in an order for another. The server told him he should really try another one by the glass and that he'd like it more -- which he did and was pleasantly surprised. Food - We were so pleased by our meal. For a starter, we ordered 12 month manchego cheese with 15 month-aged jamon (ham). It comes out on a butchers block serving tray with an assortment of warm and soft bread slices, date chutney, several hot peppers and an olive tapenade. Yum! We then put in an order for foccacia bread with chicken sausage on top and fennel. It's perfectly bite-sized sliced and great for sharing. For entries, we ordered shrimp with pork belly over grits. The second entre was scallops with crispy proscuito over perfectly tender potatoes. Management - The chef circled around to tables twice to visit personally with everyone. He was very gracious and attentive. Nice gesture!Props - It is also worth noting, they've only been open 2 weeks! The amount of work it requires to have a beautiful space, menu hammered out, well-trained and lovely staff and to provide a great dining experience so soon after opening is impressive. We were truly delighted with our meal and surprised / thankful to have a restaurant of this nature in Champaign!  Final Tips: 1. Put in your name and if it is crowded, go next door to Blind Pig Brewery or Quality for a pint. 2. Request a booth as they are more private against the walls. 3. Focaccia bread dishes are great for sharing. 4. Entres run around $18-$25. Plenty of options for wine by the glass and tapas too. 5. Don't be in a  rush. This is not churn tables out kind of restaurant. It is slower-paced and a relaxing atmosphere.",
+                "reviewer_id": "3tWy9tNjvlVPmY-8MMXFrA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 1.0841226843709359e-10,
+                    "positive_probability": 0.9999999998915688
+                },
+                "stars": 5
+            },
+            {
+                "review": "My second time there and both times I thought the food was very good. They just rolled out their new menu and I had the duck. Service though was a bit lacking though. Jen our waitress was fine, the issue was the very slow service both getting our drinks and our entrees. It was a nice night and the outdoor seating was very full and that was their excuse for the slow service. If that is the case then they need to add a bartender and another sous chef to handle the volume. We were inside and it was only about half full so they will be in real trouble if they pack the house.",
+                "reviewer_id": "6EBhHva1fG_-DvVuJnDUCg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4566306192555621,
+                    "positive_probability": 0.5433693807444303
+                },
+                "stars": 4
+            },
+            {
+                "review": "WOW.  I love this place!I've been wanting to come here forever, but don't have a lot of people who are willing to try new places and new things with me.  I'm so pleased that I got the opportunity to visit last night.  The second we walked in, I loved the ambiance.  They had a little live music in the bar area that drifted into the dining room--so it wasn't too loud to talk and was just the perfect backdrop to a fun evening with a friend.  The pressed tin ceilings made the space feel warm and the eclectic art was well lit and positioned to draw interest.  But enough about the building--let's get down to brass tacks and talk about food and wine.You want an authentic local farm-to-table concept?  Go no further.  V. Picasso partners locally with Willow Creek Farm in Urbana and features Prairie Fruits Farms cheese on its menu as well.  They supplement with wonderful food items from around the world--they know an insane amount of information about where EXACTLY each food item is sourced and can tell you what makes it distinctive.  (Case in point:  One of their specials last night was a smoked venison osso buco that was described in incredible detail.  This place is serious about what they serve.)VPicasso has an amazing wine list with eclectic selections around the world.  They also offer 'wine on tap' which sounds interesting.  Our awesome waiter, Trent, suggested a wonderful Montepulciano D'Abruzzo that was light and not super acidic.  It's totally a new fave.Although the specials sounded AMAZING (osso buco?  you truly know the way to my heart, chef...) and the entrees looked fabulous (lobster ravioli? black cod? lamb shank?  risotto?) we weren't particularly hungry and wanted to just enjoy some of the wonderful cheese they offered.  (Major props to both the Manchego and the tangy Bohemian Blue)  The cheese board is served with fabulous honey from the farm, a yummy olive tapenade that was so good I thought we were going to get into a duel with our forks over it, and a jam in addition to lovely bread.  We ordered the roasted beet and arugula salad that had a perfect dressing on it that paired perfectly with the cheese we were eating (who knew!) and the shrimp toast.  It was fantastic.  Even though we were kinda full, it was too hard to resist the interesting desserts.  We landed on the chai funnel cake.  Seriously good.And call me crazy, but half of what makes or breaks a restaurant for me is service.  The staff was super friendly and easy-going and tremendously knowledgeable and professional.  I'm kind of a service snob--there are servers who do the job for the tips and there are servers who have restaurant in their blood and are actually concerned about the experience their guests have.  Chef Adam hires VERY well.So all in all, I'm more than pleased.  Don't you love Champaign?  Where else can you have all of this in the heart of your town?",
+                "reviewer_id": "9ARfyGh_IaBn-QOLyMnZDw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 1.6796637054995849e-09,
+                    "positive_probability": 0.9999999983203415
+                },
+                "stars": 5
+            },
+            {
+                "review": "Amazing food, drinks and service. Wide array of food on the menu including appetizers,  entres, desserts and bar snacks. Great wine selections with wine on tap as well. Has a patio, lounge area, full bar and stunning dining room. Menu will also be changing regularly throughout the year.",
+                "reviewer_id": "_EB2O2GjkTkUdGLi01O5hw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.04988757577655505,
+                    "positive_probability": 0.9501124242234443
+                },
+                "stars": 5
+            },
+            {
+                "review": "Pretty pricey, but great for special occasions. Also good to grab some wine and sit on their fun, albeit small, couch area. So much outdoor seating in the summer!",
+                "reviewer_id": "amxtfaoqV0JEwbJUFeCyLg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6253104756874183,
+                    "positive_probability": 0.3746895243125793
+                },
+                "stars": 4
+            },
+            {
+                "review": "Great food, great service, and great drinks! The food was so well prepared - I can't wait to sit outside again and try the whole menu! I had never tried one marrow before (I was a total skeptic) but I did for the first time, and I can't wait to try it again. The way the food is prepared makes you want to try things you never have before!",
+                "reviewer_id": "aPouFCv-cD7HzXp8Jwz6Ig",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5066364226871511,
+                    "positive_probability": 0.4933635773128464
+                },
+                "stars": 5
+            },
+            {
+                "review": "Dinner for 7 was a disappointment. One of the pork chop dinners was served raw. The Osso buco was dry and over cooked, although it tasted good. The scallops we very good and our waitress was also very good. Just not worth the money.",
+                "reviewer_id": "bGz5WVGAE9Q8eR4Gy_I1IQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.05182051049867811,
+                    "positive_probability": 0.9481794895013269
+                },
+                "stars": 2
+            },
+            {
+                "review": "It is not the same as their last location with this name by the same owners. They had some items that you won't know how much or what the are. If you are going for that I would think you would have a menu easy and cost effective to change day to day. Kind of strange having the doors to the jewelry store open. I can't see this location bee ing open long either.",
+                "reviewer_id": "BtFJ96vwbwZdGuRRqJsp9A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.10969963877495677,
+                    "positive_probability": 0.8903003612250471
+                },
+                "stars": 1
+            },
+            {
+                "review": "We've been here a few times and have enjoyed the food and service.  Last night however was not the case.  The food was still good the service was just off.  We were running late (3 kids to grandmas is never easy), the plan was to have a glass of wine or two before dinner and to take advantage of the happy hour special.  My wife sat down at the bar at 5:57pm (3 minutes left of happy hour) and ordered us each a glass.  The bartender said he would give her one... like he was doing her a favor. She was actually there earlier and was waiting on him.  He finally obliged and gave her and I one.  Later when we ordered our second glass with dinner it had 25% more wine in the glass.  So he gave us 3/4 of a pour.It was our 10 year anniversary and when they called to confirm earlier that day they said \"Is it true you will be celebrating your 10 year anniversary with us?, we have something really nice for you\".  Not once was it mentioned that it was our anniversary.  As we left the restaurant the hostess finally said happy anniversary.  I wasn't expecting much but dont call me and say you have something special for me and then just give me crappy service. Like I said, the place is nice. Just avoid the bar and hope for good service.",
+                "reviewer_id": "D416iJU4085ssxq7rqM3ZA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9289081281161105,
+                    "positive_probability": 0.07109187188388118
+                },
+                "stars": 4
+            },
+            {
+                "review": "I have been to V. Picasso 2 times, once on my birthday and another on my wedding anniversary. My experience on my birthday was nice. We had ordered mussels and crab cakes for appetizers and quail and scallops for mains. All dishes were nice, although mussels were overcooked. After this, we decided to give it another try on our anniversary. Service as usual was very nice. We ordered shrimp toast for appetizer and lamb shank and duck for the mains. Shrimp toast was just ok. My husband did not like it at all. Hence, our all hopes were on mains. Lamb shank was fine but it did not have any freshness of vegetables or salads to cut the richness of dish. On the other hand, duck had some freshness but was overcooked. Overall, it was just an ok experience. My overall ratings are below:Shrimp toast: 5/10Lamb shank: 6/10Duck: 6/10They have changed their menu since we first went there. I will only try it again if they add more seafood selection and also accompany their dishes with some salad to cleanse the palate.",
+                "reviewer_id": "DZ_EixeFWTdL8ksiycbz-Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.05233425585752642,
+                    "positive_probability": 0.9476657441424934
+                },
+                "stars": 3
+            },
+            {
+                "review": "Wow. This was a side of Champaign I didn't know existed. The space is warm without being rustic, artistic and art-deco is more apt. There is jewelry displayed in windows and on the walls, so the place feels like a foodie art gallery in some ways. The waiter was the most friendly and helpful and conversational waitstaff I have ever encountered. And the food. Man. What a way to break from my campus habits of Chipotle and Torticas. A friend and I did two started and shared the entree and dessert. We chose the beef tartare and roasted bone marrow appetizers. It was my first time trying steak tartare and I was really pleased with it, though the potato chips that come with it to eat are a little overpowering for the tartare. The bone marrow is as rich and indulgent as you might expect, and well complemented by the toasts it comes with. Our entree was the grilled Berkshire farms pork chop and came with a side of cheesy macaroni and arugula. The pork chop was very substantial and somehow crispy, almost like it was fried. Very nicely done and the apple sauce is delicious made from local apples from Curtis Orchard.Dessert was a funnel cake drizzled with caramel and topped with whipped cream. So good! Definitely lighter than your average Funnel cake, and also super crispy and crunchy.",
+                "reviewer_id": "eIQwlepZ2qgvv3ZnCPfucA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 4.533029516056371e-05,
+                    "positive_probability": 0.9999546697048436
+                },
+                "stars": 5
+            },
+            {
+                "review": "I don't typically write reviews, but this place is incredible. We have been two times. The first time was good, but the second time it was outstanding. You can tell that they are tweaking the restaurant to make it very good. I highly recommend the salmon with bacon jam and zucchini - one of my favorite meals I've ever had. Prices are a bit high, but I feel that the quality makes it worth it.",
+                "reviewer_id": "ewufOJp7hhxXy8I9xRlakw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0864764372639225,
+                    "positive_probability": 0.913523562736078
+                },
+                "stars": 5
+            },
+            {
+                "review": "Neat little bar/ sit-down restaurant. Decorations are rustic and reminds me of a small bar in cities. I got the prosecco and moderno (?) which were both good! Only downside is that it closes at midnight. Definitely will be back!",
+                "reviewer_id": "hskITxJpMZ2WD3j_1e2bNQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.019703533069494208,
+                    "positive_probability": 0.9802964669305073
+                },
+                "stars": 5
+            },
+            {
+                "review": "We went on a date night and this is a heaven for wine and sea food lovers..the oysters were amazing and so was the octopus ceviche..the ahi tuna was a perfect entree to go with the wine suggested (Taken Complicated)..",
+                "reviewer_id": "IAZ-Xm2tkO14YbzeCwritg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7017510354142068,
+                    "positive_probability": 0.29824896458579697
+                },
+                "stars": 5
+            },
+            {
+                "review": "Had dinner with my gf couple nights ago. The place itself looks very nice and elegant. However my gf's steak came out medium well when asked for a medium rare/rare. We were one of two couples eating at the time In the entire restaurant, I don't see how the steak could come out over. I had the rabbit pasta dish. Although good, it was not good enough for the price and quantity given.  I asked the waiter about the size of the dish because I was very hungry. He definitely exaggerated the size by at least double. I was given an appetizer amount of food that I finished in less than 10 bites. Once our bill came I noticed we were also charged for a glass of wine that we did not order. We had no wine at all that night.I would give them some time to get settled before going back for a second time.",
+                "reviewer_id": "iQqdTT1PBtAqIPg53GncXw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.005004409961119252,
+                    "positive_probability": 0.9949955900388849
+                },
+                "stars": 2
+            },
+            {
+                "review": "My husband and I went here for a glass of wine while out on a last minute date night. We had already eaten, so we just sat in the bar. I had a glass of wine and my husband skipped having anything once we had been treated as lesser customers. Sadly, the bar tender didn't seem to think we were worth much attention... maybe because we weren't dressed fancy enough. I don't know... don't judge a book by its cover. (I digress) So the wine was great and the menu looked stunning! We will be back for a real meal at some point. (Don't worry snobby bar tender... I'll dress up next time to meet you expectations and judgmental side glare.) Hopefully next time I'll find this place is with more stars... based on the look and menu, it should be! Very impressive.",
+                "reviewer_id": "kGVK_HmOjliHrKiPGiXmxQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9113343624307774,
+                    "positive_probability": 0.08866563756922446
+                },
+                "stars": 3
+            },
+            {
+                "review": "First time here and it looked pretty fancy for Champaign (the rest of downtown is pretty much jeans and boots culture). It wasn't busy at all on a Friday night around 9 and we came for small plates and drinks. I love the decor here, rustic wood meets mosaics and  stained glass with these really cool round light fixtures. I always give points to anyplace that takes time to create ambiance in our little bar town. Anyway, we had a super nice server named Ryan who suggested some good drinks. Ever since Boltini (RIP) closed, I've been searching for a good cocktail in this town. Hoping for a miracle, I tried two cocktails here. I'm happy to report the standout was the Martinez. It was flavorful without overpowering the palette with that gin tanginess. It does pack quite the wallop so make sure you're eating too. We also sampled some cheese and meats with the best being The \"Spanish\" variety: jamon Serrano and the manchego. I also tried the salmon flat bread which was red wine cured salmon with dill cream. It was perfectly light and left you with room for drinks. For a larger dining space, the noise was a low din. I'm pretty sure we were the loudest people there. This place is on the pricey side compared to the other restaurants in the area (my salmon and 2 cocktails was 25 or so) but it is well worth it. I'm looking forward to coming back on a date or just to try more cocktails!",
+                "reviewer_id": "lR8ztGfJzRv-dp9ZPyooUA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.33373374207778916,
+                    "positive_probability": 0.6662662579221944
+                },
+                "stars": 4
+            },
+            {
+                "review": "I went there for lunch today with my husband, mother-in-law, and my 4 year old daughter and it was wonderful. Everything was really good, pricey but good. Of course between three adults we had 5 beers and 2 glasses of wine so over a third of our bill was alcohol...whoopsy ;) We tried the fried green tomato starter, pork belly flatbread, grilled chicken flatbread, and the cuban burger. All were delicious and quite filling. They don't' have a children's menu so the waiter was kind enough to ask the chef to make the Croque Monsieur into just a roasted ham and gruyere sandwich for my daughter on a pretzel bun instead with fries (a side option for all sandwiches) and they were more than willing. In fact we all had a bite and loved it! It was probably the best ham sandwich that little girl had ever eaten! Haha!",
+                "reviewer_id": "n_M4socoIzzvwCwXokz4kg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.997768273265691,
+                    "positive_probability": 0.002231726734304419
+                },
+                "stars": 5
+            },
+            {
+                "review": "This place is amazing! Great atmosphere, It feels very warm and inviting in the dining area. Everything we tasted was so delicious! We had the tuna appetizer, quail, salmon flatbread... tried tasting couple wines. Our server was very knowledgeable and made great recommendations on food and wine. My favorite part was probably the desserts. The donuts and the chocolate torte was awesome! Will definitely come back!",
+                "reviewer_id": "Rbgad6WYUC5rIaaWTwoLxA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0025418766106041738,
+                    "positive_probability": 0.9974581233893944
+                },
+                "stars": 5
+            },
+            {
+                "review": "had the steak, would have been better off going to Longhorn, the 14 oz steak was 7 oz of fat. should have sent it back. and the fries that came with it were soggy.",
+                "reviewer_id": "s3KWWbK6Tqy-0PXD1dY7IA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6541182146811468,
+                    "positive_probability": 0.34588178531885494
+                },
+                "stars": 2
+            },
+            {
+                "review": "Great food and atmosphere! Service was excellent. The only problem was with dessert. We ordered the ricotta pound cake and it was rather dry and unappealing. The strawberries they had on the side were good, though scant.",
+                "reviewer_id": "UTiGzp1i7MkeT2TEey3pIQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.37924709198915857,
+                    "positive_probability": 0.6207529080108387
+                },
+                "stars": 4
+            },
+            {
+                "review": "I brought my visiting gal pals to V Picasso for a nice dinner on the town. I had never had dinner there before, but I had brunch once and it was absolutely fantastic! From the start we loved the service with quirky, yet charming, 143 (aka \"Trent\"). We curated a cheese and meat board with the assistance of Trent. His recommendations were on point (loved the Prairie Fruit Farm Brie) and were paired well with the jams, honey (RIP the bees), and focaccia. Our meals were delicious. The linguine and clams had surprising kick to it and the squid ink pasta was so fresh! The risotto and salmon were also great choices. While the restaurant was out of all desserts, this place still gets 5 stars and I highly recommend it! Cheers!",
+                "reviewer_id": "vfHpXFHBgacmxaotwSg41A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 2.2213311575188283e-05,
+                    "positive_probability": 0.9999777866884253
+                },
+                "stars": 5
+            },
+            {
+                "review": "This new addition to downtown Champaign is a wonderful place for dinner. The salmon entree is amazing, served on a bed of asparagus and dill, which is both healthy and divine. The wine on tap is not only novel but very good. I've tried the malbec, tempranillo and the syrah and all are delicious. The cuisine is very charming-- especially the copper colored ceiling and the barn board-sided bar. The outdoor seating is also very pleasant--- particularly looking down Park Avenue into West side park. The staff is extremely helpful and friendly. I've repeatedly had great experiences there.",
+                "reviewer_id": "vFo_cN6stWX5LCa_VI_57A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.004978905410902635,
+                    "positive_probability": 0.9950210945890989
+                },
+                "stars": 5
+            },
+            {
+                "review": "Picasso is a welcomed addition to the downtown Champaign food scene. Among my favorite menu items are the crawfish flatbread and the fried oysters( which are no longer on the menu). Picasso is also the place where I have discovered a love for the true daquari. I appreciate the decor and inner city feel of the restaurant, which is a welcome escape living in a college town. Definitely one of my new go-to restaurants in the area. Please note: the price point is a bit higher than other restaurants in the area and could be considered a downside for those on stricter budgets.",
+                "reviewer_id": "W6raOvmsT5mG2noetn4wqw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.008114425089656,
+                    "positive_probability": 0.991885574910347
+                },
+                "stars": 4
+            },
+            {
+                "review": "The summer menu is great!! We were sitting outside and had amazing time!! The mussles and the fried oyster is just delicious!! Great!! Will come back again :) Keep up the good work!",
+                "reviewer_id": "WxRIF4HQIiqA0ZLULAVeWg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6914094234335079,
+                    "positive_probability": 0.3085905765664922
+                },
+                "stars": 5
+            },
+            {
+                "review": "We had an amazing time we loved the food I had the salmon and it was fantastic my husband had the pasta with the rabbit and morale and he said it was the best he has had. it's so exciting to have something like this z in our community nice job Victor.",
+                "reviewer_id": "X0RtrhmrVWmf5P9idGTZAg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0066503880082796635,
+                    "positive_probability": 0.993349611991716
+                },
+                "stars": 5
+            },
+            {
+                "review": "Would call it a bit of work in progress, but hey it's only been a couple of months and they just went to a whole new menu.  First the food is interesting (always one of my highest criteria).  Two of us chose the \"cured dish of the day\", fried green tomatoes, quail entree and duck entree.  There was a bit of southern Americana bent.  Of the dishes, the cured fish was a bust from my point of view.  Wonderfully cured salmon, served with paprika whole grain mustard, tapinade, moderately spicy grilled peppers and grilled baguette.  If you put it all together the salmon is lost in the mix.  Don't know what it all had to do with each other but....Fried green tomatoes were wonderful not much more to say.  The quail was stuffed with a rhubarb. The quail was nicely cooked but as a matter of personal taste didn't like the stuffing.  Duck was wonderfully cooked over a corn risotto.Wines by the glass was a high point.  A bit pricey, but they had probably 20 wines by the glass or even for small tasting pours.  Choices were interesting.  We decided for wine pairings by the glass vs a bottle and were quite happy.So I think as the restaurant matures a bit it will be well worth it.",
+                "reviewer_id": "xr8RG37oyf4seWyg_SsnVA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9645967182240797,
+                    "positive_probability": 0.03540328177590407
+                },
+                "stars": 4
+            },
+            {
+                "review": "A beautiful dining experience in a superb location in downtown Champaign...from the tin ceilings and the wine barrel ring lights to the repurposed barn-wood walls and cathedral stain glass windows...this all sets the perfect surrounding to compliment with the \"which item on the menu do I order!?\" So far you CAN'T go wrong with any thing that lists Pork Belly...crisp and BACONY!! The Salmon is of a generous portion cooked to perfection! No flaws in any of the culinary skills that go on in the kitchen...can't wait for my next visit again, and again!",
+                "reviewer_id": "yWli4uaIBwbi9vkh1shctQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.003298684551963146,
+                    "positive_probability": 0.9967013154480437
+                },
+                "stars": 5
+            },
+            {
+                "review": "My girlfriends and I decided to go exploring and we found V Picasso - which we haven't been to before so we were excited. The place has a very romantic atmosphere. Being on a temp vegetarian diet unfortunately norrowed my option for most of the main dishes. Of the two I was able to taste I can whole heartily say they were awesome. The vegetarian lasangia was amazing and the rizoto was also pretty awesome - but a bit too much for me... So I'm happy my dish was the lasaniga :)Our server was very attentive and helped us to a great wine selection. It's important to mention that the place is a bit pricy especially for the tiny portions you get. Our goat cheese and arugula salad appetizer was super tiny - but super super tasty. All in all it's definitely worth a try. Especily since there aren't many great restaurants in our area that take their food seriously.",
+                "reviewer_id": "zSQ-9d_xjH_QQPAz37kVDA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.00484602037672602,
+                    "positive_probability": 0.9951539796232747
+                },
+                "stars": 4
+            }
+        ],
+        "similar_restaurants": [
+            "rm2OnyNDnlWkSNUSxETsGg",
+            "05FJCAvUFOAk8B_nIOqt7A",
+            "RSk-BYX8s5027cKo_aELrw",
+            "9p3O_KoH3muITR-9WgrSnA",
+            "h9xdY1NO4GnNijNChTy-8A",
+            "H0D2HYqLd9MRCq68rtbTyQ",
+            "Aln3dngHMyG6OyPBe7fucw",
+            "JlcbIU8V6ohFCwfuMr7tBg",
+            "dw6kMj7WSA2ZRk0FqqjqrQ",
+            "JCqFWCn31OMSk-vqF5aYNQ"
+        ]
+    },
+    "H0D2HYqLd9MRCq68rtbTyQ": {
+        "keywords": {
+            "bigrams": [
+                "olive_garden",
+                "bread_sticks",
+                "soup_salad",
+                "breadsticks_salad",
+                "chain_restaurant",
+                "real_food",
+                "salad_breadsticks",
+                "ten_minutes",
+                "make_sure",
+                "food_good"
+            ],
+            "unigrams": [
+                "food",
+                "salad",
+                "olive",
+                "garden",
+                "good",
+                "service",
+                "time",
+                "soup",
+                "breadsticks",
+                "meal"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "full_bar",
+                "Ambience": {
+                    "casual": true,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "Delivery": false,
+                "Good For": {
+                    "breakfast": false,
+                    "brunch": false,
+                    "dessert": false,
+                    "dinner": false,
+                    "latenight": false,
+                    "lunch": true
+                },
+                "Good For Dancing": false,
+                "Good For Groups": true,
+                "Good for Kids": true,
+                "Happy Hour": false,
+                "Has TV": false,
+                "Noise Level": "average",
+                "Outdoor Seating": false,
+                "Parking": {
+                    "garage": false,
+                    "lot": true,
+                    "street": false,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 2,
+                "Smoking": "no",
+                "Take-out": true,
+                "Takes Reservations": false,
+                "Waiter Service": true,
+                "Wheelchair Accessible": true,
+                "Wi-Fi": "no"
+            },
+            "business_id": "H0D2HYqLd9MRCq68rtbTyQ",
+            "categories": [
+                "Bars",
+                "Salad",
+                "Wine Bars",
+                "Nightlife",
+                "Italian",
+                "Restaurants"
+            ],
+            "city": "Champaign",
+            "full_address": "30 E Anthony Dr\nChampaign, IL 61820",
+            "hours": {
+                "Friday": {
+                    "close": "23:00",
+                    "open": "11:00"
+                },
+                "Monday": {
+                    "close": "22:00",
+                    "open": "11:00"
+                },
+                "Saturday": {
+                    "close": "23:00",
+                    "open": "11:00"
+                },
+                "Sunday": {
+                    "close": "22:00",
+                    "open": "11:00"
+                },
+                "Thursday": {
+                    "close": "22:00",
+                    "open": "11:00"
+                },
+                "Tuesday": {
+                    "close": "22:00",
+                    "open": "11:00"
+                },
+                "Wednesday": {
+                    "close": "22:00",
+                    "open": "11:00"
+                }
+            },
+            "latitude": 40.135851981612,
+            "longitude": -88.241127950452,
+            "name": "Olive Garden Italian Restaurant",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media3.fl.yelpcdn.com/bphoto/Tf-wLnyKTjkS0yIJx8e8tQ/ms.jpg",
+            "review_count": 39,
+            "stars": 3,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "(Expect at least a 30 minute wait during dinner hours) but after we finally got seated, our service and food was always surprisingly good. We got a table right away, but we waited about 15 minutes before our waitress arrived. Olive Garden's soups are pretty good, I'll grant them that. ",
+        "reviews": [
+            {
+                "review": "Ask for the peach tea.  Very good.  $12.99 for a meal there and then another meal to take home.  Average pasta with no meat, but a really good value.",
+                "reviewer_id": "21rgESVI2FOWWOiV9dVinQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.07640138680453688,
+                    "positive_probability": 0.9235986131954653
+                },
+                "stars": 3
+            },
+            {
+                "review": "This rating is based on my most recent visit because it had been quite a long time since I had been here.Nuts and bolts: Went with the family to celebrate a birthday.Order: 1 app, 3 orders of soup, salad, and breadsticks, 1 rosemary chicken, and 1 lasagna.Pros: Everybody left content and very full. Our waiter kept the breadsticks and salad coming. Multiple orders of soup were taken. Love the extra cheese on top of anything you want. Great price- got all that food for around $60 plus tip. Our waiter was very attentive and made us laugh a few times. Even wished my dad a happy birthday because he overheard us mentioning it being his birthday lunch.Neutral: Rosemary chicken was OK. Chicken gnocchi soup could have been a bit spicier. Minestrone was OK.Take home: Kinda wish I had tipped my server more (I did a bit over 20%). He was wonderful.",
+                "reviewer_id": "2niwhUC9pAeHH_W29cl9Cg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.014549400016760085,
+                    "positive_probability": 0.9854505999832441
+                },
+                "stars": 4
+            },
+            {
+                "review": "This Olive Garden really emphasizes excellent service in everything they do. Olive Garden is number one on my list for affordable Italian without sparing the classy ambiance. The food here is wonderful - I always start by sharing the smoked mozzarella fonduta before moving on to the always flavorful minestrone soup. Whatever you order for your entree, make sure you save room for dessert - the white chocolate raspberry cheesecake is to die for!But more than the food and environment, the customer service here is what makes this Olive Garden unmatched. I have never been greeted by a more cheerful and enthusiastic wait staff; they genuinely enjoy working there and making pleasant conversation with the diners. I always tip my servers well, because they really do make us feel like part of the family!",
+                "reviewer_id": "36Xod9g9fK8O4nkOWtH4Dw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.001971584251343295,
+                    "positive_probability": 0.9980284157486596
+                },
+                "stars": 5
+            },
+            {
+                "review": "We went in there on Sunday for lunch, it was packed-well the foyer was at least. After sitting there for ten minutes we were led to a dinig area that was maybe 1/3 full of customers. I was a bit confused on their use of host and hostesess. There was one person taking names, another checking the names, two other standing their alternating taking the diners to their seats in the dated dining room. Christ the only reason we went to this place is because we had a gift card and I'm hoping the gift giver next year makes a better choice. So my wife ordered the fettucini alfredo with Chicken (she has a standard) and I ordered some sort of entre that appeals to men that only eat beef, toss it with some pasta and voila, Dinner!  The humorous moment was when the server asked me how I would like my braised beef done-it's braised, look it up. Anyhow the sauce with it was a cream base, had some portabella mushrooms with it and some fresh parsley (to make it appear fresh) though my entre looked like it has been sitting under the hot lights for a good 10 minutes. The salad we got was marginal (I don't get what the big deal is) and the breadsticks seemed like they'd been sitting in the basket for 10 minutes (not so hot)- While our food  wasn't absolutely horrible, I don't understand why this place is full all the time. I would love for it to be another 10 years (or more) until I eat here again....glad I wasn't paying for it!",
+                "reviewer_id": "38rvarCrnlmAvungUKUPRQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.09096827082854769,
+                    "positive_probability": 0.9090317291714494
+                },
+                "stars": 2
+            },
+            {
+                "review": "Great soup and Shrimp caprice. The only reason why I go there.",
+                "reviewer_id": "3qFI4GeLEDUtWNRpLBY68Q",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7920001498204428,
+                    "positive_probability": 0.20799985017955713
+                },
+                "stars": 4
+            },
+            {
+                "review": "Commercial Italian - had a gift card so needed to use it.  Moderately priced value for what is presented and always something to bring home",
+                "reviewer_id": "5Been7LfMV9GKBSqABGScA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.21158991585455367,
+                    "positive_probability": 0.7884100841454471
+                },
+                "stars": 3
+            },
+            {
+                "review": "We got there around 3:15 Saturday told 15 min for a table, more like 35.  AFTER we ordered we were told there was at least a 45 min wait for food.  No apology, nothing.  I had soup & Salad the other person had alfredo.  Not complicated to pour some sauce on the noodles!  Had to ask for drink & salad/bread refils.  Over 2 hours for an average meal.  It's always slow when we go, but that was just insane.",
+                "reviewer_id": "6nCuP3lx1ibS4sBCdzuGHg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2596824573894994,
+                    "positive_probability": 0.740317542610504
+                },
+                "stars": 1
+            },
+            {
+                "review": "I've been here twice and both times were great experiences for me despite the bad reviews on here.This location does get ridiculously packed all the time for some reason.  (Expect at least a 30 minute wait during dinner hours) but after we finally got seated, our service and food was always surprisingly good.  The complimentary and delicious bread sticks and salad always came out to our table within 5 minutes, and let's not forget these are endless!  Drinks and food came really quick, surprisingly quick actually considering the huge crowd waiting outside.  Our servers have always been attentive and friendly.Food is priced very expensive, but I think one knows that before they come here.  If you don't... well then you're in for a surprise.  Everything I've ever ordered though has been delicious and a big enough portion that I have enough for two big meals.  I don't go here all the time because of the price,  but when I do, the experience has always been great.  Let's not forget that every time I went they were offering complimentary wine, pouring us full glasses of it.  If you don't mind the wait to get seated, I definitely recommend this restaurant.",
+                "reviewer_id": "7JQ8n15WeW4D5AnNulQOCQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0008474226770044796,
+                    "positive_probability": 0.999152577322987
+                },
+                "stars": 5
+            },
+            {
+                "review": "Service was relatively slow. Foods were salty: the breadsticks were salty, the soup was salty, and the pasta was salty too. The service and foods don't worth the price.",
+                "reviewer_id": "C74BJGf0RuKdYKxjm7SDuQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.42451272551704855,
+                    "positive_probability": 0.5754872744829501
+                },
+                "stars": 3
+            },
+            {
+                "review": "I wish I could say something different than most of the other comments but alas I cannot. The service was the worst I have had in some time. We waited ten minutes for two glasses of sangria, when that finally arrived the waiter took our order (some couples combo that included an appetizer). The the size of my drink was quite small so I finished it rather quickly and waited for our server to have another ten minute personal conversation with the table next to ours meanwhile we were still waiting for our breadsticks and salad... After about ten more minutes the waiter showed up with the breadsticks and salad. At that very same time our main entree came out. We sent it back since we had not had our salad or even our appetizers yet. I then ordered another drink. Ten minutes go by while we gnawed on old cold breadsticks and soggy salad still waiting on my drink and our appetizers while intently listening to our waiter recall his hometown antics with the table next to us. Finally the drink and appetizers arrive after about five more minutes, shouldn't have waited for it though The ravioli was cold and chewy, I mean cowhide chewy... Then our main course comes back out. Back out as in from the heat lamp. One bite in we realized the cheese had separated and it was barely warm. Needless to say after a small chat with the manager explaining how I would not return due to poor food and even worse service we left without being charged. In the end, save your time, save your money, and do not eat here, there are much better establishments in champaign.",
+                "reviewer_id": "Dbg9yuoogsZI1diMksU5SQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0037824906202186103,
+                    "positive_probability": 0.9962175093797683
+                },
+                "stars": 1
+            },
+            {
+                "review": "Typical Olive Garden, standard menu, nothing special. The 2 stars is due to the area. Typically restaurants right off the interstate are in a good neighborhood, this certainly didn't feel like a good part of town",
+                "reviewer_id": "DD5KHioFqgSZ82T2PV2CDQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3007157315790441,
+                    "positive_probability": 0.6992842684209585
+                },
+                "stars": 2
+            },
+            {
+                "review": "I love olive garden, but this one seems to have poor service.  The only reason why I keep coming here is for the salad and breadsticks.  I went here for my birthday this past Saturday and it was probably the best service I got and it still wasn't that great.   The wait wasn't as long as usual but that could be cause it's summer.  I wish they let us enjoy our salad longer, but that's probably cause they don't want us to eat several bowls of it cause it's unlimited",
+                "reviewer_id": "dPYiwCNKSV4OFOvc8-hZAw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5123629808094672,
+                    "positive_probability": 0.4876370191905356
+                },
+                "stars": 3
+            },
+            {
+                "review": "Yes. It's a chain restaurant and yes, it's pretty average. The entrees are bit prciey; this is due to the fact that each entree comes with unlimited breadsticks, soup, and/or salad. With tip, a meal costs around $20 so it would behoove you to take advantage of the unlimited side items. I gotta say that the breadsticks were the best part of my meal even though it was a bit too salty.",
+                "reviewer_id": "eFIlrOz3TnuZQeh2Y1e17Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.1747002992728545,
+                    "positive_probability": 0.8252997007271412
+                },
+                "stars": 3
+            },
+            {
+                "review": "Restaurant review:It was a stormy fall night and we had just finished shopping at the local Toy R Us. We decided to take a quick dinner here and was hoping for a solid Italian dinner. Alas not so good. I ordered the steak medallion Gorgonzola fettuccine alfredo. While waiting for dinner, we had the unlimited breadsticks which were good along with the soup. Somehow my two bowls of soup came out lukewarm which was quite disappointing. The dinner that I had ordered had overcooked fettuccine alfredo with 4 piece of \"steak medallion\". Unfortunately, not a good cut of beef as they were tough and chewy. Even though I had ordered it medium rare, the steak was close to medium to well. Even before we finished eating the waiter asked if we would like dessert and promptly threw down the check when we said no. Overall I will have to pass from eating here again.Pro: unlimited soup/breadsticks or salad if you wantCons: overcooked pasta, the quality of the meat for the dish was not goodHidden gem:Check sunday paper for coupons. Unlimited soup and breadstick. Sign up online for the e-club for a free appetizer with the purchase of 2 entrees.",
+                "reviewer_id": "f1a9KwsObpE54Yp9A1fVoA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9285341569152968,
+                    "positive_probability": 0.07146584308469324
+                },
+                "stars": 2
+            },
+            {
+                "review": "This Olive Garden leaves me very confused. Went here two weeks ago and the food was as good as any other Olive Garden I've had. However, yesterday we went with a larger group and the food that my girlfriend and I got (Mixed Grill and Chicken Alfredo) was really subpar. I don't know if this is because it was a Friday night and they were rushing the food, or some other reason, but it was really disappointing.The service was good (even though the waiter was a bit awkward). The restaurant also seems a bit worn compared to other Olive Gardens I've visited.",
+                "reviewer_id": "FAlyRdRLzCJ5djjGl99ExQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.04134008588887452,
+                    "positive_probability": 0.9586599141111295
+                },
+                "stars": 3
+            },
+            {
+                "review": "Enjoyed the sample of red wine while waiting for the lunch rush to vacate, about 30 minutes. Once seated we had a couple of staff stop by our table to offer us another free sample, but it was the 3rd person who took our order. He was funny, attentive, and kind... When my meal had a salad and my friend's didn't he brought two salad bowls so she could \"steal\" some salad, too. The shrimp fettuccine was delicious; my friend commented that the zuppa soup had a different sausage than previously used in the past, that this time the sausage was less spicy.I ordered the long island limoncello, was good, but not what I expected. I would definitely go back and would recommend to friends... just wait til about 230-300 in afternoon when the craziness dissipates :)",
+                "reviewer_id": "GQ4WZbwsmjgQ1KmTttRc8Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3229959096686563,
+                    "positive_probability": 0.6770040903313408
+                },
+                "stars": 4
+            },
+            {
+                "review": "In General, I consider the Olive Garden chain to be one of the upper-average casual chain restaurant choices.  The Champaign Olive Garden has declined significantly within the last year.  I believe this is due to a change in management, but I am not 100% certain.  My last meal there was in November and the standards were that of poorly-run fastfood restaurant.  This is what I wrote about it at the time:\"Remember how Olive Garden used to be a 'nice' place to have a casual meal?  Even though it was a chain restaurant and you knew most of the food was heated up in a microwave, it looked like real food and it almost tasted like it had been cooked.  It seemed a little nicer than your T.G.I. Fridays and your Applebee's.  Well, it's not like that anymore.  Not the one in C-U anyway.  I don't think I will be going back there ever again.   The first thing I noticed when I walked in was that the entire place reeked like a sour towel.  Someone had obviously wiped all of the tables down with a cheap disinfectant solution that had gotten a bit... ripe.  It was disgusting.  I proceeded to the bathroom to wash my hands before my meal where I found two employees lounging about and chatting while pretending to clean the restroom.  Since they did not find it prudent to tone down their conversation whilst a guest was in their presence, I got to enjoy a pre-dinner melodrama.  Apparently an employee of the Olive Garden is trying to file a sexual harassment suit and the management had been asking both ladies if they had experienced any inappropriate behavior.  And while the accused sometimes gets a \"wild hair up their ass\" they did not consider themselves harassed.  Speaking of sex, Manuel looked FINE this morning and when he came into work they were like \"oh my GOD!\"  When I got back to my seat, our waiter (who I admit was nice and attentive) served us a sample of white zinfandel that had the distinct vinegary taste of a wine that has been left uncorked for too long.  The food, which tasted decent, no longer looks, tastes or feels like real food.  Both the dinner and dessert had an artificiality to it that resembled an expensive TV dinner.  The textures were waxy and the cheese was lardlike.  While the flavors were bold, they tasted man-made and had a processed mouth-feel.  It was to real food what Velveeta is to real cheese.  The dessert, the chocolate torte, especially had the look of something that had just been plopped out of it's microwavable container.   The vanilla sauce was practically flavorless and the torte was only heated halfway, resulting in a jello-pudding like consistency to the fudge filling.  It is also made with artificial sugar now, which adds to its alien flavor and texture.  In truth, the food quality is comparable to a fast food restaurant.  The only difference is that they offer more variety and a few more low quality ingredients per dish.I know it's just Olive Garden.  I know it's an evil chain restaurant and a glorified McDonalds.  I guess the thing is that it didn't used to be this way.  I think I've heard that they are under new management.  It used to be satisfying in a guilty pleasure flavor overload sort of way and it made you feel sort of ok about it because it deceived you into thinking it was real food.  But now it's not.  The seams are showing.  Quality of service and presentation has gone way down.  Corners are being cut and it shows.  You can tell it is just a fancier Fazoli's and it's really had to pay $25-$30 bucks a person for some sour wine and some microwaved Italian Velveeta in a place that smells like mildew.",
+                "reviewer_id": "h_aCvGeKvptFw5MnfCuK-Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3717199280213166,
+                    "positive_probability": 0.6282800719786555
+                },
+                "stars": 1
+            },
+            {
+                "review": "We visited 6/6/15 around 6:30-7. Party of 2. We were seated right away. The host said our server would be right with us to take our drink orders. We waited about 15 mins just to order lemonade. By the time Meghan took our drink order, we were ready to order our appetizer. Good thing because it took 45 minutes for our smoked mozzarella to come to our table. The other guests seated around us all seemed to have better service and didnt have much of a wait. Our server ignored our requests for refills and more bread sticks and had to be reminded a couple times. Our cups sat empty for most of our meal. Not even 5 minutes after our appetizer (almost and hour into our meal), we got our entrees. We didn't have enough time for our app. I have zero complaints about our food, just the service was awful. At the end of our meal, Meghan boxed up our left overs and said she would return with a bad for our bread sticks, but she never came back.  The only thing crappier than the service was the parking lot with potholes that could swallow my Hyundai whole. We will be going back to Olive Garden, but not to this location.",
+                "reviewer_id": "HlYlAW3RupW0Ig4jcyg8bA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8838542024731457,
+                    "positive_probability": 0.11614579752683842
+                },
+                "stars": 2
+            },
+            {
+                "review": "My friend and I went here earlier this week and had an awful experience with the server. We asked another server for refills, she promptly brought them and sent the manager to our table. We explained what happened and we were understanding because the server was relatively new. The manager comped our entire meal. This is not what we were expecting nor wanting...we simply wanted refills. I really appreciate that the manager went above and beyond for the customer.",
+                "reviewer_id": "hRflciflE77Ekmg5gGNwiQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6025943874883745,
+                    "positive_probability": 0.3974056125116226
+                },
+                "stars": 3
+            },
+            {
+                "review": "Love it!!! Never a bad experience!! We always hope manager Susan Is working!! Food is worth every penny and service is awesome!!",
+                "reviewer_id": "IYWApzKpv03GYuw0gYlHAQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6878738180333965,
+                    "positive_probability": 0.31212618196660225
+                },
+                "stars": 5
+            },
+            {
+                "review": "The little point of sale device on the table was a waste of space and only a way to sell game play time. They are so inn our face saying \"make sure you pay\". I hope they removed these so Olive garden will return to being a nice friendly place to eat instead of money grabber.",
+                "reviewer_id": "lB6ykNiO-Sbn46rmffd7dg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7321649913262699,
+                    "positive_probability": 0.2678350086737283
+                },
+                "stars": 1
+            },
+            {
+                "review": "Went with a friend recently. Food was typical Olive Garden fare, great soup and bread sticks, and OK-ish entrees. But the service wasn't the best (I am not sure if the bread sticks came out late because they were being baked or if the waitress forgot, but we had wait for about 15 minutes after ordering our food before reminding her - I mean come on, their bread sticks and soup is one of the few reasons I even go to that place !). Other than that, their smoked mozarella fonduta was pretty good. Nothing much to write about the rest of the experience.",
+                "reviewer_id": "lC1UNgZlTmS7UZcTh5dIQQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9677774121133664,
+                    "positive_probability": 0.03222258788663124
+                },
+                "stars": 3
+            },
+            {
+                "review": "Jeff was awesome! Made us feel very welcome.",
+                "reviewer_id": "Nu0Xw_gbP6ZLZt_7ulg7yA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.35207103185865174,
+                    "positive_probability": 0.6479289681413481
+                },
+                "stars": 4
+            },
+            {
+                "review": "Food was good but our waitress Keisha S. Was not friendly at all. We had to practically beg for refills. Not to mention 2 of the waiting staff members making out in front of me and other families around. Good food but lacks a family friendly environment.",
+                "reviewer_id": "OHv_12jUQ7hD7dIvqdxvPQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2606758678839379,
+                    "positive_probability": 0.7393241321160625
+                },
+                "stars": 2
+            },
+            {
+                "review": "Man, this place is packed with moms, dads, and their UIUC-enrolled kids.  I swear, they used this location to film their latest commercial, about a college girl, her parents, and her (freeloading) roommates/friends.Sometimes you gotta fill a craving, and that means waiting an hour for a table.  And all Conan O'Brien/Jim Cramer jokes* aside, it's a pretty damn good place to go for the money. And the chairs have wheels! WEEEEEE!I swear, the soup/salad/breadsticks have sprinkles of crack and MSG, they're pretty addicting.  And I'm pretty sure they use one can of Morton's salt per serving bowl of salad.Tip: Make sure you ask for more salad and breadsticks as soon as you get your first batch, or the waiter will disappear until your entrees arrive.  By then, they know they got you pinned against a psychological wall, because who eats more salad with their entree?  Break past that wall of uncomfortability and continue to ask for refills until the check arrives.  Heck, ask for it after the check arrives.  It's like a glass of water - it should always be full.FYI, the sangria is f-ing expensive. BEWARE!*If you haven't seen Conan's impression of an Italian grandfather going to Olive Garden or the Conan/Cramer interview about Olive Garden, do so immediately.",
+                "reviewer_id": "oNFUMUk20aK9ZaaDmVLssA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.28248163969035783,
+                    "positive_probability": 0.7175183603096333
+                },
+                "stars": 4
+            },
+            {
+                "review": "Best food ever! End of discussion. I love coming here! Friendly waiters and delicious breadsticks!",
+                "reviewer_id": "pzaj07ZqUWAnTaVYfcM49w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3004803300121162,
+                    "positive_probability": 0.6995196699878843
+                },
+                "stars": 5
+            },
+            {
+                "review": "Overpriced just \"okay\" italian food.  My dinner included overcooked (mushy) pasta and overcooked shrimp...husbands chicken had gross fat and chewy sections.  Not worth the $50 price tag...should have ate at a local joint.",
+                "reviewer_id": "qiwYvgxCJlX-y2TkymSwHQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.07795460301630953,
+                    "positive_probability": 0.9220453969836926
+                },
+                "stars": 2
+            },
+            {
+                "review": "This Olive Garden is more crowded and a little dirtier than other Olive Garden's I've been to in the past.  Last time I was there, our waiter dropped half of my friend's meal on the floor right in front of her, put some of it back on her plate, and then didn't replace the rest.  This time, we had a really nice friendly waitress.  So I guess it's about what you'd expect from a chain; sometimes the service is good, sometimes it's not.",
+                "reviewer_id": "sleEMt44E1StWrjz3mcujQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.24743329084224217,
+                    "positive_probability": 0.7525667091577591
+                },
+                "stars": 3
+            },
+            {
+                "review": "We had a gift card and we were crusing through on a road trip. Why not. Alexis was great. She was new. Thought she did well.",
+                "reviewer_id": "uANCvwZ5zsvw4QSEHqP-HQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7133315635488445,
+                    "positive_probability": 0.2866684364511559
+                },
+                "stars": 4
+            },
+            {
+                "review": "Extremely poor service !  Waiter always making excuses,  food not as good as in past!",
+                "reviewer_id": "UIiZ5-y4oUd6Amgd_HCBZA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6234637939144035,
+                    "positive_probability": 0.3765362060855956
+                },
+                "stars": 2
+            },
+            {
+                "review": "I have tried this Olive Garden over the several years that it has been in Champaign and not once have I liked ANYTHING.  I don't get why it is so crowded all the time and people are willing to wait a long time just for a table.  The house salad is awful and so are all the soups.  I have tried several items on the menu over the years and I have always felt ripped off because it's so expensive as well as awful.  I try really, really hard not to go here but sometimes there are \"those\" people who choose this place to have their birthday dinner or graduation lunch and I am forced to go.",
+                "reviewer_id": "W4ojW7f30haCertr4CzFJw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4544526580779324,
+                    "positive_probability": 0.5455473419220626
+                },
+                "stars": 1
+            },
+            {
+                "review": "Let me begin by saying that our waiter was very friendly! Although he was really pushing the add an item into the bill. Asking us what we would like to chose between an apple dish or lemon cake.. It almost made us feel guilty for not ordering.. On the other side, the food was disgusting. I was extremely disappointed with my salad, I ordered an extra side of shrimp that cost so much and only came with four pieces. (Waiter said it was 8 or 12) My boyfriend ordered spaghetti that had such little sauce that i asked them to recook or toss it. I am usually extremely satisfied with Champaign restaurants but this visit was pitiful.",
+                "reviewer_id": "XvYTf92Zykv4SntHD0QlBw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.07647925451373426,
+                    "positive_probability": 0.9235207454862675
+                },
+                "stars": 2
+            },
+            {
+                "review": "Another date night! This one wasn't my choice though, and knowing how I feel about chains as well as my high standards for Italian cuisine, I bit my tongue and hoped for the best.We had to wait about 10 minutes on a Tuesday night to be seated. Apparently Olive Garden is a hot commodity in Champaign....We were seated and I was quite indecisive about what to get. I settled on a build-your-own-pasta with alfredo/cream sauce and added Italian sausage. For my choice of soup, I got the Tuscan bean, and of course the notorious breadsticks. The soup was pretty tasty, it had like beans and zucchini and onions and a bunch of other things in a tasty tomato-y broth. Not bad! The pasta I got wasn't too bad either, the noodles may have been a little overcooked but the sauce was pretty creamy. I did not like the sausage. I'm no tubular meat expert but this tasted really institutional and for the upcharge it cost to add it to my pasta, I probably should have just went meatless or ordered the chicken, like my smarter date did....The thing that really upset me about the experience though was the service. I don't remember the server's name, he was actually quite personable, but our meal felt very very rushed. Our soups came out quick which was good, but I was not even halfway done with mine before our dinners had arrived and we had to move our soups out of the way to eat our dinner. I'd consider myself a fast eater, too so this was frustrating, especially since I wanted to actually talk to my date, you know, the reason why I'm here in the first place!! This wasn't the last straw though, I was probably 75% done with my entre when the server comes up and asks if we are interested in desert. Ugh! We looked at each other and both agreed this meal was unnecessarily rushed. At that point I just asked for the bill which he pulled up on those tacky tablet things a lot of chain restaurants have now.The food wasn't even as bad as I thought it was going to be, but the hurriedness of the service really put me off. 2/5",
+                "reviewer_id": "XzIKZTb4I-7wW4BjKwV2Mw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6444522731465818,
+                    "positive_probability": 0.3555477268534006
+                },
+                "stars": 2
+            },
+            {
+                "review": "Very poor quality food. The only bright side of this dinner was the pleasant waitress.  Our pizza was mushy and undercooked. I ordered the chicken toscano and it tasted like straight up balsamic vinegar and the risotto was pretty bad. I couldn't eat it. The description was nothing like the actual entree.  But the staff is really nice.",
+                "reviewer_id": "YpyFCH3XGwgvRcyMG9a-hA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.17288515461535492,
+                    "positive_probability": 0.8271148453846485
+                },
+                "stars": 1
+            },
+            {
+                "review": "I have been to this Olive Garden so many times over the years. And this is the first time I was disapointed. Our poor waiter was so over worked. The blond female manager had sent people home and they then got a rush. The funny as heck black bald waiter we had was the best. He handled 10 tables with grin and a joke for each. He was as fast as he could be. The food was okay. But our waier honestly made the visit as good as it was.",
+                "reviewer_id": "Z5SBgJ9QHAwPH1XCJUUfZg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7097977515778953,
+                    "positive_probability": 0.2902022484220998
+                },
+                "stars": 3
+            },
+            {
+                "review": "I just don't get why people wait in line to get into this place.  My family and I go here from time to time, but I think today's visit will be our last.  We got a table right away, but we waited about 15 minutes before our waitress arrived.  She apologized and said no one had told her that we were there. I ordered bruschetta and salad and my companions had soup and salad.  Olive Garden's soups are pretty good, I'll grant them that.  But the bruschetta was just awful.  It was just toast with chopped tomatoes, no garlic, salt or olive oil at all.  The breadsticks and salad  were just ok; I don't see why people rave over them.  Salad did have pepperoncini peppers, which were a nice touch. The waitress was polite but seemed to be either new or overwhelmed. She never refilled any of our drinks and just seemed sort of distracted. We left her a nice tip though.  I've been a waitress and know how hard it can be, especially at a chain restaurant where the crowds and their demands are never-ending.  I'm no food snob, but Olive Garden seems to aspire to lowest-common-denominator, faux-Italian food for people who've never had the real thing and don't know what they're missing.",
+                "reviewer_id": "zaAnvzBTJh6mMrEJXUD4ig",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0007004318288238847,
+                    "positive_probability": 0.9992995681711685
+                },
+                "stars": 2
+            }
+        ],
+        "similar_restaurants": [
+            "CcsJm10_5ULE0j41DkcQ6g",
+            "JlcbIU8V6ohFCwfuMr7tBg",
+            "h9xdY1NO4GnNijNChTy-8A",
+            "1Vmbe7dsvPQMu4FuiH_LLQ",
+            "RSk-BYX8s5027cKo_aELrw",
+            "2SycDjGWWpFs1ODL-YBoHA",
+            "9p3O_KoH3muITR-9WgrSnA",
+            "rm2OnyNDnlWkSNUSxETsGg",
+            "oVX8BPEWRl4iBgApA3PBYw",
+            "oP8KsXHOUA_otHHI5JHScQ"
+        ]
+    }
+}

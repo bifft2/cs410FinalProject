@@ -1,0 +1,498 @@
+{
+    "_FAKUOcKi8PoztprX95oGw": {
+        "keywords": {
+            "bigrams": [
+                "vip_lounge",
+                "plus_vip",
+                "magic_show",
+                "four_mentioned",
+                "vip_zone",
+                "lounge_star",
+                "stay_vip",
+                "vip_area",
+                "star_review",
+                "students_don"
+            ],
+            "unigrams": [
+                "place",
+                "vip",
+                "lounge",
+                "plus",
+                "drink",
+                "time",
+                "bar",
+                "show",
+                "club",
+                "important"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "full_bar",
+                "Coat Check": true,
+                "Delivery": false,
+                "Dogs Allowed": false,
+                "Good For Dancing": false,
+                "Good For Groups": true,
+                "Happy Hour": true,
+                "Has TV": true,
+                "Music": {
+                    "background_music": false,
+                    "dj": false,
+                    "jukebox": true,
+                    "karaoke": false,
+                    "live": false,
+                    "video": false
+                },
+                "Noise Level": "quiet",
+                "Outdoor Seating": true,
+                "Parking": {
+                    "garage": false,
+                    "lot": false,
+                    "street": true,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 2,
+                "Smoking": "outdoor",
+                "Take-out": true,
+                "Takes Reservations": true,
+                "Waiter Service": true,
+                "Wheelchair Accessible": true,
+                "Wi-Fi": "free"
+            },
+            "business_id": "_FAKUOcKi8PoztprX95oGw",
+            "categories": [
+                "Nightlife",
+                "Cafes",
+                "Karaoke",
+                "Pool Halls",
+                "Restaurants"
+            ],
+            "city": "Urbana",
+            "full_address": "214 W Main St\nUrbana, IL 61801",
+            "hours": {
+                "Friday": {
+                    "close": "02:00",
+                    "open": "12:00"
+                },
+                "Saturday": {
+                    "close": "02:00",
+                    "open": "12:00"
+                },
+                "Sunday": {
+                    "close": "01:00",
+                    "open": "12:00"
+                },
+                "Thursday": {
+                    "close": "01:00",
+                    "open": "12:00"
+                },
+                "Tuesday": {
+                    "close": "01:00",
+                    "open": "12:00"
+                },
+                "Wednesday": {
+                    "close": "01:00",
+                    "open": "12:00"
+                }
+            },
+            "latitude": 40.112708,
+            "longitude": -88.209562,
+            "name": "A Plus VIP Lounge",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media4.fl.yelpcdn.com/bphoto/qLWnN0PF50BlSOe2v7PQfA/ms.jpg",
+            "review_count": 11,
+            "stars": 4,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "This place is never going to be a hopping dance club but I could see this place being a super fun karaoke place. It seems there's a lot of drama in the reviews of A Plus VIP Lounge, but my honest experience wasn't bad, nor was it outstanding, either. Unfortunately, the location isn't on campus and I'd expect most students don't necessarily know about A Plus VIP Lounge. ",
+        "reviews": [
+            {
+                "review": "I visited the VIP Lounge for the first time this evening. When I walked in I was amazed at how awesome the decor looked. They are still working on the menu but I had some appetizers that were really good. The staff were very personable and friendly. I will be back and you should check it out.",
+                "reviewer_id": "4STVvvnNIP1fpvIF61c79A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2107105718251807,
+                    "positive_probability": 0.7892894281748165
+                },
+                "stars": 4
+            },
+            {
+                "review": "i believe this is the best bar in this area, and when I walk in this place it give a new feel about the bar, modern, and rock! The food is good and the price is fair.Drink is so deliciousand I went to there lots of times, not only for fun but also for the service. The dancers are so hot and the Dj is really professional.  I didn't get point for who give the so low rate for this place.",
+                "reviewer_id": "_wn2c9w2VqqoEL5uaEBeAA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6115379239529157,
+                    "positive_probability": 0.3884620760470833
+                },
+                "stars": 5
+            },
+            {
+                "review": "Had a bit doubt when I heard it the first time. Just have checked it out last weekend and guess what, I LOVE IT! THE MUSIC IS BEYOND AWSOME!!! I used to have the thought of open a bar like this. Since there aren't any premium or high-class club here at CU. Shame it's still a thought to me but someone else make it real. This is my first comment, usually I'm too lazy to leave any but not this one! I'm telling u I'll seek for job there, maybe u will see me working there next time you go to A plus! At least I could be part of this club? l don't know lol",
+                "reviewer_id": "B8RVL1k1PsxhDGM-Dlghdw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8776479306611895,
+                    "positive_probability": 0.12235206933881039
+                },
+                "stars": 5
+            },
+            {
+                "review": "Lol,Being there twice a Month. BEST nightclub in ILLINOIS. I really like their fruit plate and chicken tender. Strongly Recommended.",
+                "reviewer_id": "BgSpdrMACjW9upLau7UsnQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.19031202066879838,
+                    "positive_probability": 0.8096879793312005
+                },
+                "stars": 5
+            },
+            {
+                "review": "This place has been completely revamped. What a great experience! Give this place a try for a great evening out. Private karaoke rooms and great staff. Who knew this was in Urbana?",
+                "reviewer_id": "BW9X1D7eIFt-sHrWItRPYQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.15698888607488068,
+                    "positive_probability": 0.8430111139251185
+                },
+                "stars": 5
+            },
+            {
+                "review": "The other reviews do not help when you're deciding whether or not to come here. We avoided this place for a long time because the only genuine reviews here were so negative and we didn't want to accidentally walk into an upscale version of Hooters. We ultimately decided to try it on an impulse while walking by to buy tickets for an upcoming event. Our experience was surprisingly average! Despite the odd claims that the waitresses  are \"super hot\" I was happy to find them to be very average and down to earth. Most importantly, I was happy to see that there were no stripper poles, blacked out windows,  or scantily clad bartenders. We decided that this place would be great to rent or reserve for a celebration or to come for karaoke. Let's be honest, it's Urbana. This place is never going to be a hopping dance club but I could see this place being a super fun karaoke place. They've got a big stage that's just perfect for it.There are definitely a few things to be desired. They're trying really hard to appear high end but the menu consists of low end bar food. The music doesn't fit the ambiance at all. They were playing a mix of classic rock and top 40 when the vibe is more suitable for r&b or jazz. There was also a lingering odor of deep fryer.In the end, we were happy this place wasn't as trashy as it sounded and will probably be back to check on updates and look into reservations for an upcoming special occasion.1/30/15 UPDATE I came here for the magic show and I was chewed out by the owner and security for 'blocking the view' of a man. I guess it was more important that the lazy guy behind me have a completely unincumbered view in his comfortable seat than it was for me, a petite girl and devoted yelper to enjoy the show. After the show was over, I guess the owner didn't want all the pesky customers to hang around and enjoy another drink while they talk about the magic show. It was probably a better idea to go back to blasting techno at full volume and to initiate a fully overstimulating light show for an empty room. I am being generous by maintaining 2 stars instead of dropping them down to one. They are so lucky this magic show was in their establishment. It was so entertaining, its the only reason I'd be caught dead at A Plus VIP Lounge.",
+                "reviewer_id": "D98vylCT1fLKBIU6iAKxhw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.011559717853038689,
+                    "positive_probability": 0.9884402821469527
+                },
+                "stars": 2
+            },
+            {
+                "review": "April 2, 2014 - Ben B. gives A Plus VIP Lounge a 1-star review.April 3, 2014 - Evan B. gives A Plus VIP Lounge a 1-star review.April 6, 2014 - Four first-time Yelpers give A Plus VIP Lounge four separate 5-star reviews.Three out of the four mentioned that the drink prices have been lowered. Three out of the four mentioned the \"hot\" dancers/ waitresses.Two out of the four mentioned the nice \"decorations\" (WTF?)If you think those 5-star reviews are genuine, I have some ocean-front property in Nebraska that I'd like to talk with you about.",
+                "reviewer_id": "e37t64ZzWb63mx1hBWpdJw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.39920610343262986,
+                    "positive_probability": 0.6007938965673705
+                },
+                "stars": 1
+            },
+            {
+                "review": "Best place on campus for karaoke hands down; I have no idea how the bar is. They have a digital song select system with HK, English, Mandarin, Japanese, and Korean systems. Service is beyond exemplary. 10/10 would sing again",
+                "reviewer_id": "rDL3mFi_O54w_7yvqXW9dw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.08472337989958474,
+                    "positive_probability": 0.915276620100417
+                },
+                "stars": 5
+            },
+            {
+                "review": "Walking into this place, I had high hopes for what I'd find inside.  It's got a nice sound system, lighting is nice and the decor is beyond what I had expected. The issue with this place is that it's clearly owned by people who have not spent much time in a nightclub.  First, if you're going to buy bottles, there should be no cover charge.  Second, if you're asking about bottles at the door, there should be at least 2 hosts (and the owner if it's as slow as it was that night) greeting you and asking how they can help.  The drinks are under poured, the cups and under sized and I was less than impressed with the clientele.  If you want people to spend lots of money in your club, then you need to dress the part.  Sadly, this place isn't going to survive . . .",
+                "reviewer_id": "u7N03aRWFipKK3bE_wX8vg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.38632864722640115,
+                    "positive_probability": 0.6136713527735975
+                },
+                "stars": 1
+            },
+            {
+                "review": "Well, I should say FINALLY THERE'S A TRUE NIGHTCLUB!!! Fantastic decoration, stunning sound system, hot waitress (which I think very important!!!) And of course all kinds of drinks. Price used to be a bit high(but worth it personally speaking), but I've just heard that they adjusted the price(AWWWSOME!!) I definitely need to go check the wine list myself! Maybe you should, too. One more thing to say, I have read other comments below and here's my thoughts: Walking into VIP zone or fled with unpayed bill, that's not the club's fault I guess? Let you stay the VIP zone is just been nice and charge before serve is just being cautious as far as I can tell. Anyway, check it out urself and prove whether I'm right or wrong!",
+                "reviewer_id": "VbPjvBYwqiqPONRHAN_lHw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.23734667180759722,
+                    "positive_probability": 0.7626533281923993
+                },
+                "stars": 5
+            },
+            {
+                "review": "It seems there's a lot of drama in the reviews of A Plus VIP Lounge, but my honest experience wasn't bad, nor was it outstanding, either.I've seen the place walking by and heard rumor it was an upscale, perhaps expensive, club-like atmosphere. We decided to come at around midnight on a Saturday to give it a shot.We were pleasantly surprised to find there was no cover charge, but quickly found out perhaps why that was.... there was hardly anyone in the place, practically empty!We scoped the place out before ordering and I was actually impressed with the ambiance and dcor, it really has the look and feel of a city nightclub or lounge. It was extremely clean and well-kept which is a nice change of pace from the notoriously scummy campus bars. I asked for a menu to look at the cocktail list, I ordered a \"Taurus\" and my roommate got an \"Innocent Eyes\". I very much enjoyed mine, I thought it was a really tasty cocktail. He thought his may have been a little on the weak side. These were $8 each, a little expensive, but in all fairness it was a great cocktail I would order over and over. My only reservation about the price was because I could have sworn I seen the bartender(s) use the well liquor in my drink, and I would at least expect something a little better than wells for an $8 drink.  A cranberry vodka I had later was ~$5. Other friend was a little disappointed they didn't know how to make a \"Singapore Sling\", which perhaps might have been more likely at a nicer place like this, oh well, not a big deal. He did like the Mai Tai they mixed up though. The place uses the goofy iPad/tablet for when you close a tab or buy a drink with a card, which is a pet peeve of mine, especially when our intoxicated group can't figure out how to work the damn thing.They had a DJ that night and the music was typical mixed top 40 stuff, not necessarily my style, but I have heard worse and the volume was not entirely unbearable. The ~10 other people in there had taken spots up from closer to the DJ while our crew hung out towards the back and more or less watched. This girl, bless her heart, approached us and asked what it would take to get us up front dancing in terms of a song. Drunken me blurts out \"Stayin' Alive\" by the Bee Gees since the group kind of hesitated. It was the first thing that came to mind and it's a dancing classic for anyone who appreciates music of that style and vintage. She looked a little confused and didn't seem to know the song, but alas went up and requested the DJ play it, which after a quick dirty look he reluctantly did. We had our couple minutes of fame, embarrassed ourselves, and returned to our table and resumed observing everyone else.I really think this place has some potential to be awesome. Unfortunately, the location isn't on campus and I'd expect most students don't necessarily know about A Plus VIP Lounge. I would definitely say there is a customer base for this type of establishment at UIUC, students just don't seem to be aware of it and consequently draws more local people. They should do some campus advertising, maybe even have a one time (or more often) discounted Friday or Saturday drink special to get the ball rolling.Maybe we came on a bad night, it was a little rainy/drizzly so that could be a factor.I will definitely come back.",
+                "reviewer_id": "XzIKZTb4I-7wW4BjKwV2Mw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.1383225410464728,
+                    "positive_probability": 0.8616774589535587
+                },
+                "stars": 4
+            }
+        ],
+        "similar_restaurants": [
+            "jydmaHFFWpKKDKTJLwThyA",
+            "pPWre8lbVAssER6CN0uWMw",
+            "eNEV1AbQsDMYtxCeXXpUGQ",
+            "6U94ybDpNd0fTL7TIzb5Kg",
+            "rm2OnyNDnlWkSNUSxETsGg",
+            "RSk-BYX8s5027cKo_aELrw",
+            "oHKjjwehNipcGIYBThWg9w",
+            "DntkMrzlbFPdOdxJtEWLBw",
+            "ey7-ihj-OjM4sEOwWTc06Q",
+            "OxMl_jn8qNvV-pU2Dxj52w"
+        ]
+    },
+    "jydmaHFFWpKKDKTJLwThyA": {
+        "keywords": {
+            "bigrams": [
+                "clark_bar",
+                "live_music",
+                "back_karaoke",
+                "bartender_friendly",
+                "tuesday_night",
+                "friday_night",
+                "went_tuesday",
+                "dance_floor",
+                "pool_tables",
+                "facebook_page"
+            ],
+            "unigrams": [
+                "bar",
+                "clark",
+                "great",
+                "night",
+                "back",
+                "people",
+                "karaoke",
+                "place",
+                "staff",
+                "food"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "full_bar",
+                "Ambience": {
+                    "casual": false,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "Caters": true,
+                "Coat Check": false,
+                "Delivery": false,
+                "Good For": {
+                    "breakfast": false,
+                    "brunch": false,
+                    "dessert": false,
+                    "dinner": true,
+                    "latenight": true,
+                    "lunch": false
+                },
+                "Good For Dancing": true,
+                "Good For Groups": true,
+                "Good for Kids": false,
+                "Happy Hour": true,
+                "Has TV": true,
+                "Music": {
+                    "dj": true,
+                    "jukebox": true,
+                    "live": true,
+                    "video": false
+                },
+                "Noise Level": "average",
+                "Outdoor Seating": true,
+                "Parking": {
+                    "garage": false,
+                    "lot": false,
+                    "street": true,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 1,
+                "Smoking": "outdoor",
+                "Take-out": true,
+                "Takes Reservations": false,
+                "Waiter Service": true,
+                "Wheelchair Accessible": true,
+                "Wi-Fi": "no"
+            },
+            "business_id": "jydmaHFFWpKKDKTJLwThyA",
+            "categories": [
+                "American (Traditional)",
+                "Restaurants",
+                "Karaoke",
+                "Nightlife"
+            ],
+            "city": "Champaign",
+            "full_address": "207 W Clark St\nChampaign, IL 61820",
+            "hours": {
+                "Friday": {
+                    "close": "02:00",
+                    "open": "17:00"
+                },
+                "Saturday": {
+                    "close": "02:00",
+                    "open": "17:00"
+                },
+                "Thursday": {
+                    "close": "02:00",
+                    "open": "17:00"
+                },
+                "Tuesday": {
+                    "close": "02:00",
+                    "open": "17:00"
+                },
+                "Wednesday": {
+                    "close": "02:00",
+                    "open": "17:00"
+                }
+            },
+            "latitude": 40.1150512695313,
+            "longitude": -88.24609375,
+            "name": "The Clark Bar",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media4.fl.yelpcdn.com/bphoto/swR9tpXLnejCmMBRVw-F7Q/ms.jpg",
+            "review_count": 14,
+            "stars": 4.5,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "The Clark Bar... The Clark Bar is a great place to hang out with friends. Clark Bar is the place to go for Karaoke! ",
+        "reviews": [
+            {
+                "review": "Willing to give this spot another shot, but wouldn't be in a hurry to go back. For neighborhood hangouts, there are others that are my go-to that have a better vibe. Venue used to be a hookah bar, and it hasn't been updated much since. In the front area they still have large booths utilized for hookah smoking.  Went in on a Tuesday night. Had about 5 people sitting outside, 10 in the back karaoke / dance floor area, and another 15 or so lingering around the bar. The space felt really big for the crowd size. Bartender was prompt and friendly. Limited beers on tap selection (I think I saw 2-3 taps). The patio seemed like it could be a really fun spot. I'd be open to going back and try to catch it at an earlier time to see what the crowd would be like.",
+                "reviewer_id": "3tWy9tNjvlVPmY-8MMXFrA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4176802088232074,
+                    "positive_probability": 0.5823197911767845
+                },
+                "stars": 3
+            },
+            {
+                "review": "Clark Bar is a casual, neighborhood bar.  Don't expect much of a college scene here.  And because the bar is off the main strip for downtown Champaign, you won't find the modern urban socialite scene, either.  Most nights are relatively low-key, though they do host live music from time to time.   The place is deceptively large as rooms are sectioned off to allow for cozy, private settings for small groups.  I love to sit in their patio area in the summer, which also has a layout that allows for some privacy among groups, including a small screened porch (for people who fear insects).The alcohol selection here is probably not indie rock enough to impress beer elitists.  They offer standard beers and well drinks, but there are no obscure microbrews.For some confusing reason, Clark Bar is listed as a \"tapas bar\" on Yelp.  I think that this classification is somewhat misleading as tapas evoke a distinctly trendy, European sensibility.  While the tone of the food verges into tapas territory at times, the ambiance at Clark Bar probably wouldn't be suitable for an elegant dinner date.  The menu ranges from standard fare (burger and fries) to surprisingly exotic.  My carnivorous friends rave about the ribs, which are served exclusively on Wednesday and Friday.  Once I stopped by and found fried ALLIGATOR on the menu, an exceedingly rare delicacy outside of the deep south (ESPECIALLY in Champaign, IL).  Any appetizer they make with shrimp is absolutely perfect.  As a fair warning, some dishes are only offered seasonally.The variation you see in terms of food might also apply to the clientele you meet here.  Most nights the bars is populated by absolutely ordinary local people.  However, during one surreal visit, I watched as a stream of people dressed in Victorian hoop skirts and silk waistcoats marched in.  Not an experience you'd run across at most bars.  Apparently Clark Bar was hosting a meeting of the local steam punk club that evening.I'd recommend Clark Bar for anyone who isn't scared of a bar with a \"townie\" vibe.  This unassuming establishment serves some of the most interesting food in town, depending on the cook's mood.  For those who love to people-watch, there are fewer prime locations in the area.",
+                "reviewer_id": "6nqakbu2zU6fjOmbE83_-A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 4.4810139392074483e-10,
+                    "positive_probability": 0.9999999995519334
+                },
+                "stars": 4
+            },
+            {
+                "review": "I've been going to the Clark Bar for just over a year.  It's one of my favorite places in Champaign. The staff members are friendly and competent. Food is delicious. Easily one of the best patios in town.",
+                "reviewer_id": "iu9eqvdgp8MCc9WrdRg4_A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2237913274964117,
+                    "positive_probability": 0.7762086725035887
+                },
+                "stars": 5
+            },
+            {
+                "review": "The Clark Bar is a great place to hang out with friends.  They have the best patio in town!  Very calm and relaxing environment outside, dance floor in the back, pool tables and lots of seating make it a perfect place for whatever you desire to do at a bar.  AND the food is fantastic!!  The Clark Bar is for everyone!",
+                "reviewer_id": "kV1f4alfvqvtuDFPp0m3nA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.07927850848203617,
+                    "positive_probability": 0.9207214915179658
+                },
+                "stars": 5
+            },
+            {
+                "review": "Dear Clark Bar,Please:1). Post your business hours plainly on your website and on your facebook page.2). Post your correct phone number on your yelp profile, or make it easily accessible under \"contact info\" on your facebook page or your website. Let's be frank- People shouldn't have to chase you down, dig through web content, or be a Champaign lifer to know when they can show up and spend money at your establishment.Thanks,",
+                "reviewer_id": "PY6a5DTygDqf52eQMtii5w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.051573788178123525,
+                    "positive_probability": 0.948426211821879
+                },
+                "stars": 4
+            },
+            {
+                "review": "As a new-to-towner and a 30-something who is not a student or professional, I've been searching for a pub that catered to regular ol' folk like me. Clark Bar is truly one of those places. The building itself is sort of hidden from the rest of the downtown bar scene. The building is actually a Victorian-styled house that was remodeled into a bar. I can't really speak about the drink selections... I'm a simple beer and whiskey man. The domestic drafts are $1 on Thursdays, but might actually the special every day. The bartender was friendly and attentive.",
+                "reviewer_id": "SpQVjAfQayqeG2slRX55EQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.01776552485430121,
+                    "positive_probability": 0.982234475145705
+                },
+                "stars": 4
+            },
+            {
+                "review": "Friendly staff. Good food & nice atmosphere.  Love the patio. Staff has never had a problem keeping up with orders.",
+                "reviewer_id": "ty7RS0xkoUHeAr-1nHRT4A",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5462946057875337,
+                    "positive_probability": 0.45370539421246714
+                },
+                "stars": 5
+            },
+            {
+                "review": "This is a cool little bar that has local musicians in. I didn't get anything to eat but they do make a crazy good Bloody Mary & Old Fashion!",
+                "reviewer_id": "ufRqD7b5uxfLtNdg8tBhcA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.23706377746035,
+                    "positive_probability": 0.7629362225396512
+                },
+                "stars": 4
+            },
+            {
+                "review": "The Clark Bar... Beautifully remodeled, gets busier as the night goes on... a great warm-up bar before heading out to C-Street or also an excellent alternative if you need a break from the 'only gay bar in C-U', as C-Street is so-often called.Great atmosphere, good pool table, darts, cool outdoor tiki-bar and funny staff with spunk.",
+                "reviewer_id": "wtsl05RJj5f6YBDQPEwP2w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.041600967100568806,
+                    "positive_probability": 0.9583990328994321
+                },
+                "stars": 4
+            },
+            {
+                "review": "I'm not usually one to stand on a stage and sing into a microphone in front of a crowd of people, but best friends and alcohol conspired me to do just the very thing at the Clark Bar on a frigid (but otherwise lovely) Friday night.The bar has a really nice ambiance. There are a ton of rooms, a kind of living-room type space with couches for relaxed conversation and live music, a somewhat crowded and annoyingly narrow bar area for boozing it up, and a music room with a stage and some peripheral seating for karaoke, music and dancing.Great prices for beer ($3 Blue Moon!), clean bathrooms, and a great time for my first karaoke experience! If I lived in Champaign/Urbana, I could see making this a frequent stop on my Friday night circuit.",
+                "reviewer_id": "yjRh-hnfVdTQ_wpgiDbAgQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0780530799347944,
+                    "positive_probability": 0.9219469200652121
+                },
+                "stars": 4
+            },
+            {
+                "review": "Clark Bar is the place to go for Karaoke!  I'm not a big Karaoker, but I have great Clark Bar memories spent laughing with friends!  Listening, and singing along.  Occasionally Clark Bar will host bands, and has really staffed the place up with top-notch bartenders and wait staff.Clark Bar is quite dated.  I wouldn't call it the most visually appealing of the late-night scene, but there's definitely fun to be had there, and if pool tables and dart boards aren't you thing, give Clark a shot.  It might just surprise you!",
+                "reviewer_id": "YtbXNQJEJAHZK_2DFXSa6w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.11446930990849792,
+                    "positive_probability": 0.8855306900915031
+                },
+                "stars": 4
+            },
+            {
+                "review": "This is a pretty cool place!!! I went there with some friends on a Friday evening because we heard they had karaoke. The karaoke DJ seemed three sheets to the wind, but was still somehow able to remain coherent enough to do her job. The bar staff was great! It had a very laid-back atmosphere and the drink prices seemed pretty cheap! We enjoyed it so much that we decided to go back on Saturday after tailgating at the U of I football game.  Great beer garden!",
+                "reviewer_id": "z3aj9GmThl8SyD07yD0HDA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.08585778859095469,
+                    "positive_probability": 0.9141422114090442
+                },
+                "stars": 5
+            }
+        ],
+        "similar_restaurants": [
+            "-0GkcDiIgVm0XzDZC8RFOg",
+            "27q7XsLrKPNwr8i5RcCOvQ",
+            "rm2OnyNDnlWkSNUSxETsGg",
+            "RSk-BYX8s5027cKo_aELrw",
+            "pPWre8lbVAssER6CN0uWMw",
+            "1T2rnvl67Gk9Uc0gzsCKQA",
+            "Z8EGaOokvK2hoD6tGup0MA",
+            "ufOY2lQHDgSvou3YLT8gHA",
+            "UV04TEpMGWoQs36FkBwOgQ",
+            "O_HxmcRtxdJluerS2RYqtA"
+        ]
+    }
+}

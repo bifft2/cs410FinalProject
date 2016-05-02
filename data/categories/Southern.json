@@ -1,0 +1,668 @@
+{
+    "X3WnRljmATFjSluwVWFzdQ": {
+        "keywords": {
+            "bigrams": [
+                "chips_salsa",
+                "free_chips",
+                "burrito_special",
+                "tortilla_chips",
+                "parking_lot",
+                "burrito_place",
+                "heat_lamp",
+                "salsa_cons",
+                "chips_health",
+                "food_pretends"
+            ],
+            "unigrams": [
+                "burrito",
+                "chipotle",
+                "order",
+                "moe",
+                "chips",
+                "burritos",
+                "queso",
+                "time",
+                "salsa",
+                "free"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Take-out": true
+            },
+            "business_id": "X3WnRljmATFjSluwVWFzdQ",
+            "categories": [
+                "Southern",
+                "Mexican",
+                "Diners",
+                "Restaurants"
+            ],
+            "city": "Champaign",
+            "full_address": "2041 S Neil St\nChampaign, IL 61820",
+            "hours": {
+                "Friday": {
+                    "close": "22:00",
+                    "open": "11:00"
+                },
+                "Monday": {
+                    "close": "21:00",
+                    "open": "11:00"
+                },
+                "Saturday": {
+                    "close": "22:00",
+                    "open": "11:00"
+                },
+                "Sunday": {
+                    "close": "21:00",
+                    "open": "11:00"
+                },
+                "Thursday": {
+                    "close": "21:00",
+                    "open": "11:00"
+                },
+                "Tuesday": {
+                    "close": "21:00",
+                    "open": "11:00"
+                },
+                "Wednesday": {
+                    "close": "21:00",
+                    "open": "11:00"
+                }
+            },
+            "latitude": 40.0902181795859,
+            "longitude": -88.2462392250518,
+            "name": "Moe's Southwestern Grill",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media4.fl.yelpcdn.com/bphoto/R7LeZjQMU1VhRJXP4pf4PA/ms.jpg",
+            "review_count": 6,
+            "stars": 2,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "I like Moe's maybe with time the employees and the service will get better. Next you go in and order your burrito like Chipotle. Pros: online ordering app, Monday' 5.95 all burrito special, free tortilla chips and salsa ",
+        "reviews": [
+            {
+                "review": "Poorly managed with rude employees. They ran out of chicken and tried serving me burnt queso. I asked what was wrong with the queso and they told me it was burnt. So I had to ask for fresh queso. I won't be coming back here ever again.",
+                "reviewer_id": "3_a63LQxIQ9jAqLaEMqW9w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.17862404062071563,
+                    "positive_probability": 0.8213759593792794
+                },
+                "stars": 1
+            },
+            {
+                "review": "Restaurant reviewWow what a disappointment. I have seen Moe's by the chicagoland area, but I have never actually eaten at any of the locations before. I was happy to hear that this opened up as it is closer than Chipotle on Prospect. Someone should be fired for the design and layout for the restaurant. I placed my order through the app which was quite easy to use, however when I wanted to place a second order for my wife, my credit card was rejected due to similar transactions so I decided to drive out to the location and order it in person. First the parking lot before Brixx pizza opened was a disaster. Super tight parking spaces, one way for traffic to go. It was a nightmare trying to park my car. Next you go in and order your burrito like Chipotle. For one of the orders I did not want cheese and the both of the other burritos did not need lettuce. Somehow I ended up with cheese on the one I didn't want and lettuce in both. One person trying to get the order for two burritos should not be difficult. Staff was not friendly at all and said why did you not tell me earlier. I got to the end of the line and paid. I also picked up my online order. There was a big box that was sitting in the middle of the table without any heat lamp. If you order too early, your burrito maybe stone cold when you come to pick it up. I did get a ridiculous amount of tortilla chips enough to feed 6 people. The salsa station is great as there is quite a variety and the spicy ones have quite a kick. The final straw was when I brought the food home, my wife and sister in law had burritos that had probably 3-4 oz of meat only. When you looked at the burrito after a bite all you could see was the tortilla skin, small amounts of rice, lettuce, and a sliver of chicken running down the middle. I wish I would have paid attention to how they made the burritos, but they were quite disappointed. All and all this is a big bust!Pros: online ordering app, Monday' 5.95 all burrito special, free tortilla chips and salsaCons: crazy small parking lot, apathetic staff, small amount of protein portions, no heat lamp for online ordersHidden deals: 1. Free chips/salsa2. 5.95 any burrito special on Monday only3. Sign up for e-club to get free queso for your chipsHealth code rating: A, appears clean and new. No health reports online at this time.",
+                "reviewer_id": "f1a9KwsObpE54Yp9A1fVoA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.004483072646306916,
+                    "positive_probability": 0.9955169273536632
+                },
+                "stars": 1
+            },
+            {
+                "review": "I do not understand all the hate on the other reviews.It costs about the same as Chipotle, but there are a bunch of fun extras.  You get free chips and salsa with any order, you can get discounts depending on the day of the week, and I love their queso.  They also have several items on the menu more in the style of Taco Bell crunchwraps and things, but with better quality ingredients.Like any burrito place, you have to try the different proteins and figure out what you like.  At Chipotle, I love the chicken or the sofritas.  At Moe's it's the steak or the pork.  But they also have some options you can't get at other burrito places like fish and ground beef.Moe's is definitely worthwhile.  It's not more amazing than any other burrito place, but the chips and salsa is a GREAT touch.  It's enough to make it my go-to.",
+                "reviewer_id": "lC_pLZYy3lvDeK2jU76R0w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.021868781666492986,
+                    "positive_probability": 0.9781312183335025
+                },
+                "stars": 4
+            },
+            {
+                "review": "So I came here when they very first opened. And it was a train wreck. The employees sucked, the manager wasn't managing, and the food came out like a retarded cousin of a burrito. I was truly upset because I used to love going to the Moe's in BloNo. But I figured it was literally their second day open I will come back in a few weeks and give them a second chance.2nd time around, service was a lot better, and the food quality has improved. If you don't know what Moe's is, it's basically chipotle. As an admit hater of chipotle i actually prefer the Americanized Moe's. Because let's be real chipotle is not real Mexican food it just pretends to be. If you like burritos and don't want to shit yourself for a week come here over chipotle. But don't expect beautiful scenery or super cheap prices. Yeah it's probably going to cost you 10-12 dollars for your meal, do you think you can swing that? I like Moe's maybe with time the employees and the service will get better. My advice is come here at an off time or else you might get stuck waiting for a very long time",
+                "reviewer_id": "twF_2RKnDgJqmKMU3K9A5w",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5775196317033052,
+                    "positive_probability": 0.42248036829668656
+                },
+                "stars": 3
+            }
+        ],
+        "similar_restaurants": [
+            "RRCF1uUIkmLcQdZauqZJAQ",
+            "kLHPR_eUmAsOl-XLJSSO2Q",
+            "cFivwA18popY5GH2tJtXlQ",
+            "iYaDjwYdtqhLMY_tQFRlKA",
+            "4MeniYcsZrwc_Cq6WSd3zQ",
+            "ivZo1goh7HXdep03NfA7Cg",
+            "-6GmhSnM8D48JtJkxVAmbA",
+            "sPI0AqWHMeJB_UeZ5FRscg",
+            "UBriZt4m5BzkvNqnCeuGmw",
+            "_tYZuomgsRsye59b1baGSQ"
+        ]
+    },
+    "gwrFXlSudWuA-zxZeE5svA": {
+        "keywords": {
+            "bigrams": [
+                "fried_chicken",
+                "call_ahead",
+                "fried_fish",
+                "fried_okra",
+                "tartar_sauce",
+                "sweet_potato",
+                "worth_wait",
+                "fish_sandwich",
+                "potato_pie",
+                "seaboat_sandwich"
+            ],
+            "unigrams": [
+                "food",
+                "good",
+                "fried",
+                "wait",
+                "fish",
+                "seaboat",
+                "order",
+                "chicken",
+                "sandwich",
+                "service"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "none",
+                "Ambience": {
+                    "casual": true,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "BYOB/Corkage": "yes_free",
+                "Corkage": false,
+                "Delivery": true,
+                "Good For": {
+                    "breakfast": false,
+                    "brunch": false,
+                    "dessert": false,
+                    "dinner": true,
+                    "latenight": false,
+                    "lunch": true
+                },
+                "Good For Groups": false,
+                "Good for Kids": true,
+                "Has TV": true,
+                "Noise Level": "loud",
+                "Order at Counter": true,
+                "Outdoor Seating": false,
+                "Parking": {
+                    "garage": false,
+                    "lot": true,
+                    "street": false,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 1,
+                "Take-out": true,
+                "Takes Reservations": false,
+                "Waiter Service": false,
+                "Wheelchair Accessible": true
+            },
+            "business_id": "gwrFXlSudWuA-zxZeE5svA",
+            "categories": [
+                "Soul Food",
+                "Southern",
+                "Restaurants"
+            ],
+            "city": "Champaign",
+            "full_address": "403 W Kirby Ave\nChampaign, IL 61820",
+            "hours": {
+                "Friday": {
+                    "close": "21:00",
+                    "open": "11:00"
+                },
+                "Monday": {
+                    "close": "21:00",
+                    "open": "11:00"
+                },
+                "Saturday": {
+                    "close": "21:00",
+                    "open": "11:00"
+                },
+                "Sunday": {
+                    "close": "20:00",
+                    "open": "12:00"
+                },
+                "Thursday": {
+                    "close": "21:00",
+                    "open": "11:00"
+                },
+                "Tuesday": {
+                    "close": "21:00",
+                    "open": "11:00"
+                },
+                "Wednesday": {
+                    "close": "21:00",
+                    "open": "11:00"
+                }
+            },
+            "latitude": 40.0977581,
+            "longitude": -88.2487949,
+            "name": "Seaboat",
+            "neighborhoods": [],
+            "open": false,
+            "photo": "https://s3-media4.fl.yelpcdn.com/bphoto/pdr1qC5vWmjFUfvghPQwpA/ms.jpg",
+            "review_count": 43,
+            "stars": 3.5,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "Good fried fish! Fries are good. We waited for our order, but not long considering. ",
+        "reviews": [
+            {
+                "review": "Wow. Simple, almost fast food soul. Good food, fried fish, fried chicken. Did not have the collards or okra. I am just not that soulful. Fast friendly service.",
+                "reviewer_id": "-eKB7qdeh0kYsUpQQk602w",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.652716582605925,
+                    "positive_probability": 0.34728341739407426
+                },
+                "stars": 4
+            },
+            {
+                "review": "What can I say about Seaboat...other than quite possibly having the BEST catfish nuggets I have ever had! Not to mention their tartar sauce (I was trying to figure out what was in it exactly, but failed) perfectly accentuated the flavor of the fish.Accompanying sides of fried okra and mac n cheese were on spot.Definitely worth going to if youre in the area, Id be a regular if I lived in the area for sure.",
+                "reviewer_id": "0QT5LRCCaZUjSAlMT3Y1oQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.12992117166073014,
+                    "positive_probability": 0.8700788283392739
+                },
+                "stars": 5
+            },
+            {
+                "review": "Delicious food!  Well worth the wait.",
+                "reviewer_id": "19MN_BLvpQe-isX7oPWypg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4341384409776489,
+                    "positive_probability": 0.5658615590223508
+                },
+                "stars": 5
+            },
+            {
+                "review": "When I went to grad school in Chambana, Seabpat was an excellent stop for fried fish. To be honest, when I got my take out order, I was slightly taken aback by the anti-theft camera which took a still every 30 seconds. OK. That's the price you pay for deliciousness. They've since moved closer to campus on Kirby, and I'm sure you get the heart stopping goodness that you used to get in the hood.",
+                "reviewer_id": "3RsMc_SlFtp766CrgoUO4Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3442536862807091,
+                    "positive_probability": 0.6557463137192879
+                },
+                "stars": 4
+            },
+            {
+                "review": "The food is great. The wait is insane. I ordered online, they said it would be 20 minutes, it was 50 minutes. For three meals. Are they catching the fish?! Then they tell me that I'm having to wait because they had to fill a catering order. Well don't I feel special.",
+                "reviewer_id": "4JaS8Kemp9NvmWa3KEvJfg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.06961454989016355,
+                    "positive_probability": 0.9303854501098364
+                },
+                "stars": 2
+            },
+            {
+                "review": "The Seaboat sandwich is the best fish sandwich I've ever had. I love the okra and the collard greens.  However their customer service is the worst.",
+                "reviewer_id": "7YBL0Nlqytyv1vWJ9EO1Bw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4596111817548261,
+                    "positive_probability": 0.5403888182451717
+                },
+                "stars": 2
+            },
+            {
+                "review": "I would not even give this place one star but I have to be able to post this. Supposedly open till 9:00, I call at 7:30 and the girl says they were closed and hung up abruptly. Just rude.",
+                "reviewer_id": "96WmD_83KKDdMLzLPDqoEw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.37902366440931495,
+                    "positive_probability": 0.6209763355906864
+                },
+                "stars": 1
+            },
+            {
+                "review": "Good, simple, soul food cooking. Everything is made to order so there is a wait, which isn't that bad if you're in the restaurant to pick up your order. My advice is to not get your food delivered because that can take a *very* long time resulting in cold or soggy food.",
+                "reviewer_id": "9A5hhrcF9QhSK4HtU45kuw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6193471925116804,
+                    "positive_probability": 0.38065280748832275
+                },
+                "stars": 3
+            },
+            {
+                "review": "I was craving fried chicken and asked the homie Lisa from http://champaign-taste.blogspot.com/ where I should go. She's the expert and her word is gospel. I was told that the main place in Chambana is Seaboat.Of course, after all that fried chicken talk, I ended up calling ahead and ordering a Seaboat Jr. I probably got there a bit later than I should have, because while the sandwich was delicious it was a bit soggy from sitting a bit too long. My bad. I thought that explained the lettuce too, but other reviewers said that theirs was a bit soggy too, so I'm not sure. I'll have to be a bit more timely! Instead of fries, I got greens. I loved the big pieces of turkey for flavoring but I thought the greens were a little overcooked. That's my personal preference. Most Southern people cook the juice out of their veggies, so it's all good. The flavor was right.Since it was Pi(e) Day (3/14) I ordered a piece of sweet potato pie. It was really good, delicious with that right hint of spice and a great crust. I'm a crust person and I thought it had good flavor as well. The service was very friendly as well. I want to come back and try the fried chicken!",
+                "reviewer_id": "_hz_dF3yYAUdbD8rwqbVPg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9439865352548183,
+                    "positive_probability": 0.05601346474518503
+                },
+                "stars": 4
+            },
+            {
+                "review": "The Seaboat Sandwich with cheese is absolutely the very best fish I have ever had.  Orders take a little while so it's best to call ahead.",
+                "reviewer_id": "aH86qS-Ng1jbeFQpE4yckQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4651169177296037,
+                    "positive_probability": 0.5348830822703963
+                },
+                "stars": 5
+            },
+            {
+                "review": "I had the fish and chips with either whiting or walleye.  The menus were confusing - wall menu said walleye and printed menu said whiting.  I should know the difference but whatever, it was flaky and flavorful - two pieces of fish including a nice-sized fillet. Fries were average, could have been crispier.  Potato salad was of the finely chopped creamy variety.  Coleslaw was a sweet but not too sweet mixture of cabbage, shredded carrot, fresh apple bits with skin and canned pineapple tidbits.  It reminded me a bit of a Waldorf salad but was refreshing.My companion had two pieces of fried chicken and declared it good.We were there when the place wasn't busy.  We waited for our order, but not long considering.  They do warn you that your food is cooked to order and worth the wait.  I agree - better than heat lamps and microwaves any day.Small tables in the dining area were covered in sticky none-too-clean plastic tablecloths.  We ordered take-out and went across the street to Hessel Park.  The park is large with lots of picnic tables, big trees, a walking path and playround.",
+                "reviewer_id": "AYXDKnfFBbv8Jc39iLeugA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8933331940726414,
+                    "positive_probability": 0.10666680592734432
+                },
+                "stars": 3
+            },
+            {
+                "review": "**CLOSED**So sad but the Seaboat has sailed away.  The Seaboat is now permanently closed.  This Champaign landmark was in business for 20 years.  It will be missed.  Good bye Seaboat, Jr .  Good bye Catfish nuggets.  Also so long to the staff, you were like family.",
+                "reviewer_id": "B4B6sOpyQSsblgbfxVIBwg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.22745885481386027,
+                    "positive_probability": 0.7725411451861391
+                },
+                "stars": 5
+            },
+            {
+                "review": "Sometimes people seem a little wary to come here- maybe because they stupidly associate southern food with being sketchy, or its last location, but they're making a mistake. The prices and the wait aren't the best, but the food is pretty great.The fried chicken and hot wings are good, but I don't really care much in general for them so I'm not the best judge. The fried fish, though, is fantastic. The Seaboat sandwhich is great.The sauces and sides are some of the best parts - especially the tartar sauce and the fried okra and the coleslaw. The service is fine, sometimes my order has been screwed up but they're always nice about it. The wait is pretty long, so just be sure to call ahead.",
+                "reviewer_id": "bHCAZYvsh9LkydyBNl2PGA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.02719200763271754,
+                    "positive_probability": 0.9728079923672722
+                },
+                "stars": 3
+            },
+            {
+                "review": "How did I live in CU for over half my life and never know about this place?!?!?  So sad. This is the kind of restaurant I could eat at everyday. I went fried catfish fillets, fried okra, and collards.  They were all among the best I've had ANYWHERE, though I think I make slightly better collard greens :) Fish and chicken cooked to order, so definitely be ready to wait. It looks like you can call ahead too.",
+                "reviewer_id": "bJsVht7Ayo1KNVFVca7N0w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.030610631344876786,
+                    "positive_probability": 0.9693893686551254
+                },
+                "stars": 5
+            },
+            {
+                "review": "Chix tenders fresh and very lightly breaded, the best in the area.  Excellent choices of sides including collard greens, mac n cheese, sweet pot.Absolute staple soul food for the area; worth any wait.  Thank god for Seaboat.",
+                "reviewer_id": "dtLG0Ik3luVP3Ju93VCLOQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0025291337217229204,
+                    "positive_probability": 0.9974708662782785
+                },
+                "stars": 4
+            },
+            {
+                "review": "I agree with most reviews on here that the food is good, but the service is horrible and I will not go back here again. I placed our order for take out and sat down and wait. I waited for over one hour and the cashier totally forgot to call out our number . The food was just sitting on the counter. After watching other people who came in after us getting their food, I walked up and she said that she forgot to call out our number. What the f? If your job is to take orders and then give it to the customers, then do it right. I will not come back to this place EVER again. Go to Windy City Express if you want good food and timely service!",
+                "reviewer_id": "EP8cCTa1pPfSRokPqBaeDw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8969253308816744,
+                    "positive_probability": 0.10307466911832093
+                },
+                "stars": 1
+            },
+            {
+                "review": "Went here, wasn't aware of what time they close. When we pulled up the neon sign was lit up and said open. The door was unlocked. So we went in and wasted 10 min. Being confused as to why no one was coming to the counter to help us. After we were completely frustrated we walk out and then an employees magically appears, saying they are closed, I think she had been outside talking to someone the entire time. Wouldn't common sense be to turn off the light, lock the doors, or at least tell people you are closed when they first pull up? I have never tried this place and I guess now I never will because I am never going back. If I could give 0 stars I would, or maybe even negative stars.",
+                "reviewer_id": "fyM3QJOHGwtF3M-R7JO8-g",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9955599951338046,
+                    "positive_probability": 0.004440004866190808
+                },
+                "stars": 1
+            },
+            {
+                "review": "very good seaboat sandwich. Not very fast but the food is fresh and tasty. Easy to park.",
+                "reviewer_id": "GKci9s_NDb2rO6frxyjpBw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.37390068723867664,
+                    "positive_probability": 0.6260993127613232
+                },
+                "stars": 4
+            },
+            {
+                "review": "This is a qualified 5 stars.  The service here can be quite bad.  I've had my orders forgotten multiple times, they've given me the wrong thing, an internet order I put in got lost for about an hour and a half, etc.  Also be sure to remember if you get their fried chicken you need to call ahead as they make it fresh so it takes a 30 minutes or so.BUT.  Those substantial caveats aside---once you get that fried chicken you are in heaven.  Their fried chicken is to die for.  Hot, well seasoned, crispy.  Someday hopefully I'll have their catfish.  Their sides are also generally pretty good, with a ton of variety.  Finally, finish it off with some sweet potato pie which is excellent.",
+                "reviewer_id": "IXFGCmgnB8YY-jtPCaNYeQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.013372870172512893,
+                    "positive_probability": 0.9866271298274923
+                },
+                "stars": 5
+            },
+            {
+                "review": "I love this place! Tastes like my grandma's cooking. A little pricey but the quality of food is really good. Takes about 20 minutes for food to get done but it's real food so of course it has to cook.",
+                "reviewer_id": "jS6j2Mm0VLJZjUcYklZIEw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8426592933800392,
+                    "positive_probability": 0.1573407066199595
+                },
+                "stars": 5
+            },
+            {
+                "review": "\"Hurry up and wait\" should be the motto of Seaboat.  In town for a visit we decided to get carry-out from Seaboat on the recommendation of a few locals at our hotel.  The food here is 5-star but the service drops this down to a 3-star review.  We ordered a little bit of everything (chicken, fish, shrimp and wings) all of which were outstandingly fried.  The batter was very well seasoned and we couldn't find fault with the behind the scenes work.  However the over 1-hour wait (when told 15-30 minutes) along with the lack of accompanying sauce for any item really soured our experience.  We were so aggravated we really wanted to leave or ask for a refund. Once we finally tasted the food we were glad we didn't.  If we are in town again we might check this place out one more time....hopefully they can get things a bit more organized. This type of service wouldn't fly in Chicago as places like Armitage Shrimp House and Snappy's on Irving Park easily outperform them.  I guess the lack of competition in Champaign producing this level of food really helps keep them in business.",
+                "reviewer_id": "LD8GEC4fkDgbC8orR4ZeWw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.014414919296857823,
+                    "positive_probability": 0.9855850807031328
+                },
+                "stars": 3
+            },
+            {
+                "review": "Good fried fish! The prices are excellent and the variety on the menu is outstanding. I don't like to wait for my order, so I call ahead and its ready when I get there. They have picnic tables outside that are nice to sit at in the summer under the trees. Seaboat has really good side orders, and a winning plan is to order extra sides and save them for leftovers.",
+                "reviewer_id": "NGX1PZwHET_oQOT7vkkxag",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.18243955003156004,
+                    "positive_probability": 0.8175604499684371
+                },
+                "stars": 4
+            },
+            {
+                "review": "Wow.  This is like the original Seaboat x 2.  It's well ventilated, there's seating, and there's a tv.  The food is still awesome.  Just in a far better facility.If this becomes super successful, they should redo the market location.  I'm just jealous that this came around long after I left the area.",
+                "reviewer_id": "OazxM5v9i8PQ6NXWQDxCGQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6006365299681359,
+                    "positive_probability": 0.3993634700318666
+                },
+                "stars": 5
+            },
+            {
+                "review": "Make sure you stop in 20-30min before you're actually hungry because thats how long it can take for you to get your food. But, the signs posted on the walls aren't kidding when they say 'The extra wait will be worth the time.' We ordered the 3 shrimp, 2 chicken, 2 fish dinner ($11) to get a taste of everything. The chicken wasn't the best I've had, but still pretty good. Everything was perfectly fried and included 2 sides and a roll. We went for mac n cheese and fried okra, both of which were very good as well.Hmm, but that's not it. We also got an order of catfish nuggets ($5). WOW. Now THOSE were goooood. I usually don't do tartar sauce, but there was something about this one that made it hard to say no to.",
+                "reviewer_id": "oYT1eRGFQxzPCR0h_JyvIw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.02241436581459241,
+                    "positive_probability": 0.9775856341854016
+                },
+                "stars": 4
+            },
+            {
+                "review": "I've been here a few times for take out but have not sampled much from the menu.  What I had was so good that I always seem to get the same thing.  Just love their fried fish, either in a dinner or a sandwich.  Good tartar sauce but not enough given.  Fries are good.  My favorite side is their slaw.  There is pineapple in it and it just hits the spot.  Always have a piece of sweet potato pie for dessert.  I'll have to try some of the other menu offerings.  Service is usually friendly and I don't mind waiting a bit for freshly fried food, but sometimes it can take quite awhile, depending on the time of day and the day.  Price is reasonable.  Seating for dining in and the place is very clean.  Definitely recommend.",
+                "reviewer_id": "OZCzq4BvNGdTpBE2iUg0Tw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.020724145391799325,
+                    "positive_probability": 0.9792758546082001
+                },
+                "stars": 4
+            },
+            {
+                "review": "The food here is always pretty good, especially if you go to the restaurant to get it.  I've only ordered delivery from here a couple of times, and it's been a nightmare on both occasions.  Thinking the first time was a fluke, I tried again about a year later.I called them after waiting about 90 minutes, sure that they had forgotten about me.  I was reassured that my order was being made, but not to expect it until another hour or so, because they only have one delivery driver. When the food did get to my home, I could tell it would have been good if it had been hot and correct.  It was neither.They're operating the whole restaurant with one counter person, one delivery driver, and one cook.  I understand the desire for low overhead, but I really am not so sure anymore that the food is \"worth the wait.\"",
+                "reviewer_id": "p5ht6rQC0NkgdtgY2OlYxg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.07931291049068122,
+                    "positive_probability": 0.9206870895093114
+                },
+                "stars": 2
+            },
+            {
+                "review": "I asked for a catfish sandwich (which is on the menu) & I was told they don't have it.. so I went with the Catfish dinner.. which was around $11.There's not much I can actually say about it.The catfish was good, but just good. The roll was unnecessary, green beans were decent/standard, fries were alright.The hot sauce is great, it actually tastes like there's some beer in it..Overall, the meal was MEH. Definitely not something I'd ever actually crave for.",
+                "reviewer_id": "pfTTMGZc1JYI5LYqhITRgw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9543987114483009,
+                    "positive_probability": 0.04560128855169721
+                },
+                "stars": 3
+            },
+            {
+                "review": "What we've ordered over two visits:Sides: Fries (a bit undercooked, but decent). They're thick cut (very), like English fish & chips, and have seasoned salt sprinkled n top. The Mac and Cheese is the best we've found so far in C-U compared to the other Southern/BBQ places, but not as good as homemade. \"Seaboat\" Sandwich - fried walleye with tartar sauce, lettuce, and tomato (one with cheese, one without) and a Cod Sandwich w/ tartar, lettuce, tomato, and cheese. The fish is good- the batter is flavorful, and because everything is cooked to order, the batter is hot and crispy- not soggy, essential for a god fish sandwich! The cheese is 40 cents extra...and on my walleye sandwich, it one only one slice of American cheese,  over a sandwich that was about about the size of a good sub, 3\"x7\", you could hardly  SEE the cheese, much less taste it, and I expect more when you're paying 40 cents extra! The cod sandwich portion is quite a bit smaller in size and is served on  a hot dog bun. I wish they would note this on the menu. FYI: the fish is served on wheat buns. It's the squishy and sweet bread that tastes almost the same as a white hot dog bun... I wish they had better bread. The tomatoes I've gotten have been mixed...some a bit overripe and generally thickly sliced. They use a green leaf lettuce (what you would use as a garnish), which tends to get limp/slimy fast on a hot sandwich- I think they would do better to use a crispy romaine or iceberg lettuce. The tartar sauce was decent and I like that they have hot sauce on all the tables. The restaurant itself is small, just a few tables but it's very clean and the service is very friendly. You can call ahead for pick up and they have a drive through window for the call-ahead/take-out service. I wouldn't rec. for \"drive-thru\" fast food- everything is cooked to order and you'll have a much longer wait if you're expecting McDonald's speed.",
+                "reviewer_id": "r8AulMAwAIrVrdJGHQcllA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.019163234118207636,
+                    "positive_probability": 0.9808367658817904
+                },
+                "stars": 3
+            },
+            {
+                "review": "In our \" I want it right now\" world, sometimes we forget that some things take a little time to do right.  Eaten here many times, both at the Market St. location and the newer Kirby one.  A fish sandwich will take maybe 10-15 minutes, but they are tops.  Wonderful house-made tartar sauce, good bun, and always friendly folks - the owner and his wife are great.  If you have room, get some sweet potato pie.  It is great.  I have never tried it, but one can order online as well.  Great place, esp. if staying in one of the hotels near Assembly Hall or the stadium.  Highly recommended!",
+                "reviewer_id": "S3dhPGW9PJfK6ZuQoJhKfA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0012188993780861378,
+                    "positive_probability": 0.9987811006219118
+                },
+                "stars": 5
+            },
+            {
+                "review": "Interesting little place. Gotta try it at least once. I love their coleslaw.",
+                "reviewer_id": "VS89OpdxlLsD7tLtmqjcUA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5285045946745135,
+                    "positive_probability": 0.47149540532548717
+                },
+                "stars": 4
+            },
+            {
+                "review": "I have been there twice and both times I have not been that impressed.  I will say the okra is really good and so were the green beans.  But the fried chicken was not that good.  It was really dry.  The fish isn't anything special either.  Sometimes I like to eat just sides and all though they have good sides they are rather expensive for no more than you get.   When I walked in it was not a welcoming atmosphere.  They acted like I was bothering them and I felt rushed to order.  Maybe it's because I am not a regular.  I don't think I will give this place a third chance.",
+                "reviewer_id": "W4ojW7f30haCertr4CzFJw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7931944798270077,
+                    "positive_probability": 0.20680552017298856
+                },
+                "stars": 2
+            },
+            {
+                "review": "Seaboat is the BEST Fried Southern food around.The wait is long, but the food is definitely worth it! I recommend the Fried Chicken, Fish Sandwich, Fried Okra, Mac 'n' Cheese and Green Beans. The service is slow, but only because everything is cooked from scratch...and the wait is WELL worth it. Phone ahead, and pick up at the window...it takes about 30 minutes.",
+                "reviewer_id": "wtsl05RJj5f6YBDQPEwP2w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.47896883148368175,
+                    "positive_probability": 0.5210311685163197
+                },
+                "stars": 4
+            },
+            {
+                "review": "I'm in Chambana at least twice a year for U of I games and charity events. As soon as I check in the Hilton Garden Inn across the street, I place a pickup order at Seaboat. Yes the order takes some time, but if I wanted fast food McDonalds is right on the corner.I've eaten just about all of the fish and chicken entrees, delicious! I've even ordered a jumbo side of greens as an entree because they are that good.I'll just noticed that I could have them deliver to the hotel, which I will be doing from now on.",
+                "reviewer_id": "xBc9YKnQhaV1-09qL52z-Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.29477017489205354,
+                    "positive_probability": 0.7052298251079403
+                },
+                "stars": 5
+            },
+            {
+                "review": "The catfish is FIRE! One of the owner seasons all the meat. It is well done and worth the wait. If you've never had a Seaboat catfish sandwich with some of their amazing fried Okra, then you don't know what you are missing.",
+                "reviewer_id": "Xw9vamPWpU0ziERIAasuaA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7524593637727507,
+                    "positive_probability": 0.2475406362272511
+                },
+                "stars": 5
+            },
+            {
+                "review": "Expensive, obnoxious unhappy service, minuscule pullet-sized chickens, mediocre quality at best and absurdly long wait, other than that, wonderful.",
+                "reviewer_id": "Xy922DhDura24tkVBN1GMg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9481295467045275,
+                    "positive_probability": 0.051870453295473525
+                },
+                "stars": 1
+            },
+            {
+                "review": "The food is very good, but your wait may be longer than stated.",
+                "reviewer_id": "YhMO2LhYvtaMePQT3McvjA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4385574400693677,
+                    "positive_probability": 0.5614425599306333
+                },
+                "stars": 2
+            },
+            {
+                "review": "The food here is GREAT. Usually, you have to wait a little while, but the food is fresh and worth it. The owner (I'm assuming she's the owner) is rather curt and doesn't have the best customer service. I once ordered delivery and the food was still good, but the wait was ridiculous. The driver was unable to find my house and called twice for directions. When I had been waiting about 20 minutes after his second call, I called and redirected him again. About 15 minutes after that I see a car driving slowly around the neighborhood so I called and asked if it was him. He off-handedly apologized for the wait but my food had already started getting cold and I was annoyed that he hadn't used an app/GPS to assist him. I feel that as a delivery person, one should know the area or have the means to get-to-know the area. Definitely a learning lesson, I'll only order from Seaboat when I'm staying there to eat it or picking it up to go (they're pretty good about having your food ready...and they have a drive--thru window).",
+                "reviewer_id": "yQZo0tJzB3uBG22d6e_0xA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.01012893497873661,
+                    "positive_probability": 0.989871065021261
+                },
+                "stars": 4
+            },
+            {
+                "review": "Seaboat is a great little restaurant if you're in the mood for good fried fish and soul food.  The location is really nice-easy parking and good views of the park across the street.  It's very clean inside and the service is friendly.  I like the R&B radio station they always have playing softly in the background.  Prices aren't super-cheap but the quality is very good.  I like their Seaboat fish sandwich, and their fries are thick and delicious. The collard greens are good too and are cooked with bits of smoked turkey rather than pork. Additional sides are quite pricey for the small quantity you get. Better to stick with the combos and skip the a la carte items. If you do, you can eat here for under ten bucks.   I've heard some people say they've had to wait quite a while for their food, but we've been lucky and never had to wait more than 10 minutes.  Free refills on drinks if you're dining in. I recommend Seaboat!",
+                "reviewer_id": "zaAnvzBTJh6mMrEJXUD4ig",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.024481242200114283,
+                    "positive_probability": 0.9755187577998709
+                },
+                "stars": 4
+            },
+            {
+                "review": "The only competition for this place was the Harold's Chicken Shack in Champaign but it has closed.  A few favorite things are great here.  If you like southern fried chicken and fried fish sandwiches this is the place to go.  You also need to get a slice of the Sweet Potato Pie if they have any left.Unfortunately, the service is unpredictable and you may be in for a long wait.  The best strategy is to call ahead.  I always call ahead.  The staff are very friendly and they have given me a discount and free food when they are running very late, but they are often running very late.",
+                "reviewer_id": "zq815p7o2OM1kNHG8OdobA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.011074287365135407,
+                    "positive_probability": 0.9889257126348652
+                },
+                "stars": 4
+            }
+        ],
+        "similar_restaurants": [
+            "nDdsCw5YkVXPmMQhp9iAvQ",
+            "Kck9wE9Z1S_xxzglh1Qdwg",
+            "_rrWTz0W1K_eWafh-8r3fA",
+            "Gf9HbiraKNZpxbxwScHBVw",
+            "M5E7DW8rqI4v37HhD2pzGQ",
+            "umq8alp-uLf3hXnpSC99WA",
+            "ew5MdPbrBWKV6XIO9_gieA",
+            "-0GkcDiIgVm0XzDZC8RFOg",
+            "vubRS4bmJ_8yXpn-67wNZA",
+            "0lFRJ0q1PU_R4YaLNRWnpA"
+        ]
+    }
+}

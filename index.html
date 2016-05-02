@@ -1,0 +1,74 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Stick a Fork in It</title>
+    <link rel="stylesheet" type="text/css" href="style.css"/>
+    <link rel="stylesheet" type="text/css" href="slick/slick.css"/>
+    <link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/>
+</head>
+<body bgcolor="black">
+    <div id = "master">  
+
+        <ul>
+            <li><a class="active" href="#">Home</a></li>
+            <li class="dropdown">
+                <a href="#" class="dropbtn">Restaurant Category</a>
+                <div class="dropdown-content">
+                </div>
+            </li>
+            <li id="web_title"><b>Stick a Fork in It</b></li>
+            <li id="logo"><img height="45" src="fork_PNG3068.png"></li>
+        </ul>   
+        <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+        <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+        <script type="text/javascript" src="slick/slick.min.js"></script>
+
+        <script>
+            function setSessionVariables(restaurantID) {   
+                sessionStorage.restaurantID = restaurantID;
+                window.location.href = window.location.pathname.substring( 0, window.location.pathname.lastIndexOf( '/' ) + 1 ) + 'browse.html';
+            }
+        </script>
+
+        <script>
+            $(document).ready(function(){
+                var dataCategoriesList = ['American--New', 'American--Traditional', 'Arabian', 'Arts_and_Entertainment', 'Asian_Fusion', 'Bakeries', 'Barbeque', 'Bars', 'Breakfast_and_Brunch', 'Bubble_Tea', 'Buffets', 'Burgers', 'Cafes', 'Cajun-Creole', 'Caterers', 'Cheesesteaks', 'Chicken_Wings', 'Chinese', 'Coffee_and_Tea', 'Comfort_Food', 'Creperies', 'Delis', 'Desserts', 'Diners', 'Dive_Bars', 'Empanadas', 'Ethnic_Food', 'Event_Planning_and_Services', 'Fast_Food', 'Fish_and_Chips', 'Food_Stands', 'Food_Trucks', 'Gastropubs', 'Gelato', 'Gluten-Free', 'Greek', 'Grocery', 'Hookah_Bars', 'Hot_Dogs', 'Hot_Pot', 'Ice_Cream_and_Frozen_Yogurt', 'Indian', 'Irish', 'Italian', 'Japanese', 'Juice_Bars_and_Smoothies', 'Karaoke', 'Korean', 'Kosher', 'Latin_American', 'Lounges', 'Malaysian', 'Meat_Shops', 'Mediterranean', 'Mexican', 'Middle_Eastern', 'Mongolian', 'Music_Venues', 'Nightlife', 'Pizza', 'Pool_Halls', 'Pubs', 'Salad', 'Sandwiches', 'Soul_Food', 'Soup', 'Southern', 'Spanish', 'Specialty_Food', 'Sports_Bars', 'Steakhouses', 'Street_Vendors', 'Sushi_Bars', 'Szechuan', 'Taiwanese', 'Tex-Mex', 'Thai', 'Vegan', 'Vegetarian', 'Venues_and_Event_Spaces', 'Vietnamese', 'Wine_Bars'];
+
+                $.each(dataCategoriesList, function (i, item) {
+                    var restaurantCategoryWithSpaces = item.split("_").join(" ");
+                    $('.dropdown-content').append('<a href="#'+item+'">'+restaurantCategoryWithSpaces+'</a>');
+                    $.ajax({
+                        url: '/data/categories/' + item + '.json',
+                        success: function (data) {
+                            $('#master').append('<a name="'+item+'"></a>');
+                            $('#master').append('<h1>'+ restaurantCategoryWithSpaces + '</h1>');
+                            $('#master').append('<div id="' + item + '" style="height: 300px; margin: auto; padding: 20px; width: 95%;"></div>')
+                            var keys = Object.keys(data);
+                            for(var j = 0; j < keys.length; j++){
+                                var photo = data[keys[j]].metadata.photo;
+                                var restaurantName = data[keys[j]].metadata.name;
+                                var restaurantID = keys[j];
+                                if(photo == undefined){
+                                    photo = "http://www.parentcenterhub.org/wp-content/uploads/2014/03/No-Image-.jpg";
+                                }
+                                $('#' + item + '').append('<div id="r'+ j +'" class="restaurant"><a><img class="carouselImage" id="' + restaurantID + '" src="' + photo + '" border="1" onclick="setSessionVariables(\'' + restaurantID + '\')"></a><p id="name">' + restaurantName + '</p></div>');
+
+                            }
+                            $('#' + item + '').slick({
+                                infinite: true,
+                                slidesToShow: 6,
+                                slidesToScroll: 1,
+                                arrows: true
+                            });
+                        }
+
+                    }); 
+
+                });
+            });
+        </script>
+
+    </div>
+</body>
+</html>

@@ -1,0 +1,1001 @@
+{
+    "2g4mMfy5COvUlzZWfuQkKQ": {
+        "keywords": {
+            "bigrams": [
+                "taco_bell",
+                "taco_bells",
+                "fast_food",
+                "horrible_horrible",
+                "lot_items",
+                "jv_folders",
+                "subpar_food",
+                "biscuit_taco",
+                "broken_tables",
+                "specific_location"
+            ],
+            "unigrams": [
+                "food",
+                "taco",
+                "bell",
+                "drive",
+                "location",
+                "lot",
+                "minutes",
+                "order",
+                "times",
+                "cheese"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "none",
+                "Ambience": {
+                    "casual": false,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "Caters": false,
+                "Delivery": false,
+                "Good For": {
+                    "breakfast": false,
+                    "brunch": false,
+                    "dessert": false,
+                    "dinner": false,
+                    "latenight": true,
+                    "lunch": false
+                },
+                "Good For Groups": false,
+                "Good for Kids": false,
+                "Has TV": false,
+                "Noise Level": "quiet",
+                "Outdoor Seating": false,
+                "Parking": {
+                    "garage": false,
+                    "lot": true,
+                    "street": false,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 1,
+                "Take-out": true,
+                "Takes Reservations": false,
+                "Waiter Service": false,
+                "Wi-Fi": "no"
+            },
+            "business_id": "2g4mMfy5COvUlzZWfuQkKQ",
+            "categories": [
+                "Fast Food",
+                "Mexican",
+                "Tex-Mex",
+                "Restaurants"
+            ],
+            "city": "Urbana",
+            "full_address": "1003 University\nUrbana, IL 61801",
+            "hours": {
+                "Friday": {
+                    "close": "03:00",
+                    "open": "07:00"
+                },
+                "Monday": {
+                    "close": "02:00",
+                    "open": "07:00"
+                },
+                "Saturday": {
+                    "close": "03:00",
+                    "open": "07:00"
+                },
+                "Sunday": {
+                    "close": "01:00",
+                    "open": "07:00"
+                },
+                "Thursday": {
+                    "close": "02:00",
+                    "open": "07:00"
+                },
+                "Tuesday": {
+                    "close": "02:00",
+                    "open": "07:00"
+                },
+                "Wednesday": {
+                    "close": "02:00",
+                    "open": "07:00"
+                }
+            },
+            "latitude": 40.11634,
+            "longitude": -88.22085,
+            "name": "Taco Bell",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media1.fl.yelpcdn.com/bphoto/E75SS0FUgxdK08PrJE2Xzg/ms.jpg",
+            "review_count": 16,
+            "stars": 2.5,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "The food is Taco Bell - you know what you are getting. Have waited in the drive through for over 15 minutes multiple times. I was expecting an egg\" patty with some nacho cheese inside a stale \"biscuit\". \"",
+        "reviews": [
+            {
+                "review": "Have waited in the drive through for over 15 minutes multiple times.  Would recommend going to one of the many other taco bells that are close",
+                "reviewer_id": "2t79vv-IudhX2SOhb3fhPQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6648424393181772,
+                    "positive_probability": 0.3351575606818248
+                },
+                "stars": 1
+            },
+            {
+                "review": "First off, taco bell is a disgusting mockery to Mexican food. Also, a person at this location tried to write the numbers down on a woman's credit card. That's pretty messed up that your can't trust the employees here with your credit cards. If you have to eat here, at least use cash!",
+                "reviewer_id": "44GzCA_7s9Xq3kzl2xD1TQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6799382576572929,
+                    "positive_probability": 0.32006174234270285
+                },
+                "stars": 1
+            },
+            {
+                "review": "Honestly, worst Taco Bell ever.I love Taco Bell.  Its delightfully campy and delicious in a $3 way.  The wait  at this specific location is outrageous.  Sometime 30 min + in the drive thru with 4 cars.  No trays inside so you have to put your food directly on the table, and then they want to talk to me about my hair. I don't want to chat with you about my hair, I want you to clean all the trays people have used so I don't have to eat off the table tops which I'm assuming have also not been cleaned properly.",
+                "reviewer_id": "55UYpeF0R_dnQicWlJ9AEw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8516069956154587,
+                    "positive_probability": 0.14839300438454822
+                },
+                "stars": 1
+            },
+            {
+                "review": "Horrible horrible horrible horrible, nearly 40 minutes stuck in the drive-through. No apology when I got to the window. They just don't care. Possibly the worst drive through in the country.",
+                "reviewer_id": "6ZTh_FXDQOeMlKdAoHG8EA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9776028216992085,
+                    "positive_probability": 0.02239717830079206
+                },
+                "stars": 1
+            },
+            {
+                "review": "This is a Taco Bell alright.I used to eat here every Sunday for a while when I lived in the dorms and the kitchen  was closed.  My standards were not terribly high, but I was never disappointed with the soft tacos or nachos.I've been back a few times lately.  If you grew up eating Taco Bell, sometimes the craving comes back.On this location:The side door area kind of smells like urine but it is right next to the bathroom.  I've never used the drive through so I can't comment.Going in the middle of the day on the weekend I have never had a problem.  The food is Taco Bell - you know what you are getting.  I am partial to the beefy crunch burrito right now.  It's a burrito!  With spicy Fritos on it!  There are days when that's what you want.One time I had a very disorganized order, and the lady working the register organized it into value meals to save me some money.  I really appreciated that.I usually get my food to go.  Last time they forgot one of the tacos, but when I mentioned it they immediately made it up for me.  Then I took 12 Fire sauce packets as usual and left to enjoy it.",
+                "reviewer_id": "9LZXJu6RZ6UpIXYGSZWB7Q",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9380570751355618,
+                    "positive_probability": 0.061942924864448065
+                },
+                "stars": 3
+            },
+            {
+                "review": "I am reviewing this specific location and not the chain in general.  Really, do not waste your time going here and just go to another location for your Taco Bell needs.  As any TB frequenter knows, there are some of those visits during off peak hours where they have their JV folders on duty and the result is your food is just not put together well.  This location seems to only hire JV folders.  Another thing that is upsetting about this location is that their rate of getting orders correct is at best 1 in 4.  They constantly put beef on my bean burritos and put onions on the 7 layers.  If you enjoy interaction with crack heads, then this place is for you.  I have gotten harassed by other patrons who just yelled random comments at us, and this was during the day.  Also, one of the workers was definitely under the influence during one visit.  Just drive the extra 3 minutes and go to another location.",
+                "reviewer_id": "cAsYfm9UkDFDjPRLR5zfWg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.11084000592322249,
+                    "positive_probability": 0.8891599940767807
+                },
+                "stars": 1
+            },
+            {
+                "review": "I've been here way too many times now, and felt it was time to review.  The service here is generally just okay.  They often forget to give me my drink or Doritos, but fix it without any hassle when asked.  The food itself I've never had an issue with; always pretty good.  Location is pretty convenient, even more so now that the 22 Illini bus stops right out front. Up until about a week ago, they had a bunch of \"out of order tables\" (broken tables), but recently they installed new menus, removed broken tables, and removed the railing for the wait line, so it's looking a little better, but the restaurant still isn't in that great of condition.All-in-all, for being cheap and reliably good food, i'll give it 3 stars.",
+                "reviewer_id": "cSqolAOfIDsKu3tujDrHBw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.35631800087369897,
+                    "positive_probability": 0.6436819991262994
+                },
+                "stars": 3
+            },
+            {
+                "review": "Just had the free biscuit taco that they were giving out today. What I got, far exceeded my expectations. I was expecting an \"egg\" patty with some nacho cheese inside a stale \"biscuit\". What I got was eggs that resembled real eggs in both taste and texture and cheese that also resembled real cheese in both taste and texture! What a surprise! The biscuit was soft and pillowy. Who'd a thunk.....edible biscuit taco?",
+                "reviewer_id": "D98vylCT1fLKBIU6iAKxhw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7280788104344669,
+                    "positive_probability": 0.271921189565531
+                },
+                "stars": 3
+            },
+            {
+                "review": "Restaurant review:There are so many mexican restaurants/fast food places to visit around the UIUC campus. I stopped by here on the weekend for lunch after work and was surprised there was no line. The cashier was quick to take my order after I figured out what I wanted and the food came out as I ordered without any issue. This is what pulls up the rating to 3 stars as the food has sharply declined from taco bell and is now a lot more expensive. Crunchy tacos are no longer 0.79 cents but 1.29 now. A lot of the other items have doritos, fritos, etc which is interesting, but it does not carry over to tasting good. All and all as fast food I think I will pass from eating at Taco bell now with the higher prices and subpar food items. The parking lot is also very small which is another issue. Pro: Large selection of fast mexican food, quick service, friendly cashiersCons: Subpar food, very small parking lotHidden gem:Happier hour 2 - 5 PM 1 dollar regular freeze or medium drink. Value menu, although a lot of items are no longer one dollar.",
+                "reviewer_id": "f1a9KwsObpE54Yp9A1fVoA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.31811142850659596,
+                    "positive_probability": 0.6818885714933964
+                },
+                "stars": 3
+            },
+            {
+                "review": "One of the most inspiring Mexicanesque meal journeys of my lifetime. The \"cheesy gordita crunch\" is an exquisite meal masterpiece. Incorporating the softness of a delicate flatbread, crunchiness of a handmade tortilla shell, and freshness of the \"carne,\" \"lechuga\", and \"queso\" call for two thumbs up and then some. Bravo Taco Bell, bravo. Authenticity has never been truer. Enrich your senses and appease your appetite in an expeditious manner while experiencing a meal of a lifetime. 5 stars. Period.",
+                "reviewer_id": "lKqRJB4-uDuRtrdkO6KHgg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.010545279159472043,
+                    "positive_probability": 0.9894547208405294
+                },
+                "stars": 5
+            },
+            {
+                "review": "Really don't get the negative reviews on here. Best Taco Bell I've ever been to. Best, friendliest employees, always accurate order, always perfect. Taco Bell, you have my heart.",
+                "reviewer_id": "maO0KD6TJNusZt2ceZ1uvw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3603415199754327,
+                    "positive_probability": 0.6396584800245683
+                },
+                "stars": 5
+            },
+            {
+                "review": "Very very slow drive through. Waited way too long at the speaker.  Maybe about 15 minutes then decided it didn't work so I proceeded to exit the drive through.  Once you enter this drive through there is no way out.  I was blocked by a truck at the window for another 5 or 10 minutes.  So basically I spent at least 20 minutes in this drive through and did not get any food.  Which is OK with me but I was getting the food for my Mom who had a procedure done at Carle and was starved!!",
+                "reviewer_id": "W4ojW7f30haCertr4CzFJw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9883938361517631,
+                    "positive_probability": 0.011606163848234315
+                },
+                "stars": 1
+            },
+            {
+                "review": "I've been going here for 2 years now, I've never had a problem with them. Drive thru can be a bit slow, but their chicken burrito, grillers and quesadillas are hot and delicious, so worth the wait. Everyone's very courteous and I can see them working hard to make the food in the kitchen.",
+                "reviewer_id": "WGK7ejWVp4omzygiMzqbHA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2109381339882341,
+                    "positive_probability": 0.789061866011767
+                },
+                "stars": 4
+            },
+            {
+                "review": "I've been to a lot of Taco Bells before, so I know what to expect from them. But this place was worse than average. For example, my Crunchwrap was made very sloppily and with less meat and cheese than average.",
+                "reviewer_id": "YoS_VTXsYXicWFW_kPDUtQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9504433234563868,
+                    "positive_probability": 0.049556676543613266
+                },
+                "stars": 2
+            },
+            {
+                "review": "I have eaten at this specific Taco Bell many times before. The service is excellent, the staff are friendly, and they have never messed up an order! You can really tell that the employees here are not mad or rude like you often see at fast food joints, and are simply pleased to serve their customersAs far as their drive thrus are concerned, I have used their drive thru before and I haven't had the lengthy wait times many have complained about, but I guess I could have just gotten lucky!Overall, if you live in the CU area, this is definitely one of the better Taco Bells to visit!",
+                "reviewer_id": "zkci3GQmLzyJJOWydv9NVQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.04569366730107435,
+                    "positive_probability": 0.9543063326989268
+                },
+                "stars": 5
+            }
+        ],
+        "similar_restaurants": [
+            "gVSokyUWqy14UEp_JNVL7Q",
+            "PYG1nrz2yYDSQk3W-vYwAA",
+            "efJQBC6yfKzUvn0Fk08vbw",
+            "dXLRevtIEnAvjUhPM_zTEg",
+            "4MeniYcsZrwc_Cq6WSd3zQ",
+            "RRCF1uUIkmLcQdZauqZJAQ",
+            "LN0mZ37BeruC0XjyhES-ug",
+            "3AtlNePpVHC-D1a49LqFtA",
+            "cF2s9dlQ0ZiSDUdH-odoKQ",
+            "M2boe4Te0rQ5RasVJkPXng"
+        ]
+    },
+    "efJQBC6yfKzUvn0Fk08vbw": {
+        "keywords": {
+            "bigrams": [
+                "cactus_grill",
+                "honey_grilled",
+                "grilled_chicken",
+                "chicken_burrito",
+                "green_salsa",
+                "chips_salsa",
+                "black_beans",
+                "steak_burrito",
+                "cancel_order",
+                "pretty_good"
+            ],
+            "unigrams": [
+                "burrito",
+                "chicken",
+                "good",
+                "food",
+                "salsa",
+                "place",
+                "delivery",
+                "order",
+                "special",
+                "chipotle"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "none",
+                "Ambience": {
+                    "casual": false,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "Caters": false,
+                "Delivery": true,
+                "Good For": {
+                    "breakfast": false,
+                    "brunch": false,
+                    "dessert": false,
+                    "dinner": false,
+                    "latenight": false,
+                    "lunch": true
+                },
+                "Good For Groups": false,
+                "Good for Kids": true,
+                "Has TV": false,
+                "Noise Level": "average",
+                "Outdoor Seating": false,
+                "Parking": {
+                    "garage": false,
+                    "lot": true,
+                    "street": false,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 1,
+                "Take-out": true,
+                "Takes Reservations": false,
+                "Waiter Service": false,
+                "Wheelchair Accessible": true,
+                "Wi-Fi": "no"
+            },
+            "business_id": "efJQBC6yfKzUvn0Fk08vbw",
+            "categories": [
+                "Mexican",
+                "Tex-Mex",
+                "Restaurants"
+            ],
+            "city": "Champaign",
+            "full_address": "1405 S Neil St\nSte C\nChampaign, IL 61820",
+            "hours": {
+                "Friday": {
+                    "close": "21:00",
+                    "open": "11:00"
+                },
+                "Monday": {
+                    "close": "21:00",
+                    "open": "11:00"
+                },
+                "Saturday": {
+                    "close": "21:00",
+                    "open": "11:00"
+                },
+                "Thursday": {
+                    "close": "21:00",
+                    "open": "11:00"
+                },
+                "Tuesday": {
+                    "close": "21:00",
+                    "open": "11:00"
+                },
+                "Wednesday": {
+                    "close": "21:00",
+                    "open": "11:00"
+                }
+            },
+            "latitude": 40.0996049,
+            "longitude": -88.2447,
+            "name": "Cactus Grill",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media3.fl.yelpcdn.com/bphoto/YfE3cnqQJpSaeF0VVc_cEA/ms.jpg",
+            "review_count": 36,
+            "stars": 4,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "I've tried their tacos and burritos, both the chicken chipotle and steak varieties. Just ordered the steak burrito. I ordered a chicken burrito bowl with guacamole and a fish taco. ",
+        "reviews": [
+            {
+                "review": "Ordered for lunch at work yesterday and all of us agreed that for the price it was not worth it - it was just okay.  Steak Chipotle Burrito was big; but, like most places they are made in such a way that you just get large pockets of one thing in each bite.  Panchero's at least mixes theirs a bit.  The steak was gray with a  non-discript flavor; but at least was chopped small enough that it didn't seem chewy.  My spicy salsa was not apparent in the meal.  The jalapeos were all lumped together in one of those aforementioned pockets.Chips were okay, tad greasy but good salt level. Guac tasted like it was the prepackaged stuff you can buy in plastic bags in the produce section of the grocery store - it had that weird citric acid aftertaste that you don't get with fresh made guac.  Did I still eat it?  Yes, I was hungry and I paid for it!  Was I disappointed? Yes, I had heard good things about the place... Live and Yelp, I mean learn!",
+                "reviewer_id": "-G0V3O_G1fAwrlveL0y8lA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 3.268397058234577e-05,
+                    "positive_probability": 0.999967316029416
+                },
+                "stars": 1
+            },
+            {
+                "review": "The service is pretty good.I've tried their tacos and burritos, both the chicken chipotle and steak varieties. Neither really has much flavor. You can try to compensate by adding a lot of toppings, like everyone does there, but then they just taste like undressed salads.",
+                "reviewer_id": "0nTPhIUU7tjD2dc9JO5uZQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4656917637259628,
+                    "positive_probability": 0.5343082362740387
+                },
+                "stars": 3
+            },
+            {
+                "review": "I love this place! Their chicken is good, but they have a tofu fajita burrito that is amazing! Great customer service, always fresh food, and good prices. Best Mexican place in Champaign (and that includes Maize!)",
+                "reviewer_id": "2T-SnTWaZU47zllHzrpHqw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4939458289534586,
+                    "positive_probability": 0.506054171046541
+                },
+                "stars": 5
+            },
+            {
+                "review": "Ordered lunch for a co worker and I . I ordered the honey grilled chicken burrito and nacho cheese and chips. The burrito itself was pretty good, next time I'll get the chipotle chicken, I felt the honey chicken was a bit overly sweet for a burrito, other than that it was great! Delivery was fast and food was hot!",
+                "reviewer_id": "40AhMp9ENGomaCuMdGg4XA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.12047634896131837,
+                    "positive_probability": 0.8795236510386858
+                },
+                "stars": 4
+            },
+            {
+                "review": "Great place to grab a burrito. They are always clean and the staff is always nice. The food looks and tastes very good and fresh. The prices are a little more expensive compared to other places, but they are worth what you're getting.",
+                "reviewer_id": "44GzCA_7s9Xq3kzl2xD1TQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.13496638334761502,
+                    "positive_probability": 0.8650336166523848
+                },
+                "stars": 5
+            },
+            {
+                "review": "Oh Cactus Grill. I love your lunch specials, and the fact that you deliver. I'm pretty sure the average newborn is smaller than their burritos. I especially love that if you ask nicely on your online order they will draw a unicorn on your burrito wrapper. NOMZ.",
+                "reviewer_id": "6EkeVs80S-tCom4SikvLhA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0979731846449964,
+                    "positive_probability": 0.9020268153550068
+                },
+                "stars": 5
+            },
+            {
+                "review": "As someone who works in the Neil Street area, I am dismayed that most lunch times options are limited to typical restaurant chains.  Luckily, I can count on Cactus Grill when I want a fast lunch that is less corporate than a McBurger.The quality of the food is near mediocre; some ingredients really shine, but others somehow always disappoint.  Many of the meats (chicken, steak) are chewy and dry, though they're left to soak in their juices before service (doesn't help, unfortunately).  For my meat option, I usually stick with the fish, which is deep-fried in a panko-like batter.  The fish dishes also usually come with a drizzle of creamy chipotle sauce, yum.Recently I bought a burrito with cilantro-lime rice and black beans.  The rice is an unmistakable (but poor) imitation of the rice from Chipotle, with cilantro that is never mixed in evenly.  When I bit into the beans, I realized they were still...undercooked?  I was pretty surprised by this discovery as most places use pre-made, canned beans rather than beans cooked in-store...so compliments to homemade beans, but disappointment at undercooked beans.Despite my criticisms, I still return to Cactus Grill every other week to pick up food.  It's not luxury, but I don't expect too much from lunch on a weekday.",
+                "reviewer_id": "6nqakbu2zU6fjOmbE83_-A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.00150206607428679,
+                    "positive_probability": 0.9984979339257081
+                },
+                "stars": 3
+            },
+            {
+                "review": "I know there are a lot of negative reviews of this place, in mid December I stopped in and tried both chipotle and honey tacos. I only really remember the honey tacos being decent. Today I tried it again, this time however the steak burrito was the 5.25 special. A couple notes-The special is not just lunch but all day.Also the burrito wrap can be substituted for a bowl which they fill with your choice of  types of beans, rices, salsa and guac ( I presume they would put guac on it if you asked) tomatoes and onions sour cream.I recommend going in to pick your favs before trying delivery, that being said I was there at 7:30 pm and they have two drivers so there is an attempt to make the delivery service better.This is point where I have to say the steak bowl was very good! I chose Spanish rice, black beans and the standard veggies with cheese and sour cream, the portion was plenty and the ratios of components was well done, I recommend going in for your first time to see the options first hand, for me giving it a second chance was worth while.",
+                "reviewer_id": "96WmD_83KKDdMLzLPDqoEw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9098052315674988,
+                    "positive_probability": 0.09019476843251555
+                },
+                "stars": 4
+            },
+            {
+                "review": "So I'm back here to change my review. And they have really gotten better. Honey grilled chicken burritos on monday are the BOMB! I try to make it here once a week. Delivery has gotten much better and I tend to get my order in under an hour. Go Cactus Grill!",
+                "reviewer_id": "Agf4PajTtw-XgF-ysv3Yew",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.505893212224685,
+                    "positive_probability": 0.4941067877753164
+                },
+                "stars": 5
+            },
+            {
+                "review": "Has one of the widest varieties of options for varieties for a burrito chain I've even been to. I love that they have tofu as an option but I also can get fish tacos if I'm feeling that. The daily special's are a plus, which made lunch here affordable. They also do free or $1 burrito day which is AWESOME. Good quality food, decent prices, and the management is fantastic. I keep going back when I'm in town. Love it.",
+                "reviewer_id": "c5NzJjz6IjwwgxvP2z6dhw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.596233896616026,
+                    "positive_probability": 0.4037661033839756
+                },
+                "stars": 4
+            },
+            {
+                "review": "This is a local establishment that serves hot fast delicious food. I tried the special of the day a chicken burrito and got the chipotle style chicken. It was awesome! The cilantro rice was tasty and the saut peppers and onions gave it a good balance. If you haven't checked this place out, you really should.",
+                "reviewer_id": "CW9eu3ONnfBr4psEamEa-w",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5707562243607501,
+                    "positive_probability": 0.429243775639252
+                },
+                "stars": 5
+            },
+            {
+                "review": "I was excited to try this restaurant as it had good reviews and I liked the made-to-order aspect to it. I even drove out of my way to go there. However, I was incredibly disappointed. A veggie burrito is just lettuce, tomatoes, and onions along with the beans and rice. That is not a veggie burrito!! Other places have peppers, saut onions, etc. and salsa and jalapeos are included in the price elsewhere. If you don't order ahead for pick up, be prepared for sub-par service. Also, make sure you tip or they become incredibly nasty!! I'll stick with chipotle, qdoba, and pancheros.",
+                "reviewer_id": "ElaLh0tdzeTVTo1JM15S8A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.11910884803115163,
+                    "positive_probability": 0.8808911519688424
+                },
+                "stars": 1
+            },
+            {
+                "review": "Mediocre mexican. Priced awesome if you get the special and it's only about $5 for lunch and you have very low expectations. My fourth time trying this place,  I ordered a burrito for delivery. Nearly 2hrs later, it still had not arrived. Called to cancel my order and the manager answered. As soon as i requested to cancel my order, he said \"okay, I'll call the driver.\" and immediately hung up. I've been disappointed each time I've tried this place and this was my last time.  Absolutely would not recommend. Pancheros or Chipotle are a MUCH better option over Cactus Grill. McDonald's would be a better option. Barf.",
+                "reviewer_id": "JgHGyWS2emyHq6aq144SLQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.07535874298590742,
+                    "positive_probability": 0.9246412570140904
+                },
+                "stars": 1
+            },
+            {
+                "review": "I really do dislike writing bad reviews for anything, but I feel this experience merits a warning. I just moved here from south Texas, was really craving Mexican food, and felt too lazy to go sit in a restaurant, so delivery it was. I ordered a cheese quesadilla (with onion and tomato for a sad attempt at pico de gallo), and chips and salsa.The quesadilla was incredibly greasy, the tomato chunks were quite large, and the onion was far too overpowering for my taste. The chips and salsa were another matter. The chips were edible, but they weren't my favorite. And warning with the salsa, if you order the spicy salsa, expect green salsa. I'm used to red, so the possibility of green didn't even cross my mind. I'm not a fan of green salsa, so my dislike is likely an artifact of my dislike of green salsa in general, not this specific salsa.Plus side? The food was delivered about half an hour earlier than estimated.Looking at the rest of the reviews, it doesn't appear that Cactus Grill is ALWAYS bad, so maybe mine was just a bad experience, but still...TL;DR: greasy quesadilla, hard chips, green salsa, searching for another Mexican restaurant",
+                "reviewer_id": "jrKWxfnfBSurf9904txVVQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.006881500147651382,
+                    "positive_probability": 0.9931184998523294
+                },
+                "stars": 2
+            },
+            {
+                "review": "Not bad, but not impressive either. Too expensive unless you get the daily special. I'll stick to Maize next time.",
+                "reviewer_id": "jS6j2Mm0VLJZjUcYklZIEw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5743987101600667,
+                    "positive_probability": 0.4256012898399337
+                },
+                "stars": 3
+            },
+            {
+                "review": "Just ordered the steak burrito. I thought the meat was good but on the whole a very simple meal..nothing special. Decent delivery time and decent prices makes this a decent place to order from.",
+                "reviewer_id": "K9UPzVBXRoWQt3VA5d4vNw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.02607286393802577,
+                    "positive_probability": 0.9739271360619731
+                },
+                "stars": 3
+            },
+            {
+                "review": "Good tofu burritos are hard to come by in Champaign-Urbana. In fact, the Cactus Grill offers the only one I know of at a restaurant in town ... with some nicely grilled veggies. It's an independent, tasty burrito joint in Champaign, IL, so of course it's not quite what you might find in Arizona or California or whatever -- but the food is good and the folks behind the counter know how to use a tortilla.",
+                "reviewer_id": "K9uvy5T1ElR96Hcwz5Yy8g",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.610701263940895,
+                    "positive_probability": 0.38929873605910065
+                },
+                "stars": 4
+            },
+            {
+                "review": "Honestly one of the best quick meals that I really enjoy. I go there a lot. The same few guys are usually working and whip the food up quick. They have a $4.99 daily deal that always hits the spot and their honey grilled chicken oh honey don't get me started That and their steak quesadillas are my regular. Chips and guac is a must you get a monster guac thing so you don't run out I hate when I run out of guac. There fish burrito is good too load up on the special fishy sauce I like it. The tacos are good too. Man everything is good and you should just check this spot out. I don't really mess with the delivery cause it takes like 30 minutes and you can be in and out in 5. You can win a free burrito at the gumball machine but I'm currently 0 for like 100 so not likely. But yeah this place is better then waiting in that chipotle line plus I just like it more better bang for your buck!",
+                "reviewer_id": "kkI6MEg-rleh83daDvZAWg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.43042497274072883,
+                    "positive_probability": 0.5695750272592773
+                },
+                "stars": 5
+            },
+            {
+                "review": "AMAZING! Small business, similar to Chipotle but MUCH better in my personal opinion. Daily specials all for 5.25 everyday they're open. You cannot go wrong with honey grilled chicken  I also go in there often and purchase just chicken by the pound for meals I want to cook at home.",
+                "reviewer_id": "LBLCmg2aYjwrlBAwHZ-jlg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.013648949824477372,
+                    "positive_probability": 0.9863510501755218
+                },
+                "stars": 5
+            },
+            {
+                "review": "I ordered the steak burrito today and placed my order at 11:08.  12:55 rolls around and still no food so I called the store to see what the holdup was.  The guy on the other end says he'd get in touch with the delivery driver and see what was going on; this after telling me it should be 33 minutes because his driver was on my side of town.  I hung up expecting that he'd call and give me a new more accurate time to expect my food but 1:10 comes without a call and at this point I'm ready to cancel my order unless they're willing to take off some of the price for the long wait.  As I'm on the phone with him the second time my food finally came.   I shouldn't have tipped the driver but I did after he said that he'd gotten lost.  On to the food itself.  The flavor was good when I tasted it.  Very unevenly distributed throughout my lukewarm meal in what  should have been a satisfyingly large burrito.  The rice was very bland in many parts and the sauce was a far cry from what I consider spicy.  To be fair I grew up in Texas so they may have been catering to Midwestern spicy which isn't nearly spicy enough for a south/southwest pallet.  For the $12 I paid after the tip, I should have gotten much better for my money.  Oh and how they justify a $2 charge for delivery (which I found out after the driver was long gone) is beyond me.  It's too bad because I really wanted to like this place.  Maybe I'll have a better experience dining in but I might not have the stomach or wallet to give them a second chance.  A free or largely discounted meal would go a long way in chalking this up to a fluke.",
+                "reviewer_id": "MibR-2dhTV8AW9Rl62B6mQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0008779710472572319,
+                    "positive_probability": 0.9991220289527477
+                },
+                "stars": 2
+            },
+            {
+                "review": "I order delivery from Cactus Grill via Grub Hub multiple times a month. It is always delicious and their chips and salsa are seriously the best. The delivery is also usually within an hour. I ordered from them yesterday and my order was a little late (over an hour). They called to explain they were running behind because Neil Street was flooded. They apologized and offered a free drink for our inconvenience. I appreciate and respect that they let me know why they would be late. I will continue ordering from them!",
+                "reviewer_id": "MIS7Fy8qV-zNoCthzig4rQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0040121240823041415,
+                    "positive_probability": 0.995987875917705
+                },
+                "stars": 5
+            },
+            {
+                "review": "One of the best places to get a burrito in town.  The steak is the best, but I usually go with the daily special.  My only minor complaint is if you order delivery, it can take a long time for the food to arrive.",
+                "reviewer_id": "p940gbT1Z4fZXdbUalTa_w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.17341201677633516,
+                    "positive_probability": 0.8265879832236653
+                },
+                "stars": 4
+            },
+            {
+                "review": "Dude how could I not be a fan when my first experience with this place is that they hand me a gigantic, free chicken burrito??  I hope that they get some spillover traffic from the Subway next door, because I can tell the locals that own the franchise are workin' hard and I don't want them to get eaten by economy like so many other local businesses (i.e., papa george, sweet indulgence, pages for all ages)",
+                "reviewer_id": "sleEMt44E1StWrjz3mcujQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.019915934349692396,
+                    "positive_probability": 0.980084065650305
+                },
+                "stars": 4
+            },
+            {
+                "review": "I love that Cactus Grill offers tofu as a filling in their tacos and burritos.  The quality of the vegetables is a plus.",
+                "reviewer_id": "t-TNZANSr5AJeZKN0wEC1g",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.25701297152714037,
+                    "positive_probability": 0.7429870284728596
+                },
+                "stars": 4
+            },
+            {
+                "review": "Really like this place.  Daily lunch specials are my regular choice, $4.99 each.  The burritos are tasty and a good size and everything is fresh.",
+                "reviewer_id": "t9fMjE05TKekS0gR2zSayg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8715571537409907,
+                    "positive_probability": 0.12844284625901098
+                },
+                "stars": 4
+            },
+            {
+                "review": "My dad's a regular here, the owner knows him and everything, and some weeks I join him for lunch (he's a professor at the u of I and I'm a student). Honestly I really enjoy the food here. I'm not very picky but I'm not a Neanderthal. By my judgment the food is great, it's fast if you just drive there and get your order to go, and the staff is amazingly friendly. I like not supporting an overpriced corporate chain. And you get a lot of food for your money.",
+                "reviewer_id": "tsC9OGYOONJJIayTpj8HaQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2861270747479606,
+                    "positive_probability": 0.7138729252520433
+                },
+                "stars": 5
+            },
+            {
+                "review": "I've been going here at least once a week for the past year or so. The food is consistently great, the staff is very friendly, and they are able to make your meal quickly.This is basically like a local version of Chipotle. The menu is very similar. But, in my opinion, Cactus Grill has much better food. The $5.25 daily specials are a steal as well!I highly recommend the honey grilled chicken burrito or the fish burrito.",
+                "reviewer_id": "uIrIwjy4fy1cGAPDUgSBSw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3655895790168072,
+                    "positive_probability": 0.634410420983185
+                },
+                "stars": 5
+            },
+            {
+                "review": "The service is really great and the food is tasty.  I wouldn't give them the full 5 stars because the burritos are a little dry.  However - they do know how to make a fish taco and the fish they use is delicious!",
+                "reviewer_id": "vkEIrKWMaxPFv0LM7Mldmg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6443300021543561,
+                    "positive_probability": 0.35566999784564585
+                },
+                "stars": 4
+            },
+            {
+                "review": "I had the honey grilled chicken burrito.  I thought it was good.  You can choose white rice, spanish rice, pinto beans, black beans to add to it.  You also have the choice of tomato, onion, lettuce, hot sauce or mild, sour cream.   The people working there were very helpful and let me try samples of the chicken before ordering.  I didn't give it 5 stars because I don't think it's there yet.  Also, the fish tacos are really awesome.",
+                "reviewer_id": "W4ojW7f30haCertr4CzFJw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.05779383281630912,
+                    "positive_probability": 0.9422061671836909
+                },
+                "stars": 4
+            },
+            {
+                "review": "I really enjoy their lunch specials; cheap and taste good. I used to prefer bowls over burritos but this place changed my mind. I'd recommend their honey grilled chicken and spicy salsa.",
+                "reviewer_id": "wVQab8RRmPwhQ2fGiQnhyA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.14938764266366877,
+                    "positive_probability": 0.8506123573363266
+                },
+                "stars": 5
+            },
+            {
+                "review": "I *really* wanted to at least add a star to my review of Cactus Grill on a return visit, but I'm very disappointed to say that I can't bring myself to do so.It happens to be very convenient to my work to go, so I decided to go on a day when burritos were the special of the day.  Wednesday's special is  Steak Burrito for $4.99, so I went with that, even though everyone who DOES like this place says that the Honey Grilled Chicken is the way to go.   Since I was getting the special, I decided to get a side of chips and salsa, thinking that just in case the burrito was terrible, at least I could snack on the chips.To their credit, the burrito was much better fare than my previous experience with the tacos.  I got the cilantro rice and black beans, but the steak just does not have that much flavor.   I got the spicy green salsa, and this salsa does carry some heat with it when you have quite a bit of it at once.  It had very little shredded cheese on it, which could have at least been a saving grace if there had been more -- they should think about going with a cheese sauce (ala Qdoba's Steak Queso burrito).  Overall, it was food and probably a decent deal for the $5 special, but I wasn't impressed on taste.So...the chips.   These were not even close to the life preserver for which I was hoping.  The chips were cold, HARD, and downright inedible.  They were only barely salted, and honestly, I was afraid I might chip a tooth.  I ate about 4, and that's all I could bear.  I got the hot salsa with those as well, and even tried soaking them a bit, but I ended up throwing most of them away.I'm sorry to those who do enjoy Cactus Grill and can't understand why I'm down on them.  Like I said before, I would like to see them succeed.  There is a severe lack of variety for lunch on south Neil near my work, and this would be a nice location if the food was more up to par.  I will give it one more shot with the chicken, just because i like burritos but refuse to fight the campus parking/traffic.  If it improves significantly, I will post an update.",
+                "reviewer_id": "xBejh2J752GEd7fdpMXP1A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.05594053022432872,
+                    "positive_probability": 0.9440594697756614
+                },
+                "stars": 2
+            },
+            {
+                "review": "Ordered delivery on a Saturday night and wanted to try something different.I ordered a chicken burrito bowl with guacamole and a fish taco. The bowl was on special for $5.25.I ordered through grubhub and delivery was kind of slow, a little over 1 hour and 10 minutes, which I guess is to be expected on a busy Saturday night. The ordering itself though was very easy and convenient on grub hub.The fish taco was surprisingly good. The fish tasted fresh, and it was a fairly large size with all the toppings. I really liked the fish and the sauce it came with. My burrito bowl was also quite tasty. The honey grilled chicken was flavorful and appeared to be of good quality. There was no shortage of toppings, especially the guacamole I paid a ~$1.30 extra for, this was fresh and delicious. The portion was large enough to save half for later, too!Overall for ~$15 delivered this was a pretty good deal. I'm not quite sure if it was better than Chipotle, but it was definitely cheaper for a comparable product. I would get Cactus Grill again for sure.",
+                "reviewer_id": "XzIKZTb4I-7wW4BjKwV2Mw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.1567704783034252,
+                    "positive_probability": 0.8432295216965917
+                },
+                "stars": 4
+            }
+        ],
+        "similar_restaurants": [
+            "sPI0AqWHMeJB_UeZ5FRscg",
+            "4MeniYcsZrwc_Cq6WSd3zQ",
+            "dXLRevtIEnAvjUhPM_zTEg",
+            "cT9uP_Lr5bz6jhIqZPlLcw",
+            "_dOcOVjrFcIKbMWX1VTdBA",
+            "UBriZt4m5BzkvNqnCeuGmw",
+            "LN0mZ37BeruC0XjyhES-ug",
+            "gVSokyUWqy14UEp_JNVL7Q",
+            "ivZo1goh7HXdep03NfA7Cg",
+            "kLHPR_eUmAsOl-XLJSSO2Q"
+        ]
+    },
+    "gVSokyUWqy14UEp_JNVL7Q": {
+        "keywords": {
+            "bigrams": [
+                "taco_bell",
+                "fast_food",
+                "answered_order",
+                "pack_box",
+                "sour_cream",
+                "guy_came",
+                "order_speaker",
+                "making_food",
+                "messed_order",
+                "part_order"
+            ],
+            "unigrams": [
+                "drive",
+                "taco",
+                "food",
+                "order",
+                "bell",
+                "service",
+                "times",
+                "back",
+                "guy",
+                "fast"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "none",
+                "Ambience": {
+                    "casual": false,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "Caters": false,
+                "Delivery": false,
+                "Drive-Thru": true,
+                "Good For": {
+                    "breakfast": false,
+                    "brunch": false,
+                    "dessert": false,
+                    "dinner": false,
+                    "latenight": false,
+                    "lunch": true
+                },
+                "Good For Groups": true,
+                "Good for Kids": true,
+                "Has TV": false,
+                "Noise Level": "quiet",
+                "Outdoor Seating": false,
+                "Parking": {
+                    "garage": false,
+                    "lot": false,
+                    "street": false,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 1,
+                "Take-out": true,
+                "Takes Reservations": false,
+                "Waiter Service": false,
+                "Wheelchair Accessible": true,
+                "Wi-Fi": "no"
+            },
+            "business_id": "gVSokyUWqy14UEp_JNVL7Q",
+            "categories": [
+                "Fast Food",
+                "Mexican",
+                "Tex-Mex",
+                "Restaurants"
+            ],
+            "city": "Champaign",
+            "full_address": "1707 S. Neil Street\nChampaign, IL 61820",
+            "hours": {
+                "Friday": {
+                    "close": "03:00",
+                    "open": "07:00"
+                },
+                "Monday": {
+                    "close": "02:00",
+                    "open": "07:00"
+                },
+                "Saturday": {
+                    "close": "03:00",
+                    "open": "07:00"
+                },
+                "Sunday": {
+                    "close": "02:00",
+                    "open": "07:00"
+                },
+                "Thursday": {
+                    "close": "02:00",
+                    "open": "07:00"
+                },
+                "Tuesday": {
+                    "close": "02:00",
+                    "open": "07:00"
+                },
+                "Wednesday": {
+                    "close": "02:00",
+                    "open": "07:00"
+                }
+            },
+            "latitude": 40.096139,
+            "longitude": -88.245141,
+            "name": "Taco Bell",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media2.fl.yelpcdn.com/bphoto/kFAM1twfNHN7a9GNm-xD3Q/ms.jpg",
+            "review_count": 12,
+            "stars": 3,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "When the other guy came up to the window I asked him why nobody answered the order speaker when I tried to order. The other time, the staff were just smoking right outside the front door, which of course was blowing into the restaurant (you guys here about the smoke-free illinois act? Last night at about around 11:30 I drove through the Taco Bell in savoy and the woman working the drive through was the nicest and most efficient fast food employee I had ever seen. ",
+        "reviews": [
+            {
+                "review": "Went here at 1:05am on the morning of January 6, 2010.The neon sign said \"DRIVE THRU OPEN,\" but nobody answered at the order speaker.  I drove up to the second window and knocked on it until some dude opened it and looked at me like I was going to sell him a fucking vacuum.  I asked if they were open, which compelled him to just turn his head and yell to the other guy in the back to come take his place.When the other guy came up to the window I asked him why nobody answered the order speaker when I tried to order.  High as a kite, he looked me straight in the eye and said, \"Ohh, dats cuz I shut off my headset fo awhile.\"He gave me a large water when I asked for one, which was great, but he didn't put the lid on all the way and I immediately spilled 10 ounces onto my crotch right before the big presentation.This place needs to by mystery shopped.Where's the oversight?  Whoever owns this joint is paying good money for the help to shut all the lights, untuck their shirts and smoke weed out back all night.  God forbid a customer of this 24-hour drive thru restaurant should interrupt the party.Quit smokin' dat chronic by the grease dumpsta an git yo dumb ass back in da kitchen.",
+                "reviewer_id": "-mqE7uZSnGEAb_quhfcyJQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9999861598903933,
+                    "positive_probability": 1.3840109610954273e-05
+                },
+                "stars": 1
+            },
+            {
+                "review": "Tried to get drive thru at 1:50am today. I guess they didn't want to make any more food because despite seeing workers walking around no one answered the drive thru.",
+                "reviewer_id": "8ufCKZCjsaqf-hhSs3K4eg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6672291187387699,
+                    "positive_probability": 0.33277088126123067
+                },
+                "stars": 1
+            },
+            {
+                "review": "This Taco Bell used to be pretty good, but their customer service has been in a steady decline and Taco Hell would be a more accurate business name. After not receiving part of my order, I called to inform that I wanted to come back later to get it. I also informed that when I was there it seemed very frenetic and hurried which was very unusual. It was then that I was told they lost their store manager, several associates and other various workers because of some 'controversy issue'. Sounds like they have some pretty serious issues, the first being competent help!The manager I spoke to flat out said it would be several weeks before they got back up and running they way they should as they are trying to get people trained. Question - Why stay open? Why not close your doors for a week and get your shit together? Won't you do more damage to the business by serving only half our orders or making them incorrectly or even making us wait for an unreasonable amount of time to even give you our order in the first place?Perhaps this summer they can work their way back to the friendly, fast service they used to have; although I'm not holding my breath. In the meantime, I suggest going to the store and getting items for homemade tacos.",
+                "reviewer_id": "99Qos7AunXZnaDogiP847w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.010310714072427998,
+                    "positive_probability": 0.9896892859275807
+                },
+                "stars": 1
+            },
+            {
+                "review": "The drive thru workers are always so polite! This location has never once messed up my order and that's awesome. The wait is usually minimal and they're quick to apologize if it takes a bit longer.",
+                "reviewer_id": "bAxtV8UYjzlugoQnRe2X0w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.45170266276369897,
+                    "positive_probability": 0.5482973372363042
+                },
+                "stars": 5
+            },
+            {
+                "review": "Not one of the better taco bells around.  It looks so beautiful, but they just fall a little short on food quality and service.  I've been here a few times and both times they put way too much sour cream in my burritos (burritos shouldn't be 1/3 sour cream... ewww), and were a little slow on the assembly times.  The staff just don't really seem to care about their jobs.  The first time I went their they guy making my food had his pants down to his knees, and although his shirt was long, it still didn't get down that far... not the guy I'd want making my food.  The other time, the staff were just smoking right outside the front door, which of course was blowing into the restaurant (you guys here about the smoke-free illinois act?).     All-in-all, not so great.",
+                "reviewer_id": "cSqolAOfIDsKu3tujDrHBw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3565573946372164,
+                    "positive_probability": 0.64344260536279
+                },
+                "stars": 1
+            },
+            {
+                "review": "I have no idea about these bad reviews. I haven't met a single employee here that was less than stellar. Out of a the tons of times my wife and I have been here they have messed an order up two times. Corrected em both without a single blink. One of the times the guy came running out of the store after U.S. Because he caught the mistake before us. 5 stars easily.",
+                "reviewer_id": "DJhCX7TvKetUR8aBYZAT_g",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4175780944886504,
+                    "positive_probability": 0.5824219055113515
+                },
+                "stars": 5
+            },
+            {
+                "review": "Have been here only once recently, during the middle of the day. Had one of the nicest cashiers. The food is what you would expect.",
+                "reviewer_id": "HaRkvzZeWypGBqo5RorbiQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4486276245140443,
+                    "positive_probability": 0.5513723754859554
+                },
+                "stars": 5
+            },
+            {
+                "review": "this has got to be the slowest service in a drive through I've ever seen.  period.  this is after three visits.  the staff is slow and don't seem to care at all.  I sat in the drive through and  literally watched ten cars go through the Hardee's drive through next door in that time.",
+                "reviewer_id": "iAjaSKsA1ADUdUaz_REuQg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9389277797703787,
+                    "positive_probability": 0.06107222022962512
+                },
+                "stars": 1
+            },
+            {
+                "review": "2nd best in Champaign, indoor is the nicest but have had suspect orders going through drive thru. 1. Springfield Taco Bell2. Taco Bell by st. Mary's and Kirby on Neil.3. Taco Bell by carle hospital.4. Taco Bell by Olive Garden and McDonald's. That one is the worst.",
+                "reviewer_id": "S7Iz8wMuxzrDN2uXEHZlnQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.12934350943145873,
+                    "positive_probability": 0.8706564905685427
+                },
+                "stars": 3
+            },
+            {
+                "review": "Friendliest service I have ever seen at a fast food place! I've very rarely ever had any mistakes in my order, and they fix them promptly with a smile.",
+                "reviewer_id": "tsdGnnqAm0bfoHpcu7adQw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8325533809831789,
+                    "positive_probability": 0.1674466190168197
+                },
+                "stars": 5
+            },
+            {
+                "review": "I don't like to write reviews for fast food but I feel that I must purely based on one person. Last night at about around 11:30 I drove through the Taco Bell in savoy and the woman working the drive through was the nicest and most efficient fast food employee I had ever seen. Kudos to T bell for hiring this lady. She was quick clear and even friendly. So often are we forced to deal with surely food service employees and this lady made my midnight taco run just a great experience. It's a Taco Bell man, I'm not really going to review the food.",
+                "reviewer_id": "twF_2RKnDgJqmKMU3K9A5w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2586463464547047,
+                    "positive_probability": 0.7413536535453004
+                },
+                "stars": 5
+            },
+            {
+                "review": "Service was horrible. Ordered drive thru 15 min at the window.  Got home. 6 min drive, and all tacos were cold. Called and phone is fax line. Worse the screwed up the order.....is watched him pack a box then unpack the box, pack another box then repack the first box.",
+                "reviewer_id": "U2mdVa6rOU6SD3Ap2LHMAA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9351630492486401,
+                    "positive_probability": 0.06483695075135645
+                },
+                "stars": 1
+            }
+        ],
+        "similar_restaurants": [
+            "2g4mMfy5COvUlzZWfuQkKQ",
+            "PYG1nrz2yYDSQk3W-vYwAA",
+            "efJQBC6yfKzUvn0Fk08vbw",
+            "dXLRevtIEnAvjUhPM_zTEg",
+            "LN0mZ37BeruC0XjyhES-ug",
+            "_dOcOVjrFcIKbMWX1VTdBA",
+            "cT9uP_Lr5bz6jhIqZPlLcw",
+            "sPI0AqWHMeJB_UeZ5FRscg",
+            "1ZMcQNF-hHL0nJSnh5_a4w",
+            "4MeniYcsZrwc_Cq6WSd3zQ"
+        ]
+    }
+}

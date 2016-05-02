@@ -1,0 +1,2335 @@
+{
+    "9nmeU-OOyxkn8vRy5dolNg": {
+        "keywords": {
+            "bigrams": [
+                "honey_bread",
+                "green_tea",
+                "milk_tea",
+                "caffe_bene",
+                "espresso_royale",
+                "bubble_tea",
+                "bubble_teas",
+                "thai_tea",
+                "drinks_food",
+                "red_bean"
+            ],
+            "unigrams": [
+                "tea",
+                "coffee",
+                "place",
+                "good",
+                "bread",
+                "honey",
+                "service",
+                "drink",
+                "milk",
+                "bubble"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "none",
+                "Ambience": {
+                    "casual": false,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": true,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "Caters": false,
+                "Delivery": false,
+                "Good For": {
+                    "breakfast": false,
+                    "brunch": false,
+                    "dessert": true,
+                    "dinner": false,
+                    "latenight": false,
+                    "lunch": false
+                },
+                "Good For Groups": true,
+                "Good for Kids": true,
+                "Has TV": false,
+                "Noise Level": "average",
+                "Outdoor Seating": false,
+                "Parking": {
+                    "garage": false,
+                    "lot": false,
+                    "street": true,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 2,
+                "Take-out": true,
+                "Takes Reservations": false,
+                "Waiter Service": true,
+                "Wi-Fi": "paid"
+            },
+            "business_id": "9nmeU-OOyxkn8vRy5dolNg",
+            "categories": [
+                "Food",
+                "Gelato",
+                "Coffee & Tea",
+                "Cafes",
+                "Restaurants"
+            ],
+            "city": "Urbana",
+            "full_address": "700 S Gregory St\nUrbana, IL 61801",
+            "hours": {
+                "Friday": {
+                    "close": "23:00",
+                    "open": "07:00"
+                },
+                "Monday": {
+                    "close": "23:00",
+                    "open": "07:00"
+                },
+                "Saturday": {
+                    "close": "23:00",
+                    "open": "07:00"
+                },
+                "Sunday": {
+                    "close": "23:00",
+                    "open": "07:00"
+                },
+                "Thursday": {
+                    "close": "23:00",
+                    "open": "07:00"
+                },
+                "Tuesday": {
+                    "close": "23:00",
+                    "open": "07:00"
+                },
+                "Wednesday": {
+                    "close": "23:00",
+                    "open": "07:00"
+                }
+            },
+            "latitude": 40.1065109,
+            "longitude": -88.2218027,
+            "name": "Caffebene",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media2.fl.yelpcdn.com/bphoto/26wFUYu6fSVMyNnGkAJKyQ/ms.jpg",
+            "review_count": 43,
+            "stars": 2.5,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "I think this place is so new that they still need time to work out their menu and service. Caffe Bene has a lot of drinks that I would love to try but it is so overpriced. Tea is better than coffee. ",
+        "reviews": [
+            {
+                "review": "I have to say that I went into Cafe Bene due to my remembrance of them from Korea, and despite the majority of their reviews here on Yelp. I don't particularly love the coffee, as it's not really coffee, like Starbucks, but I like the atmosphere, staff and the Korean nostalgia I get when I am inside. The prices are steep but mainly on stuff that is not the coffee, such as the bingsoo or waffles. I would say that Cafe Bene beats out the, close, neighboring competition by a long shot; Caffe Paradiso and Espresso Royale are really no good in the coffee department.",
+                "reviewer_id": "3NU4UJWlsVIl6kSYouaFxA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4135073720646297,
+                    "positive_probability": 0.5864926279353743
+                },
+                "stars": 4
+            },
+            {
+                "review": "Really cool decor and quick service. There were plenty of places to sit and the coffee was good.",
+                "reviewer_id": "3TEDeHdeZTXJ10aiF6D9jw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6038292884241333,
+                    "positive_probability": 0.39617071157586553
+                },
+                "stars": 5
+            },
+            {
+                "review": "Looking for good boba? Not here for flavor.  The boba pearls have the right chewiness, not too chewy that they stick to your teeth and not over-cooked, but the Thai tea flavor is less than desirable, too sweet and artificial, kind of like a vanilla nutritional shake",
+                "reviewer_id": "4-Hp9qXgQzNCbIl8eO0pkQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7150221700073428,
+                    "positive_probability": 0.28497782999266097
+                },
+                "stars": 2
+            },
+            {
+                "review": "They have the best bubble tea. The short polish supervisor so nice. The tall white guy cashier is nice too. An american japanese mix staff is nice as well. But seriously, they have the best bubble tea in town and much better than cocomero. VERY OK. I wish they can lower the price",
+                "reviewer_id": "4BpebVtsFKHI3NIIBN3kPg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.020461867094442632,
+                    "positive_probability": 0.9795381329055545
+                },
+                "stars": 5
+            },
+            {
+                "review": "The waffles here are to die for! And the sandwiches are absolutely delicious, too. The ambiance is perfect for studying -- they always have chill music on and there's little noise.",
+                "reviewer_id": "5akyCz84KFjU4swH5Y6bjw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.05181215137495194,
+                    "positive_probability": 0.9481878486250482
+                },
+                "stars": 5
+            },
+            {
+                "review": "Love the brand and their product. But this local one is just not satisfactory. Ordered a hot bubble but it was at most warm. This is not the first time this happens. I like Caffe Bene so I try to visit often and like this one. But after many time's trying I am just disappointed with such high price and low service.",
+                "reviewer_id": "6b8GdWkh70b9fzpm6eDDtQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.04891614239421891,
+                    "positive_probability": 0.9510838576057825
+                },
+                "stars": 1
+            },
+            {
+                "review": "I think this place is so new that they still need time to work out their menu and service.Staffs were friendly but service was really slow and there were barely any customers when I went.Had coffee latte which was very very light barely any coffee taste...hmm not that good, my cousin tried the mojito and she liked it.We also ordered the honey toast with strawberry and cream cheese, the presentation was very pretty but I wish they would toast it a bit longer to give it a little extra crunchOverall a good spot to chill if they can improve their drinks and food",
+                "reviewer_id": "8FwUsJTeIU9aZwsJsKb34A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.017915887440257183,
+                    "positive_probability": 0.9820841125597447
+                },
+                "stars": 2
+            },
+            {
+                "review": "I  their red bean ice parfait & their strawberry honey bread! The red bean ice is sweet red beans over crushed ice, gelato, mochi, & almonds. The honey bread is this special bread that's lightly toasted so that it's slightly crispy on the outside & chewy soft on the inside. It's topped with sweetened strawberries & cheese. So good! While beautifully presented, the menu item are pricey. I spent $15 for the red bean ice & the honey bread. But the ambiance is lovely & inviting. It's a nice place to take a date or to treat yourself.",
+                "reviewer_id": "8O97RbJ486J3qQVOq98Obg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0016872743807429156,
+                    "positive_probability": 0.9983127256192588
+                },
+                "stars": 4
+            },
+            {
+                "review": "Large area with nice atmosphere. Really fast and consistent Wi-Fi. Spacious desks and really comfortable chairs. Perfect place to study or socialize, whichever suits your fancy.It ends there. Their coffee is always a disappointment - the regular blend is too sour. Latte based drinks too heavy on the milk. Espressos are always overdrawn.Im not sure about the safety standards either. I had the waffle with strawberries (overpriced, btw) and the strawberries smelled/tasted fishy. That happens when fruits are old/unclean/beginning to rot, as I learned from my experiences working as a produce handler. Service is not exactly unfriendly, but completely incompetent. They either have to ask your order multiple times or just flat out get it wrong-both the type and quantity of the order.I've also had a time when I've ordered a 'for here' drink (since they asked, \"for here or to go?\") and it was served me in a paper cup. I then went up two more times to get that same drink, and both times they asked \"in a for here or to go cup?\" so I said 'for here' and all three times it was given me in a paper cup. Insulting.",
+                "reviewer_id": "aX8hmnedCsrLJ7HmD8hwvQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.011898431101817061,
+                    "positive_probability": 0.988101568898174
+                },
+                "stars": 2
+            },
+            {
+                "review": "Ambience.  9/10.  Looks nice, feels clean, comfortable.Customer Service.  8/10.  Assistant manager was great, knowledgeable, helpful.Taste.  2/10.  Misugaru latte tasted like drinking dissolved chalk in water.  Classic Arnold palmer was a very badly conceived balance of tea to lemonade.  Honey bread was 99% standard dry bread.  Though it tasted okay, the dryness from the rest of the bread overtook any toppings added to it.Value.  1/10.  Honey bread is probably something close to a 2000% markup on ingredients.  Cannot go here regularly without breaking the bank.  If the taste and quality and consistency of the drinks was commensurate with the price, then that'd be different since the upcharge would be tied to a higher level of enjoyment from a higher quality product.  But it seems like they are peddling cheap and badly made drinks and food, for outrageous prices.Going once a year is probably a good bet for this place.  Going too often will make you poor, and will leave a bad taste in your mouth (if the food and drink hasn't already), because you feel as though you've paid for a meal and a drink, but have been given a hodgepodge of 10 cent ingredients prettied up to look good.  Great ambience, and customer service only get you so far when the food and drink you serve is inconsistent, outrageously priced, and lackluster at best.",
+                "reviewer_id": "caluWO9tlhaM4K0dW-KnrQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9934939726865726,
+                    "positive_probability": 0.006506027313432666
+                },
+                "stars": 1
+            },
+            {
+                "review": "Sam the manager makes a special effort every time we come in! I recommend the green tea latte, and the star berry honey bread. The sandwiches are perfectly toasted and the meat to bread ratio is ideal.",
+                "reviewer_id": "cLp7qO6dBvSMJTd41sx7mw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.011489004686706512,
+                    "positive_probability": 0.9885109953132903
+                },
+                "stars": 5
+            },
+            {
+                "review": "I love the blended ice!!!!!!!!Size is great for three people and the fruit is fresh. Will come again.",
+                "reviewer_id": "DAiLBswuFZBkSRVjOxN99Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.09774085381188044,
+                    "positive_probability": 0.9022591461881189
+                },
+                "stars": 5
+            },
+            {
+                "review": "Overpriced for what they offer.  $7 for a double scoops of glorified ice cream.  It's not gelato.  I've been to Europe and know what gelato is.",
+                "reviewer_id": "fcOSikb8hNmO2AK8OtaRkA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4926038187809017,
+                    "positive_probability": 0.5073961812190988
+                },
+                "stars": 2
+            },
+            {
+                "review": "Food was good, service was great, had 3 different drinks and they were all good! (Misutgaru Frappe, Mango Mojito, Green tea Frappe) My only complaint is that the cafe is too quiet so people had to whisper. Hope they provide some music so we can talk more freely.",
+                "reviewer_id": "foXba5jSRv9vL98LZ_x40w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.04905572247086195,
+                    "positive_probability": 0.9509442775291372
+                },
+                "stars": 5
+            },
+            {
+                "review": "Woke up this morning to a message on yelp (which I've never gotten) from Samantha A who told me: \"I am a customer at caffe bene and its great to have this unique cafe in urbana, since it just opened, the staffs might not be fully trained  and  probably still in the training process. I just want to say that your message just make me want to throw up, your a retard I hope you will never come back to caffe bene again.\"Did I just receive internet hate? Also, people feel this strongly about this place? The drinks I ordered wanted to make me throw up, which may explain why my review was vomit-inducing. It doesn't take much training to mix in the powder into the liquid. The drinks we got when I was there was half powder floating on top of the ice and milk. I will admit that I haven't been back since I was there last time but since then I haven't heard anything good about the place. Giving it another one star rating in place of a friend who went and was terribly disappointed. Don't expect decent coffee here. Paradiso is just a block away, go there instead.",
+                "reviewer_id": "fqQJv6t0UuHJF-riTzUXuA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.08765772958736825,
+                    "positive_probability": 0.9123422704126247
+                },
+                "stars": 1
+            },
+            {
+                "review": "I find their products a little on the expensive side and of average quality at best. I found the service to be rude. When I went to order the guy just stared at me, he didn't say a single word. No \"hello,\" or \"welcome,\"or \"thank you.\" He just looked at me, and idk it felt as if I shouldn't be there. When the next customer went to order he suddenly found his tongue, and was polite. He gave me my drink in silence of course, and I originally planned to relax there for a bit but decided to book it. Thanks but no thanks. I'd rather go to the other coffee shops on campus, where I get more bang for my buck as well as some decent service.",
+                "reviewer_id": "FRLLAr8PxsFAgBoL2mF8BQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6905347512827691,
+                    "positive_probability": 0.309465248717228
+                },
+                "stars": 1
+            },
+            {
+                "review": "a Korean cafe whose only tea is \"Mighty Leaf\" tea bags?  the only green tea is a sweet fake flavor \"tropical green tea.\" Not even kidding.  what in the world?  there must be some mistake.",
+                "reviewer_id": "iAjaSKsA1ADUdUaz_REuQg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5384045711657401,
+                    "positive_probability": 0.46159542883425864
+                },
+                "stars": 2
+            },
+            {
+                "review": "Over priced but solid coffee and desserts.  It makes this place a \"once in a while\" \"treat yo'self\" kind of a place rather than a regular study spot.  But, with that said, I love the decor, love the space, think it's great for studying to hanging out, and even think the uniforms are kind of cute in a fun way.  On a student budget though it's definitely not somewhere I would go often especially when there are more reasonably priced places really close by.",
+                "reviewer_id": "iKt9RWLOS_PE4SKBRFkKww",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.03772080168348431,
+                    "positive_probability": 0.9622791983165149
+                },
+                "stars": 3
+            },
+            {
+                "review": "This place is terrible! Today I ordered a bubble milk tea and they only gave me ONE bubble!! On top of that the cup was only half full!!The little bit I got was mediocre at best as well. I'm not sure why this place is so popular and honestly I think campustown is better off without these cheats.Caffe Paradiso and Espresso Royale aroUnd the corner are much, much better.",
+                "reviewer_id": "iUX8nBx1bCJvsmefdpYsLA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.28996562513666757,
+                    "positive_probability": 0.7100343748633287
+                },
+                "stars": 1
+            },
+            {
+                "review": "The coffee is quite good. It's always my go to place in champaign. I love the space, it's comfy and so good for working. Definitely cheaper than other coffee places in champaign. Usually order frappe coffee and never tried anything else though.The place is getting better after a year opening.",
+                "reviewer_id": "J_RuYVPEDZBtP70iH-_PRg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4708457362828246,
+                    "positive_probability": 0.5291542637171732
+                },
+                "stars": 4
+            },
+            {
+                "review": "Yesterday we ordered 4 espresso drinks (two double and two macchiatos) and the coffee was so horrible that none of us was able to drink it!! We should have been warned when we asked what a \"cortado\" was and they told us it was an espresso with foam (I knew it was an espresso with a drop of milk but just wanted to confirm)I would like to go back because the place looks really good, but if the quality of the coffee doesn't improve, I'll continue going to espresso royale and Starbucks!I just wish I could get my $15 back!!",
+                "reviewer_id": "JhBejSzFKyNRwCV02fUxhA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8918885224334944,
+                    "positive_probability": 0.10811147756649793
+                },
+                "stars": 1
+            },
+            {
+                "review": "Although they've only been around for almost half a year, I think Caffebene is getting a lot better! First things first, they did lower their prices (which actually scared me off initially) and they're around the same/less than Starbucks. They're opening a new location on Green Street, so I hope they handle the first weeks better.The interior is really trendy and usually quiet, so it's a nice place to grab a cup of coffee and study. Their green tea frappe is alright. I think it's a bit too icy and Starbucks makes it better. However, the honey bread is fantastic! I got the strawberry honey bread to go and it's absolutely gorgeous how they package their food. The bread is really sweet and thick, drizzled in honey, and on top is an arrangement of strawberries in the form of a flower. I was wondering why it took so long for it to come out, but it's definitely worth the wait! Their gelato is also fantastic and they give you a lot for $2. I recommend getting the green tea or Greek yogurt flavors.They also have meal options and tons of the cutest desserts, so I definitely plan to return and try them!",
+                "reviewer_id": "JsHky2NY-FvugF8WTMsZtQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.006682492665708826,
+                    "positive_probability": 0.9933175073342969
+                },
+                "stars": 4
+            },
+            {
+                "review": "Little pricy for the coffee and other beverages but it's a great place to hang out with friends and catch up. Also free wifi!",
+                "reviewer_id": "KkfMD7Erl0f1UYsncCbN_w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4286620609723186,
+                    "positive_probability": 0.5713379390276806
+                },
+                "stars": 3
+            },
+            {
+                "review": "Terrible. My friend and I both found small black hairs in our sandwiches. I have long brown hair and she has long blonde hair. Ewwww. Never going back.",
+                "reviewer_id": "mXNOb1FN4kx3410_PHNWOg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.22620730061665253,
+                    "positive_probability": 0.7737926993833456
+                },
+                "stars": 1
+            },
+            {
+                "review": "The menu is unique, the staff is very friendly and professional. I particularly like their green tea. Unlike Espresso Royale, their internet works fine.However, their menu is definitely overpriced, which is why I am giving them 3 stars.",
+                "reviewer_id": "OAdPAAvheazyY5PQLLIA5A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.11355375466666431,
+                    "positive_probability": 0.8864462453333369
+                },
+                "stars": 3
+            },
+            {
+                "review": "The trainee at the counter was really nice and polite. The lady that was supervising her was very rude. When I ordered a drink called misugaru, the trainee was trying to figure out how to order. The supervisor came over rudely and asked me \"what are you trying to order\" in a really off putting way. The trainee was EXTREMELY polite by the way! When the drink came out it was not what I was expecting, and really gross. We spent $18 at the place, so I went to the counter immediately and explained it wasn't what I was expecting and if possible I'd like to change my order. The trainee apologized and went to ask her supervisor. The supervisor, right in front of me, wouldn't turn around. She told the trainee \"ummm no I don't think we do that\". The trainee apologized. Bad experience. I didn't expect a free drink, even though we spent a lot of money. I at least wanted the supervisor to look at me and explain instead of Laying it on the very nice trainee.I ended up drinking most of the misugaru. I like healthy carb options, and it's not all the bad. The initial taste was weird but it's okay. It's a multi-grain mill drink. The only thing is that when I spend a lot of money at a place, and unfortunately order something I don't enjoy, I hope the supervisor comes out to ask what's wrong...",
+                "reviewer_id": "owcAFYn1C9Kk6p6O6_e-kg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0010037396641224834,
+                    "positive_probability": 0.9989962603358821
+                },
+                "stars": 1
+            },
+            {
+                "review": "Trip wires (laptops plugged in) everywhere.  Popular place for college kids that want to watch you fall down as they cram for that big final.  Green tea tastes good.  Due to claustrophobic and hazardous atmosphere, one star.",
+                "reviewer_id": "Pf9u0w51teFtQAotF9AIGQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.45470691397901397,
+                    "positive_probability": 0.5452930860209813
+                },
+                "stars": 1
+            },
+            {
+                "review": "As an update to my last review, where I made a vow to myself to get the honey bread, I finally did it and have no ragrets - not even a single letter. The strawberry honey bread is so so so amazing, so do yourself a favor and GET IT 'cause it just bumped my review from 4 to 5 stars.",
+                "reviewer_id": "PQP-FYkWXOG4kBlk_IP5jw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.905553882876748,
+                    "positive_probability": 0.09444611712324799
+                },
+                "stars": 5
+            },
+            {
+                "review": "Tea is better than coffee. Sandwich is okay.Environment is great. Things look better than taste. A bit pricy. A good place to study or spend time with friends here.",
+                "reviewer_id": "QsAobsbzxzEeBOCO0hVFZQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.20315567006566995,
+                    "positive_probability": 0.7968443299343305
+                },
+                "stars": 3
+            },
+            {
+                "review": "Overpriced. The wait is forever. Don't order anything when you are in a hurry.Bubble milk tea is not as good as CocoMero. The only good thing is that they make it after you order it so you can adjust it by \"less sugar\", \"less ice\", etc. as opposed to the pre-made milk tea at CocoMero which you can't ask for less sugar. Besides that, CocoMero serves better milk tea (better taste with a similar price).Pistachio macaroons are okay (don't compare them to Ladure). Other flavors are \"meh\". Staff is nice today.",
+                "reviewer_id": "rtuCiuC3BpzuUiyUTtQY3Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.026949445490301954,
+                    "positive_probability": 0.9730505545096939
+                },
+                "stars": 2
+            },
+            {
+                "review": "Caffebene is not necessarily my go-to campus coffee shop, but I have always found it to be a great space to work. I absolutely love the interior! They always seem packed with students on weeknights during the academic year, but it is not hard to find a spot in the morning or early afternoon.Their menu items tend to be a bit pricey. However, if you download an app called \"Hooked\" on your smartphone, you can get deals that include 'buy one coffee drink, get one free,' '50% off any mojito drink,' and 'double scoop gelato for the price of a single scoop.' This makes their drinks a lot more affordable.",
+                "reviewer_id": "sRoFGJ6Avpl21hMDwQPViw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3735984405782049,
+                    "positive_probability": 0.6264015594217955
+                },
+                "stars": 4
+            },
+            {
+                "review": "OverpricedLow ValueLong wait timesPoor quality.If these things describe your coffee go here.",
+                "reviewer_id": "szeyvf-9IJYrStx-REUSLg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5979205282593514,
+                    "positive_probability": 0.40207947174064906
+                },
+                "stars": 1
+            },
+            {
+                "review": "This place is apparently a hugely famous Korean coffee chain that's all over Southeast Asia and was brought here to cater to the foreign Asian student population. I got the Thai milk bubble tea and it was certainly... milky. There was a Thai iced tea flavor/color to it, I'll give them that, dunno how well it mixes with tapioca pearls, and for the price I'll go across the street to Basil Thai. Everything in here was hilariously expensive. I got a blueberry muffin that could have been purchased at Sam's Club by the pallet for the same level of quality. The place is clean, the uniforms are cute, and I'm sure the homesick ex-pats will keep it in business, but for those prices vs. quality I'll be going elsewhere.",
+                "reviewer_id": "tBiAJtAB4RsXiB4uWxtWrA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.08152756549905883,
+                    "positive_probability": 0.9184724345009397
+                },
+                "stars": 2
+            },
+            {
+                "review": "Trendy interior, quiet atmosphere, decent enough customer service; if you want to work for long hours with a consistent supply of snacks and coffee, I would like to recommend this one. However, this caffe lacks originality unlike the nearby ones (Caffe Pardiso/ Espresso Royale). I definitely do not expect ready-made pack of sushi in front of the cash counter of a caffe. Also, I saw a wide variation of breads and other baked products which did not seem appealing for my taste bud. I have had cappuccino and chai latte over here. Cappuccino was good but the chai latte was lukewarm and lacked spices.",
+                "reviewer_id": "TuVs2IndRJ6BPHy2uKiEOQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.12826179018321296,
+                    "positive_probability": 0.8717382098167817
+                },
+                "stars": 3
+            },
+            {
+                "review": "Update--service is a bit better than before (compared to a year ago) however, the wait time is still on the longer side. As for taste, it is still on the lower quality. Their milk teas and bubble teas are still powder based which doesn't surprise me as it is part of a chain. However it blows my mind that something as simple as milk tea requires powder packets for the sake of convenience. As for their coffees, I'd love to see the beans treated with the respect they deserve. There's much more than just sticking a label on it \"from Ethiopia\" or \"Fair Trade\". Overall, it's not somewhere I would choose to go to.",
+                "reviewer_id": "vE5J5zkcL29uEcp83La6xw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6885511146524403,
+                    "positive_probability": 0.31144888534755527
+                },
+                "stars": 1
+            },
+            {
+                "review": "Service and ambiance are both alright, but the food is lacking... The gelato is good but it really shouldn't be called gelato.",
+                "reviewer_id": "vkCiqr-_zb4_gv7nr1C3HQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.13794035960281856,
+                    "positive_probability": 0.8620596403971809
+                },
+                "stars": 3
+            },
+            {
+                "review": "Almost every time I order something, they make mistakes. For example, they forgot to make my coffee, they served you different kind of muffin, and they don't even apologize. Everything is very expensive. Bubbles are half cooked and not chewy at all. People working in this places are not well trained and seem rude to me.",
+                "reviewer_id": "WQUaC-8zxLg3dphaLu9cYA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5504820503963475,
+                    "positive_probability": 0.44951794960365316
+                },
+                "stars": 1
+            },
+            {
+                "review": "Caffe Bene has a lot of drinks that I would love to try but it is so overpriced. The inside of the place is amazing. They have a clean and cool atmosphere. This is a great place to meet international students. If you want coffee go somewhere else. I did try their mango smoothie and loved it.",
+                "reviewer_id": "xkOQUAqnU-u6qSj9pBtukA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.23390506735876748,
+                    "positive_probability": 0.766094932641232
+                },
+                "stars": 1
+            },
+            {
+                "review": "I tried some latte drink, honey bread, and waffles. The drinks take forever to be ready. They have a weird serving system going on. When it was crowded, there was confusions about who orders what. The ambience is good for studying and just chilling. They were picky about the wiFi and I think they changed the password pretty often. The honey bread is ok and the waffles is really soft and yummy. However, I think this place is so overpriced to be on a campus area.",
+                "reviewer_id": "xUu9gORsM_AEWJjiEN4fHg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.915821479589729,
+                    "positive_probability": 0.08417852041027314
+                },
+                "stars": 2
+            },
+            {
+                "review": "Delicious food and drinks with excellent presentation. Very cool atmosphere. And Sam (the manager) is great!",
+                "reviewer_id": "Yn0eunW_N8_FA8wJ1gjT4w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2830292525710596,
+                    "positive_probability": 0.7169707474289412
+                },
+                "stars": 5
+            },
+            {
+                "review": "I really really do not like this place. They charge close to $10 for honey bread.It's literally a piece of bread with honey, whipped cream, and fruit on top. Rip off. Also their bubble tea is gross, clearly from a powder, and tastes super artificial... Just don't come here!!! This is one of the only businesses in town that I sincerely hope closes. I know they are a huge chain in Korea and with such a big Korean population during the school year I assume it will thrive, so I guess it's here to stay (and suck.",
+                "reviewer_id": "YoPW8tMhI5qFogajExJZXw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.47916868347152586,
+                    "positive_probability": 0.5208313165284713
+                },
+                "stars": 1
+            }
+        ],
+        "similar_restaurants": [
+            "p8GMdsCCy-NV_wZuDaU2Jw",
+            "tSObxv4wRa99nEDaB8Xisw",
+            "YkKEsYsSpOkDBbHBGKuWQA",
+            "bcW-OuYklAXeEZWBgc7TaA",
+            "oHKjjwehNipcGIYBThWg9w",
+            "ey7-ihj-OjM4sEOwWTc06Q",
+            "jg8rb2o3n0WTB1cBxhEycg",
+            "DntkMrzlbFPdOdxJtEWLBw",
+            "0P0XckSv_2_ZNKoYlhT4Gw",
+            "caK31Iq3TClNCRB9WH9lhQ"
+        ]
+    },
+    "YkKEsYsSpOkDBbHBGKuWQA": {
+        "keywords": {
+            "bigrams": [
+                "caffe_paradiso",
+                "cup_coffee",
+                "coffee_shops",
+                "coffee_shop",
+                "pretty_good",
+                "great_place",
+                "place_study",
+                "favorite_place",
+                "iced_coffee",
+                "free_wifi"
+            ],
+            "unigrams": [
+                "coffee",
+                "place",
+                "good",
+                "great",
+                "paradiso",
+                "time",
+                "food",
+                "sandwich",
+                "cafe",
+                "drink"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "none",
+                "Ambience": {
+                    "casual": true,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "Caters": false,
+                "Delivery": false,
+                "Good For": {
+                    "breakfast": false,
+                    "brunch": false,
+                    "dessert": false,
+                    "dinner": false,
+                    "latenight": false,
+                    "lunch": false
+                },
+                "Good For Groups": true,
+                "Good for Kids": true,
+                "Has TV": false,
+                "Noise Level": "quiet",
+                "Outdoor Seating": true,
+                "Parking": {
+                    "garage": false,
+                    "lot": true,
+                    "street": true,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 1,
+                "Take-out": true,
+                "Takes Reservations": false,
+                "Waiter Service": false,
+                "Wheelchair Accessible": true,
+                "Wi-Fi": "free"
+            },
+            "business_id": "YkKEsYsSpOkDBbHBGKuWQA",
+            "categories": [
+                "Food",
+                "Coffee & Tea",
+                "Sandwiches",
+                "Restaurants"
+            ],
+            "city": "Urbana",
+            "full_address": "801 S Lincoln Ave\nUrbana, IL 61801",
+            "hours": {
+                "Friday": {
+                    "close": "23:00",
+                    "open": "07:00"
+                },
+                "Monday": {
+                    "close": "23:00",
+                    "open": "07:00"
+                },
+                "Saturday": {
+                    "close": "23:00",
+                    "open": "07:00"
+                },
+                "Sunday": {
+                    "close": "23:00",
+                    "open": "07:00"
+                },
+                "Thursday": {
+                    "close": "23:00",
+                    "open": "07:00"
+                },
+                "Tuesday": {
+                    "close": "23:00",
+                    "open": "07:00"
+                },
+                "Wednesday": {
+                    "close": "23:00",
+                    "open": "07:00"
+                }
+            },
+            "latitude": 40.1057373,
+            "longitude": -88.2194085,
+            "name": "Caffe Paradiso",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media4.fl.yelpcdn.com/bphoto/icRpP8yEKWoJ9BH7H-Wo0w/ms.jpg",
+            "review_count": 79,
+            "stars": 3.5,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "Great coffee. I love the coffee and food at Paradiso. This place is great for people-watching also. ",
+        "reviews": [
+            {
+                "review": "This coffee is strong and smooth.  Excellent flovor.  Excellent atmosphere with plenty of seating.",
+                "reviewer_id": "-9JGmOgqza0FDkzYLP48Zw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.19832375074479142,
+                    "positive_probability": 0.8016762492552097
+                },
+                "stars": 5
+            },
+            {
+                "review": "- Overrated- Expensive- HipstersThree strikes and you're out, Caffe Paradiso.",
+                "reviewer_id": "-C93MHl3n-O_5KU_zGjEgQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3878357588725222,
+                    "positive_probability": 0.6121642411274779
+                },
+                "stars": 2
+            },
+            {
+                "review": "Enjoyed a fantastic soy latte. Perfect amount of foam. Breakfast sandwich was average (bagel, bacon, egg). Love the large tables and plentiful outlets. Prices are a little high but the quality of drinks and atmosphere make it worthwhile.",
+                "reviewer_id": "-DT5p9_ewd_jQOM3TAj2kQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.31083235201839465,
+                    "positive_probability": 0.6891676479816046
+                },
+                "stars": 4
+            },
+            {
+                "review": "I preface this with the fact that I just got my seasonal flu vaccine and it's making me feel like crap.That said, Paradiso, very very very lightly flavored (and I use that word generously) iced water does not \"organic sweet plum berry\" iced tea make!  There was nothing sweet, plum, or berry about it, and certainly nothing flavorful enough about it for me to tell you if it was organic.  I want my $2.75 plus $0.50 metered parking fee back, thank you very much.In my less cantankerous moods, decent coffee (they carry Intelligentsia beans, but none of the supposedly godly Los Delirios), decent pastries, free wifi, but overall pricey as hell (something about the fees for green coffee going up).  Combined with the hordes of happy chirpy undergrads that frequent this place, I'll be taking my business somewhere else.",
+                "reviewer_id": "-Yk1KPbMJGY5OkRUeo8jlw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.025652592268842766,
+                    "positive_probability": 0.9743474077311629
+                },
+                "stars": 3
+            },
+            {
+                "review": "My absolute favorite place to get a cup of coffee, as they serve Intelligentsia and they (usually) brew it up strong.  Good sandwiches, too.  I think Tuesday and Thursday they have an Italian beef on the menu.  Not made strictly \"traditional\", but an awesome version nonetheless.  The only downside is that their brewed coffee is noticeably more expensive than Espresso Royale or Starbucks, so I usually visit Paradiso to treat myself.",
+                "reviewer_id": "1Q2Ea4vyB90zRqwAHjfCDg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.019650449084753902,
+                    "positive_probability": 0.9803495509152422
+                },
+                "stars": 4
+            },
+            {
+                "review": "This place has a tendency to turn into a big-time hipster hangout. This isn't necessarily a bad thing, but be prepared to face an unwarranted level of pretentiousness on occasion here. However, most of the time it's a fine place to sit and do some school work or meet with friends.That said, Paradiso has probably the best coffee in the area. They serve Intelligentsia, which is an excellent call on their part. It's one of my favorite coffees and the people working seem to know how to properly make their coffee as well. With some other unnamed local coffee shops raising their prices but still turning out burnt tasting and inconsistent espresso, this should really be your first choice locally.I've never had their food, but it has a good reputation as far as I know.",
+                "reviewer_id": "27gcq2AD3VLDXJw9Wukc4A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.00025303760728802673,
+                    "positive_probability": 0.9997469623927215
+                },
+                "stars": 4
+            },
+            {
+                "review": "Their half sammiches are gigantic.  The ciabatta bread was very good, and word on the street is that the nine-grain is to die for.  Something in my roast beef provolone sammich didn't sit right with my stomach though.  I may be reverting back to the Jimmy John's 2 doors down for my 'wich fix now.",
+                "reviewer_id": "2sklUYBnk7LxzM-11yPUPg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9175438334776109,
+                    "positive_probability": 0.0824561665223868
+                },
+                "stars": 3
+            },
+            {
+                "review": "Love the small-town, college feel of this cafe. I ordered a sandwich and root beer float. They didn't have root beer so I had a Mexican coca cola float instead. It was decent but it was a bit long for the wait of my food. The sandwich came with chips and was generously loaded with ingredients. Happy about that! It seemed like a study spot for college students. Overall, I'd probably stop at this place again when I'm in Champana.",
+                "reviewer_id": "3WoVpAqb3fFnytbLUeTPyQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9524312603299032,
+                    "positive_probability": 0.04756873967009556
+                },
+                "stars": 4
+            },
+            {
+                "review": "The clientele is made up of two seemingly incongruous groups: (1) trendy Koreans, and (2) burnt-out hipsters who spend their time staring forlornly out the windows and smoking cigarettes.  College students monopolize tables for hours, so good luck finding a seat on the weekends and afternoons.  If you are not averse to meeting strangers, most people are willing to share their table if asked.Paradiso also can't seem to hold onto owners.  If you ever come here and feel slighted by the service, wait a few months and the management will have been replaced.  Each owner makes few changes to the menu, though you'll see their personal touches elsewhere (the current one seems to love those hand-painted, ceramic houses that grandmothers collect).In spite of its quirks, Paradiso is the best place in town for coffee and espresso.  They serve Intelligentsia Coffee, which is unrelentingly bold and rich; if you hold the coffee to the light you'll see that it is completely opaque.  After a cup, I usually feel as though I just had a particularly filling breakfast.Like most cafes, the food is bland and expensive, but suffices if you have managed to acquire a table and don't want to risk losing it by leaving for real food.  The best part of sandwiches is the bread, which is provided by Mirabelle (a fine bakery in Urbana).  Chips are usually smashed into a coarse dust before being served.  I've had the best luck with the pasta salad, though it is only offered in the summer and some of its variations are fairly terrible (any \"pesto\" version can be considered safe).",
+                "reviewer_id": "6nqakbu2zU6fjOmbE83_-A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 2.9727408011011264e-06,
+                    "positive_probability": 0.9999970272591997
+                },
+                "stars": 3
+            },
+            {
+                "review": "i had a great lunch here last week with a friend.  i felt truly sad that i had not frequented this place more often.  i used to come here a bit more when it first opened 12 years ago, but then sort of forgot about it.atmosphere:complete diversity with construction workers, students, faculty, local business people.  super tall ceilings with mismatched furniture and about the lowest key vibe you can find in CU.food:we both had exactly the same thing, green iced tea, hummus plates, and white bean soup.  we splurged and bought the $6.75 Vosges chocolate bar to celebrate both of our impending moves.The food was delicious and super cheap, save for the chocolate bar.I am now trying to cram in a few more lunch dates here before the departure.",
+                "reviewer_id": "6pC5j-hfP4xLZB2W0Wi1vg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.09436356727120776,
+                    "positive_probability": 0.9056364327287981
+                },
+                "stars": 5
+            },
+            {
+                "review": "I'm really disappointed to write this update, but after several months of denial about what has become of Paradiso, I'm finally admitting that it's time.My experiences here have been getting progressively worse for awhile now.  Service is as bad as ever, which I used to be happy to overlook because the food and coffee were so great. Now the soups are being over-seasoned with heavy handed doses of curry powder, dill, and what tastes like artificial smoke flavoring, but ironically lack salt and pepper.  The vegetables and legumes are also usually undercooked (we're talking crunchy peas) while the pasta is overcooked and mushy. Their soups used to consistently wow me, but I can't remember the last time I had one that was even passable. Sandwich fixings are being poorly cut so you end up with things like half inch thick cucumber slices and bread of wildly different sizes on either side of the sandwich. Portion sizes are also shrinking to the point of ridiculousness, and the cup of soup for (i believe) $3.50 is becoming increasingly offensive.   Prices overall have gotten pretty nuts.  Today I spent over $12 on a half sandwich/soup combo with which I was given very little soup, a pastry, and a bottle of water that they didn't actually ever give me.  It was pretty much the nail in the coffin for my Paradiso lunch habit.Paradiso, please take note! You were once my favorite place for lunch and had soup so good I was willing to wait forever to get it. Please get your act together so I can love you again!",
+                "reviewer_id": "6uSW2qLSL5w0iz0g-Iwa-g",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7269050391703563,
+                    "positive_probability": 0.2730949608296465
+                },
+                "stars": 2
+            },
+            {
+                "review": "Espresso rocks. Coffee is so good. Food is over priced a bit, but still great. The space is a bit '90s. Overall, I would drive quite a way to get coffee here. I am a huge fan of Intelligentsia. I felt their espresso was represnted really quite well.",
+                "reviewer_id": "8CHPgw5-d_eQ9fR3cK05YA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.318537162781622,
+                    "positive_probability": 0.6814628372183759
+                },
+                "stars": 4
+            },
+            {
+                "review": "So, I've lived in Chicago for approximately 8 months. I have not been able to find a coffee shop that I actually like.This may be because I'm outgrowing \"hanging out at coffee shops.\" I might also just be too busy, or more comfortable at home.At any rate - Paradiso is not just a cafe - it's an institution. Everyone who has ever gone there regularly knows this, and most can just sense it from being inside. There are some things it could do better with: some of the furniture is a little uncomfortable, sometimes the music is a little loud. At the end of the day, though, this place is a slice of your life in Champaign.I remember fondly the smokiness (although I no longer smoke), the cramped Rentertainment, the progressive expansion, the awkward open mic night experiments, the pasta nights, the yard sales, the employees, the friends I made and met there, regularly, day in and day out. I did a lot of growing up there and for good reason. It's a great environment. They really do most everything right. 1. Product: you can stand by product quality! Intelligentsia coffee, Mirabelle pastries and breads. Good business practice means knowing how to make money without cutting the wrong corners. The owner knows what she's doing.2. Service: baristas know how to make drinks! Seriously! This place has a hipster feel of course - but most of the hipster baristas I run across in Chicago are too busy trying to be cool and can't actually make drinks. The baristas at Paradiso are cool, and are competent at customer service and drink making. Again, the owner knows what she's doing.3. Environment: It's close to class, but not that close to class. It's close to dorms, but not that close to dorms. There's nice, tree-lined Urbana to your east. I heard lots of albums for the first time there. And there's a chance you'll make a friend or two. Not to mention, really comfortable bathrooms. I know that seems strange to say, but when you're on your 10th cup of coffee on a study binge, the bathrooms better feel right.I really should write more, but that would be more of a memoir, than a review. Just suffice to say, the place is great.",
+                "reviewer_id": "9-orFNothRnnGHdVIXk2Yg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0027393883687633304,
+                    "positive_probability": 0.9972606116312193
+                },
+                "stars": 5
+            },
+            {
+                "review": "A small coffee is now $2.50 Lol.",
+                "reviewer_id": "9yAsh0pQgH7451dHv2k4sw (1)",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5051264544773317,
+                    "positive_probability": 0.49487354552266816
+                }
+            },
+            {
+                "review": "A small coffee is now $2.50 Lol.",
+                "reviewer_id": "9yAsh0pQgH7451dHv2k4sw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5051264544773317,
+                    "positive_probability": 0.49487354552266816
+                },
+                "stars": 1
+            },
+            {
+                "review": "Everyone seems to love this place, and I've tried to like it, but I can't say I'm a fan.  Drink quality is up to par, but it would be great if the staff would occasionally get around to actually preparing the said drink instead of chilling out talking to one another while not making eye contact with a customer.  This is one of the only places I've ever been where I get consistently frustrated by the service.  Crazy that I would bother them by actually ordering food, right?You also kind of have to duke it out for outlets at times, which doesn't make recovering from the lengthy ordering and waiting for your drink process any more fun.",
+                "reviewer_id": "_7VcEa3xUpsc9XUTFCqlhg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.06483878400389943,
+                    "positive_probability": 0.935161215996094
+                },
+                "stars": 2
+            },
+            {
+                "review": "Great selection of cakes and pastries. Mocha cake and pear and almond cream tarte are my favourites. Of all of the places in the Champaign-Urbana area (both on and off campus) they do cappuccinos best. Its smooth, the aroma and fragrance of the espresso bean is still there, and yes, they do foam art. They have a daily soup and they never disappoint. On a hot day you have the blueberry french soda. So creamy, blueberry-ey, and refreshing. Amazing selection of teas. They use intelligentsia coffee. The affogato comes with too much ice cream, though. You can also get a sandwich and pick the bread and ingredients. It's good but tastes like a regular sandwich, nothing special.Only problem is the cluttery and inconvenient set up. Simplify it! Too many tables and chairs. Oh, and the multiple surgeprotectors dotted across the floor are annoying. You have cords coming from multiple tables in that one surge protector which can be a hazard. I've tripped on people's laptop chargers many times.",
+                "reviewer_id": "aX8hmnedCsrLJ7HmD8hwvQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9885542102704314,
+                    "positive_probability": 0.011445789729567762
+                },
+                "stars": 4
+            },
+            {
+                "review": "Probably best cafe in champaign. I'm from Chicago and this cafe can compare to some of the best cafes in Chicago.",
+                "reviewer_id": "c7nHOt5gdT7OAvZTDyCY1A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.08450177102667393,
+                    "positive_probability": 0.9154982289733258
+                },
+                "stars": 5
+            },
+            {
+                "review": "God I'd give them a 5 if they weren't so ungodly expensive. I'm a student and 2+ dollars for a cup of coffee is just too high. Also why is an iced americano $.50 more than a hot one? $3.30? GAH! I really wish I could afford it but I can't.Paradiso makes great stuff. Great Americanos, great lattes (even with latte art, woohoo! who knew it existed in Champaign-Urbana?), etc. Their environment is also great. It's absolutely what a coffee house should be, laid back and busting with culture.I don't know what else to say. They're great, but too expensive. I'm going to go broke if I pay for that everyday! I have to pay for rent and food and things!",
+                "reviewer_id": "cTkqFcemqSIdoD4ah8u_Ew",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.27689821612018706,
+                    "positive_probability": 0.7231017838798135
+                },
+                "stars": 4
+            },
+            {
+                "review": "Paradiso is a cozy place where students can enjoy their cuppa coffee and work on scholwork at the same time. I love the ambience and their wide selections on their menu. My coworker once bought the day's lunch special and it was italian beef and it smelled soooo good. My favorite item on the menu is a mixture of expresso and half & half.",
+                "reviewer_id": "CX4GcrCCnzfNyAl0cPqGbg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0963302878407077,
+                    "positive_probability": 0.9036697121592853
+                },
+                "stars": 4
+            },
+            {
+                "review": "There must be some mistake. Am I on hidden camera? The menu says that a small coffee is $2.40, with an in-house refill of $1.40. I assume this is my fault, I must just be missing the fine print that says every cup comes with a free indentured servant, or is delivered on the back of a domesticated cheetah. And I assume that the \"small chocolate milk\" for $3.75 comes in at least a half-gallon sized cup, since I can buy a gallon of delicious Oberweis chocolate milk for less than that at the grocery store. One chocolate Big Gulp, please!My complaints with the service, too, are all my fault. Why must I insist on employees who acknowledge my existence? It's so petty of me. And my obsession with tables that aren't covered in trash is really getting embarrassing. Yet, I persist, constantly interrupting the baristas' conversations to ask them to get me some coffee, or inconsiderately wiping the tables that have been lovingly encrusted in grime. What's my deal? Clearly, I don't deserve to go here anymore. So, you know... I won't.",
+                "reviewer_id": "cxD3gitu9MMedOaMJ_NSpw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0005680896910180795,
+                    "positive_probability": 0.9994319103089887
+                },
+                "stars": 2
+            },
+            {
+                "review": "$2.63 for a small cup of coffee? With a side of attitude? I don't think so - too many other options in town. I think my love affair is over...",
+                "reviewer_id": "cYFbpLzXAxhggVbYN0Rm8g",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.28341875933818605,
+                    "positive_probability": 0.7165812406618128
+                },
+                "stars": 2
+            },
+            {
+                "review": "I cannot believe that even though they used to high quality of coffee beans and espresso coffee machine, their coffee are sucks and too light. When I ordered ice coffee, I cannot taste any coffee and I can just smell the coffee. Thus, their temperature is too high in summer and their chairs are so uncomfortable to enjoy the coffee.",
+                "reviewer_id": "dfUrMrddKMwKkgF9V7HOFw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5906744372737409,
+                    "positive_probability": 0.40932556272625614
+                },
+                "stars": 1
+            },
+            {
+                "review": "The WiFi is awful. But the food is delicious. I think they get pastries from Mirabelle and Pekara. Their bagels and coffee are good. My favorite drink is their raspberry latte. The only downside is that even if you size up your drink, they put in the same amount of espresso, so you'll have pay extra for more caffeine.",
+                "reviewer_id": "dzKYG04n0nLXv6tGFvJX0Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.14511464387250025,
+                    "positive_probability": 0.8548853561275009
+                },
+                "stars": 4
+            },
+            {
+                "review": "This is a nice cafe to relax and enjoy the various amount of items that are used to decorate the place. It makes for an ideal place of getting a drink while studying.",
+                "reviewer_id": "eFIlrOz3TnuZQeh2Y1e17Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.044174468827578715,
+                    "positive_probability": 0.955825531172422
+                },
+                "stars": 4
+            },
+            {
+                "review": "Great place to find coffee and hot coco. The staff is friendlier than the usual chambana coffee baristas and thats a nice touch. The parking here is first come so be early. Also sometimes the lot fills up quickly and there are no spots so make sure you can get out of ask the baristas about telling someone to move their car. All in all its better coffee and friendlier than anywhere else on campus--- unfortunately, thats not saying much.",
+                "reviewer_id": "EM3qgcLfUzPU2boJIL77eQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4039708824222082,
+                    "positive_probability": 0.5960291175777918
+                },
+                "stars": 3
+            },
+            {
+                "review": "Paradiso is, hands down, my favorite coffeeshop in town.  It's one of the only things that would convince me to move to Urbana.  Their coffee is from Intelligentsia = fabulous.  Their soups and pasta salads are made fresh every day, and the bread and pastries come from Mirabelle, a really wonderful local bakery.  Music is great, there are lots of outlets, and the wireless is usually solid.  Paradiso used to be one of the only places where you could drink good coffee and smoke indoors - that's gone the way of the dodo, but I still have fond memories of dates spent behind the row of fake trees, smoking great cigarettes and drinking black black coffee for hours.",
+                "reviewer_id": "Ez5s5sU6jqdxwDnpE5KiCg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5075485225417816,
+                    "positive_probability": 0.4924514774582101
+                },
+                "stars": 5
+            },
+            {
+                "review": "This cafe is a shadow of what it was a few years back. The eclectic ambiance is the same, which I appreciate. Maybe it was an inexperienced barista, but my iced americano was terrible. It was bitter, grinds were floating, and a small was over $3. I should've gone to espresso royale a block down.",
+                "reviewer_id": "Gecy-MP3s97FVMkj7dkikg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.09836992104085979,
+                    "positive_probability": 0.9016300789591372
+                },
+                "stars": 2
+            },
+            {
+                "review": "I'm moving out of town and very sorry to be leaving Paradiso behind. Their coffee is Intelligentsia, their tea is Rishi, and they make the best (brewed, not from a bottle) chai latte in Chambana. It's my writing and reading spot, I love it, and the people-watching is especially entertaining after a big campus party or football game.But there are some downsides: * Yes, the coffee is expensive. I think it's worth it, especially when I'm planning to sit for awhile and essentially renting table space. Many disagree.* The best time to write at Paradiso is during breaks or in the summer when campus empties out. During the semester, it can be loud and hard to get a table, and the internet is slow when there's a ton of students procrastinating by watching youtube.* The food is fine, but generally unexceptional. The pastries and soups are the best bet (macarons and corn chowder - yum! - not together, of course), and they  always have a variety of vegetarian options.",
+                "reviewer_id": "Gf5qn5rWqU7UV5EH0e0-8Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.40035908702968714,
+                    "positive_probability": 0.5996409129703091
+                },
+                "stars": 3
+            },
+            {
+                "review": "The atmosphere is great and it is an excellent place to study.However, their drinks are not that great and very overpriced.",
+                "reviewer_id": "gS6UnNA3K4XGk9-nQs6FKA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.06772417853315382,
+                    "positive_probability": 0.9322758214668455
+                },
+                "stars": 2
+            },
+            {
+                "review": "Truly awful coffee. Yes, they use intelligentsia but oh my are they doing it a disservice. Where to begin? The coffee is routinely overly bitter due to it being brewed with too hot water. They pre-grind beans and let them sit around for hours at a time. Finally, it's pretty clear that they are brewing a weak cup (not enough ground coffee per pot). On occasion I'll ask for the coffee of the day just after it has run out. They will start brewing a new pot and pour me a cup before the pot has finished brewing. Only then is the coffee even remotely close to its potential. I started ordering americanos in the hopes of getting something a bit more flavorful, but the aforementioned too hot water blew out the flavor of the espresso. The sandwiches are good, but inconsistent. Sometimes the bread is fresh, sometimes not. Sometimes they will pack the sandwich full of veggies, often not.Finally, the prices...I write this as I sit in a cafe in seattle where I just paid $3 for a perfect latte. $3 gets you a mediocre cup of coffee and that is not right. Paradiso, if you are listening, adjust your water temp, clean your water filter, up the amount of coffee you grind per pot, grind your beans fresh, and drop you prices by about 75 cents for your drinks across the board. Intelligentsia should refuse to sell beans to cafes that treat their beans so poorly.",
+                "reviewer_id": "GUVd9GU7OJkHHCU1Wzac1g",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5799113510980352,
+                    "positive_probability": 0.42008864890195685
+                },
+                "stars": 1
+            },
+            {
+                "review": "paradiso was way better before they had a stage. not only does the stage kind of mess up the seating, but now half the time you have to listen to some shitty indie band assult you with music that you never wanted to hear. i just want to drink my cappuccino and play chess, okay?that said, the aforementioned cappuccino is always dead on. this is the only coffee shop in chambana that makes a dry cappuccino actually, well, dry.also, they need to just make the whole place smoking or non-smoking. it all smells like smoke anyway, and virtually everyone wants to smoke inside, but only four or five of the tables are in the 'smoking section' which isn't even remotely separated from the 'non-smoking section'.",
+                "reviewer_id": "gv05nzBS6LIBApDSGTy6NA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9737174452492439,
+                    "positive_probability": 0.026282554750751003
+                },
+                "stars": 3
+            },
+            {
+                "review": "I'm not a coffee drinker, but I hear Caffe Paradiso has excellent coffee. So why do I come to this coffee shop if I don't drink coffee? Paradiso is a great place to work on homework with other people and pick up a quick lunch. Most coffee shops have horrid little shrink wrapped pre-made sandwiches, but Paradiso makes its sandwiches to order with artisan Mirabelle bread. The soup and salad selection isn't bad either and the bottled beverage selection is perfect. Caveat? The chairs are mismatched and kind of cool in a Bohemian way, but kind of bad for sitting and reading.",
+                "reviewer_id": "HqaXK9toBpQdcz-0-rVwKw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9126689297510834,
+                    "positive_probability": 0.08733107024890747
+                },
+                "stars": 5
+            },
+            {
+                "review": "I like to stop in here for a hot chocolate in the winter and cool lemonade in the summer - great for both!  The atmosphere is really relaxed and comfortable.  Free wireless is always a plus in my book, and there are plenty of places to actually plug in that laptop.  Keep in mind that restaurants and bars are smoke free in Champaign-Urbana now, so no worries about a smoky atmosphere here!",
+                "reviewer_id": "ii3jv_y4YDcNSh9x6uuBrA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.05125481993532518,
+                    "positive_probability": 0.9487451800646717
+                },
+                "stars": 4
+            },
+            {
+                "review": "Probably one of the first coffee shops I had ever been to in Urbana- Champaign.  I frequented this place as a student who needed somewhere nice to study, as a TA to hold office hours, and as a place to go on dates.  This place is perfect with a wonderful staff, great ambiance, lots of variety with seating and the food there is fan.tas.tic.It's definitely a bit more \"hipster\" in feel but I really love that vibe for a coffee shop and think that it's super welcoming, super friendly, and super comfortable no matter how long you're there for.",
+                "reviewer_id": "iKt9RWLOS_PE4SKBRFkKww",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0027734890677094436,
+                    "positive_probability": 0.997226510932293
+                },
+                "stars": 5
+            },
+            {
+                "review": "I have to update my review for this.  The last few times I went to Paradiso, I ordered my usual cappuccino.  It was bad to the point where I could probably do better making it at home; the foam wasn't smooth or well integrated with the rest of the drink.  It was pretty much plopped on top and had the consistency of \"dish bubbles,\" which is not what you want when you're making a cappuccino.  I'd probably give Paradiso a 2.5 if I could because the sandwich i got there was pretty good.  But I was just so, so disappointed by the cappuccino quality that I can't give it a 3.",
+                "reviewer_id": "iN34tIuP_IYqQWIaPhddmw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9591051365254778,
+                    "positive_probability": 0.040894863474526054
+                },
+                "stars": 2
+            },
+            {
+                "review": "Have been to this place approximately 5 times in as many years hoping the service will get better. Tonight was the last time. 2 hours before closing and everything in the pastry case was packed up. The employees were sitting on the back counter chatting and didn't appear the slightest bit interested in helping us. Turned to my friend and said \"that's it, we're leaving\" and vowed never to return!",
+                "reviewer_id": "jvTmrtXOXecph-UPyV1wVQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5621396567825154,
+                    "positive_probability": 0.43786034321748274
+                },
+                "stars": 1
+            },
+            {
+                "review": "Go there for the atmosphere.  Go there for the good if pricey food.  Go there to study.  But for goodness sake do not go there for the coffee.I have not been there in a long time because of this reason.  I went there again and I took a sip of the coffee as I was leaving and guess what....it was burnt.  I got into my friends car and before I said anything they asked me.  \"Is that coffee burnt?  It smells burnt.\"Low stars are only there for getting the coffee so wrong for so long.  Otherwise a fine place.",
+                "reviewer_id": "L1qVEGnDIPjyz-KFKMbtng",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9176350372464849,
+                    "positive_probability": 0.082364962753513
+                },
+                "stars": 2
+            },
+            {
+                "review": "Delicious chai latte. Love that they give you real mugs, not paper cups, if you stay inside. Very spacious and open with lots of seating. Yeah service is a little slow if there are a lot of people because there is just one guy behind the counter, but it's a local business and I will continue to support it!",
+                "reviewer_id": "leIgp16pp6_1feLNEtL_JA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.08897876187913735,
+                    "positive_probability": 0.9110212381208621
+                },
+                "stars": 4
+            },
+            {
+                "review": "This place has the only legitimate coffee in campus town.  The beans come from Intelligentsia up north and the difference in quality is very noticeable compared to the other coffee shops.  That difference is also reflected on the price you pay but the coffee is worth it.  They don't do single cup brewing, only big pots.  Thus in rare occasions, the coffee can be a miss (may be bad coffee ratio, bad water temperature, sat in the pot for too long etc...), Even then, you will still be getting the best coffee on campus.Their sandwiches are also good.  If you are hungry, feel free to build a sandwich from the big list of ingredients on the black board.  If it is a Tuesday or Thursday however, just get the Italian beef.  It is good.",
+                "reviewer_id": "LvVRqNeNd8Opy5oMZITlrA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.11899222610443264,
+                    "positive_probability": 0.8810077738955697
+                },
+                "stars": 4
+            },
+            {
+                "review": "Atmosphere, great sandwiches, soups, flavoured drinks, Monin syrup. WIFI, power strips everywhere, lots of seating available.If you like a nice ambience while working/studying this is the place. I love the collection of eclectic tables, chairs and booths in this space. This place is great for people-watching also. They have a few boardgames on a shelf near the bar. The workers usually play their own music, which works for me most of the time, but oh my goodness I went there one night where they were blasting Beyonce and Britney Spears. I should have said something, but I tweeted my disdain instead...I love getting the vegan soups there. So tasty and comes with yummy pieces of bread. It feels better since they give you so much in huge pretty bowls that also heighten the experience.Their sandwiches are huge and filled with lots of veggies.They make great flavoured drinks such as the mayan mocha (spicy cinnamon mocha). AND they use Monin brand syrup which is a huge plus for me because I do not like Torani and DaVinci is the worst. That's my personal preference.This place has the best soy mochas in my opinion. The mixture of the intelligentsia espresso and soy makes a great nutty combination.I almost forgot! They serve a mean affogato! Espresso, icecream, whipped cream, those tasty small almond cookies. I wish places here would do it like caffe paradiso instead of just giving me gelato and espresso.The pastries from mirabelle's are amazing. I recommend the alligator and bear claw. So soft and fresh.",
+                "reviewer_id": "m49OHmALfHOhUVKX3wxfEg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.04762734953168964,
+                    "positive_probability": 0.9523726504683131
+                },
+                "stars": 5
+            },
+            {
+                "review": "One of the worse chocolate fraps. It was bitter, to syrupy, and over-priced. I do not recommend this place",
+                "reviewer_id": "M4O7oxZKGRFFugexrJ9Cxw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7020213531412135,
+                    "positive_probability": 0.29797864685878533
+                },
+                "stars": 2
+            },
+            {
+                "review": "i'm in love! This place is awesome. This reminds me of all the small coffee shops in the Mission  of SF where I'd use to frequent..... except with this one, there's no laundromat attached! But, zomg  the hummus is exceptional! They even serve the pita warm!! It comes with tomatos onions and OLIVES! I think I've also found my go-to spot on campus for studying. I hope it has nice hours!",
+                "reviewer_id": "m8u49f6BQbnLBPujd6twaQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.05780577469235502,
+                    "positive_probability": 0.9421942253076441
+                },
+                "stars": 5
+            },
+            {
+                "review": "I am not sure about the current state of Caffe Paradiso (has the name changed or is the title a typo?), but when I was at UofI 5 years ago it was rocking.Cool atmosphere, good coffee, yummy fresh made food.  Great place to study or just relax.  The music they played was always great and I was often asking who it was so I could buy the album.They were open 24 hours during finals week (are they still?).  I remember being there one night at about 5am and the owner came in and made a large batch of scrambled eggs for everyone that was still there (for free).  Ever since, I get a warm fuzzy feeling thinking of the place.I always go back whenever I am in Urbana, though it's been a few years.  I hope it is still cool.",
+                "reviewer_id": "ME-WB82go6Na2dIFAUZcMA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.008889465360640222,
+                    "positive_probability": 0.9911105346393596
+                },
+                "stars": 5
+            },
+            {
+                "review": "What a great little cafe to spread out, grab a drink, meet with friends, sip, nibble, and otherwise enjoy a little time.The vibe here skates the edge of hippie, but doesn't go full on astrological sign moondoggy. It's a come-as-you-are feeling and instead of focusing on the hot and trendy or hipster and aloof, it's more like, \"You're cool with us, man.\"I eyed some desserts pretty darn hard, but really just ending up grabbing a canned drink. The service was nice, and when I asked very very kindly for change in quarters to feed the meter, they were nice enough to oblige. That parking situation--there are a few, coveted spots out front dedicated for customers, and then otherwise you fight street parking--is perhaps the only downside to this location.",
+                "reviewer_id": "mEMun-MSV-Rke3oB8qD_Cw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 2.5378474539653712e-06,
+                    "positive_probability": 0.9999974621525486
+                },
+                "stars": 4
+            },
+            {
+                "review": "Food was a bit overpriced and while my salami panini tasted pretty good two other people in my group ordered turkey sandwiches and there was more lettuce between the slices of bread than anything else.  While comical, they paid just as much as I did for mine.  I wanted a coffee but they were way overpriced and I decided to get a cup when I got home.  The decor is a hodgepodge of random styles that my mother calls \"bohemian\",sure mom I suppose!  The service was ok at best but I could tell the people behind the counter reay didn't care one way or another if you were there or not.  3 stars because my sandwich was pretty good.",
+                "reviewer_id": "MibR-2dhTV8AW9Rl62B6mQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.999720606960477,
+                    "positive_probability": 0.0002793930395182037
+                },
+                "stars": 3
+            },
+            {
+                "review": "It's a nice place to study or pick up a cup of coffee.  Lots of electrical outlets.  The drinks are decent, too.  Based on those, I would give it 4/5.However, based on my experience, the food availability appears to be unreliable.  Of the past 4 times I tried to get a sandwich (their primary lunch/dinner option), they have only had it available 1 time.  Each time they were out, I was told it was because they ran out of bread.  When they did have it, it ws a good sandwich (I recommend the ham + all vegetables), but the seeming unreliability is quite an issue for me.",
+                "reviewer_id": "MvuL5W-FBqyk-1-1kBavVg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.611449609638231,
+                    "positive_probability": 0.3885503903617768
+                },
+                "stars": 2
+            },
+            {
+                "review": "Best sandwiches in CU.  Also the best humus dishes.  If you go make sure you try the following combo:1. Sour dough bread,2. Salami,3. Provolone,4. Lettuce,5. Mustard,6. Olives. (if you like olives.)I used to get that sandwich all the time before I moved.Also be sure to try their pastries, which come from a bakery in Urbana.  They get their bread from that bakery too, so don't go on Sunday or Monday because the bakery is closed and Paradiso won't have fresh bread.  (This makes a huge difference, get humus if you go on the wrong day.)A couple of the reviews below complain of the smokyness.  It's no longer smoky as Urbana law prohibits smoking in bars and restaurants.",
+                "reviewer_id": "mXAIhh7PvdIxnbwaPRkrGw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.40417890175699267,
+                    "positive_probability": 0.5958210982430083
+                },
+                "stars": 5
+            },
+            {
+                "review": "Coming here on a Friday afternoon in the summer to get a little bit of studying done, I was surprised by how busy Caffe Paradiso was! I ended up grabbing an iced coffee before making myself comfortable at one of their two person tables.  The iced coffee was pretty standard, but I would agree with some fellow Yelpers in saying that I felt like paying over $3.50 for a pretty average cup of iced coffee was a little bit overpriced.  The decor was nice with marble tables, mismatched chairs, and interesting wall decorations. Something that I really liked about Caffe Paradiso was that it really attracts people from all walks of life with the majority expectedly being students; it made for some very nice subtle people-watching.  I think that it's a nice spot on the border of the U of I campus, but, in comparison to the other coffee shops that I've checked out in Chambana since arriving last week this one doesn't top my list.",
+                "reviewer_id": "mXG-1WYYCDS8o1-3W0eezA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0006183816901844435,
+                    "positive_probability": 0.9993816183098104
+                },
+                "stars": 3
+            },
+            {
+                "review": "My favorite place in Urbana/Champaign.  Fresh bread and pastries from Mirabelle, homemade soup, and pretty good coffee/tea + free wifi - what else could you possibly need?  The soups can be hit or miss but the sandwiches/pastries are always perfect.I come here for breakfast/lunch/work, it's kind of a temporary office for me and you start to recognize the other regulars after a while.Really nice service, fresh food, music ranges from cool to strange but that doesn't bother me.",
+                "reviewer_id": "nmh7Z99urzgy2xmh9v_pYA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6408146479588658,
+                    "positive_probability": 0.35918535204113317
+                },
+                "stars": 5
+            },
+            {
+                "review": "The baristas are always exceptionally rude. Cafe Kopi has better coffee and a friendlier vibe.",
+                "reviewer_id": "oRCWQ7eaS0IM0DHeCMwBKw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4842813090702907,
+                    "positive_probability": 0.5157186909297083
+                },
+                "stars": 2
+            },
+            {
+                "review": "The coffee's good, but I definitely come for the food. The bread is always fresh, the soup selection is seasonal and super-tasty, and the bread-and-spread plate is a ridiculously great snack for the price. Fast wi-fi, great atmosphere - you can sit and read in peace, but also just hang out with friends without getting dirty looks from The Scholars. The only downside is that the lighting's pretty dim, so studying can be tough unless you're right under a bulb or next to a window. Bike parking's sort of a pain, too, but it's worth the hassle.",
+                "reviewer_id": "PljSz4JU2MCkG1kxIXl7WA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0852524944025277,
+                    "positive_probability": 0.9147475055974759
+                },
+                "stars": 5
+            },
+            {
+                "review": "This was my home away from home.Delicious fresh-made sandwiches. Great coffee. Mountain Dew \"on tap.\" And they had a great variety of bottled beverages.Great place to study or hang out with friends. Although the place was often too smokey (and this is coming from a former smoker). I always ran into people I knew - working or lounging. There was always a familiar face.No longer open 24 hours during finals week - but that was a godsend when they did it. I wish there was something like this in Chicago.",
+                "reviewer_id": "rMf_QIAUHMIr3OJybv5Ylw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.035319494037921444,
+                    "positive_probability": 0.9646805059620804
+                },
+                "stars": 4
+            },
+            {
+                "review": "I'm excited by Caffe Paradiso.  I love the wireless, the vibe, the performances, the coffee, the sassy baristas.......basically, for this Californian, Pardiso has all the vibe and energy of the coffeeshops I love back home but now in my soon to be new 'hood of C-U.  The sandwich was a little lackluster, but the fruit that came with was a nice touch, and the service was great.It was a great way to treat myself after having gotten an apt. today.  Woot.I can't wiat to keep my graduate student nose to the grind stone here. :)",
+                "reviewer_id": "SpKVX3rt892E-BrL-yeqiw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0949075180970161,
+                    "positive_probability": 0.9050924819029837
+                },
+                "stars": 4
+            },
+            {
+                "review": "I was visiting UC for a couple of days and stopped here one cold afternoon for some coffee. This place is huge was wasn't crowded. The coffee and service were good and fast. I came in to check my email so I was disappointed by the poor quality wifi. The mismatched decor was interesting but I had to find a table that my laptop would be level on!",
+                "reviewer_id": "sqqlcfHVnups5nejdycf9Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.43963371683832325,
+                    "positive_probability": 0.5603662831616794
+                },
+                "stars": 3
+            },
+            {
+                "review": "This is a really nice caf. I have had an iced mocha and a rooibos tea latte here and they were both great. It's normally really crowded, so finding a seat for a party greater than \"1\" is always challenging. The drink prices aren't bad. I haven't had any of their food items, but they look good. The service is neutral, it's not bad, but they are not going to go out of their way to do...well, anything.",
+                "reviewer_id": "SRR22GB1nxTEI41_A1qK1w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.044724635849802796,
+                    "positive_probability": 0.9552753641501955
+                },
+                "stars": 4
+            },
+            {
+                "review": "This place saved my life, I've been tour for a few weeks and have had severe headaches from lack of coffee. Pulled into town and was recommended here by a local. So good to have intelligentsia back into my life.  Was able to get a black iced coffee by a friendly barista and was brought back to life!Stoked to have a local spot each time I come back to Urbana.",
+                "reviewer_id": "T54eiI7Iqp2ApBM_8N4_OA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.04998249076965662,
+                    "positive_probability": 0.950017509230342
+                },
+                "stars": 5
+            },
+            {
+                "review": "Let me start by saying I really hate this place. It reeks of Hipsters and their hipsterness. The coffee is ok at best it would be better if it wasn't served with the attitude that your are inconveniencing them by ordering something.",
+                "reviewer_id": "T_NYHn96WQl5KAMjaBMXXg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.976748143601386,
+                    "positive_probability": 0.023251856398616058
+                },
+                "stars": 1
+            },
+            {
+                "review": "Very relaxed place to work on weekends. But many people use the tables for way too long that you will have very hard time to find tables. It's also next to all the sororities so you see a lot of cute girls ;). Great coffee and sandwiches but definitely pricey. If you get hungry, just go to a Jimmy Johns right next door.",
+                "reviewer_id": "Tt8Al6w60Q-O-OMd2BXaNQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.1259591326123893,
+                    "positive_probability": 0.8740408673876106
+                },
+                "stars": 4
+            },
+            {
+                "review": "One of the places in Champaign Urbana I regularly frequent. I love the cappuccino, panini and tiramisu here. In general, the staff is friendly. And I like this cafe's rugged interior full of campus-town spirit when the regular semester in full swing.Right now when I am writing this review, I got a regular coffee. The staff who took the order was rude; that baffled me. But I will be back for sure. If you are staying nearby, this place is  must-go just to feel the aura of UofI.",
+                "reviewer_id": "TuVs2IndRJ6BPHy2uKiEOQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.003414478013683182,
+                    "positive_probability": 0.996585521986312
+                },
+                "stars": 4
+            },
+            {
+                "review": "It's hard to evaluate the merits of a coffee shop based on a french soda, but this place seems pretty good. It cost about $3 which is a bit pricey, but tasted good, and the syrups they use are good quality.I'd have to keep going here and grab a coffee to see how the place is on the whole.",
+                "reviewer_id": "V7pppn-r6tL_Yb2_msQQFw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.23357149208590977,
+                    "positive_probability": 0.7664285079140931
+                },
+                "stars": 3
+            },
+            {
+                "review": "The atmosphere of this place is great, and when it comes to coffee shops that matters a lot to me. In this department, they totally ace it.The coffee here is great on most days, and just good on some days. The thing is, when you're paying $5 for a cup of coffee you'd hope it would be consistently good. The food menu though is pretty useless if I'm going to be completely honest. By no means would I call myself a chef, but I cook enough to know that the ingredients and preparation of their food is definitely not worth the price. The sandwiches are priced at about $7 and they are nothing spectacular. They are literally something you could make out of oscar Mayer deli meat, county market white bread, a slice of cheese, a slice of tomato. The two times I ordered a sandwich it was grilled and came to me so crispy and crunchy you could hear throughout the whole cafe when I would bite. I've eaten carrots that were less crunchy. Because the coffee is a hot or miss, and because the food is a complete rip off I can't give this place more than two stars.",
+                "reviewer_id": "Va-Gh6dQlOmp9yZ93WPqMg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.053060422829446355,
+                    "positive_probability": 0.9469395771705569
+                },
+                "stars": 2
+            },
+            {
+                "review": "I come by to this cafe quite often...however today was my first gander at their pour-over coffee and their espresso. Both were served promptly however, either their grind was either not fine enough or their water was not hot enough. The end note on both these drinks was quite sour and throughout the drink, the mouth feel was not very full. I was quite disappointed in full knowledge that their brew and cold brew taste delicious...hopefully they can fix this. My girlfriend has had the same experiences in the past...her coffees were sour and not brewed properly",
+                "reviewer_id": "vE5J5zkcL29uEcp83La6xw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.04586145954694203,
+                    "positive_probability": 0.9541385404530607
+                },
+                "stars": 3
+            },
+            {
+                "review": "This is my favorite place in town.  The sandwiches are the best I have ever had and i am never disappointed by how fresh all the ingredients are.",
+                "reviewer_id": "vkEIrKWMaxPFv0LM7Mldmg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2958601630497611,
+                    "positive_probability": 0.7041398369502367
+                },
+                "stars": 5
+            },
+            {
+                "review": "Finally tried Caffe Paradiso for the first time today - very disappointed. My boyfriend and I both ordered large iced soy cafe mochas. We paid $10.50 for both drinks. When the cashier had to reverify practically everything, I thought she was just being thorough, but I guess I should have taken it as a warning sign. First we received the wrong size. Not a big deal, we just asked for the right size. Then, the woman who was handling the cashier poured the small drinks into the large cups, and then topped them off with an ample amount of soy milk, turning the drink into a completely different drink than what we ordered (think vaguely chocolatey coffeey soy milk). When my boyfriend went to ask her a question about the drinks, she was off-putting and didn't stick around long to talk (probably because she knew the criticism ahead). We decided it wasn't worth complaining anymore, so we left with our $5 chocolate soy milks and will not be going back.",
+                "reviewer_id": "Vlt_b8tnRuVMiC4xQg5AQA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.03928908194783254,
+                    "positive_probability": 0.9607109180521635
+                },
+                "stars": 1
+            },
+            {
+                "review": "I was a big fan of this place initially but they are very inconsistent with the quality of their coffee. The temperature of my coffee is always a surprise. I do recommend buying their bagged coffees.",
+                "reviewer_id": "xkOQUAqnU-u6qSj9pBtukA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2357442286352268,
+                    "positive_probability": 0.7642557713647755
+                },
+                "stars": 3
+            },
+            {
+                "review": "It's okay.  It's large, lots of room.  But the tables are tiny.  They have free wifi, but everyone connects to power strips and extension cords that are strewn about haphazardly.  Watch out so you don't trip.  And people would unplug your computer if you weren't paying attention.  It looks more like a dorm area than a business.The tables and chairs are mismatched, which I'm sure is the style they're going for.  It would be cute if it just had something a little more to connect everything together, instead of a bunch of furniture thrown in.  It looks like left-overs from the dorms and frats that surround the area.  And it was sort of dirty.  Like dusty.  And the windows weren't clean.  And flies.  I can't stand trying to study with flies buzzing around me.  It's sort of the little things that can make a place be \"wow.\"  And the coffee was, in my opinion, rather overpriced.  Very good, but I was a little miffed at paying over $2 for a 16 oz. house coffee.  I guess because it's closer to the school they can over charge.  But my friend loves that brand of coffee, so we go there.I don't know, the potential is totally there.  It would be better if they kept it cleaner and more organized, and wiped the tables down on occassion.  But they do seem to have good hours - open until 11pm I think.  And the people behind the counter were nice.",
+                "reviewer_id": "YW_iT5vBAFJUepWGQCo62Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.035554562898638994,
+                    "positive_probability": 0.9644454371013674
+                },
+                "stars": 3
+            },
+            {
+                "review": "My opinion of this place has improved since first moving to Urbana. Their espresso drinks are high quality, and they have an excellent selection of teas and pastries. Also, their sandwiches are really good. Make sure to try their oatmeal cookies!",
+                "reviewer_id": "Z4czntQund-OgvYca3i6lQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0858606045152877,
+                    "positive_probability": 0.914139395484712
+                },
+                "stars": 4
+            },
+            {
+                "review": "Coffee is bland. The hipster baristas are rude. No where to chain up your bike. They close way too early.",
+                "reviewer_id": "zQ_nVFkZRBz_pTTKGWsqLA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.12592928197840372,
+                    "positive_probability": 0.8740707180215959
+                },
+                "stars": 2
+            },
+            {
+                "review": "Slow service - servers do not communicate with you. Took 5 minutes when I was second in line. Asked for a sweet tea, got it unsweetened. Expensive. Nice atmosphere and decor.",
+                "reviewer_id": "zsYrnsiTcXn-ibmKwXm2_g",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2767886331371941,
+                    "positive_probability": 0.7232113668628052
+                },
+                "stars": 2
+            }
+        ],
+        "similar_restaurants": [
+            "p8GMdsCCy-NV_wZuDaU2Jw",
+            "bcW-OuYklAXeEZWBgc7TaA",
+            "bkbOmsZ9cOggOnpKsxOyiQ",
+            "ey7-ihj-OjM4sEOwWTc06Q",
+            "uhzZM-WwNsaVuvGRjv3mXw",
+            "j9N_fG1PVCSY-3HY1TRQ5Q",
+            "4PatE4TUcea0Dj0hKICGJw",
+            "9nmeU-OOyxkn8vRy5dolNg",
+            "leH24AjTrmcImAbsdh4HFQ",
+            "elwuxXreWA3IVAW5qNOw3g"
+        ]
+    },
+    "p8GMdsCCy-NV_wZuDaU2Jw": {
+        "keywords": {
+            "bigrams": [
+                "coffee_shop",
+                "aroma_cafe",
+                "cafe_kopi",
+                "staff_friendly",
+                "pretty_good",
+                "friendly_staff",
+                "downtown_champaign",
+                "outdoor_seating",
+                "good_coffee",
+                "champaign_urbana"
+            ],
+            "unigrams": [
+                "coffee",
+                "aroma",
+                "good",
+                "cafe",
+                "place",
+                "great",
+                "back",
+                "nice",
+                "food",
+                "staff"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "none",
+                "Ambience": {
+                    "casual": true,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": true,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "Caters": false,
+                "Delivery": false,
+                "Good For": {
+                    "breakfast": false,
+                    "brunch": true,
+                    "dessert": false,
+                    "dinner": false,
+                    "latenight": false,
+                    "lunch": false
+                },
+                "Good For Groups": true,
+                "Good for Kids": true,
+                "Has TV": false,
+                "Noise Level": "average",
+                "Outdoor Seating": true,
+                "Parking": {
+                    "garage": false,
+                    "lot": false,
+                    "street": true,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 1,
+                "Take-out": true,
+                "Takes Reservations": false,
+                "Waiter Service": false,
+                "Wheelchair Accessible": true,
+                "Wi-Fi": "free"
+            },
+            "business_id": "p8GMdsCCy-NV_wZuDaU2Jw",
+            "categories": [
+                "Food",
+                "Coffee & Tea",
+                "Cafes",
+                "Restaurants"
+            ],
+            "city": "Champaign",
+            "full_address": "118 N Neil St\nChampaign, IL 61820",
+            "hours": {
+                "Friday": {
+                    "close": "21:00",
+                    "open": "07:00"
+                },
+                "Monday": {
+                    "close": "20:00",
+                    "open": "07:00"
+                },
+                "Saturday": {
+                    "close": "21:00",
+                    "open": "08:00"
+                },
+                "Sunday": {
+                    "close": "20:00",
+                    "open": "08:00"
+                },
+                "Thursday": {
+                    "close": "20:00",
+                    "open": "07:00"
+                },
+                "Tuesday": {
+                    "close": "20:00",
+                    "open": "07:00"
+                },
+                "Wednesday": {
+                    "close": "20:00",
+                    "open": "07:00"
+                }
+            },
+            "latitude": 40.1170558,
+            "longitude": -88.2432469,
+            "name": "Aroma Cafe",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media4.fl.yelpcdn.com/bphoto/EZJR9rS3U0eUEY8lOeIRNQ/ms.jpg",
+            "review_count": 92,
+            "stars": 4,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "Aroma, I like you. I quite like Aroma. I like Aroma. ",
+        "reviews": [
+            {
+                "review": "Cafe Aroma was a very pleasant place to kill time for a few hours. The food was good (I had a pesto and tomato grilled sandwich - yum!) and so was the coffee. The people were very nice. Seemed like a smaller seating area and less of a cozy atmosphere compared with Cafe Kopi around the corner. Otherwise the two were comparable and I could happily spend time in either one again.",
+                "reviewer_id": "-9R7irSEUuxdtP49xVzSRQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.15792313583035786,
+                    "positive_probability": 0.8420768641696426
+                },
+                "stars": 4
+            },
+            {
+                "review": "Before there was Aroma, I thought iced vanilla lattes were supposed to taste bitter and burnt (thank you Espresso Royale...).  Now I know they are supposed to be sweet, creamy, fragrant, and oh so good.  Aroma has some of the best coffee I've ever had (but it's definitely not cheap), as well as a variety of delicious real food.  Store is cute, with a nice patio out back, but it's not the biggest place and if you're looking for a place to study and it's after lunch, you'll probably be out of luck here.  Otherwise, it's one of my favorite places to camp out (provided I woke up early enough on a Saturday morning).",
+                "reviewer_id": "-Yk1KPbMJGY5OkRUeo8jlw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.656656525808578,
+                    "positive_probability": 0.34334347419142086
+                },
+                "stars": 4
+            },
+            {
+                "review": "Didnt expect this little place would have such delicious coffee. Very smooth, Tastes good without needing to add a ton of sugar or syrup in.",
+                "reviewer_id": "0J3IZ8frsbk6erh8VLrh9Q",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8680385716180824,
+                    "positive_probability": 0.1319614283819151
+                },
+                "stars": 5
+            },
+            {
+                "review": "Nice little coffee house. Even has a fireplace in back room. Friendly staff.",
+                "reviewer_id": "0ydR5X5OTvQ6A4vKrSx5xg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8945622422318228,
+                    "positive_probability": 0.10543775776817682
+                },
+                "stars": 4
+            },
+            {
+                "review": "They changed their recipe for their scones and that made me very sad.  I'm not a fan of the new style of scones.",
+                "reviewer_id": "19MN_BLvpQe-isX7oPWypg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.48820863168709244,
+                    "positive_probability": 0.5117913683129082
+                },
+                "stars": 3
+            },
+            {
+                "review": "Good coffee, better than Espresso and Starbucks.  Seemed like nice atmosphere with possibility of tasty food, but was just there for a caffeine fix.  Will definitely go back again to try out some more stuff.",
+                "reviewer_id": "1Q2Ea4vyB90zRqwAHjfCDg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.07842655778284088,
+                    "positive_probability": 0.921573442217159
+                },
+                "stars": 4
+            },
+            {
+                "review": "Literally the best cafe I have had the privilege of experiencing. I'm a Champaign local, have tried all the other cafes downtown and by far Aroma is my favorite. You can't beat the atmosphere, great smiles from the staff, amazing music selection and drink options.Some of the food can be a bit expensive, but once you bite into your first toasted Reuben or Cuban sandwich, it's totally worth it.Their bagel special or their breakfast sandwiches  for breakfast/ brunch after a long night ( don't forget the coffee ) make Aroma a great place for breakfast too.I've played board games, studied, worked remotely, met people to catch up etc. all at this little great cafe. Love it, sometimes I don't know where I'd be without a coffee of the day and a smile, and I know I'll find that everytime at Aroma.",
+                "reviewer_id": "1T20S3X8cVaTyEWmbQ9Yqw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.03157769230838598,
+                    "positive_probability": 0.9684223076916063
+                },
+                "stars": 5
+            },
+            {
+                "review": "Aroma has delicious coffee and comfortable seating.  There are big, overstuffed chairs inside.  In back, there is a pretty patio with tables in chairs.  Aroma's patio is adjacent to Pekara Bistro's patio.  So, you can get a latte from Aroma, a crepe from Pekara, and have an excellent Sunday afternoon lunch.",
+                "reviewer_id": "27lOuVNMavQQhzvtz3pNGg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5112630973947712,
+                    "positive_probability": 0.48873690260522634
+                },
+                "stars": 5
+            },
+            {
+                "review": "It used to be great! I still love the drinks but miss the atmosphere of having the couch, comfy chairs and the fireplace going. Also some of the music lately has been really loud and not what you would imagine in a coffee shop...",
+                "reviewer_id": "28crZVRradmzHLDUdczyXQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7119741957252305,
+                    "positive_probability": 0.2880258042747733
+                },
+                "stars": 3
+            },
+            {
+                "review": "I would give Aroma more stars if I could!  Aroma has a great staff that greets you with a smile.  I noticed that the staff knew other costumers by name and asked them how their day was etc...nice to see that they value their costumers. You don't get that in other coffee shop in this area!   Every latte I've had from Aroma has been simply delicious and perfect to taste.  You should definitely try the cranberry and brie sexy toast!  It's taste like a slice of thanksgiving in your mouth...I crave it often! Also try their soups!  They always change up their soup menu, can't go wrong!  One thing that I really enjoy about this spot is it's an older crowd not a ton of college kids that are camping out like Kopi so there's always a place for you to relax while you sip away on your coffee.",
+                "reviewer_id": "2MPkEedxHagt1w_44Zt9Lg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.005661872317381303,
+                    "positive_probability": 0.994338127682611
+                },
+                "stars": 5
+            },
+            {
+                "review": "This cafe was a very pleasant surprise for breakfast. Every item I tried was surprisingly good.The organic coffee came in a huge mug, bigger than most soup cups and had a really nice smooth and only slightly bitter taste. If you enjoy Intelligensia I'm sure you'd enjoy this one as well. The Italian soda was pretty normal, using Da Vinci syrup.Both the roast beef wrap and mango chicken wrap were fresh and light with a good mix of flavors. The cream cheese is from local sources which you can clearly taste from the first bite. The sides of salad and fruit were both fresh and flavorful.I will definitely return here on my next trip downstate.",
+                "reviewer_id": "5BNI8ukGTlwUI2CCeyjZOw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0017938954987393473,
+                    "positive_probability": 0.998206104501261
+                },
+                "stars": 5
+            },
+            {
+                "review": "i hit Aroma at least once a day.  great coffee.  great staff.  what else could i want?",
+                "reviewer_id": "5kgbaMUk-xi7amftP3xj1A",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5884072760260425,
+                    "positive_probability": 0.41159272397395774
+                },
+                "stars": 4
+            },
+            {
+                "review": "Under new ownership, Aroma is re-inventing herself as a cozy alternative in downtown Champaign.  Warm byzantium hues fit perfectly with the charm of the new  'sexy toast' creations with fillings that range from fresh roasted portobellos with charred red capsicum to wonderfully tender beef short-ribs with a delicate horseradish cream sauce.  Understated Middle-Eastern sides like hummus and tabouleh further enhance a menu that still includes classic Aroma fare like the Cuban sandwich and quesadillas.Aroma has come a long way in a short time.  I look forward to future encounters.",
+                "reviewer_id": "6a_Q4ZdkVGCMk6aGnlAHHA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0005394164948507326,
+                    "positive_probability": 0.9994605835051488
+                },
+                "stars": 4
+            },
+            {
+                "review": "Very cute cafe. Pretty good breakfast. Very good coffee. Very clean. Lots of two-person tables and five or six larger tables.  Good lighting and ambiance. Pretty warm at about 74 degrees I'd say. Free meters nearby on weekends and a pay parking lot about 100 yards away during week.",
+                "reviewer_id": "8a-MSlychkIfZZ-XbtaHPA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.15635974952820705,
+                    "positive_probability": 0.8436402504717921
+                },
+                "stars": 5
+            },
+            {
+                "review": "*disclaimer* im writing this review on my memories from literally living in this place 5+ years ago. with that said......i finished my college career at this place! in a year, i think i spent more time here than my own room!their coffee is amazing... and the price is right for college students and those on a budget. their carb selection along with special menu items were always fresh.  :)i do recall them having awesome salsas! i think i was about 3 americanos deep and needed to cleanse the coffee scum out of my mouth.. (eww, gross, sorry). they had a mango salsa special on the board and i have been making my mango salsa as they did ever since (or try to.. hehe).i miss this place. it's small, cozy, the staff there were always friendly and their music selection was always on point!",
+                "reviewer_id": "8gM8z7Zu39cLzLaDaYu7aQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.019438020206629627,
+                    "positive_probability": 0.9805619797933747
+                },
+                "stars": 5
+            },
+            {
+                "review": "My home away from home :-)  I love the food, whether it's any of their sexy sandwiches or the turkey wrap, or one of the amazing desserts which are \"just right\"!  I love the very friendly and cool staff too, and I love the casual atmosphere in which you can get a huge cup of coffee and open your laptop, read, and do your work for as long as you feel like.  In my case, that usually means staying for hours and consuming two meals, it's that good.  I am still looking for a place like this in Chicago.The only downside is the corrupt little ***hole that the city of Champaign is, which imagines itself to be downtown Chicago or Manhattan.  In other words, the biggest problem with this place is that you need to run out every two hours to feed the stupid meter.  But, of course, that's not Aroma's fault so they get 5 stars from me, and if you read my other reviews, you'll see that I don't give out stars that easily.",
+                "reviewer_id": "8spevrOfRGL3-3E72tm-CA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0069257608495487556,
+                    "positive_probability": 0.9930742391504446
+                },
+                "stars": 5
+            },
+            {
+                "review": "Friendly staff, comfortable atmosphere, decent music, good food, good coffee. Internet could be a bit better, but it isn't slower than what you get at other cafes anyway. You can't really ask for more. My favorite in Chambana.",
+                "reviewer_id": "975AdddvtEmBSVCuXA61eQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3599905989585158,
+                    "positive_probability": 0.6400094010414821
+                },
+                "stars": 5
+            },
+            {
+                "review": "Love this place! So yummy. Not a lot of space for large groups but it's a cute cafe to grab a bite or a yummy drink. I've been here twice. First time was while I was waiting for a train back to Chicago. Second time was a quick brunch with some friends. Food was great both times. Their Aroma Salad is so yummy - usually not a fan of those kind of salads (i'm in the basic kind, not fancy with nuts, etc.) but I enjoyed it a lot. Their mugs you get if you're drinking there are huge. Probably a better deal than a to-go cup but not sure what the actual measure is. Either way, if I'm ever in the area again, I'll probably stop here over any of the other cafes.",
+                "reviewer_id": "_swyBv9nE_bXIwlfZrifaA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2440338287593455,
+                    "positive_probability": 0.7559661712406464
+                },
+                "stars": 4
+            },
+            {
+                "review": "Nice environment...definitely the most quiet of the C-U cafes. Good set-up so that the light fills the place during sunny days. Also an outdoor patio.That being said the coffee is distinctly average and none of the staff act like they want to be there...Overall 2 or 3 star experience.",
+                "reviewer_id": "aX8hmnedCsrLJ7HmD8hwvQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0026102116669020343,
+                    "positive_probability": 0.9973897883331014
+                },
+                "stars": 3
+            },
+            {
+                "review": "Nice quick downtown lunch spot.  Went there because they were included on my WILL Member Benefit card. I'd been there before for coffee - which is also good.I had a cup (generous portion) of the Roasted Red Pepper Soup special and a Portobello toast - artfully assembled open face sandwich.  My companion had a cup of Jambalaya and turkey toast and a cup of tea.  There were quite a few customers enjoying the cozy atmosphere and free WiFi.",
+                "reviewer_id": "b0e7XSqtTXICy4s6f5dFGg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4788026036998582,
+                    "positive_probability": 0.5211973963001437
+                },
+                "stars": 4
+            },
+            {
+                "review": "A fantastic iced Americano at a reasonable price, served by a friendly person, and sipped in a clean and well-lit room where outlets were available in the early morning guaranteed that I could re-write that paper before presenting it.Even the bathroom is lovely.May we meet again, Aroma.",
+                "reviewer_id": "CkVvN4m65TbZFW4U57m1Rw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.03882468414897393,
+                    "positive_probability": 0.9611753158510304
+                },
+                "stars": 4
+            },
+            {
+                "review": "My rating's based on Champaign-Urbana coffee houses, not other cities. I mean of course Chicago or New York has MUCH better coffee houses than Aroma Cafe, but if you're in Champaign-Urbana Aroma Cafe is as good as it gets, at least coffee wise. Enviornment: 3.5/5, Drinks: 5/5Their prices are insanely reasonable and they give out a generous discount for bringing your own cup. The quality of the beans is also very good, which rocks. While Cafe Kopi (the coffee house just a street away from Aroma Cafe) roasts very well too, they can't make drinks worth shit. They don't even know how to steam milk! I got a latte their once and the milk wasn't steamed, just warmed up with the steam wand. I also rate Aroma Cafe highly because their prep, the way they make the drinks, is very good. Aroma Cafe actually uses a manual grinder for their espresso drinks! It's amazing! :D Most places just put the group head into an automatic. Their back bar might need a tid bit of work but I mean I'm getting really picky. I just feel bad for the usual lone barista doing all of the work.In any case, if you're in Champaign-Urbana and want a quality cup of coffee this is the place to go. Cafe' Paradiso's just too expensive and every other coffe house has no idea what their doing.",
+                "reviewer_id": "cTkqFcemqSIdoD4ah8u_Ew",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.49073933021850363,
+                    "positive_probability": 0.5092606697814915
+                },
+                "stars": 5
+            },
+            {
+                "review": "The atmosphere and food are much, much nicer than Cafe Kopi's... but the coffee is not! The coffee menu is limited and the baristas don't know how to make anything that's not explicitly on the menu (that's cool because this should not be expected of them, but it's just a major downside).I asked if they made cold brew and they offered me hot espresso on ice. That worries me. The food is very basic, low-involvement, no special ingredients, yet pricey. Also worth mentioning, the WiFi is abhorrent. Connection is too weak in all areas of the restaurant to even display text. And your session expires after a few hours and you are not able to start a second one. Just a heads up for people who want to stay and study. I don't know if it was a purposeful way to boot campers out. I've never had this happen to me at a cafe. Finally, the background music is awful, in my opinion. They play nonstop 80s pop: Cyndi Lauper, Michael Jackson, Olivia Newton-John, etc. So bring headphones if you're not into that.",
+                "reviewer_id": "dzKYG04n0nLXv6tGFvJX0Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.14151737288746064,
+                    "positive_probability": 0.8584826271125436
+                },
+                "stars": 3
+            },
+            {
+                "review": "Such a cute cafe. This is the kind of place I wouldn't mind coming to one morning with a book, sitting down with a cup of coffee, and reading for hours while drinking my way through a couple more cups and a muffin or pastry. Just wish it was closer to campus.",
+                "reviewer_id": "eIQwlepZ2qgvv3ZnCPfucA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.13363816127861392,
+                    "positive_probability": 0.8663618387213862
+                },
+                "stars": 4
+            },
+            {
+                "review": "I worked at Aroma Cafe, on Neil between Park and University, for 2 1/2 years, so I can safely say that I've eaten just about anything that could come out of their kitchen. It's not amazing, but it's all good stuff. The kids quesadilla is the best deal on the menu. There's front and back patio seating, which can be important as seating indoors fills up quickly when school is in session. They have music Thursday nights which can be very hit or miss.",
+                "reviewer_id": "Ez5s5sU6jqdxwDnpE5KiCg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0024966215590617865,
+                    "positive_probability": 0.9975033784409405
+                },
+                "stars": 3
+            },
+            {
+                "review": "I came to Aroma to have lunch and study. A failure on both counts.I ordered a surprisingly small amount of food for about 8 dollars. The quality was meh, and I had to order more to get full. If I'm going to spend 10-12 dollars on lunch, I can have much more satisfying experiences elsewhere.Studying was difficult. The embarrassing light jazz track that they were playing was way too loud, and much more appropriate for, say, a hotel lobby than a downtown cafe.",
+                "reviewer_id": "Fb0NPyLCatB2MD_v4q0l8w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.024381313040255297,
+                    "positive_probability": 0.9756186869597361
+                },
+                "stars": 2
+            },
+            {
+                "review": "The custom-made my chai tea latte without any sweetener and it was the best I've ever had.  I got to hang out for 2-1/2 hours to do work while traveling and felt welcome the entire time.  Good tunes at a good volume and nice place to work and drink chai.",
+                "reviewer_id": "FylO9s7BT0i2U2bLq6Rh_g",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.06460480725981192,
+                    "positive_probability": 0.935395192740188
+                },
+                "stars": 4
+            },
+            {
+                "review": "Aroma is a great place to visit if you're on campus and need a space to work. There is a public parking deck a few blocks away, so it's in a convenient location for visitors. The employees are friendly. The food and drink are nothing special, but everything I tried was good. The wifi is free and works well.",
+                "reviewer_id": "gmZDebH1kpNzIQrYWEx2mg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6130664113715713,
+                    "positive_probability": 0.3869335886284241
+                },
+                "stars": 4
+            },
+            {
+                "review": "This is a cute little coffee shop which I visit often and am absolutely in love with. The coffee is great and along with a lovely ambiance with ample outdoor seating in the form of a beautiful back patio, it's absolutely my happy place.",
+                "reviewer_id": "goz54FSSoQkvWnElKz__iw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0026084087051654347,
+                    "positive_probability": 0.9973915912948362
+                },
+                "stars": 5
+            },
+            {
+                "review": "I practically live at this coffee shop. The atmosphere is usually quieter than Kopi, and there is plenty of seating on most days; the staff is friendly and polite and know their way around a kitchen. There are outlets all along the walls, and free wifi, if that's what you're looking for. *See edit*I'm addicted to the vanilla chai, but I really go there for the raspberry white chocolate scones. I challenge you to find a better scone in the world! Okay, well, maybe not the world, but they trump any pastry in every coffee shop I've ever visited. When I've been on the road, this is the first place I come back to. Aroma is home!Also, the salsa here is amazing. It is house-made and there are two kinds: try the one with the peaches. I get it as a side with my cheese quesadilla, which is also tasty and totally worth spending my lunch money on!Edit: 5/20/2012Since I last reviewed Aroma, it has gone through a lot of changes, including new ownership. What's bad about this is they took away almost every single thing I loved. Those unparalleled raspberry white chocolate scones? Gone. Now they serve bloated English scones from Sweet Indulgences that are as dry and tasteless as the Sahara. Massive, extraordinary fail. I mean, there used to be epic Scone Wars over Aroma's scones--I used to try to beat these elderly ladies who worked downtown to the cafe to get my share. For real. Now the new scones just sit on a plate, untouched and unwanted, fat blobs of loathing. Anybody who likes them never had the original, heavenly scones of old. They're not even in the same category of pastry, I tell you. They offer other pastries from Sweet Indulgences, too, but they're all really expensive and not what I would eat for breakfast. (Old habits die hard.) They still sell apple fritters, I guess.They tried to get rid of my beloved chai, as well, but then the new baristas were too mentally challenged to make bagged chai tea and they had to revert back to the mix. I guess leaving a tea bag in a cup of steamed milk requires too much comprehension. I'm glad for it, anyway, because if natural bagged chai is your thing, nobody in town is better than Kopi, which is just around the block. Competing against them is just a waste of time, so they're safer to keep the chai mix and go with what their customers already know and love.Also, that amazing peach salsa? Yup, it's gone now, too. Forever. The whole menu has been revamped to have fancier, slightly healthier offering. I haven't been desperate enough to try any of their new food items except for the fruit salad, which is basically a bowl of chopped fruit with a yummy syrup over it, and that was good, but it was just for breakfast. I will say they seem to have spared most of their old menu's wraps and other lunch items for the time being. The Wi-Fi is also password-protected now (\"sexytoast\" is the key). At least they didn't insert that proposed \"kid corner\" they threatened us with earlier during the revamp. That would've sent me running for the hills instantly. As someone who comes in here regularly to find quiet and write, I can tell you the very last thing I want is to share space with a corner of screaming, running toddlers. I deducted Aroma a star for all of this, but find it hard to give it less than 4 stars. I've been coming to Aroma for seven years, so I think of it as my home away from home, even if it currently is a shell of what it once was. Some of the other regular customers I used to see in here are thinning out. I guess all of this will make it easier for when I move from Champaign, because now it's just depressing.",
+                "reviewer_id": "hIL6301oQP8dkMkkolzdQg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.01189448270095098,
+                    "positive_probability": 0.9881055172990572
+                },
+                "stars": 4
+            },
+            {
+                "review": "Excellent coffee and service.  Great employees who are helpful and welcoming.  The grab and go food is a great option for people on the go.",
+                "reviewer_id": "i92Xvi9XBkM__UJcpGlNIg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4766319783323836,
+                    "positive_probability": 0.5233680216676168
+                },
+                "stars": 5
+            },
+            {
+                "review": "I can't believe it took me so long to come to Aroma Cafe... Cafe Kopi was just way too crowded today so I decided to give it a try. This is definitely a nice place, and I'll be back. Plenty of seating (including, I believe, a patio in the back), free wireless, nice decor and lighting, friendly staff: everything you need from a good coffee shop. They have food too (mostly sandwiches, salads etc): I tried their raspberry chipotle chicken salad, and it was pretty good.",
+                "reviewer_id": "igrgFZl9wDohSem0UyoP6A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.024163392780527655,
+                    "positive_probability": 0.9758366072194715
+                },
+                "stars": 4
+            },
+            {
+                "review": "I like Aroma.  The coffee is nice, the pastries are delicious, the food is fantastic, and the space is big and welcoming. The seats by the window are a really nice touch.  The biggest problems I have with this place though is that the baristas are sometimes a little inattentive to customers and the temperature in there is always experiencing problems.The other problem is that it's not the best space for collaborative work.  I'm happy to go there alone as a nice place to work quietly or read/ have sometime \"away\" but I rarely go there for when I need more table space.",
+                "reviewer_id": "iKt9RWLOS_PE4SKBRFkKww",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0030081358030605047,
+                    "positive_probability": 0.99699186419694
+                },
+                "stars": 3
+            },
+            {
+                "review": "Aroma is my cappuccino stop on a sunny Sunday afternoon walk. Which makes me neither a laptop-toting regular, nor a complete one-timer. The caps are usually good -- until last Sunday. The tired guy behind the counter was in a big hurry to get on with his life, apparently, because instead of a cappuccino, he made a latte. The other guy behind the counter practically argued with me when I explained the drink was \"wrong\" simply by the sheer weight of the cup. Finally, they redid it, but it was still the worst cappuccino I have ever had there.The atmosphere is nice, and food is not bad. However, the snack selection is practically non-existent. For that, you gotta hit Pekara next door.Odd Aroma Cafe story: one Sunday, I ask for a San Pellegrino. The tall kid behind the counter says he can't serve it to me. \"Why?\" I ask. \"Because I'm under-age\" comes the answer. Wooot! You gotta be kidding, kid. After picking myself up off the floor, I explain it's fizzy water, he asks someone for help, I get the bottle (no brown paper bag) and we get outta there. And with this story, I just realized I am one step closer to the yuppies I'd always mocked. Well, I will suck it up.",
+                "reviewer_id": "inAZ0195yJmfNt5CU8UB1g",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8693270508225972,
+                    "positive_probability": 0.13067294917741254
+                },
+                "stars": 3
+            },
+            {
+                "review": "I moved here from the Bay Area, the second largest coffeehouse metropolis outside of possibly Seattle. My first week in town consisted primarily of the hunt for \"the right\" coffee shop where the words \"extra foamy\" meant the wet foam, not dry, to provide a perfect foundation for latte art. If you know latte, then you must know Cafe Aroma. The consistency from barista to barista is not the same, so I send a word of caution. I have my favorite latte rainmaker, and I ask him for his schedule so I can come when he's there. I'm serious. The owner also is there often, and he absolutely knows what he is doing when it comes to making the perfect latte. Things like this are too important to play with. Go straight to Cafe Aroma and save yourself $30 of bad experimentation at the other coffee shops in town.",
+                "reviewer_id": "J1TuQczoNskddDFwQUXi9A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.05365026362792647,
+                    "positive_probability": 0.9463497363720766
+                },
+                "stars": 5
+            },
+            {
+                "review": "What a great spot to have in downtown Champaign. I work right around the corner and stop in multiple times a week for a coffee, a snack from the grab-and-go cooler or just to say hi to Jamarr and the rest of the friendly staff!The chicken wrap is my favorite for lunch, perfect balance of savory and zesty (the lime juice is a great addition) and doesn't make me fall asleep at my desk afterwards!The coffee is great too, a nice dark roast. There's usually pretty good music playing, plenty of people working or studying and lots of outlets so you can stay awhile.",
+                "reviewer_id": "J9uA2e7WFAslWxxr1S_4tg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.41087926859899293,
+                    "positive_probability": 0.5891207314010038
+                },
+                "stars": 5
+            },
+            {
+                "review": "I've been very faithful to Cafe Kopi over the years - however - my beloved chai latte and chai bomb are consistently inconsistent. I decided to give Aroma a try after my last disappointing latte and I was very pleased. My son also prefers the hot chocolate here as well. I recently discovered their hummus which comes with plenty of flatbread and house made fattoush. It is sinfully delish. Unfortunately for me (and my coworkers) it is dragon breath inducing with all the fantastic ingredients. Their lobster bisque is also to die for. Maybe not that serious, but it's worth a try. The fresh grilled ciabatta that comes with it is perfect.Now I'm hungry. Thanks, Yelp.",
+                "reviewer_id": "JgHGyWS2emyHq6aq144SLQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.16181590861050177,
+                    "positive_probability": 0.8381840913894995
+                },
+                "stars": 5
+            },
+            {
+                "review": "It's not bad. They make a decent cup of coffee. More positives: pastries are affordable; ample seating; nice back patio area; baristas are pretty cool. That being said, the best coffee in town (and some of the best pastries) is  at Das Cafe in Urbana, which has theirs custom blended by Colombia in Champaign. So I guess Colombia really gets the credit on that one.",
+                "reviewer_id": "JIr39pHBsCUNaJcHACkBlw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0704262579193472,
+                    "positive_probability": 0.9295737420806542
+                },
+                "stars": 2
+            },
+            {
+                "review": "I have to say that I have perused many different cafes in the area but none own my heart in the way Aroma does. For one, the food and drinks here are excellent -- especially the wraps and the teas, though the hot chocolate is also top notch. Secondly, the atmosphere is bright and inviting but also calm enough to be an effective study place. It's typically got people but it's never overly busy or loud, which is a big plus and their WiFi works pretty well. Thirdly, what really does it for me, is that baristas are all incredibly friendly and kind. I have had lots of little conversations with them and they are always polite and courteous. Once I came in rather worn out from a long day of finals studying and the barista made me a beautiful intricate cup of hot chocolate. That's the kind of excellent and caring service that this cafe provides and that I appreciate.",
+                "reviewer_id": "JoEC_TncRvANYox60GTQWA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 4.46003772107386e-06,
+                    "positive_probability": 0.999995539962297
+                },
+                "stars": 5
+            },
+            {
+                "review": "Perfect! Food: Cuban sandwich (their version) x 2 one for moi and one for my daughter. Mine accompanied by fruit; hers accompanied by chips and salsa.Drink: Peach Green Tea x 2 Additional Drink: A kind of frappe (coconut flavored)Dessert: tres leches cake.Us: transplants from Miami, Florida ( just got here about a month ago). Although our first time at Aroma we had yelped before and found an excellent review about their Cuban sandwich. We love Champaign but miss Cuban food the most in particular Cuban sandwiches from: Mario's and Sergio's and well the 1000 other places you could easily get one and me really missing Cuban coffee which are pretty much loaded espressos made with a variety of beans but Bustelo.... Mmm the best! Aroma didn't disappoint their version of the Cuban very close to the Miami one. Everything else terrific. Added bonus: stroke up a conversation with Jerry, terrific guy, wearing a UF gator shirt, told him about our Cuban food and drink craving and ....dios mio! (My god) he appears with an espresso that brought me back to calle 8! (Look it up). Thanks Aroma you have a customer for life! Jerry is awesome and I am looking forward to many more delicious adventures at your cafe!",
+                "reviewer_id": "K2KJj1KIasyrrVD2jMJRXQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 2.534930153376574e-05,
+                    "positive_probability": 0.999974650698482
+                },
+                "stars": 5
+            },
+            {
+                "review": "This cafe is wonderful!  The atmosphere is bright and cheery, the coffee is wonderful (especially the iced soy mocha), and the staff is always super courteous.  There is a nice patio in back to enjoy outside seating and there is always great art on the walls:)",
+                "reviewer_id": "kc1uUlHySLvnUvQHtkvfqg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.02348729045953167,
+                    "positive_probability": 0.9765127095404723
+                },
+                "stars": 5
+            },
+            {
+                "review": "I was a bit disappointed by Aroma.  My iced mocha tasted like chocolate milk (was there half a shot in there, or what?) and the veggie wrap was only \"meh\" although it sounded really great on the menu.My drink tasted alright, despite lacking any kick, but the price is really what made it bad.  For a SMALL espresso drink that didn't taste like it had any espresso in it, I paid $3.80.  Whaa?I do like that the sandwiches and such come with a choice of side, and that none of the sides will cost you extra.  At Cafe Kopi, you have to pay extra for certain sides, including the side salad.  I liked the salad that came with my wrap, although there were a few pieces of wilted/gross lettuce.  I was underwhelmed by the wrap but would probably try a full-size salad from here.However, since Cafe Kopi is right around the corner and serves way better drinks, I don't know if I'll ever bother giving Aroma Cafe a second chance.",
+                "reviewer_id": "kltu5MyodHXondt_qvdAHw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.052726027019783565,
+                    "positive_probability": 0.9472739729802075
+                },
+                "stars": 3
+            },
+            {
+                "review": "This cafe warms my heart hah.  It's a nice quiet place, I've always had great service when I go. They have some small tables, some medium, a few couches and a spiffy fireplace. Very cozy. Cool place to study as well!I've liked their lattes (I had a seasonal gingerbread latte which was yummy) and they have a variety of teas. Check it out!",
+                "reviewer_id": "kRqk2li5lEm8R2EcYDrXBQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.004259860861931805,
+                    "positive_probability": 0.9957401391380684
+                },
+                "stars": 5
+            },
+            {
+                "review": "Indeed delicious coffee. Had a large cappuccino and an chocolate croissant and both were 5star worthy.",
+                "reviewer_id": "KWtjS0RK7Q-JpWcWtGw9xQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2661452566687167,
+                    "positive_probability": 0.7338547433312816
+                },
+                "stars": 5
+            },
+            {
+                "review": "This is the best coffee place in Champaign. Both the coffee and the service are excellent. They also do a nice line in baked goods, so it's a great place to get a break and a snack - plenty of seating, so you can work here on the free wifi while you munch on your scone and sip your Americano (by the way, it didn't take the staff long to know exactly what I was going to ask for).",
+                "reviewer_id": "L7AaUdt7ZXvJgoISC4gHCg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.1354855612722583,
+                    "positive_probability": 0.8645144387277381
+                },
+                "stars": 5
+            },
+            {
+                "review": "In a time where hamburgers are cheaper than fresh greens aroma stands out offering a diverse menu of fresh food for a reasonable price. The light healthy taste of the food is paired perfectly with the open air well lit space. Aroma is a restraunt that is something the American people need in order to get our countrys economy, weight, and sense of community back on track. The menu was recently revamped. So if you havnt been here in 6 months give it another shot. My experience today was flawless. The atmosphere is upbeat, well lit, and friendly. The staff is friendly, personable, and knowledgable. The food was delivered to my table in a timely manner, presented with care, and was quality product. I will be coming here for lunch more often.",
+                "reviewer_id": "l8AlmkE-num7eoY-hqBWNg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.00015713455204559017,
+                    "positive_probability": 0.9998428654479553
+                },
+                "stars": 5
+            },
+            {
+                "review": "I asked the staff what the best flavor was for the coffee (since they have so many), and they created me the most delicious thing ever. It was some kind of mocha toffee iced coffee, and I've been dreaming of it ever since I graduated and moved away from Champaign. Also, their mac and cheese is the bomb, even though you have to microwave it yourself.",
+                "reviewer_id": "LiDYytrhel5OeAaM0pORAg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.11432583502713553,
+                    "positive_probability": 0.8856741649728636
+                },
+                "stars": 5
+            },
+            {
+                "review": "Admittedly tried to go to Kopi first and was immediately turned away by the sign on the door that said NO WIFI ON WEEKENDS. Fine, fine...So off to Aroma we went and glad we landed here. It's not quite the cozy place Kopi seemed to be but the coffee is good and I like the fireplace area in the back near where we sat. Staff was also quite friendly even though it was pretty early on a Sunday morning. And oh yeah, they have wifi on the weekends. One thing they could cut back on is the muzak going in the background. Maybe the rest of the clientele like the slow jazz, dunno.",
+                "reviewer_id": "maVd8QhXBoI5EtnLMDmt6A",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8939146411026262,
+                    "positive_probability": 0.10608535889737324
+                },
+                "stars": 4
+            },
+            {
+                "review": "The happiest staff in Champaign-Urbana! Great breakfast and lunch, coffee, or just a light meal! I will definitely frequent this place!",
+                "reviewer_id": "MNQEbeOcq0gTmYM-ELmx_Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.056298332080730304,
+                    "positive_probability": 0.9437016679192715
+                },
+                "stars": 5
+            },
+            {
+                "review": "Best coffee in Downtown Champaign. Better than Kopi, Expresso Royale and MUCH better than Pekara and Merry Anns. Coffees change daily, and they always have a pot ready regardless of the crowd. I always get a regular ol' coffee, but people who get the froofy drinks also think that Aroma is on top of their game.The staff is always friendly and helpful to me, though some have told me they have experienced worse, but then again, I know a lot of assholes. The food is good, but their portions are a little small. A lunch with a large coffee is always $8-9. For $5.95 pretax, you get one of their sandwiches and moderately generous side of fruit salad, salad, or chips. They are cheaper than Pekara and Kopi. Make sure you check out their soup of the day, as they are always good and a soup and an Aroma sandwich combo is guaranteed to satisfy. They have pastries for sale, but I don't know why. The pastries at Pekara (next door) are way better. They also have a morning Bagel and Coffee deal for $3.50 that is pretty good: they have a bunch of different bagel and cream cheese varieties.They also offer a discount if your work in Downtown Champaign, but they do not advertise this.",
+                "reviewer_id": "NGX1PZwHET_oQOT7vkkxag",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6089138929083517,
+                    "positive_probability": 0.3910861070916485
+                },
+                "stars": 5
+            },
+            {
+                "review": "I want to give this place more stars, but when I really think about it, 3 stars fits my experience with Aroma Cafe. The atmosphere is cute, and I could easily see myself sitting at a table here wasting the day away studying. However, the lattes I have had here were just OK. They have boundless flavors to choose from, but the flavors that I have had were a little too sweet for my taste, a bit more like Starbucks-sweet than I would prefer. Additionally, although I have never ordered coffee from here, I had some of my friend's on my last visit, and it was nothing memorable. I may come back one day to try the food, but when it comes to coffee drinks, there are plenty of other places in Champaign-Urbana that I can go to.",
+                "reviewer_id": "nsDNg_jj_M0Hcw03bNJZyw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.011260423495214096,
+                    "positive_probability": 0.9887395765047935
+                },
+                "stars": 3
+            },
+            {
+                "review": "Wonderful, comfortably cheery atmosphere.  It's so warm and cozy to sit here on a winter night with a hot beverage and a book, or a cheese plate and Scrabble with my husband.  The drinks are wonderful; I haven't really had anything here I didn't like.  In addition to the usual coffee/tea concoctions, they have juices and a few alcoholic beverages.  The food is also quite good, unlike a lot of other coffee shops I've tried.  Try the quesadilla or the Aroma Salad.  Good music, too!  My only beef with them is that they close super-early in the evenings during semester break, meaning that those of us who actually LIVE here don't get to partake while the students are gone.  I would understand if Aroma were located closer to campus and got the vast majority of their business from college students, but every time I'm there, I see quite a few non-students, so I see no reason for them to close early.",
+                "reviewer_id": "NtmiVAP4zoM8Kx8_8SNgMg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 6.553527138476826e-05,
+                    "positive_probability": 0.9999344647286155
+                },
+                "stars": 4
+            },
+            {
+                "review": "OMG!!! I am drinking a sugar free carmel cider and it is AMAZING!!! It's like a carmel apple in a cup!!!! GET IT NOW!!",
+                "reviewer_id": "oJk4au1iKQvaBnuta6lQhw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.21975150425681414,
+                    "positive_probability": 0.780248495743185
+                },
+                "stars": 5
+            },
+            {
+                "review": "Great coffee and friendly staff! We went there after dinner so we didn't try any of the food, but maybe we will the next we are passing through town.",
+                "reviewer_id": "Oqt38PHOirGzNXRHq6v5Mg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6922579202602963,
+                    "positive_probability": 0.3077420797397039
+                },
+                "stars": 5
+            },
+            {
+                "review": "Good atmosphere for studying or relaxing. Prices are reasonable in my opinion. I got the Sienna Turkey Wrap for lunch on a Saturday. It is very large and comes w/ one side. This is a cold wrap, and it is very very good, with a combo of ingredients that make it stand out over other \"normal\" wraps.  I got the \"aroma salad\" as a side. It has goat cheese, nuts, berries and of course greens. This isn't what I usually like (nuts and berries in a salad), but it comes with house dressing, and it was very good as well. Total for the wrap and side (not including drink, as I got a free glass of water you pour yourself) was about $8. That's a good deal in my opinion, as 1/2 the wrap filled me up, and I'm a guy. It could easily be split between 2.",
+                "reviewer_id": "P8k-4v-xb4qJ_lIQSZNJog",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.008114545106145492,
+                    "positive_probability": 0.9918854548938532
+                },
+                "stars": 4
+            },
+            {
+                "review": "Staffs are always so welcoming and friendly! Delicious chai latte and colorful/bright walls make me happy :) Best cafe ever!",
+                "reviewer_id": "Rbgad6WYUC5rIaaWTwoLxA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.41608132687272253,
+                    "positive_probability": 0.5839186731272781
+                },
+                "stars": 5
+            },
+            {
+                "review": "It features a retro style internet connection and a playlist of annoying pop songs. Coffee is just average. Wouldn't recommend this place as a good study place.",
+                "reviewer_id": "rQ4HzGIzkDeY2d1tQmrW2w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.10723433814681363,
+                    "positive_probability": 0.8927656618531848
+                },
+                "stars": 2
+            },
+            {
+                "review": "I have changed my mind.  Aroma, you are my new favourite coffee shop in CU, and not just because you kept me full of coffee and happiness this weekend while I toiled over everything from Marx to historiography.  Your workers were ridiculously friendly, your huge ass coffee mugs were on point, and the Beef and Cheddar sandwich was sabroso.  You win.",
+                "reviewer_id": "SpKVX3rt892E-BrL-yeqiw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.727624755488362,
+                    "positive_probability": 0.2723752445116394
+                },
+                "stars": 5
+            },
+            {
+                "review": "Amazing atmosphere, delicious coffee and lattes, and the service is great. Cafe aroma is a much better option than cafe kopi, which is not as clean and always much more crowded.",
+                "reviewer_id": "Te3PB7TqT1IGRPZNYNdkGA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.12460701320179707,
+                    "positive_probability": 0.8753929867982004
+                },
+                "stars": 5
+            },
+            {
+                "review": "On a quick weekend road trip to CU, I wanted a local coffee shop downtown--and Yelp definitely delivered with all the recommendations for Aroma Cafe!This is a cute little shop nestled in the adorable downtown Champaign area, and on a Sunday morning, it was easy to get in and quickly get a drink and some breakfast. It's mostly street parking, but I found lots of spots right out front.The lovely lady working welcomed us right away, and she was very helpful with her suggestions. I decided on a large light roast Ethiopian and an oatmeal, and the Mister got a large dark roast of some sort and a cinnamon roll as big as my head. The ceramic coffee mugs were huge, and the coffee was delicious. They even had organic cane syrup to sweeten it! My oatmeal was pre-packaged, but it was one of the healthier brands without anything artificial or tons of sugar. The Mister loved his goodies as well.The interior of Aroma Cafe is very cozy, but we decided to sit on the patio out back. It felt secret garden-ish, and it was the perfect setting for a lazy Sunday breakfast. If you're in the CU area, then you should totally check out this place. Friendly people, good coffee, and tasty treats... what else could you want?",
+                "reviewer_id": "TWIg1Jx2jGiC8UqaKpNorw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5851708586081222,
+                    "positive_probability": 0.4148291413918748
+                },
+                "stars": 4
+            },
+            {
+                "review": "Friendly barista and cozy atmosphere! Got a hot chai latte and was very pleased - tasted creamy and rich.",
+                "reviewer_id": "UA7Q01C7LdKJw73g7qnFAQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.08105438162966042,
+                    "positive_probability": 0.9189456183703398
+                },
+                "stars": 5
+            },
+            {
+                "review": "Great drinks and a wonderful atmosphere.  A very chic look combined with comfy seating.  Their food is so-so, but reasonably priced nonetheless.  Aroma is definitely my favorite Champaign cafe.",
+                "reviewer_id": "UHgo14XWliFG-hQrhNnSMg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.14699206821757843,
+                    "positive_probability": 0.8530079317824221
+                },
+                "stars": 4
+            },
+            {
+                "review": "I quite like Aroma.  It's your typical cafe, but they have a fairly wide variety of menu items and you get a good deal with their daily specials.They have lots of seating indoors (including some cushy chairs by a fireplace in the back), and something I especially appreciated was the abundance of outlets!  There's nothing more frustrating than getting to a cafe that either a) has wireless, but you gotta pay for it, or b) has free wireless, but only two outlets for the patrons to fight over.After ordering my hummus plate, I grabbed a table by the wall, plugged myself in, connected to the free internet, and spent a nice evening relaxing....  at least that's what I would've liked to have said.  I was actually scrambling to finish an assignment before they closed up for the day, haha.  The warm pita bread and fresh, crisp cucumbers that came with the hummus was very tasty though =)They have a bunch of outdoor seating out back as well for when the weather is nice.",
+                "reviewer_id": "urDog6OhPoNKPJFUDob7AA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.03681096168605929,
+                    "positive_probability": 0.9631890383139384
+                },
+                "stars": 3
+            },
+            {
+                "review": "This is a very average cafe with coffee that tastes like a hotel blend.  The coffee probably deserves 1 star but the chai latte drink was great and the service couldn't have been friendlier.  Nice atmosphere and great location near park.  But the actual coffee needs help.",
+                "reviewer_id": "V6RetP-6zbHB7_JMjqYcIQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.118737659604547,
+                    "positive_probability": 0.8812623403954486
+                },
+                "stars": 3
+            },
+            {
+                "review": "Super nice and hard working employee behind the counter. My tea latte was great and I was very excited to find almond milk in the Midwest. The hashbrowns were bigger than expected and crispy and delicious. The cheese on the egg and cheese was average, but the ciabatta was awesome. We received hot sauce instead of ketchup but that turned out to be great anyway! The coffee was above average and a generous portion for the price.",
+                "reviewer_id": "WbOL9-tbvAhrmVk0OrRfcA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.11558699462601854,
+                    "positive_probability": 0.8844130053739792
+                },
+                "stars": 5
+            },
+            {
+                "review": "what i love most about aroma is the outdoor seating. perfect in the spring/summer/early fall with an iced latte and a good book. what i love the least about aroma is the chai tea latte. for some reason, i don't know if it was the chai or the soy milk, it just wasn't good! however, i have been pleased by their other lattes (regular and vanilla), yet haven't tried any other coffee drinks thus far.i've also had their veggie wrap and grownup grilled cheese sandwich, which were both pretty good and worth getting again. the best i've had here is the mango salsa that comes with the sandwiches. don't know what it is, but i just love this stuff (i think because of it's simplicity). the space of aroma is ok...i've definitely had trouble getting seating inside because of the limited space, but usually it is okay.also love that they occasionally have live music. i have only been once when there was, and it was a pretty good experience....and overall, i've had okay experiences with the staff....nothing really to report about because there hasn't been anyone overly rude or overly friendly...just about what you'd expect from a place like this....",
+                "reviewer_id": "wQk4gneiQeM466IymN4wRQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0005734427560021094,
+                    "positive_probability": 0.9994265572440038
+                },
+                "stars": 3
+            },
+            {
+                "review": "Really great grub. I tried the turkey wrap and it was delish. Good flavored added in. I would definitely recommend if you want an early start they open at 7. But also great for lunch as well. If I was from here I would come eat here on a regular.",
+                "reviewer_id": "x2Leq76KuSrU4BbFU7A53Q",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6156329770303568,
+                    "positive_probability": 0.3843670229696434
+                },
+                "stars": 5
+            },
+            {
+                "review": "Espresso is just OK.",
+                "reviewer_id": "XazAbxRx9KkioW7FLG90FA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5149504220935436,
+                    "positive_probability": 0.4850495779064564
+                },
+                "stars": 3
+            },
+            {
+                "review": "The coffee is okay. It isn't bad coffee. The staff is very friendly and answers questions politely. The seating isn't like your typical coffee shop. It has a nice fireplace in the back and for outdoor seating there is a cool-looking back patio to sit in. They have tons of outdoor seating. They are never as packed as Kopi and it is quieter than Kopi. My favorite drink to get here is the Italian cream soda with the many different flavors they offer. This place has a lot going for it, I wish I could say their coffee is amazing that is why I can't give it a higher rating. You should check this place out.",
+                "reviewer_id": "xkOQUAqnU-u6qSj9pBtukA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4204093518822259,
+                    "positive_probability": 0.5795906481177673
+                },
+                "stars": 3
+            },
+            {
+                "review": "I think Aroma Cafe has the best hot chocolate in the area.  To support this claim, I had a cup of cocoa here, two hours later went to another caf to try their cocoa, and immediately returned to have another cup of cocoa here.  (I really need to watch my sugar intake.)Nice place to study, great place for a study date.  There's an outdoor area too, but I have not checked it out.",
+                "reviewer_id": "XOnwygK-EerILmQSxP2K6Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0025179403576665637,
+                    "positive_probability": 0.9974820596423316
+                },
+                "stars": 5
+            },
+            {
+                "review": "Aroma is great!  Great service, coffee, food, music, atmosphere, and outdoor area!  Five stars!",
+                "reviewer_id": "xwL_Ygk7UAt17XEdVIZ30A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.18770348109191082,
+                    "positive_probability": 0.8122965189080892
+                },
+                "stars": 5
+            },
+            {
+                "review": "This place is awesome. Free Wi-Fi, great array of tables/chairs/couches, fireplace, outdoor space in the back, nice ambiance, and great friendly service.While they play music on the overhead speakers, it's not intrusive at all.They make a fabulous latte (hot or iced) and I am liking their updated lunch menu a lot. This is my go-to for coffee and a nice, relaxing place to sit.",
+                "reviewer_id": "XXaUQHIcjaROjFhXkllw7A",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7313958292660362,
+                    "positive_probability": 0.26860417073396653
+                },
+                "stars": 5
+            },
+            {
+                "review": "Try the a-latta bananas.  Delicious!!  I asked to hold back on the banana syrup, so it wouldn't be so overpowering.  The staff is very friendly!!  And if you purchase one of their travel mugs you get a drink free then get 20% any time you come back in with the cup!",
+                "reviewer_id": "xzCfZXsqnFJ4WHup0EK1YQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6663382217537783,
+                    "positive_probability": 0.3336617782462221
+                },
+                "stars": 5
+            },
+            {
+                "review": "I love Aroma - the food, the staff, the music, the atmosphere. Everything is great!Excellent for getting coffee with friends or studying in a group or alone. The coffee is so good. The soups are delicious and comforting - especially in the winter! I usually get the sienna turkey wrap - it's my favorite thing here.",
+                "reviewer_id": "y_jYPRsm14mGzazo1FAnXw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3449612859953714,
+                    "positive_probability": 0.6550387140046264
+                },
+                "stars": 5
+            },
+            {
+                "review": "By far, my favorite coffee place in town, and the food is always fantastic. My favorite is probably the smoked salmon wrap, but I also really like the grilled cheese with pesto paired with the soups they have.My husband can be really picky when we're choosing a place to eat out, but I can almost always get him out to Aroma.",
+                "reviewer_id": "YbkPwGiLcrdA2Vx4cjsIeg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7572361391307003,
+                    "positive_probability": 0.2427638608692999
+                },
+                "stars": 5
+            },
+            {
+                "review": "Great customer service! The barista was really pleasant and inviting. He combined two bags of tea to create what I wanted, and seemed happy to do it. Casual ambience and I liked that there was a couch in the back. My tea was great and I got a lot of it for just $2... I'll definitely be returning. :)",
+                "reviewer_id": "yQZo0tJzB3uBG22d6e_0xA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.34566718551308234,
+                    "positive_probability": 0.6543328144869196
+                },
+                "stars": 5
+            },
+            {
+                "review": "update 5/8/09Yuck to their pastries.  Every time I go here (not too often, but if Kopi is crowded or has rudely turned off their internet) their hours have changed.  Now the sign says \"For Now Hours\" so who knows what it will be next time?  They didn't have anything that looked that tempting, but I had a huge sweet tooth, and tried a brownie.  It was hard as a rock.  I should have taken it back, but I didn't because I would have had to sit their and drink my coffee anyway since I was given one of their tiny \"here\" cups (which probably wouldn't have taken me too long in reality).~~~~~~~~~~~~~~~~~~~~~~~~~~~~~update 11/15/2008:I have dropped Aroma just an \"eh\" rating...Cafe Kopi was horribly crowded, so I trudged back out into the cold and headed to Aroma.  There was a nice size table free, and it's much brighter in there (which I found jarring at first, but got used to it).  I ordered my standard \"Grande House Coffee\" and when asked \"for here or to go\" I said \"for here\" because I had planned to stay to do some homework.  Well she gave me my coffee in this tiny little mug.  I asked her, \"Is this a grande?\" and she looked at me, said yes, and showed me an even tinier mug for their smalls.  There was not 16 oz of hot coffee in that tea cup.  Barely 12 oz would be my guess.  They TOTALLY short change you on the \"for here\" cups, so I would recommend getting a \"to go\" cup even if you plan on staying.  Which is unfortunate when \"going green\" is the thing to do...  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~On an early Sunday right after moving to Champaign, I was wandering around the downtown area to see what was around, and stopped in here for a coffee and a muffin.  It's cute, there's lots of tables, free WiFi (although I didn't have my computer, I saw a couple of people with laptops out), and the people behind the counter were nice.  There's a comfy spot in the back with couches and chairs and a fireplace!  (not sure if it works though)  And they have an outdoor area as well.  The coffee was good, and if you buy one of their travel mugs, you get a discount every time you bring it in to get your coffee.  The hours are great for studying.  Overall: it's cute, and I can see myself heading back there in the future.",
+                "reviewer_id": "YW_iT5vBAFJUepWGQCo62Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.06380491690960961,
+                    "positive_probability": 0.9361950830904036
+                },
+                "stars": 2
+            },
+            {
+                "review": "+ Small little college town coffee shop feel+ Good quality coffee+ Cake balls........oh my goodnessAroma Cafe is exactly the type of small business coffee shop that I love to support. It's warm and welcoming - cozy enough for setting up a work station for an afternoon, or just for stopping in for a coffee to go. I appreciated the friendly service and the selection of quality brews they had to offer. You just can't beat iced coffee that is made to order, freshly brewed on the spot rather than being served from a big pitcher of premade refrigerated coffee. I also had one of the lemon cake balls and oh good grief that was delicious! The center of the cake ball had something similar to a lemon curd, which was a very pleasant tart surprise. I want to come back just to get a few more (okay maybe like a dozen) of these naughty little bites!",
+                "reviewer_id": "YzKKSO6JuRBgPHeexDxOgg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5796140673842846,
+                    "positive_probability": 0.4203859326157161
+                },
+                "stars": 4
+            },
+            {
+                "review": "Another great downtown coffee shop. They have a nice outdoor patio and a cozy section in the back with couches and armchairs. They also have local musicians play some nights which can be quite enjoyable. The coffee and atmosphere are pretty good. Seating can be a little sparse and when it's crowded, it can be a bit hard to move around.I don't have any complaints really, but Aroma doesn't quite have the draw for me that other downtown coffee shops have.",
+                "reviewer_id": "zdn3U_9GzaC1C3HZM2-ziA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.00035191164355092197,
+                    "positive_probability": 0.999648088356446
+                },
+                "stars": 3
+            },
+            {
+                "review": "On my quarterly-ish trips up to Champaign to see a friend, we usually find ourselves downtown walking around. This past weekend we had some time to kill before lunch so we stopped in Aroma for a drink. It was a gorgeous Saturday so we were able to take advantage of their backyard patio. It's pretty much your average coffee shop, but a few things stand out. One - they have sugar free almond syrup. Yum! It's one of my favorite flavors, but rarely do I find it in the sugar free variety. Two - they have a fireplace. I'm assuming it works, although I've never actually been in Aroma when it's on. Third - they have a nice patio. Although I really wish they would upgrade their patio chairs. They have the flimsy plastic kind that suck. Spend a few more bucks and get something similar to your neighbor, Pekara.Their bakery case never looks too appealing. I'd skip on over to Pekara if you're looking for a nosh, but Aroma is a-ok for a coffee or tea.",
+                "reviewer_id": "Zi1UeAxAHu36Fv6vZcTRNg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9534484134914527,
+                    "positive_probability": 0.04655158650855422
+                },
+                "stars": 3
+            },
+            {
+                "review": "Best coffeehouse in town.  The barristas are cool, especially Nicole.  Their food is also great, especially the black-bean and corn quesadilla.  The salads and wraps are way better than Pekara and way cheaper too.  I wish they had more tables and more outlets and they've always got their A/C running on high, but other than that, this place rocks!",
+                "reviewer_id": "zkRH-NOAdIjJjU2ASeXZ1g",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.1019805968206456,
+                    "positive_probability": 0.8980194031793559
+                },
+                "stars": 5
+            }
+        ],
+        "similar_restaurants": [
+            "YkKEsYsSpOkDBbHBGKuWQA",
+            "9nmeU-OOyxkn8vRy5dolNg",
+            "bcW-OuYklAXeEZWBgc7TaA",
+            "DntkMrzlbFPdOdxJtEWLBw",
+            "ey7-ihj-OjM4sEOwWTc06Q",
+            "wO8c-FbduauxCGiEHchGRA",
+            "dvO4zlxg3GoK_CiqbvtxbQ",
+            "oHKjjwehNipcGIYBThWg9w",
+            "ZSTTU_-duEqyIDZgLV45DA",
+            "SeQv-RJ2rS070NvSRh_siQ"
+        ]
+    }
+}

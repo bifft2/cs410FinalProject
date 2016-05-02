@@ -1,0 +1,1060 @@
+{
+    "EJCIIIy4RghSG3Blsg9BrA": {
+        "keywords": {
+            "bigrams": [
+                "chinese_food",
+                "fried_rice",
+                "jakarta_fried",
+                "spicy_chicken",
+                "hot_spicy",
+                "best_chinese",
+                "orange_chicken",
+                "mapo_tofu",
+                "hot_tea",
+                "mongolian_beef"
+            ],
+            "unigrams": [
+                "food",
+                "chinese",
+                "chicken",
+                "place",
+                "good",
+                "cravings",
+                "spicy",
+                "fried",
+                "rice",
+                "menu"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "none",
+                "Ambience": {
+                    "casual": true,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "Caters": false,
+                "Delivery": false,
+                "Good For": {
+                    "breakfast": false,
+                    "brunch": false,
+                    "dessert": false,
+                    "dinner": false,
+                    "latenight": false,
+                    "lunch": true
+                },
+                "Good For Groups": true,
+                "Good for Kids": true,
+                "Has TV": false,
+                "Noise Level": "average",
+                "Outdoor Seating": false,
+                "Parking": {
+                    "garage": false,
+                    "lot": false,
+                    "street": true,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 1,
+                "Take-out": true,
+                "Takes Reservations": false,
+                "Waiter Service": false,
+                "Wheelchair Accessible": true,
+                "Wi-Fi": "no"
+            },
+            "business_id": "EJCIIIy4RghSG3Blsg9BrA",
+            "categories": [
+                "Asian Fusion",
+                "Malaysian",
+                "Chinese",
+                "Restaurants"
+            ],
+            "city": "Champaign",
+            "full_address": "603 S Wright St\nChampaign, IL 61820",
+            "hours": {
+                "Friday": {
+                    "close": "22:00",
+                    "open": "11:00"
+                },
+                "Monday": {
+                    "close": "22:00",
+                    "open": "11:00"
+                },
+                "Saturday": {
+                    "close": "21:30",
+                    "open": "12:00"
+                },
+                "Sunday": {
+                    "close": "21:30",
+                    "open": "12:00"
+                },
+                "Thursday": {
+                    "close": "22:00",
+                    "open": "11:00"
+                },
+                "Tuesday": {
+                    "close": "22:00",
+                    "open": "11:00"
+                },
+                "Wednesday": {
+                    "close": "22:00",
+                    "open": "11:00"
+                }
+            },
+            "latitude": 40.111220370343005,
+            "longitude": -88.229060407463,
+            "name": "Cravings",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media2.fl.yelpcdn.com/bphoto/Xto_Oi4LUkLWGV2fU69OCQ/ms.jpg",
+            "review_count": 103,
+            "stars": 4,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "Food is OK. Best chinese food out there. But the food is much better. ",
+        "reviews": [
+            {
+                "review": "Only complaint is my clothes usually smell after I come out of the restaurant. Otherwise great place for the price.",
+                "reviewer_id": "-amhZpPGuwEdXU-q1sat9w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.33922177677683685,
+                    "positive_probability": 0.660778223223163
+                },
+                "stars": 5
+            },
+            {
+                "review": "I've been coming to Cravings every couple weeks for the last two years or so.It is the best Asian restaurant in Champaign County, bar none. Golden Harbor is a close second.The two workers who deal with customers are the friendliest restaurant workers I think I have ever encountered. After fifty visits here, I have never seen either one in an apparent bad mood. They're just happy people, and happy people make great food.FYI: Whilst observing the magic behind the curtain one day, I did see them cooking the vegetables by blanching them in a deep fat fryer along with the egg rolls. -- And that's why Chinese food tastes good, folks!",
+                "reviewer_id": "-mqE7uZSnGEAb_quhfcyJQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.007289966979003337,
+                    "positive_probability": 0.9927100330210042
+                },
+                "stars": 5
+            },
+            {
+                "review": "i dont get the hype. It's cheap chinese food.",
+                "reviewer_id": "-XBvFyJEZpp36rnHSXbamA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.756701295846836,
+                    "positive_probability": 0.24329870415316368
+                },
+                "stars": 3
+            },
+            {
+                "review": "Ultimate Asian food experience. LOL",
+                "reviewer_id": "03SkIOh1Za8BlnyJiHxXZQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5083333333333334,
+                    "positive_probability": 0.4916666666666667
+                },
+                "stars": 5
+            },
+            {
+                "review": "This is one of my favorite places to get Chinese food on campus! They are really fast and the food is delicious. The owners are extremely nice and accommodating and best of all, the food is very inexpensive. Every time family comes into town or I have friends over, we make our way to cravings for a great meal. You order at the counter and they call your number when you food is ready and all you do is go and pick it up yourself. No fuss dining. There is also free water, hot tea and plastic utensils in the front - server yourself.Here are some dishes I love:-spicy fried chili chicken: fried chicken pieces that are stir fried with scallions, spicy chili and sweet yellow onions (spicy and delicious! - all time fav!)-salt an pepper squid: fried strips of squid stir fried with green peppers and onions (crispy and irresistible)-masala fish: battered fish stir fried with masala spice and veggies-eggplant with ground pork: the eggplant is soft and tender, which is well balanced with the rice ground pork-pork belly-clams with black bean sauce-mapo tofuThe staff is super friendly and have great recommendations if you're not sure what to get. Overall, great food! This place gets packed pretty quickly so make sure you snag a table!",
+                "reviewer_id": "04-E5-69Se-vW8heDXI_gA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 2.8972330204805827e-05,
+                    "positive_probability": 0.999971027669786
+                },
+                "stars": 5
+            },
+            {
+                "review": "Ok, Cravings is an interesting experience. There is no atmosphere. The food is sketchy. The line is usually long, it's crowded, and the huge menu is scattered in about 5 different places, making it a little weird the first time you go. But you will be back. I don't know what they put in their food here, but everything is just really, really tasty. It's not going to win any culinary awards any time soon, but for the cheap price, you get a lot of downright delicious chinese food. I've probably been here at least a hundred times over my years on campus, so I'll try to keep this review condensed. Go to Cravings. Order the hot and spicy diced chicken. And never look back.",
+                "reviewer_id": "1WxQqmrLe-7LWkC5PjBQeQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.1289255356774592,
+                    "positive_probability": 0.8710744643225445
+                },
+                "stars": 5
+            },
+            {
+                "review": "Best Chinese food on campus if not in champaign. The food has a home cooked feel to it and does not look like it came out of a can or a pre-cooked frozen package like most Chinese food.Dishes to try: General Tso's Chicken, Chicken Gado Gado, Beef Ho-Fun",
+                "reviewer_id": "2dGvidMEc7YdsRNgy-xMEw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6169836102193776,
+                    "positive_probability": 0.38301638978062136
+                },
+                "stars": 5
+            },
+            {
+                "review": "I heard Cravings is the official ECE restaurant, I'm not disappointed.I've come many times and so far my favorite dishes are the singapore rice noodles and the fish masala. They are spiced pretty heavily, so only order if you know you can handle it. Additionally I find their food a tad salty. for around 7 bucks a meal. Actually like many said the portions are enough for two meals. Cravings definitely has great value. Make sure to ask for more rice after you finish your first bowl, and pack it go to!I'll be back here many times.",
+                "reviewer_id": "2eICeRlxg8Mb51cTnw4r0A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.00011088604893200601,
+                    "positive_probability": 0.9998891139510696
+                },
+                "stars": 4
+            },
+            {
+                "review": "I'll keep this short and sweet. I really really enjoy the food. That being said, you are eating it with the risk of getting food poisoning. If Cravings does not pass their next inspection, they will be shut down because they time and time again have violated many food safety laws.",
+                "reviewer_id": "30UzDYbSBtk6BSVtX5cuzQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.16214203871590727,
+                    "positive_probability": 0.8378579612840943
+                },
+                "stars": 3
+            },
+            {
+                "review": "The Spicy Fish Masala is pure awesomeness. Shrimp Fried Rice is my next favorite. The flavor is unique. Will be a fan forever!",
+                "reviewer_id": "6TGDb6dB3OM4L8e0cWda9w",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5303137136374702,
+                    "positive_probability": 0.4696862863625301
+                },
+                "stars": 4
+            },
+            {
+                "review": "2 things to order- Jakarta fried rice and hot and spicy chicken.",
+                "reviewer_id": "8Pkmv7OIO8I5FO3CsF7qgg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.41798874216421994,
+                    "positive_probability": 0.5820112578357806
+                },
+                "stars": 5
+            },
+            {
+                "review": "Overrated, clap, clap, clap, clap.  Overrated.Yelpers, I usually trust your judgment, but you didn't get this one right.Since I love small hole-in-the-wall places with friendly owners (this place meets those criteria), this review is kind of hard to write, but I have to do it.The Mongolian beef that I ordered was cold.    Additionally, it wasn't sweet, and there were a lot of onions in the dish.  A lot!The ingredients (rice, beef and onions) were fine, but I can't eat something that has been sitting around for awhile and isn't fresh and hot.I'll try this place again because the owner is a nice guy, but my first experience wasn't a good one.",
+                "reviewer_id": "9aVOjesf1-H_ZciJYxVscg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.05164433756648184,
+                    "positive_probability": 0.9483556624335217
+                },
+                "stars": 3
+            },
+            {
+                "review": "Love this place for cheap and pretty tasty chinese-ish food.  Went there the other day, and my boyfriend and i split the fish masala (crispy and spicy) and pork hofun (noodly with mild brown sauce).  2 very different meals, both delicious and very filling.  Food is very reasonably priced,.  Restaurant does look a bit dingy and generally smells a bit funky, maybe a greasy-smell.  Still recommend the food.",
+                "reviewer_id": "9epEUZ6VFX800EwrbXhdQQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2216779926082985,
+                    "positive_probability": 0.7783220073917041
+                },
+                "stars": 4
+            },
+            {
+                "review": "There are really better options, both in Champaign and on campus.I don't really want to say that, because I used to love Cravings.  Like many of the people writing 5 star reviews, I was impressed by the large menu, the frequently cheerful staff, and the mostly reasonable prices.  But as I went to other Chinese places in town, my opinion began to change.  I noticed that most of the dishes at Cravings were really heavy and oily.  And that most of the specials were very similar to one another.  And that some of the menu options .. didn't really match what was being described.  I don't mind some innovation, and I know you can't really get a Japanese style bowl of Ramen anywhere in Champaign, but Cravings' offering is nowhere close.The last three times I went I ended up throwing out my leftovers.  I absolutely hate wasting food, but I couldn't finish them.  One was a squid special; the squid was extremely chewy and seemed overcooked.  The plate was mostly green peppers in a salty sauce, in any case.  Another was a \"coconut shrimp\" plate.  This translated to fried shrimp with (very sweet) uncooked coconut milk simply poured over them.  Unhealthy and not even tasty.  The last was Gado Gado Fish, which I remembered getting and enjoying in the past.  It was still really heavy - lots of breading with an oily, thick sauce.  If you want to spend a little more money, I highly recommend Golden Harbor instead.  But the food is much better.If you want to spend about the same or just a little more, I'd check out Lai Lai Wok instead - which I think is overrated, too, but is a bit better than Cravings.  Or you could get take-out from Rainbow Garden, which is pretty solid.  If you want to spend less, you could try out Empire or Bo Bo China.  (Bo Bo China is all you can eat if you really want to maximize your calories/dollar.)",
+                "reviewer_id": "9LZXJu6RZ6UpIXYGSZWB7Q",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6398791748739685,
+                    "positive_probability": 0.36012082512603344
+                },
+                "stars": 2
+            },
+            {
+                "review": "Not even a question about it, this is the best chinese food you can get in urbana, possibly in the entire midwest. I went to school in Champaign for a year, and I ate at Cravings at least once a week, it was my comfort food, my go to for when friends visited, and the thing I miss most. If you are in champaign and like food, this hole in the wall is a must. I recommend the Mongolian Beef!",
+                "reviewer_id": "_hoXTtFnjFdNPCNfi9jgWQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.03400437113111299,
+                    "positive_probability": 0.9659956288688856
+                },
+                "stars": 5
+            },
+            {
+                "review": "Man. I was wary about this place, because it looks like every other Chinese food place ever and I don't like most takeout restaurants. But it's really really good. Sure, it's not the swankiest of places, but if that bothers you so much take your food to go!First of all, the guy running the place is so cool. I told him I wasn't feeling well and wanted some soup. He was like, I have JUST the thing. Not long after, I picked up a huge bowl of soup with big ol' chunks of fish cakes, squid and shrimp. It was a hot and sour seafood soup with noodles, and it was nice and spicy. At most places, when they talk about spicy food, it's not really that hot. Not so at Cravings. I am used to eating spicy food and I was wiping my nose.Gross, I know.Anyway, the ingredients taste fresh and the portions are huge. They provide water and tea for free, which is great when it's cold outside. And they give great takeout containers for soups. I know, it's the little things. I'll definitely be back to try more on the extensive menu. Hm, I wonder if they deliver...",
+                "reviewer_id": "_hz_dF3yYAUdbD8rwqbVPg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2772822439478174,
+                    "positive_probability": 0.7227177560521784
+                },
+                "stars": 5
+            },
+            {
+                "review": "Cravings? More like CRAMPINGS! Seriously, my stomach has never felt so cramped and twisted as it was after I ate here for dinner. I ordered the fried fish with masala; it was very oily rather than crispy and the spice rub was overwhelmingly dense, and made up of SO much MSG that my head was throbbing after only eating about half of the plate. It must have been a seriously high concentration because I've never had this bad of a reaction to MSG in food before. I was feeling so sick that I threw the rest of the food away and went home. I woke up later in the middle of the night with intense head pain and stomach pain, got about 3 hours of sleep.If you value your stomach, and mental health please don't go here!",
+                "reviewer_id": "_UsXfkBVsMckfiXaWhcqPQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9923931043268001,
+                    "positive_probability": 0.007606895673194499
+                },
+                "stars": 1
+            },
+            {
+                "review": "Last Sunday evening at around 5:30pm, my wife and I went to this restaurant. There were still a lot of customers there, then we had to wait in line. Most of the customers are UIUC students, but not necessary Chinese students. There are quite a few other Asian students, like Indian. And also  American students. This kind of remind me of my school time... The food taste very good, while a little expensive though. There are also free hot water or tea provided.",
+                "reviewer_id": "_WLYW4vzknVRGiVJBUy8oQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.27158029401187395,
+                    "positive_probability": 0.7284197059881228
+                },
+                "stars": 4
+            },
+            {
+                "review": "Living at the corner of Green and Wright, I should have seen my addiction to Cravings as inevitable. There is a huge menu with a lot of great items. My favorites are the General Tso's Chicken, Mongolian Beef, Jakarta Fried Rice, and the Hot and Spicy chicken. The food is delicious. The prices are great. You always get more than enough meat and a side of rice. That said, the place is kind of sketchy. There are rumors that it was closed for a few days in Spring 2013 due to health violations. And I'll admit, I have seen a bug or two crawl around right on the menu. But with the delicious, greasy food that comes out of here, I'm willing to eat a couple bugs. Definitely worth it. Pro Tip: Call in your order for pick up and start walking there. By the time you get there, your order will be ready to go and all you have to do is pay. Boom.",
+                "reviewer_id": "AkBLrKOQota9wJGRwL3lrg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0016712718521644486,
+                    "positive_probability": 0.9983287281478452
+                },
+                "stars": 5
+            },
+            {
+                "review": "Outstanding....i usually get the american \"chinese\" like general tsos, sesame chicken, etc.  The jakarta fried rice with tofu and veggies is also amazing.  Really cheap (about 6 bucks) for a d-lish hot meal.  I usually try not to eat the whole plate because it is definitely more than one healthy person should eat, but i usually can't stop myself.  couple of types of tea for free while you eat in...gets packed during peak times around noon and dinner time, so seating can get hard to find, but getting it to go and eating at home or outside somewhere works just as well.cravings is the go to place for us ae students in the area...someone always has it in the lab, and always makes me want some...actually, in all honesty, after writing all of this, i am walking straight there.",
+                "reviewer_id": "ammnfIRTEmKKO0fDQsfSJA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0023917432981348493,
+                    "positive_probability": 0.9976082567018689
+                },
+                "stars": 5
+            },
+            {
+                "review": "Between 6 hungry people, we ordered:1) Indonesian Fried Rice2) Crispy Beef3) Crispy Tofu4) Chicken Lo Mein5) MaPo TofuPlatters are around $7 each and everything is cooked fresh to order. The flavors are amazing here and the service is amazing, the food comes out quickly.  It's feel-good, home-away-from-home cooking.  It's no wonder there's always a lot of international students and a few home-grown midwesterners eating here - they've discovered one of the best spots for Asian food in Champaign.  (And the engineering quad is also right across the street!)It's not a fancy place.  You'll clean your own plates when you're finished and when you order, you'll be given a number which they will call out from the counter.  You can grab your own silverware, napkins and cups of water/tea from the big kettles near the cash register and clear your own dishes when you're finished.  But what they lack in pomp and panache they make up for with good food and cheerful service.  Simple as that.If I had to choose to order one thing consistenlty, it would be their crispy tofu.  Hefty wedges of soft tofu are lightly breaded and fried.  It's served topped with strings of fresh green onion and this incredible thick garlic dipping sauce, which I would eat with plain rice.  It's that good!  And it's my favorite.The Indonesian Fried Rice comes with a fried egg on top and their MaPo Tofu comes spicy (chilis bring it on), in a very sharable portion.  Our dishes also came with the soup of the day, something along the lines of egg drop soup with tomotoes.  Here you will get an affordable meal with amazing Taiwanese-Indonesian-Chinese flavors.When i was a student here, I would mostly order take-out and the portions would last me at least two meals.  Come here if you want a filling, hearty meal that will nourish your heart and soul.  Dining in is great to eat family style since the dishes are shareable.  If you come consistently enough, I think you'll find your favorite dish that you'll want to order every time.  The owners are incredible people who take great pride in their restaurant.  They know they are a beloved spot on campus and treat their patrons in the same way.",
+                "reviewer_id": "B9rstUU8CVwZ8c-QlmQcrA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 5.330559466251307e-07,
+                    "positive_probability": 0.9999994669440372
+                },
+                "stars": 5
+            },
+            {
+                "review": "The dishes are mostly salty or oily. One could still go there if he/she doesn't mind the salt and oil. Their used-to-be signature dish, i.e. Hot and spicy chicken, is going downhill. The last time I ate that dish, it was cold, oily and not crispy. I complaint to them and they just simply refried the chicken so that it is warm..",
+                "reviewer_id": "bNBh7k2ccmF3ImKOLmi-Eg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.14323742889317004,
+                    "positive_probability": 0.8567625711068321
+                },
+                "stars": 2
+            },
+            {
+                "review": "Yes. Yes. Yes.We went here on a whim after freezing our butts off at an Illini game and it hit the spot. It had every kind of Asian dish on the menu, and while I'm usually weary of places that have more than one kind of cuisine offered, this one delivered.I ordered the sweet and spicy udon soup with chicken and it was amaaazing! My boyfriend also really loved his beef curry. The portions were also huge and everything was really cheap. I don't know how I've been a townie and not known about this place. Gem!",
+                "reviewer_id": "BvGV9lMMUmB5hLWkNlY3vw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.031055025774609984,
+                    "positive_probability": 0.9689449742253818
+                },
+                "stars": 5
+            },
+            {
+                "review": "I've been living off Cravings these past 2 years, literally.They have a big menu so the tip is you know what to order. Don't just try something randomly as you might have a negative experience.The owner is very nice and every time I ran into him in Champaign, he always remembered me and said hi to me.Dishes that I recommend include -hot & spicy chicken (my go-to dish. I had this like everyday last spring); -mapo tofu (really good, spicy, and only 6.50 for a very generous portion); -gado gado chicken (nutty and sweet);-masala fish (crispy and spicy fish fillet); -beef pan fried chow fun (stir-fried beef with large noodle, really good);-Sizzling chicken pot (I have to stress it. it's SIZZLING chicken cooked with basil and onion);-Pepper and Salt Squid (apparently everything starts with \"Pepper and Salt ___\" is really good. Try pepper and salt fish also).Some more Chinese dishes that I like:-black mush room & tofu w/ groundpork;-basil pork with rice;-bean noodles with ground pork (a lot of people asked me what I had when I ordered this dish);-hot & sour seafood noodle soup (tom yum based, with LOTS of seafood, perfectly for a cold day);(these 4 dishes above can be found on the white board near the counter).The Mongolian beef is good but it's not consistent. I like it to be a bit overcooked, but sometimes it's still a little rare to my liking, especially during peak hours.These dishes are all from the Chinese menu since i'm not a big fan of Americanized dishes in general.",
+                "reviewer_id": "cjzWc1WsLKbpeEJ9WSpJlw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.006030138794690343,
+                    "positive_probability": 0.9939698612053018
+                },
+                "stars": 5
+            },
+            {
+                "review": "Having spent 5 years at the University of Illinois, Cravings was far and away the hot spot for the college of engineering (across the street from the engineering campus) students for lunch or dinner. I must have been to this place over 50 times. The staff is extremely friendly. Every time I go there I ask G' Tao (owner) for a new dish based on my preferences, he never disappoints. Only knock on this place the food is a little oily and I wouldn't consider it healthy eating haha. But when the food is this good who cares!Long Story Short: There have been several times where I was bashing my head at the computer lab working on an engineering project and just said \"Screw this, I'm going to Cravings\". Nothing saved the day like food from Cravings. Shop Notes: Pretty small shop and gets packed pretty quickly around lunch and dinner. Service is very quick and efficient, take out is always a good option. Very reasonably priced with pretty large portions.Sentence Summary: Is the food entirely healthy? Not really. Is it delicious and authentic? Absolutely.",
+                "reviewer_id": "dCKQYxqegPEyLlwnBxyyrg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.1488152411345006,
+                    "positive_probability": 0.8511847588654932
+                },
+                "stars": 4
+            },
+            {
+                "review": "Food is salty as hell. 3 stars only because the owner there is chill as hell. Food definitely went downhill. It's still cheap fast food if you really like salt.",
+                "reviewer_id": "Dxhyi5b0obJZurIxrpTCVQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8258528049285131,
+                    "positive_probability": 0.17414719507148682
+                },
+                "stars": 3
+            },
+            {
+                "review": "I have been going to Cravings for 5 years now and every time I go, I can't wait to go again.  I always go with a group for friends and order family style.  All the dishes are large enough to accommodate it.  The Spicy Chilli Chicken is awesome as well as the Salt and Pepper Squid (a version of calamari).  I have yet to try a dish I did not enjoy...expect for when I accidentally ordered cows stomach.  The owner was nice enough to take it back and give me another dish free of charge.",
+                "reviewer_id": "e3Of4RCyEsaQRywSKMUhJA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.010631902095109091,
+                    "positive_probability": 0.9893680979048941
+                },
+                "stars": 5
+            },
+            {
+                "review": "Good memories have attached to this place. I enjoy their beef and broccoli, as well as their chicken dishes. A classic grungy Chinese restaurant.",
+                "reviewer_id": "eIQwlepZ2qgvv3ZnCPfucA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5106836845328822,
+                    "positive_probability": 0.48931631546711707
+                },
+                "stars": 4
+            },
+            {
+                "review": "I really enjoy this place it has good food, nice owners who want you to change your order up every so often and good prices. I had jakarta fried rice and meat with cilantro both were good. Although I would recommend not getting the sesame chicken its a bit too sweet but other than that I think they have the best chinese food here.",
+                "reviewer_id": "EM3qgcLfUzPU2boJIL77eQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0070026290587622275,
+                    "positive_probability": 0.9929973709412392
+                },
+                "stars": 5
+            },
+            {
+                "review": "So many options that all taste so good. Reasonable prices. The staff is very friendly too. If your knowledge of Asian food doesn't go much further than orange chicken, I recommend you try something new each time you go. You might be pleasantly surprised :)",
+                "reviewer_id": "EOjgKjLbfCssAqcGuBCm3w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.008882789874111929,
+                    "positive_probability": 0.9911172101258897
+                },
+                "stars": 5
+            },
+            {
+                "review": "Cravings used to be one of my favorite restaurants in the CU area. However, over the past few years, I have noticed a significant decline in quality. For example, I  used to order the spicy fried rice at least once a week, but I stopped after noticing that the quality of the vegetables had gone down and the flavoring had become inconsistent.",
+                "reviewer_id": "fA7HBH53b8TgTvij2dmuBQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.875759380206373,
+                    "positive_probability": 0.1242406197936235
+                },
+                "stars": 2
+            },
+            {
+                "review": "Customer service at this place rocks!!! The food tho... The chicken had the taste of freezer. The green peppers also had a weird taste. The rice was good tho, and the teas as well. The miso soup could have been less salty and have some sea weed in them... This one had no sea weed, a bit disappointing.",
+                "reviewer_id": "fO6x7MllY3dzRbYJOEEK9g",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9319682882300547,
+                    "positive_probability": 0.06803171176994081
+                },
+                "stars": 3
+            },
+            {
+                "review": "I love this place. Great food and the owner is super friendly. I am a senior on campus and I would argue that this is the best Chinese restaurant on campus.What should you eat? Jakarta fried rice, Spicy Chicken, and Crispy Beef. I literally came here 2 or 3 times a week this past summer and I never regretted it.",
+                "reviewer_id": "g2iRQXHSHMGmOkJ8ilfpKg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2801589190121552,
+                    "positive_probability": 0.71984108098784
+                },
+                "stars": 5
+            },
+            {
+                "review": "the gado gado sauce was great but the chicken was overly fried. the sauce in the mixed veggies was just way too thick, way too salty and probably loaded with msg.",
+                "reviewer_id": "gbxWeKTC7vzLA7i-cAPp8w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.1951945887614242,
+                    "positive_probability": 0.8048054112385755
+                },
+                "stars": 2
+            },
+            {
+                "review": "Yes, yes, yes! These people aren't goofing around! Although this restaurant is lacking in atmosphere, this is fully made up for in quality and quantity of food. It is by far the best tasting Chinese I have had on campus, for a bargain deal too! Bang for your buck, get some takeout and give it  a try.",
+                "reviewer_id": "gCarnije8roJtcM6VR0rkw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5579986330110186,
+                    "positive_probability": 0.44200136698897935
+                },
+                "stars": 5
+            },
+            {
+                "review": "Great takeout options. The food was fine. I got Chinese food, but there are so many other cuisines available on their menu.",
+                "reviewer_id": "gMptLmFSVO2gsAIk-pfSVA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4107071229372921,
+                    "positive_probability": 0.5892928770627074
+                },
+                "stars": 3
+            },
+            {
+                "review": "Ate a lot from this place while I went to school at UIUC. This place was super busy at lunch/dinner times but still very efficient. There masala fish was very delicious. Although it was sometimes difficult to find spots to sit.",
+                "reviewer_id": "go3_RCCCZBDTL_NPiWxVqA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.039482441165343884,
+                    "positive_probability": 0.9605175588346564
+                },
+                "stars": 4
+            },
+            {
+                "review": "Not too pricey. Taste good but a little bit salty. Fired rice is the cheapest one. Shredded pork with bamboo and three cups chicken taste great. Beef & cilantro with chili sauce is really spicy.",
+                "reviewer_id": "H-ClPrZm4MriWZXHhotqyQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.011475119508024082,
+                    "positive_probability": 0.9885248804919722
+                },
+                "stars": 4
+            },
+            {
+                "review": "On a college students budget, this place is a mecca for getting a full stomach.  For about six bucks, I can get orange chicken with rice, at excellent quality, not to mention that the portions are huge which is a fantastic quality.  Only downside is a long wait during peak hours.",
+                "reviewer_id": "hgCqK0LrwrWmUrtFdL_tsQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.000380535539321852,
+                    "positive_probability": 0.9996194644606775
+                },
+                "stars": 4
+            },
+            {
+                "review": "Cravings is hands down the best Chinese food in town. I have been going here since I was very young and have continued to frequent Craving exclusively to this day. The portions are huge and the prices are very reasonable. The brightest spot of this establishment has to be the staff and ownership. They are always exceedingly friendly. It almost seems like you're part of the family when you come in. There's free tea and water to drink while you wait for your food which is also awesome. While the building is big with lots of seating, due to the popularity it can get crowded, especially after classes get out in the evening. All in all if you are looking for a \"go to\" Chinese restaurant, look no further than Cravings.",
+                "reviewer_id": "I0O7YN5Fbnp-zgDhFzDdeQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0003476666160553948,
+                    "positive_probability": 0.9996523333839523
+                },
+                "stars": 5
+            },
+            {
+                "review": "This place has the best orange chicken I have ever tasted. My only regret is that I discovered it so late in my undergrad. The food is made in a respectable amount of time and the owner is so friendly. Call ahead because this place is always packed around dinner time. The free hot tea is fantastic. I like everything about this place and can't wait for the next time I am able to go. Five stars are well deserved.",
+                "reviewer_id": "IEDYYadgC12zcT9sbEfpqw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0809068792029976,
+                    "positive_probability": 0.9190931207970029
+                },
+                "stars": 5
+            },
+            {
+                "review": "One of my favorite lunch spots. For the price, it's hard to beat what you get here. Definitely recommend the hot and spicy chicken, or the chicken lo mein. It can be greasy but it's worth it.Update: Recently, I tried a tofu dish and this is not their strength. I'd recommend not getting tofu from this place, although I still love the chicken lo mein and hot and spicy chicken.",
+                "reviewer_id": "IIRBF6_xbWYPbP_mjGI8RA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.46175377488059427,
+                    "positive_probability": 0.538246225119406
+                },
+                "stars": 4
+            },
+            {
+                "review": "I ordered takeout with a friend, after he said this place was really good.  I got a vegetable - udon noodle dish, since my spot in line came up before I was ready and I had to make a snap decision.  I also got fried rice and crab rangoon.  I wish I had more time to decide, but we were in a hurry.  The menu was much larger than I was expecting, divided into different regions, and I would love to come back and try something else.Total, including tax, came to around $13, which is pretty good for the amount of food I got.  Even though I was warned to be ready for a wait, and it was the dinner rush, we got out in probably about 15 minutes.  My udon ended up being good, if a bit plain.  The crab rangoon was good, and I wish I had more of it, but it was not spectacular.  I was told the fried rice was very good, though a bit on the salty side.  Looking at the other reviews, I suspect I will have to give this place another try and order something different.  Maybe it will blow me away next time.",
+                "reviewer_id": "IJ3m1dLcXv_NjDlXQ5J8Iw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.11545783029739062,
+                    "positive_probability": 0.8845421697026002
+                },
+                "stars": 3
+            },
+            {
+                "review": "First time in Champaign, IL and I went to my trusty Yelp app to find a tasty place for dinner. After reading the reviews for Craving, I decided to give it a try. Unfortunately, the summer hours aren't updated on Yelp and the place was closed early on Sunday night. Oh well, Monday night, I returned and boy, was I glad I did.This place is about as dive as you can get. But we all know, good Chinese restaurants are all about the food...so I dove into the menu. I was happy to see they had a \"Chinese\" menu for the real authentic dishes. I ordered the mushroom and tofu curry. It came with a small bowl of seaweed soup and rice. Extra rice was free (which is always should be!) as was the hot tea and ice cold water. The curry and the soup were both delicious.I returned the next time to try their famous hot and spicy chicken. WOW! The servings are enormous. There is a reason why this is the most popular dish...it was amazing.Cravings is a must try for Asian food lovers. I highly recommend it.",
+                "reviewer_id": "IU9ArEUIijrMqNEgVKZDuw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.00011422191854949374,
+                    "positive_probability": 0.999885778081457
+                },
+                "stars": 5
+            },
+            {
+                "review": "Why is the food so good??! I literally can't get enough of the food here. Coming from a Chinese family, this place really reminds me of home with the Asian ladies peeling peas, the numerous voices chatting in different languages, and sometimes the owner's children? running around. It's a very lively place and I really like the owner - he's fluent in multiple languages and is overall a pretty cool guy. The food is really cheap and you get a lot for what you pay. One nuisance is the long lines and crowds because they're so popular, but they have a good ticket system to make sure you get your order.My favorite item is the Jakarta fried rice! I've also ordered the wonton noodles in miso soup which have lasted me for lunch, dinner, and impromptu midnight snack. Their menu is really diverse and offers home-made meals from China, India, Indonesia, and many more Asian countries. If you're from outside of the U.S. and missing home, a meal here will soothe your aching heart like chicken lo mein for the soul.",
+                "reviewer_id": "JsHky2NY-FvugF8WTMsZtQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.010574991608566795,
+                    "positive_probability": 0.9894250083914472
+                },
+                "stars": 5
+            },
+            {
+                "review": "I am hesitant to give out 5 stars on Yelp, but Cravings earns mine without a doubt.This is not only the best Chinese food in Champaign-Urbana, but also some of the best Chinese fast food I've had anywhere. I'm from Los Angeles, where we claim Monterrey Park and Alhambra as the official China Town of America, at least cuisine-wise, but I find that Cravings beats out most of the places I've eaten at out here.During the year I spent living in Urbana, I frequented Cravings almost every week, and during that time I have tasted almost half the items on the menu.Most students coming grab a lunch-sized dish for $5 or $6, but ordering the $8 or $9 full dishes pays off if you plan to be out studying all day. You get so much food that you can easily take half of it with you to go, so you can finish it later while studying at the library or wherever.Menu highlights include the Mongolian Beef, the Marsala Fish (careful, very spicy!), the spicy crunch chicken, or if you want healthy, the seaweed seafood dishes.If you're just a beginner, you might want to just stick with the Mongolian Beef, General Tso's chicken, or Kung Pao just to experience how they do the classics so well and full of flavor, then move on to other items in subsequent visits.My biggest regret in leaving Urbana is being able to taste the food that this wonderful Malaysian family has brought to corn-field country!",
+                "reviewer_id": "jzbVA9tqxh16WbONzKMjzQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.02944289850341357,
+                    "positive_probability": 0.9705571014966012
+                },
+                "stars": 5
+            },
+            {
+                "review": "More Authentic, cheaper prices. I'd have to say this place is a better priced for portion Chinese place while still maintaining a high quality sense of food. I've been here multiple times and my friends extremely love this place (their favorite being the Jakarta fried rice). I've tried a plethora of their menu and enjoyed every single one. Don't think you will be disappointed if you come here, the only complaint is that, it is quite small during busy hours, it might be difficult finding a spot to eat in the restaurant with a group",
+                "reviewer_id": "k23Uo-4EVB4xFLqUNckNbw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0010702967731813704,
+                    "positive_probability": 0.9989297032268245
+                },
+                "stars": 4
+            },
+            {
+                "review": "I go at least 1 every 2 weeks. I LOVE THIS PLACE.   I am addicted to there Jakarta Fried Rice. I always look for it when I go to other places but they don't have it. If they do have it they don't come close to Cravings' version. Their menu is really big. Everything that I have tried I liked. I like that people speak Chinese it gives it an authentic feel.",
+                "reviewer_id": "k9oax7-xv8w1L61spFPCFw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5301286862143655,
+                    "positive_probability": 0.46987131378563585
+                },
+                "stars": 5
+            },
+            {
+                "review": "A must try item: hot and spicy chicken!",
+                "reviewer_id": "kf40c9eW4LpBEzvmViefIA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.45870579637216774,
+                    "positive_probability": 0.5412942036278312
+                },
+                "stars": 4
+            },
+            {
+                "review": "Generous portions and cheap price. A college student's dream. I got the chicken with vegetables for a lunch one day. They give a wide array of vegetables and the sauce was good but the chicken was okay. They give you soup along your lunch so that was nice (though I didn't really like the soup). The dish was yummy but I'm sure the other choices are a lot better. Such big portions so this could also be split between two people or saved for later.Decent food but I do prefer Golden Harbor.",
+                "reviewer_id": "kRqk2li5lEm8R2EcYDrXBQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.21300595072700507,
+                    "positive_probability": 0.786994049273002
+                },
+                "stars": 4
+            },
+            {
+                "review": "OK.First I need to say that I'm not a Chinese food fan. But, I like some kinds of it.Ambient of this restaurant is very bad. There is always a smell and smoke inside. Because of that you may start coughing. This is a very bad thing!Food is OK. But I had better experiences about Chinese restaurants, so this is not my first option in C-U.And, price is reasonable, actually cheap. However, service is so slow. So many people order by phone before they're coming to this restaurant. To sum up, if you wanna have a Chinese food, Cravings wouldn't be your first option, as long as you're not specifically try the food of \"South China\". I recommend Evo, in C-U area.",
+                "reviewer_id": "le6Fd0VOPeaLWqsATnS1sA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.1497974556797729,
+                    "positive_probability": 0.8502025443202311
+                },
+                "stars": 2
+            },
+            {
+                "review": "Homie, this place is great but sometimes it's just closed unexpectedly. Sometimes I'll go by and it's just not open when it usually is and other times it's closed for a \"health violation\" or something like that.",
+                "reviewer_id": "ljG8IJlliAkQXw-yCVMEug",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.13303568420213854,
+                    "positive_probability": 0.8669643157978626
+                },
+                "stars": 4
+            },
+            {
+                "review": "Cravings used to be our go-to lunch spot for Chinese food on campus. Food are not exactly authentic nor delicate, but there are some nice choices (e.g., eggplant beef stew, fish fillets with spicy tofu sauce); portions are big and price is cheap; and the owner is super funny. However, their food is not always fresh, and like another reviewer said,  they had failed food safety inspections so many times that they were close to being shut down.One star because my husband went there again this evening and got food poisoning and got VERY SICK. Lesson learned and just wanted to caution everybody. Would be three stars for the good memories...",
+                "reviewer_id": "lnNytQR1MJs2tjBkaK7Rsw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.023528701142136815,
+                    "positive_probability": 0.9764712988578632
+                },
+                "stars": 1
+            },
+            {
+                "review": "Fair price for the food. The owner is fun to chat with, and they have good service. A great place to eat on campus town.Like their Uno w/spicy noodle soup! It's like tom yum!",
+                "reviewer_id": "MpqJSwjvZ0vbnXkBSv0ytA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.13369744435027117,
+                    "positive_probability": 0.866302555649729
+                },
+                "stars": 3
+            },
+            {
+                "review": "Free seaming hot tea. Love the crispy beef. Very large portions. Best chinese food out there.",
+                "reviewer_id": "Mwe28dBaUr_1dnPvs4pXug",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3622065440816032,
+                    "positive_probability": 0.637793455918398
+                },
+                "stars": 5
+            },
+            {
+                "review": "The prices are great, they have very quick service, and the food is what you would expect for American Chinese food.",
+                "reviewer_id": "NVUrOtbBK7HEvPpHsXmN8Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3411550743695096,
+                    "positive_probability": 0.6588449256304915
+                },
+                "stars": 3
+            },
+            {
+                "review": "You get a but load of food for around 5 dollars. Try their Jakarta fried rice if you want a new spin on fried rice!",
+                "reviewer_id": "oIn0cp9CH0ja0450z7gShg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5971803643780664,
+                    "positive_probability": 0.4028196356219327
+                },
+                "stars": 4
+            },
+            {
+                "review": "The reviews looked good, and a Chinese friend of mine recommended it, so I tried it. I went in during the lunch hour, and it was jammed, mostly with Asian students and staff. The owner was very friendly, and even with a packed house he offered me complimentary Chinese or chrysanthemum tea. My test of a good Chinese restaurant is to first order some Americanized dish, and if they make that well, then the authentic dishes have to be good. I ordered sesame chicken to go. The aroma driving back to the office told me something good was in the styrofoam container. I opened it, and there was the delicious smell of toasted sesame. The flavor was quite nice, but the dish was ruined by too heavy a coating of cornstarch and overcooking.Most of the pieces were very dry and hard to chew. I'll go there again, but next time it will be noodle soup or fried tofu.",
+                "reviewer_id": "PbNJ09Y1E1hjx9mORJrYzg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.022762737179470572,
+                    "positive_probability": 0.9772372628205299
+                },
+                "stars": 3
+            },
+            {
+                "review": "I will admit that I am not the most adventurous eater. I am especially wary of Chinese restaurants. Good Chinese food is awesome; bad Chinese food is one of the nastiest things on earth. So I rarely go to a new Chinese place without someone telling me that it's worth trying.A couple of my husband's co-workers (who were very in-the-know about Chinese food) told him that Cravings was one of the best in town. We tried it, and it became one of our mainstays. We usually order the crispy beef, which is lightly breaded and fried (I think) and then tossed in this incredible sweet-spicy sauce. One order is enough for both of us, and unlike other places that do not use the best part of the cow when they are breading and frying it and tossing it in a delicious sauce, the beef is usually really good--not tough and stringy and fatty and gross.The man who owns Cravings is very nice, and I'm always happy to see crowds eating there. They seem to have authentic dishes along with the Americanized stuff, so if you want a steamed whole fish, you can get one here. I would try other things, but I am too addicted to the crispy beef to move on.",
+                "reviewer_id": "pFnz8L1HZ2D7CEKuFTjSIQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 8.707363390245333e-05,
+                    "positive_probability": 0.9999129263660888
+                },
+                "stars": 5
+            },
+            {
+                "review": "Cravings really caters to poor college students--the prices are cheap and the portions are decently sized. And it also helps that the food is actually good here.",
+                "reviewer_id": "ppzbDTEoLJGWc6knVdoo7w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.1262328686785716,
+                    "positive_probability": 0.8737671313214294
+                },
+                "stars": 4
+            },
+            {
+                "review": "I love this place!  My girlfriend and I always get the spicy chili chicken and green beans with tofu gan.  Everything that we get here is amazing!  Great service!  However, your clothes tend to smell bad after eating here.  I wince at the people who come in dressed in suits....",
+                "reviewer_id": "pSxXCwlE_djZ4RcLl2c4Sg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9464844871534742,
+                    "positive_probability": 0.05351551284652623
+                },
+                "stars": 5
+            },
+            {
+                "review": "Got here at 9:20pm on a Sunday night but got turned away because the owner said they were closed. We informed them the door said they were open till 9:30pm. Bummer because I really wanted to try this!",
+                "reviewer_id": "Q7jV6IzBz2Uuz_WKDegj5A",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7138398099423562,
+                    "positive_probability": 0.28616019005764315
+                },
+                "stars": 1
+            },
+            {
+                "review": "I haven't even tried the food yet, but the service is more than enough to bring me back again. They've got a wide variety of cuisines here, but they're mainly a Chinese restaurant. For their Chinese food, they have separate English and Chinese menus (with American Chinese food on one, and real Chinese food on the other).The girl at the counter was very enthusiastic about explaining the menu to us. She made several recommendations and she knew everything that was in every dish on the menu. Totally different from most Chinese restaurants.*Update: The food was great. My tofu in the stir fry tofu with black fungus could've been crisper, but the seasoning was perfect. The whole dinner portion comes with unlimited rice, unlimited side soup, and hot tea for under $8! I will definitely be back again to try other things on the menu.",
+                "reviewer_id": "QpC2UvAdi25wy4xMeAYYPQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.007378102893869064,
+                    "positive_probability": 0.9926218971061324
+                },
+                "stars": 5
+            },
+            {
+                "review": "Best bang for your buck. I live on Hot n Spicy Chicken. Nuff said.",
+                "reviewer_id": "R-en1tx1j5iW2KyHT49GiQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5156301101152881,
+                    "positive_probability": 0.4843698898847128
+                },
+                "stars": 5
+            },
+            {
+                "review": "Oh how I miss CRAVINGS.This place is really like home away from home. The guy who runs the place is from my hometown in Malaysia. So usually when I walk in here I just ask him whats good today and I just take what he recommends.For fans of uber spicy dishes, try the chilli chicken.Yes the place is dingy, but its really cheap, especially if you split family style. You can call ahead to order.",
+                "reviewer_id": "rn_A71O0T9uqLSzH6e5YBA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.10509575860521975,
+                    "positive_probability": 0.8949042413947786
+                },
+                "stars": 5
+            },
+            {
+                "review": "One sentence to sum up this place: The Jack of all trades, master of none. This restaurant has 2 things going for it. Location close to campus and a large student population that values abundance over quality. Ninja doesn't need a lot of so so food. He likes tasty food. Sometimes too much so so food weigh binds down before sword fight.",
+                "reviewer_id": "S6kSWiYxEW_S_KGGLaOpfg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.04349301424984977,
+                    "positive_probability": 0.9565069857501515
+                },
+                "stars": 2
+            },
+            {
+                "review": "When I brought my sesame chicken in to the lab today, it was met with a chorus of \"where did you get that,\" and \"oh, yeah, love cravings!\"  It's that rare kind of place that has both nasty, american, super fried chinese food, and real, actually eaten by some asian people somewhere in asia food.  And it's dead cheap!",
+                "reviewer_id": "sleEMt44E1StWrjz3mcujQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.19289090022261454,
+                    "positive_probability": 0.8071090997773834
+                },
+                "stars": 4
+            },
+            {
+                "review": "The food here is very oily and it looks like need a big clean here. Some dishes taste ok but it still very oily. The guy is very friendly ,but the lady ,she is so rude  for many times. I came here because it is closer to my location, but  the food is really unhealthy. Too much oil.",
+                "reviewer_id": "sOuiH7PdyvCE-IlhVotuBg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4233147044453232,
+                    "positive_probability": 0.5766852955546757
+                },
+                "stars": 2
+            },
+            {
+                "review": "The name says it all. I had to go here at least once a week to satisfy my craving. spicy chicken/beef Ho Fun my my favorite dish. There was a beef noodle stew which I also enjoyed. It gets packed there around lunch and dinner time so sometimes get take out.",
+                "reviewer_id": "T2KFiEUzg1QdiJCO9IvLPQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9799675772133061,
+                    "positive_probability": 0.020032422786692435
+                },
+                "stars": 5
+            },
+            {
+                "review": "Honestly the best Chinese food restaurant I could ask for - cheap and big portion of food there.Do try for their three cups chicken.Not a good place for dating or celebrating but yeah...let's face it. We are students and need affordable food.",
+                "reviewer_id": "Tp9TCjGDyDxvUuwylkyDyg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.052153854620913175,
+                    "positive_probability": 0.9478461453790843
+                },
+                "stars": 5
+            },
+            {
+                "review": "Very cheap and authentic Chinese food. The owner is very nice and the portion is very large.",
+                "reviewer_id": "tWiLPEybH2O576OELlkt9g",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.20599666391949004,
+                    "positive_probability": 0.7940033360805105
+                },
+                "stars": 4
+            },
+            {
+                "review": "This place deserves 5 stars..  every time I pass by this place, I want to eat here. .. Only problem is their same dishes taste differently each time... so one need to make sure what he wants..  The owner speaks many languages, hence is pretty funny...",
+                "reviewer_id": "UGxJ0B4Uto7crbkuJf16vQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.02173588515065952,
+                    "positive_probability": 0.9782641148493366
+                },
+                "stars": 5
+            },
+            {
+                "review": "I've been going to Cravings for lunch about 2-3 times a month for the last 1.5 years, and have had a whole bunch of items on their menu. Most items on their American menu and Chinese menu are just fine (wouldn't get more than a 3-star ranking), but their ma la fish and Singapore chow fun are absolutely amazing!!! And the best part is that you get a lot of food for ~$8!",
+                "reviewer_id": "UO5eCeTNpnUekttaryBCNw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6481817178485718,
+                    "positive_probability": 0.35181828215142974
+                },
+                "stars": 4
+            },
+            {
+                "review": "A little bit of home away from home.  A wide selection, healthy portions, cheap prices, and consistently yummy Chinese food is why I really like it here.  Cravings reminds me of my mom's cooking which is always a great treat when I'm feeling homesick or just get ridiculously sick of dorm food (which is often).  They have a very extensive menu with something for everyone, they have lunch specials for even cheaper chow, and the owner is very friendly (yay for discounts, especially if you go often).  I would recommend any of their noodle or rice dishes (I frequently go with Ma Po Tofu or anything with chicken ^^) and they cater all people from those on special diets, vegetarians, Americanized Chinese food (think orange chicken), to the more traditional dishes.You can take-out as with most Chinese restaurants, but I've always sat down with friends when I eat here.  Good eats.",
+                "reviewer_id": "urDog6OhPoNKPJFUDob7AA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.05050854410715389,
+                    "positive_probability": 0.9494914558928437
+                },
+                "stars": 4
+            },
+            {
+                "review": "Hot and spicy Chicken is a must try!It is the best tasting, authentic Chinese.However, not the cleanest inside, take it to go so that the cleanliness doesn't bother you.",
+                "reviewer_id": "vc9CpTxi5j09ON5EGA0oWQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.15708470768379637,
+                    "positive_probability": 0.8429152923162028
+                },
+                "stars": 5
+            },
+            {
+                "review": "I think the food here is not bad. It is kind of between the American Chinese food and the Authentic one. And it is cheap...",
+                "reviewer_id": "viR3SUU7MsdKiESRxCoCDQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4706171605161811,
+                    "positive_probability": 0.5293828394838181
+                },
+                "stars": 4
+            },
+            {
+                "review": "Holy Mapo Tofu!  I ordered this the first time going and I was blown away.  There was no fuss in \"holding the meat\", so I think this place is pretty veg-friendly.  It was packed when I went to pick up my food, but it was ready in the short walk it took me to get there (less than 15 min).I will sample much more from the menu but based on their Mapo tofu alone I will easily award 5 stars.",
+                "reviewer_id": "VmV9qsUZnuTTC8_PjF_6Og",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.24693580797175044,
+                    "positive_probability": 0.7530641920282507
+                },
+                "stars": 5
+            },
+            {
+                "review": "As a vegetarian, my review probably doesn't hold as much weight for this restaurant as it does for omnivores, but I'm going to review it anyway. The options are pretty limited for vegetarians, but I loved the cheap price and large portions(unlimited rice!) as well as the complimentary hot tea. The ma po tofu is the classic vegetarian option that everyone orders here, but in my opinion, the real gem is the tofu in chili oil sauce. The ma po tofu was certainly good, but it was not spicy enough for me, and wasn't layered enough in various flavors. The tofu in chili oil sauce on the other hand, has the classic bite of the Sichuan peppercorn, and is actually spicy, with the varied flavor profile I look for in spicy dishes. Overall, it's definitely my favorite Chinese restaurant on campus.",
+                "reviewer_id": "VTMzdhMx18Oh7KD6f6CnNg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.00012911539263513145,
+                    "positive_probability": 0.9998708846073702
+                },
+                "stars": 4
+            },
+            {
+                "review": "I wish I could import this restaurant to Hyde Park so I can have Cravings whenever I don't feel like cooking. Its the cheap but great Chinese eatery brought to life with low, low prices, order at counter, big, heaping portions, free tea in styrofoam cups, etc. Staff is really friendly and the dishes we tried were pretty good too. Try the chili chicken and the eggplant.",
+                "reviewer_id": "x74Stcb6ZQUFNKgLV2HSpg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.026678287918477653,
+                    "positive_probability": 0.9733217120815228
+                },
+                "stars": 4
+            },
+            {
+                "review": "Five minutes in I wanted to leave. So I did. It wasn't very busy, walked in and sat down, didn't realize you're supposed to order and fetch yourself. Table was dirty, started to wipe it down as I noticed the manager was standing there watching me and not offering to help.All the other reviews rave about the bang for the buck on tasty food and I'm willing to bet they're right. Maybe one day I'll come back and take it to go.",
+                "reviewer_id": "X7edtSk5gKfsMk2sB7H6CQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.622212083566614,
+                    "positive_probability": 0.3777879164333818
+                },
+                "stars": 2
+            },
+            {
+                "review": "Literally my favorite restaurant on campus. The service is amazing, and the man who runs the place is the most interesting guy I've met on campus. Hot and Spicy Chicken, Jakarta Fried Rice, Crispy Chicken Slice, Tofu Dry Curry, Tofu Masala and Todu Gado Gado are my go to items. Come for the food, stay for the service.",
+                "reviewer_id": "XBiNYVdjI29kAF_DpIHAlA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.36580127477327185,
+                    "positive_probability": 0.6341987252267274
+                },
+                "stars": 5
+            },
+            {
+                "review": "Very decently priced food, with a with a wide variety of items on the menu. Menu size does not matter however as this place is all about the Jakarta fried rice. Once you've had Jakarta fried rice here, you kind of tend to never order anything else.",
+                "reviewer_id": "xfRhnC4iPX4B_hd1PHO05Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.1468447234809031,
+                    "positive_probability": 0.8531552765190923
+                },
+                "stars": 4
+            },
+            {
+                "review": "I LOVE this place and if I had a million hours to waste I would walk my lazy self across campus and pick up some sweet and sour chicken and have a free Styrofoam cup of green tea every day of my life. Unfortunately they do not deliver and I don't even think they know how to use a phone. The last time I was there the man was so busy he picked up the phone and put them on hold and never picked it back up. I found it funny, but I'm sure that customer did not. And, you know, if they opt out of delivery they should really clean the place up a bit. I get worried what the kitchen looks like and have peeked back there a few times to see complete chaos (mostly because there's 8 or 9 women cooking for too many customers to handle). I love the food, but this place is great to go to maybe a few times per semester. It's just too crowded for my liking.",
+                "reviewer_id": "XH59G4pUc85KQCQu6OPFlw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.1583227549423126,
+                    "positive_probability": 0.8416772450576934
+                },
+                "stars": 3
+            },
+            {
+                "review": "Simple but good chinese food. Recommend sezchuan or hunan chicken dishes. However, very busy at peak meal times so plan wisely.",
+                "reviewer_id": "xJrEPz81yEFxnFw0BPCmNw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.29307594218755406,
+                    "positive_probability": 0.7069240578124477
+                },
+                "stars": 3
+            },
+            {
+                "review": "my friends hate me for loving cravings but it is just so cheap for so much food. I've heard the tofu is horribly bad, so don't get that. Really hit or miss menu so be aware (not surprising given that there are about 60 things on the menu). I like the orange chicken (because I am not used to authentic chinese food, so I don't know any better) and the chicken lo mein (order it spicy).",
+                "reviewer_id": "XL7xNs2CpJ8TrTx-Dot4jg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.35597460975243744,
+                    "positive_probability": 0.6440253902475629
+                },
+                "stars": 4
+            },
+            {
+                "review": "What is this concept of paying cash and not having to pay tax? Hrm...Takeaways:- Crispy sesame chicken covered in just the right amount of sauce (as in, not doused)- Good size- Incredible price- Free hot tea- Bus your own plates and garbage- If you need a takeout container, just grab it from behind the counter. No fuss.No wonder Cravings is crowded and busy all of the time. Warning though, expect takeout and not to eat in. There's also no delivery.",
+                "reviewer_id": "XOnwygK-EerILmQSxP2K6Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.10166901059287962,
+                    "positive_probability": 0.8983309894071214
+                },
+                "stars": 4
+            },
+            {
+                "review": "My second take-out Chinese experience in Chabana while here at school, and it wasn't much better than the first. My roommates and I decided to order from Cravings after realizing the Golden Harbor might be too expensive. This was probably a bad decision as we had moved from probably middle tier Chinese to low tier Chinese food in terms of price and quality.The General Tso's chicken was just OK, I've had better and it honestly more resembled orange chicken in both taste and looks.Others got a beef dish and a seafood combination which was on the Chinese menu. I had no clue many of these restaurants have Chinese menus that are often more authentic and probably better quality and tasting than the regular menus. I need to order off those menus and not the Americanized ones for future reference.The fried rice was pretty bland as well. Eggrolls not very good, either.They forgot to include a side order of crab Rangoon and when we called back they said next time we are in the Rangoon will be free. I wasn't impressed with the food but in all fairness it was like $6.50 for a large portion so at least I wasn't hungry afterwards.I still want to try some of the other Chinese places in Champaign as well as ordering off the non-Americanized menus. I think the cuisine is interesting but the quality just hasn't been there at the last couple places I've tried.",
+                "reviewer_id": "XzIKZTb4I-7wW4BjKwV2Mw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9994089955244093,
+                    "positive_probability": 0.0005910044755747079
+                },
+                "stars": 2
+            },
+            {
+                "review": "This is the tastiest Chinese food on campus (note, Golden Harbor is not on campus). It is also the cheapest, and they give large portions -- for me, easily enough for 2 meals usually. Most dishes are $6-8. Some more special ones are $9-12. The more American orange/General Tso's/sweet and sour/etc. chicken dishes are $5.25. The owner guy behind the counter most of the time is one of the friendliest restaurant workers I have ever met. Tips:-They make Chinese food the best. If you're unsure of what to get, your best bet is to get something Chinese instead of Japanese/Thai/etc. -Be sure to look at the white board on the floor to the left of the counter! -Explore the Chinese menu sitting on the counter (it has English translations) These are some of my favorites: Basil pork egg rice, Jakarta fried rice, Pork with preserved vegetables, Crispy beef, Fried fish fillets with bok choy, Beef stew eggplant pot, Spicy fried chicken, Mapo tofu, Sizzling chicken pot.",
+                "reviewer_id": "YoS_VTXsYXicWFW_kPDUtQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.012107364871282127,
+                    "positive_probability": 0.9878926351287108
+                },
+                "stars": 5
+            },
+            {
+                "review": "Large portions, friendly staff, cheap prices, and delicious food.The atmosphere is strictly dive - but the food is good enough that no one cares (nor should they.",
+                "reviewer_id": "zjmnKn2vc6t6F2PUyi_HQg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4728446388400159,
+                    "positive_probability": 0.5271553611599826
+                },
+                "stars": 4
+            },
+            {
+                "review": "Good food.  The Thai Basil Green Beans are a favorite of mine.  The ordering system is a bit convoluted, and be sure to come when it isn't busy.",
+                "reviewer_id": "ZRWDnvo07YZxxtrDYWf02A",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8440096193286605,
+                    "positive_probability": 0.15599038067133997
+                },
+                "stars": 4
+            },
+            {
+                "review": "Ah, Cravings.  My old stand-by Chinese place.  Good food at a good price.  They have both the typical Chinese fare that most Americans are used to and a pretty full true Chinese menu.  Orange chicken is really good, so is the Mongolian beef.  The only thing I've been disappointed in there is the veggie egg rolls.",
+                "reviewer_id": "Zt-4RSKXpeQ331a2qyr9Mg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.09947724650949055,
+                    "positive_probability": 0.9005227534905107
+                },
+                "stars": 4
+            },
+            {
+                "review": "the dirtiest resturant on campus! More than often, you'll see the owner cleaning beans right in front of you on one of the tables. Despite being dirty, they cook amazing food.  some of the best chineese dishes I ever ate.",
+                "reviewer_id": "ZxgzKeX6WvtfdEcim0UHTg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.05615752765695659,
+                    "positive_probability": 0.9438424723430449
+                },
+                "stars": 4
+            }
+        ],
+        "similar_restaurants": [
+            "umq8alp-uLf3hXnpSC99WA",
+            "fxYiDAxCK33ANk8-QemInA",
+            "6M1F5AECDtWff1Tu3uLEWA",
+            "u06X5C_pIAVuOXOznIcPYw",
+            "M5E7DW8rqI4v37HhD2pzGQ",
+            "TD11IPIlFL9sLAWbN9FzdA",
+            "pygZcdPZ-XMp8CY8_5tE8A",
+            "i0_W9_1abdjBS7d5-pWORQ",
+            "6AHfkdtpx7yLOFetI38gHQ",
+            "eKzME8Ax_RHe1f0YmXD8tg"
+        ]
+    }
+}

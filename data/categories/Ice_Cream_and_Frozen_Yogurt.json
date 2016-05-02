@@ -1,0 +1,423 @@
+{
+    "0P0XckSv_2_ZNKoYlhT4Gw": {
+        "keywords": {
+            "bigrams": [
+                "fast_food",
+                "cheese_curds",
+                "side_salad",
+                "ice_cream",
+                "burgers_fries",
+                "food_burger",
+                "salad_small",
+                "hot_food",
+                "soda_end",
+                "end_isn"
+            ],
+            "unigrams": [
+                "food",
+                "good",
+                "fast",
+                "burgers",
+                "custard",
+                "burger",
+                "fries",
+                "drive",
+                "culver",
+                "small"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "none",
+                "Ambience": {
+                    "casual": false,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "Delivery": false,
+                "Drive-Thru": true,
+                "Good For": {
+                    "breakfast": false,
+                    "brunch": false,
+                    "dessert": false,
+                    "dinner": false,
+                    "latenight": false,
+                    "lunch": false
+                },
+                "Good For Groups": true,
+                "Good for Kids": true,
+                "Has TV": false,
+                "Noise Level": "quiet",
+                "Outdoor Seating": true,
+                "Parking": {
+                    "garage": false,
+                    "lot": false,
+                    "street": false,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 1,
+                "Take-out": true,
+                "Takes Reservations": false,
+                "Wi-Fi": "free"
+            },
+            "business_id": "0P0XckSv_2_ZNKoYlhT4Gw",
+            "categories": [
+                "Food",
+                "Burgers",
+                "Ice Cream & Frozen Yogurt",
+                "Restaurants"
+            ],
+            "city": "Champaign",
+            "full_address": "2302 S Neil St\nChampaign, IL 61820",
+            "hours": {
+                "Friday": {
+                    "close": "22:00",
+                    "open": "10:30"
+                },
+                "Monday": {
+                    "close": "22:00",
+                    "open": "10:30"
+                },
+                "Saturday": {
+                    "close": "22:00",
+                    "open": "10:30"
+                },
+                "Sunday": {
+                    "close": "22:00",
+                    "open": "10:30"
+                },
+                "Thursday": {
+                    "close": "22:00",
+                    "open": "10:30"
+                },
+                "Tuesday": {
+                    "close": "22:00",
+                    "open": "10:30"
+                },
+                "Wednesday": {
+                    "close": "22:00",
+                    "open": "10:30"
+                }
+            },
+            "latitude": 40.0856319,
+            "longitude": -88.246188,
+            "name": "Culver's",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media3.fl.yelpcdn.com/bphoto/00cd3we5094TSUt-HQAqow/ms.jpg",
+            "review_count": 10,
+            "stars": 3,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "Their burgers and fries are tasty, and the custard is delicious. Great burgers and their fries are good as well. This is a pretty good spot for a fast food burger. ",
+        "reviews": [
+            {
+                "review": "It looks like a fun place, but it's really just average fast food. I had a chicken sandwich and a side salad and a small drink and it was over $8.00. I guess the people seemed friendly enough. I probably won't return anytime soon, since I think most every other fast food restaurant is better and cheaper.",
+                "reviewer_id": "0JD_ay-qqS9tnOtYaZIQqg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6356650368873833,
+                    "positive_probability": 0.36433496311261326
+                },
+                "stars": 3
+            },
+            {
+                "review": "Not a fav. They have good Oreo custard cement mixers and cheese curds and that's about it for me. Their burgers are supposedly amazing but then again, I'm not much of a burger person.",
+                "reviewer_id": "BvGV9lMMUmB5hLWkNlY3vw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4078673129923274,
+                    "positive_probability": 0.5921326870076707
+                },
+                "stars": 2
+            },
+            {
+                "review": "The burgers are tasty, but they're much more expensive than other fast food burger joints. It's definitely worth trying at least once if you're into burgers.",
+                "reviewer_id": "eFIlrOz3TnuZQeh2Y1e17Q",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5985483754259362,
+                    "positive_probability": 0.40145162457406297
+                },
+                "stars": 3
+            },
+            {
+                "review": "They have more choices than other burger chains and the service is always great.",
+                "reviewer_id": "FFsuViuxEt6rvWPyTMo02Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3348618337482506,
+                    "positive_probability": 0.6651381662517479
+                },
+                "stars": 4
+            },
+            {
+                "review": "I like their custard, though I'd much rather go to Jarling's for that. The hot food isn't great, and isn't terrible. What it is is overpriced. That said, that's not what keeps me from coming back. What does is the policy of giving you your ice cream, THEN having you pull forward and wait for hot food. By the time I'm home, the ice cream is melted every time. Very inefficient. If I do go, I only go for the ice cream during the winter when Jarling's is closed.",
+                "reviewer_id": "h51m-Wjd2hE39kqI2f6U2Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.31138512609373287,
+                    "positive_probability": 0.688614873906266
+                },
+                "stars": 2
+            },
+            {
+                "review": "Culver's - oh how I love thee!! Those butterburgers, creamy frozen custard and fried cheese curds make my arteries scream and my behind expand but my tastebuds rejoice the entire time! Wish we had them in the city, on the other hand, it probably would lose its appeal if so easily accessible!",
+                "reviewer_id": "hQbfq7XwuSCIAzzVqTGHvA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5579359421272387,
+                    "positive_probability": 0.4420640578727613
+                },
+                "stars": 3
+            },
+            {
+                "review": "This is a pretty good spot for a fast food burger. The cheese curds are salty, fried, cheesy deliciousness. I haven't been impressed with any of their sandwiches or the fries. The price is a little high for fast food, but it does taste like better quality than the usual fast food suspects: McD's, Arby's, Hardee's. Drive thru service is incredibly slow as everything is supposedly cooked to order. The custard is really good and I love that kids' meals come with a free sundae, any flavor.",
+                "reviewer_id": "JgHGyWS2emyHq6aq144SLQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8896491186705835,
+                    "positive_probability": 0.11035088132941946
+                },
+                "stars": 3
+            },
+            {
+                "review": "Great burgers and their fries are good as well.  The staff is friendly and the inside is clean.  I like how they bring the food to your table.  My only complaint is how you wait in a parking spot when going through the drive thru.  Maybe they can find a way to be more efficient with this.  Small issue aside this is where I'll go when I want a burger.  Almost as good as meatheads or five guys.",
+                "reviewer_id": "MibR-2dhTV8AW9Rl62B6mQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.18231717385679275,
+                    "positive_probability": 0.8176828261432105
+                },
+                "stars": 4
+            },
+            {
+                "review": "Culver's is a solid comfort food choice at fairly reasonable prices.  Their burgers and fries are tasty, and the custard is delicious.  The selection is mainly burgers, and fried chicken, so not much for the vegetarian and vegan crowd.  The food is very \"midwestern\" so if you are looking for a meal that is really interesting to the taste buds, this likely is not the place.I am not sure why people think the price is that awful.  They almost always have coupons in the local advertising magazines.  They also offer a student discount if you show your I Card.  My dinners of a double burger with fries and a soda often end up being $6-$7 which really isn't far from McDonalds or lesser quality establishments' prices these days.I will admit that the burgers are greasy.  The custard is also, well, custard; so it is quite fatty.  However, do you really go to a fast food place to be health conscious?Overall Culver's is a good, reasonable priced option for made to order food with fresh ingredients.",
+                "reviewer_id": "PU9su-0beEPbGq5NkzgWVQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0015139246723606832,
+                    "positive_probability": 0.9984860753276481
+                },
+                "stars": 4
+            },
+            {
+                "review": "I go to Culver's once in a while but not too often.  They usually have good soups.  Today I went through the drive through and ordered George's Chili (although I don't know who George is) and a side salad.  The Chili was good but not as good as \"Lisa's\" Chili.  The side salad was very small but all in all it was a good meal.  The drive through was quick and the people working were friendly.",
+                "reviewer_id": "W4ojW7f30haCertr4CzFJw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.12701180404023266,
+                    "positive_probability": 0.8729881959597691
+                },
+                "stars": 3
+            }
+        ],
+        "similar_restaurants": [
+            "a4JU2JqAbT0p8_A8s_v8Kw",
+            "A2T1l1RUrJ25YxfCbTN7-g",
+            "DWZ1_iy-cTeehK5FTiqH-g",
+            "9SFWEreW7wAXB3zYu28r_Q",
+            "3AtlNePpVHC-D1a49LqFtA",
+            "jS0mmzYf4mouMEcGzQ5Z-Q",
+            "M2boe4Te0rQ5RasVJkPXng",
+            "1d5XAAH39FKenV3_9gcFIw",
+            "jogjR7HQSQaco6U1ID6b3g",
+            "caK31Iq3TClNCRB9WH9lhQ"
+        ]
+    },
+    "DWZ1_iy-cTeehK5FTiqH-g": {
+        "keywords": {
+            "bigrams": [
+                "left_witnessed",
+                "friendly_ready",
+                "coffee_bad",
+                "total_joke",
+                "review_food",
+                "table_sitting",
+                "nearly_hour",
+                "seated_food",
+                "barrel_got",
+                "servers_friendly"
+            ],
+            "unigrams": [
+                "food",
+                "place",
+                "coffee",
+                "time",
+                "talking",
+                "sad",
+                "manager",
+                "back",
+                "cheese",
+                "bad"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Attire": "casual",
+                "Delivery": false,
+                "Drive-Thru": true,
+                "Good For": {
+                    "breakfast": false,
+                    "brunch": false,
+                    "dessert": false,
+                    "dinner": false,
+                    "latenight": false,
+                    "lunch": false
+                },
+                "Good For Groups": true,
+                "Good for Kids": true,
+                "Noise Level": "average",
+                "Price Range": 1,
+                "Take-out": true,
+                "Takes Reservations": false
+            },
+            "business_id": "DWZ1_iy-cTeehK5FTiqH-g",
+            "categories": [
+                "Food",
+                "Burgers",
+                "Fast Food",
+                "Ice Cream & Frozen Yogurt",
+                "Restaurants"
+            ],
+            "city": "Urbana",
+            "full_address": "2009 N Kenyon Rd\nUrbana, IL 61802",
+            "hours": {
+                "Friday": {
+                    "close": "00:00",
+                    "open": "00:00"
+                },
+                "Monday": {
+                    "close": "00:00",
+                    "open": "00:00"
+                },
+                "Saturday": {
+                    "close": "00:00",
+                    "open": "00:00"
+                },
+                "Sunday": {
+                    "close": "00:00",
+                    "open": "00:00"
+                },
+                "Thursday": {
+                    "close": "00:00",
+                    "open": "00:00"
+                },
+                "Tuesday": {
+                    "close": "00:00",
+                    "open": "00:00"
+                },
+                "Wednesday": {
+                    "close": "00:00",
+                    "open": "00:00"
+                }
+            },
+            "latitude": 40.133231,
+            "longitude": -88.198592,
+            "name": "Steak 'n Shake",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media3.fl.yelpcdn.com/bphoto/YgsplyF-L0mkkfqRL8E2GQ/ms.jpg",
+            "review_count": 7,
+            "stars": 1.5,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "This is a review on just their coffee. This place has wonderful servers who are friendly and ready to take their time helping every customer. This place could be good if the management got its act together. ",
+        "reviews": [
+            {
+                "review": "This place is sad. From the time we walked in until the time we left I witnessed so many things wrong the health board would shut them down. First a waiter eating a bag of potato chips on duty at the bar talking to 2 girls.  Then the guys cooking the burgers starts talking to them. He puts on one of the girls sunglasses and continues to cook. Then he gives them back and plays with he key chains. Then cooks again. Never washing his hands and never wearing gloves. Then I see our waiter come out of the back eating food as he is getting our drinks, meanwhile no manager in site. Finally after about 20 mins the manager Lewis comes out of the back for just a bit to talk to a couple waitresses and drinking margaritas the night before. This place is a total joke!!!!",
+                "reviewer_id": "2d6bYq_7cfi8zp0lswZjOQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0021892116067922926,
+                    "positive_probability": 0.9978107883931975
+                },
+                "stars": 1
+            },
+            {
+                "review": "This place has wonderful servers who are friendly and ready to take their time helping every customer. Unfortunately, the management has a problem with scheduling enough employees to work. There is always just one trying to serve the whole floor every time I go there. And I've never once seen any of them get a break. Over worked employees.... Its sad. This place needs some serious help.",
+                "reviewer_id": "6zoKHExCjxIttyuIp_sXLg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.01662955795686513,
+                    "positive_probability": 0.983370442043138
+                },
+                "stars": 2
+            },
+            {
+                "review": ":| It's not that this place is specifically bad. I think Steak 'n Shake is just not my style. The burgers are too floppy and sad and astoundingly greasy. Shakes are so sweet it hurts.",
+                "reviewer_id": "dzKYG04n0nLXv6tGFvJX0Q",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7356155695538139,
+                    "positive_probability": 0.2643844304461848
+                },
+                "stars": 2
+            },
+            {
+                "review": "First, the good news. The food was tasty. Every other part of the meal was a disaster. My burger was missing everything but meat and cheese. The cheese fries had no cheese and getting the attention of our server was nearly impossible. We tried talking to the manager but he was too busy talking with his friends. In all it took nearly an hour to feed two adults and three kids. Most of it spent waiting. This place could be good if the management got its act together.",
+                "reviewer_id": "EvM5jc-TI2s8SobWs9eM7Q",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5840733013336313,
+                    "positive_probability": 0.4159266986663593
+                },
+                "stars": 2
+            },
+            {
+                "review": "This is a review on just their coffee.The coffee is bad. It has been burnt both times I have visited in the early mornings, despite my hope that the first time was an isolated incident. They sell the 'Seattle's Best' brand, which I would imagine is not inherently bad coffee, but something in their process is off, as it is not good coffee in my book: too burned and too bitter for how disappointingly not strong it is. Also, the coffee only comes in small cups. I wanted a 20 oz. jar of rocket fuel, but settled for 12 oz. of undrinkable ash.Service was friendly and fairly fast. I could not bear to give this less than 2 stars based upon only reviewing one menu item, but if this was a coffeehouse serving this hot garbage, it would be a one star.",
+                "reviewer_id": "NGX1PZwHET_oQOT7vkkxag",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.005741067571708394,
+                    "positive_probability": 0.9942589324282949
+                },
+                "stars": 2
+            },
+            {
+                "review": "I'm leaving a 1-star review only because Yelp won't let me go with 0-stars.  I also cannot leave a review for the food due to us picking up & leaving before we could get a food order in due to the lack of organization in this place.  The table of 6 sitting next to us mentioned they had been waiting for close to an hour, and 5 of the six were just about done with their food and one person was still waiting.  We said forget it, and went next door to Cracker Barrel and got seated & our food very quickly.  It appears that the other reviews for this location are similar to what we experienced.  Poor management, poor attitudes, and I can only imagine what goes on with the food preparation.  Save your hard earned money and avoid this Steak 'n Shake at all cost.",
+                "reviewer_id": "pnW4cDs9yHTuuihTaubK8Q",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9474512656740965,
+                    "positive_probability": 0.05254873432590475
+                },
+                "stars": 1
+            },
+            {
+                "review": "We ate breakfast there yesterday and it was terrible. Got there. At 9:15 and they didn't have any coffee made.  Didn't look like the floors had been cleaned from the night. Wasn't many people there, but had to wait over 20 minutes for our food and then it wasn't what we ordered. Usually don't complain but......",
+                "reviewer_id": "Tj95i5M-c0HQvsB6anIDkw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.18172937812202394,
+                    "positive_probability": 0.8182706218779776
+                },
+                "stars": 1
+            }
+        ],
+        "similar_restaurants": [
+            "0P0XckSv_2_ZNKoYlhT4Gw",
+            "6LtZI1tpMHPZv5nVHAF6rA",
+            "Zb2Bqf6MSiSbwIz0GyK7Qw",
+            "3AtlNePpVHC-D1a49LqFtA",
+            "M2boe4Te0rQ5RasVJkPXng",
+            "ljsTa0MiQyVfKrgq2FOKdg",
+            "1d5XAAH39FKenV3_9gcFIw",
+            "ucqMmYA5hiXZO1uV0YN8Vw",
+            "A2T1l1RUrJ25YxfCbTN7-g",
+            "a4JU2JqAbT0p8_A8s_v8Kw"
+        ]
+    }
+}

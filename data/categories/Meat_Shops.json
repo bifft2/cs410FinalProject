@@ -1,0 +1,379 @@
+{
+    "niK-GkBZ_RIFscfy-nH1rg": {
+        "keywords": {
+            "bigrams": [
+                "old_time",
+                "meat_deli",
+                "time_meat",
+                "butcher_shop",
+                "customer_service",
+                "cut_meat",
+                "twice_baked",
+                "piece_meat",
+                "buy_meat",
+                "house_rolls"
+            ],
+            "unigrams": [
+                "meat",
+                "time",
+                "old",
+                "deli",
+                "place",
+                "good",
+                "quality",
+                "staff",
+                "local",
+                "meats"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "none",
+                "Ambience": {
+                    "casual": false,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "Caters": false,
+                "Delivery": false,
+                "Good For Groups": false,
+                "Good for Kids": false,
+                "Has TV": false,
+                "Noise Level": "average",
+                "Outdoor Seating": false,
+                "Parking": {
+                    "garage": false,
+                    "lot": true,
+                    "street": false,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 2,
+                "Take-out": true,
+                "Takes Reservations": false,
+                "Waiter Service": false,
+                "Wheelchair Accessible": true,
+                "Wi-Fi": "no"
+            },
+            "business_id": "niK-GkBZ_RIFscfy-nH1rg",
+            "categories": [
+                "Food",
+                "Specialty Food",
+                "Delis",
+                "Meat Shops",
+                "Restaurants"
+            ],
+            "city": "Champaign",
+            "full_address": "2018 S Neil St\nChampaign, IL 61820",
+            "hours": {
+                "Friday": {
+                    "close": "18:00",
+                    "open": "10:00"
+                },
+                "Monday": {
+                    "close": "18:00",
+                    "open": "10:00"
+                },
+                "Saturday": {
+                    "close": "18:00",
+                    "open": "10:00"
+                },
+                "Thursday": {
+                    "close": "18:00",
+                    "open": "10:00"
+                },
+                "Tuesday": {
+                    "close": "18:00",
+                    "open": "10:00"
+                },
+                "Wednesday": {
+                    "close": "18:00",
+                    "open": "10:00"
+                }
+            },
+            "latitude": 40.091899,
+            "longitude": -88.2452807,
+            "name": "Old Time Meat & Deli Shoppe",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media1.fl.yelpcdn.com/bphoto/qRT2S0lAclFBDwxLpzrDRg/ms.jpg",
+            "review_count": 29,
+            "stars": 5,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "if you think you've been buying great cuts of meat from a grocery store in the c-u area, i will tell you you haven't and that it's time you visit old time and see what a quality piece of meat tastes like. We do not buy much meat but when we do it is only from Old Time Meat and Deli! Combine old-school butchery with top-shelf customer service with the best of our local meat availability here conveniently in the center of town, and you get Old Time Meat & Deli Shop located at 2018 S Neil St. Champaign, Illinois 61820 ",
+        "reviews": [
+            {
+                "review": "This is a really good meat store, with some excellent marinated chicken choices too. All top quality meats  along with Amish chicken (it is delicious and not expensive). The staff is very helpful and friendly. They also have a small selection of fresh fish. I've had the cod and it was great. Also can recommend the pickles from the pickle barrel :)",
+                "reviewer_id": "-FqXwGg8isV0ap9U1q7p6g",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.404774011293713,
+                    "positive_probability": 0.5952259887062834
+                },
+                "stars": 4
+            },
+            {
+                "review": "Best place around to buy quality meats.  I always go here when meat is to be the star of a meal.  Prime meats sometimes don't look quite as nice as I'd hope, but overall the product is far beyond any local supermarket.",
+                "reviewer_id": "1Q2Ea4vyB90zRqwAHjfCDg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.04850143857066002,
+                    "positive_probability": 0.9514985614293374
+                },
+                "stars": 4
+            },
+            {
+                "review": "This place is so awesome!  Very fresh cuts of meat, great customer service, knowledgeable employees, what more can you ask for?!  They are always willing to go the extra mile here.  On one occasion, I bought meat for a stir fry, and the employee offered to cut up the meat for me without me even having to ask.  Another time I was looking for salmon fillets and the fish had just gotten there and one of the employees cut me a fillet.  I highly recommend this place!",
+                "reviewer_id": "4qaviROg6YclcYkzjq5tMA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.009116673571874108,
+                    "positive_probability": 0.9908833264281276
+                },
+                "stars": 5
+            },
+            {
+                "review": "Knowledgeable, friendly staff.  Sirloin patties and the twice baked potatoes are my go-to choices here.  Will make a special trip for them.  Good stuff.",
+                "reviewer_id": "4YSr2lR8i4sVywgi-Y1CLw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.24431151155114209,
+                    "positive_probability": 0.7556884884488569
+                },
+                "stars": 5
+            },
+            {
+                "review": "Large variety of high quality fresh meat. The staff here are excellent at making a recommendation if you are unsure the difference between cuts. They also have other fresh items to complete your meal (twice baked potatoes are a must!) as well as frozen meats and \"Beef House\" rolls.I only wish they were open Sunday's too!",
+                "reviewer_id": "60juruDHOc7-yhc2bE2Elw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.05576930002421694,
+                    "positive_probability": 0.9442306999757863
+                },
+                "stars": 5
+            },
+            {
+                "review": "I never thought I'd review a butcher, but that's how good Old Time is. Top-notch ingredients. Excellent supplies for BBQ/smoking. The staff knows their stuff - I've walked in and said \"What am I in the mood to make this weekend?\" and they answer me thoroughly and don't look annoyed at all (which, honestly, they completely could because that's annoying of me to ask).I'm kind of surprised they don't have better cheese, given how great everything else is, but I can't deduct for that.",
+                "reviewer_id": "7cU03OKZgmjNLLLGpbBiOw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5560398060958445,
+                    "positive_probability": 0.4439601939041578
+                },
+                "stars": 5
+            },
+            {
+                "review": "There's nothing I like more than a well marbled NY strip. OK - maybe a tender free range chicken. Any piece of meat I have purchased from Old Time has not let me down. Well, the Dietz & Watson deli meats are wonderful but still pale in comparison to Boar's Head (available at the IGA over on Mattis). It's all fresh, favorful and kosher! If your deep freezer is empty - you can save a ton when you buy in bulk.It's the local butcher shop me and my fiancee had been waiting for. And after three years of being open for business, Old Time Meat & Deli is rarely crowded and I can never figure out why. It's a good thing for customers in the know...",
+                "reviewer_id": "7zSppEZd2C6ASpNeBebxAA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0713073792005145,
+                    "positive_probability": 0.9286926207994813
+                },
+                "stars": 4
+            },
+            {
+                "review": "Aw, yeah! I never will go to County Market for my meat shopping again! Old Time can meet almost all of your meat eating needs and they do have a customer appreciation card where you get 10% off your next purchase when you purchase $200 worth at the store. Their sausages are quite good and their special flavors (applewursts you should try for sure!) change but they still have the classic bratwursts and mild and spicy italian sausage. Their flank steak is also good and their bulk italian sausage is also worth your while especially if you make spaghetti sauce from scratch. My complaint is that their hours and location could be better. Their staff is always helpful and they can help with getting special meat cuts.",
+                "reviewer_id": "9i-36HhVvgCcjGA2xsCmCw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0023805926527959123,
+                    "positive_probability": 0.9976194073472068
+                },
+                "stars": 4
+            },
+            {
+                "review": "Awesome butcher shop! I worked at the best family owned butcher shop in the Chicago area for many years and this shop is first class!  Awesome meat case with great steaks, marinated chicken and homemade sausage.  Friendly and helpful staff. I will stop back the next time I'm passing thru. Just wish they were open on Sunday so I could load up my cooler!",
+                "reviewer_id": "_gTKw_ID9tIWEY2kR2haPQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.011554934881173236,
+                    "positive_probability": 0.988445065118823
+                },
+                "stars": 5
+            },
+            {
+                "review": "This place is the best.  The customer service is fantastic, the quality is terrific, and the prices reasonable.  If you need meat there is no better place in the area.  We do not buy much meat but when we do it is only from Old Time Meat and Deli!",
+                "reviewer_id": "_zMf23RHZlIQl-6YBE4M6A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2757802935524088,
+                    "positive_probability": 0.7242197064475892
+                },
+                "stars": 5
+            },
+            {
+                "review": "This place is THE BEST place to get meat in the C-U area.  Their staff is friendly and knowledable; it's just the kind of place you'd think would be packed in a place like Champaign.  Not only do they have a good selection of beef and pork, but you can pick up side dishes (and Beef House Rolls, win!).  They'll also cut you something special if you ask.  Definitely stop off on your way home via Neil Street and you won't be disappointed!",
+                "reviewer_id": "bZ0mTBSqb-pWXgxxMbZUbA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.032053980802289696,
+                    "positive_probability": 0.9679460191977131
+                },
+                "stars": 5
+            },
+            {
+                "review": "Really awesome deli here in town! The staff is friendly and the meats are delicious. They even have a neat assortment of odds and ends inside to explore as well. Definitely worth checking out as bbq season gets rolling!",
+                "reviewer_id": "CW9eu3ONnfBr4psEamEa-w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.08372339406027679,
+                    "positive_probability": 0.916276605939724
+                },
+                "stars": 5
+            },
+            {
+                "review": "I use this when I can't get to the Meat Science Lab. I've tried their ground chicken for some Mediterranean kebabs and found they only sell it frozen. That was a bit of a bummer, but when it was thawed it was a creepy chicken paste, nothing like I've ever seen.They do have a good selection of meat in the deli case as well as some marinated items. When items are on special, they have some pretty great prices.",
+                "reviewer_id": "JgHGyWS2emyHq6aq144SLQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.24034519047602762,
+                    "positive_probability": 0.7596548095239702
+                },
+                "stars": 4
+            },
+            {
+                "review": "I love this place! Staff is great very knowledgeable every cut of meat i have ever gotten has been top quality. Oh and did i mention the twice baked potatoes?!",
+                "reviewer_id": "kgVY6G_--VFqoXiUwvLi6g",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5266888735478897,
+                    "positive_probability": 0.4733111264521098
+                },
+                "stars": 5
+            },
+            {
+                "review": "Super friendly people at this meat shop! Everyone is very helpful and they have such a wide variety of items. They also offer Boar's Head deli meats which are delish! I like that they also have some already made items like pork stuffed with wild rice and a large variety of marinated chicken breasts. Yummy!",
+                "reviewer_id": "kRqk2li5lEm8R2EcYDrXBQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.06577862212045078,
+                    "positive_probability": 0.9342213778795503
+                },
+                "stars": 5
+            },
+            {
+                "review": "This is a wonderful butchershop. Deli selections limited to standards of ham, turkey, chicken with good selection of cheeses. Prices reasonable considering the quality.",
+                "reviewer_id": "oipvGyW6VzPaoZdVgoC8JA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.47635563044770146,
+                    "positive_probability": 0.5236443695522986
+                },
+                "stars": 5
+            },
+            {
+                "review": "Ye Old Time Meat and Deli Shoppe is one of the only places in champaign that I have no reservations about giving 5 stars.  It is SPOTLESSLY clean inside, and full of tip top meats!  The staff have always been nice and helpful when I've been there, and I'm pretty sure it's the only place in CU that has rack of lamb.",
+                "reviewer_id": "sleEMt44E1StWrjz3mcujQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5764517626140949,
+                    "positive_probability": 0.42354823738590514
+                },
+                "stars": 5
+            },
+            {
+                "review": "It's so nice to have a locally owned butcher. The customer service is outstanding and the prices are affordable. My favorites: Amish turkeys for thanksgiving (pre-order)... free range, affordable (for free range), and delicious! Fresh ground beef for very juicy burgersFresh sausage, especially the kielbasa which is heaven",
+                "reviewer_id": "TpLA3XSBxKXIfvE4ZCcQcw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.03681224447889662,
+                    "positive_probability": 0.9631877555211025
+                },
+                "stars": 5
+            },
+            {
+                "review": "i don't even know where to start with old time meat and deli because i have too many good things to say about it. absolutely delicious cuts of all sorts of meat? check.employees who are helpful and actually know everything about their products? check.the best yeast rolls i have ever found anywhere? check.fresh bones for my dogs to chomp on? check.and the list goes on.....this is the only place in all of central illinois i will buy meat from. they get their meats and rolls (not deli meat) from local amish communities, and it is obvious that they take great pride in all that they sell.  every cut of meat i have had from here, whether it be ground chuck, a pork chop, spiral ham or rib-roast, has been absolutely amazing. and their bacon is to die for. the best bacon i have ever had. i'm drooling just thinking about it. yum.if you think you've been buying great cuts of meat from a grocery store in the c-u area, i will tell you you haven't and that it's time you visit old time and see what a quality piece of meat tastes like. you will never be disappointed.",
+                "reviewer_id": "wQk4gneiQeM466IymN4wRQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2554676891988409,
+                    "positive_probability": 0.7445323108011718
+                },
+                "stars": 5
+            },
+            {
+                "review": "Why did it take us so long to discover Old Time? It is amazing, I will never buy meat or fish at the supermarket again! I particularly like the knowledgeable staff, the smell of BBQ, and the extensive range of high quality products they sell. The best beef I have seen outside of Texas and New Zealand!",
+                "reviewer_id": "wtsl05RJj5f6YBDQPEwP2w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2826432023460436,
+                    "positive_probability": 0.7173567976539578
+                },
+                "stars": 5
+            },
+            {
+                "review": "I'm a student without a car and I walk a few miles round-trip and taking the bus just to come to Old Time for all my deli and meat needs. Though their selection is pretty extensive, ranging from USDA prime cuts, homemade plates, seafood, frozen stuff, a barrel of pickles, variety of cheeses, etc. The place has the family/homey vibe and that's what seems to set it apart from the very institutionalized food that students like me are used to on and close to campus. But I've matured enough in taste to realize that quality food usually doesn't come from Walmart or Meijer, and that the trek to Old Time is worth it even in the dead of winter for the friendly service, local feel, and most importantly, exceptional food.I've had quite a few things from here, I particularly enjoy the deli roast beef and pepperoni. As far as meats go I'm a big fan of the petite sirloins and also the filets. I've got a couple crab cakes in the freezer that I haven't tried yet but look amazing. The large twice-baked or loaded potatoes are absolutely to die for! The only things I don't much care for here are the coleslaw and provolone cheese, the latter is the \"picante\" provolone and it isn't the same as what I get back home, it seems.The prices to me are maybe a little higher than average, but you definitely get what you pay for in terms of quality and you know the money is in local hands. Quality and locality are two factors that I often consider to overshadow price and should be especially important aspects to anyone who cares about what they eat. Regardless, Old Time is the water in the figurative desert when it comes to having quality meat, seafood and other food items in the Champaign-Urbana area.",
+                "reviewer_id": "XzIKZTb4I-7wW4BjKwV2Mw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 7.995300858738126e-06,
+                    "positive_probability": 0.9999920046991325
+                },
+                "stars": 5
+            },
+            {
+                "review": "WE LOVE(D) THIS PLACE.  And, I mean... who doesn't.  Ever since we moved I've been lamenting the fact that I can't find a good butcher.  But, anything you need at Old Time, they can get it for you.  Even rare game, a lot of times.  Once, I had them get me some quail.  They also got me buffalo burger when I wanted it (and they weren't carrying it).  And the quality, too!  For the price you're paying at a Walmart, I mean... just skip it!  Never buy that nasty meat again.  Old Time'll do your 80/20 Chuck for your burgers, they'll do your bone-in ribeyes, they'll give you a pork butt, or shoulder!  I mean.. whatever.  For such reasonable prices, it's a wonder everyone doesn't shop there.Oh wait, they do! =D  You can tell just by the parking lot.  There are two lots that sort of bump up to the front and side easements, but these lots are pretty small (like 7-12 cars per, I'd guess).  There are times you actually have to wait for a space to open up so you can park and run in.  And it's not unusual for someone to be all cattywampus in a space or NINE (I'm looking at you, SUVs =P), so!  Parking can be a bit tricky.I wanted to mention that it's not all just fresh meat from their deli case, either!   They've got cheeses, desserts (frozen and fresh), OH, and the best part of all, I can't believe I almost forgot this!  They carry the Beef House rolls!  They're in the freezer section, in paper bags, but they're perfectly PERFECT.  Take a few home to keep in the freezer for when an uninvited guest shows up for dinner.  They'll praise your pastry prowess! ;DJust pure, honest good stuffs, from some people who really know themselves some food!",
+                "reviewer_id": "YtbXNQJEJAHZK_2DFXSa6w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.003416169179869784,
+                    "positive_probability": 0.9965838308201173
+                },
+                "stars": 5
+            },
+            {
+                "review": "This place has been around forever, and as a life-time local let me testify: Short of driving an hour out of town to one of the local farms in the surrounding towns, you will simply NOT find a better source of meet. Now those local farmers do come into town for our markets and they do stock their wares at the local Co-Op, but none of that feels like visiting a butcher. Combine old-school butchery with top-shelf customer service with the best of our local meat availability here conveniently in the center of town, and you get Old Time Meat & Deli Shop located at 2018 S Neil St. Champaign, Illinois 61820Custom cut of meat? No problem. Availability during the holidays? Not an issue. Need advice on your next kitchen adventure? They got you covered. Just want some hot, tasty, smoked meat products? They have that too.",
+                "reviewer_id": "z1j82SUJdYD-U6PBwuIsww",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7433423889392695,
+                    "positive_probability": 0.2566576110607214
+                },
+                "stars": 5
+            },
+            {
+                "review": "The prime cuts from here are so good, both my wife and I have become too \"spoiled\" to enjoy several of our former favorite steakhouses - preferring to stay home and cook these ourselves.The staff are extremely knowledgeable and are willing to help with advice, getting a fresh cut, trimming to order, or anything else that might conceivably make you happier with them as a butcher.I can not recommend this shop enough.",
+                "reviewer_id": "zjmnKn2vc6t6F2PUyi_HQg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.00032780667904573635,
+                    "positive_probability": 0.9996721933209467
+                },
+                "stars": 5
+            },
+            {
+                "review": "I first went looking for a good butcher shop after getting sick of the poor quality meat found in grocery stores. Every piece of meat I've had here has been delicious. They also have fish and some interesting game meats, though I haven't tried either.You can also get some lunch food here. If you are lucky enough to go by when they are smoking some meat in their outdoor pig-shaped grill, the smell is intoxicating. Their deli selection is small, but I find they have everything I need. The people here are very friendly, and you'll notice the same people working most of the time. It has a very nice local feel that beats going to a grocery chain hands down.",
+                "reviewer_id": "ZMp_SSu_ESiGOV7jwxUmtQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.055603802992213576,
+                    "positive_probability": 0.9443961970077905
+                },
+                "stars": 5
+            }
+        ],
+        "similar_restaurants": [
+            "qJlrHs5iyFOLA7Wly-M0pg",
+            "yZwl-dXM4SpEDEiihrfZnw",
+            "YkKEsYsSpOkDBbHBGKuWQA",
+            "p8GMdsCCy-NV_wZuDaU2Jw",
+            "R3dSeFD8k_Z-EHNLlUELiw",
+            "Z4ZP0LwHhG8SMTkvEcVvpg",
+            "0P0XckSv_2_ZNKoYlhT4Gw",
+            "caK31Iq3TClNCRB9WH9lhQ",
+            "bkbOmsZ9cOggOnpKsxOyiQ",
+            "SeQv-RJ2rS070NvSRh_siQ"
+        ]
+    }
+}

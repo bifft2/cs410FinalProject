@@ -1,0 +1,990 @@
+{
+    "RwhUzMEG2tVnZQY9dEuXzw": {
+        "keywords": {
+            "bigrams": [
+                "bar_crawl",
+                "cheap_drinks",
+                "sticky_floors",
+                "good_time",
+                "broken_glass",
+                "college_bar",
+                "stale_beer",
+                "ring_bells",
+                "kams_place",
+                "football_game"
+            ],
+            "unigrams": [
+                "bar",
+                "kams",
+                "place",
+                "went",
+                "beer",
+                "people",
+                "kam",
+                "night",
+                "good",
+                "drinks"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "full_bar",
+                "Ambience": {
+                    "casual": false,
+                    "classy": false,
+                    "divey": true,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "formal",
+                "Caters": false,
+                "Coat Check": false,
+                "Good For Dancing": true,
+                "Good For Groups": true,
+                "Good for Kids": true,
+                "Happy Hour": true,
+                "Has TV": true,
+                "Music": {
+                    "background_music": false,
+                    "dj": true,
+                    "jukebox": true,
+                    "karaoke": false,
+                    "live": false,
+                    "video": false
+                },
+                "Noise Level": "very_loud",
+                "Outdoor Seating": true,
+                "Parking": {
+                    "garage": false,
+                    "lot": false,
+                    "street": true,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 1,
+                "Smoking": "outdoor",
+                "Takes Reservations": false,
+                "Waiter Service": false,
+                "Wheelchair Accessible": true
+            },
+            "business_id": "RwhUzMEG2tVnZQY9dEuXzw",
+            "categories": [
+                "Bars",
+                "Pubs",
+                "Comfort Food",
+                "Nightlife",
+                "Sports Bars",
+                "Restaurants"
+            ],
+            "city": "Champaign",
+            "full_address": "618 E Daniel St\nChampaign, IL 61820",
+            "hours": {
+                "Friday": {
+                    "close": "02:00",
+                    "open": "15:00"
+                },
+                "Monday": {
+                    "close": "02:00",
+                    "open": "20:00"
+                },
+                "Saturday": {
+                    "close": "02:00",
+                    "open": "10:00"
+                },
+                "Sunday": {
+                    "close": "02:00",
+                    "open": "20:00"
+                },
+                "Thursday": {
+                    "close": "02:00",
+                    "open": "15:00"
+                },
+                "Tuesday": {
+                    "close": "02:00",
+                    "open": "20:00"
+                },
+                "Wednesday": {
+                    "close": "02:00",
+                    "open": "20:00"
+                }
+            },
+            "latitude": 40.1079898,
+            "longitude": -88.2295058,
+            "name": "Kam's",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media2.fl.yelpcdn.com/bphoto/hb_USbI7dCEmwowgjEcaWw/ms.jpg",
+            "review_count": 45,
+            "stars": 2,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "Bar. If you are going to KAMS, you should know what you are going to be getting into. However KAMS did it to me. ",
+        "reviews": [
+            {
+                "review": "Are you a sensible, intelligent human being?  Are you older than 19?  Does your clothing generally obscure your breasts/underwear/genitals from plain sight?  Are you averse to fist-pumping?  Does the pungent odor of beer-tinged vomit make you nauseous?  Well, then, welcome to KAMS - your personal hell.",
+                "reviewer_id": "-C93MHl3n-O_5KU_zGjEgQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.669139071294095,
+                    "positive_probability": 0.33086092870590045
+                },
+                "stars": 1
+            },
+            {
+                "review": "Want to drink shitty drinks whilst standing in 2 inches of an odd mix of water, mild, urine, and vomit? Look no further than Kams.",
+                "reviewer_id": "0OJlMksJXoZzpBuMga3wlQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5878843388956705,
+                    "positive_probability": 0.4121156611043298
+                },
+                "stars": 1
+            },
+            {
+                "review": "This place is a nightmare. Imagine yourself being surrounded by everyone who makes you wonder who fell asleep at the wheel in the admissions department, and all of these people are obscenely drunk and really want you to understand this fact. There is nothing redeeming about this place. The music is really really shit, not even ironic shit but honestly shit. I can't even review the drink selection because I gave up after trying to fight through a 5-deep wall of \"bros\" probably trying to get some roofied rum and coke for some poor underage girl wearing a misguided sequined top with pancake foundation and caked on black eyeliner. AWFUL!Plus someone told me once that a girl got syphilis of the foot from wearing flip flops here.",
+                "reviewer_id": "27gcq2AD3VLDXJw9Wukc4A",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7193055136257464,
+                    "positive_probability": 0.2806944863742482
+                },
+                "stars": 1
+            },
+            {
+                "review": "If you find yourself having to wash your clothes as soon as you get home from the bar, it's probably best that you stay away from that bar altogether.  That about sums up my experience with this staple on-campus venue.",
+                "reviewer_id": "29kunGCHSVTYypSuYu3JZQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7337199822872603,
+                    "positive_probability": 0.2662800177127412
+                },
+                "stars": 1
+            },
+            {
+                "review": "If I had one night with someone in Champaign, someone from someplace far-far-away, one night to be a gentle soul's Virgil, no ... Beatrice, yes ...Beatrice, as he explores the graceful, yet sublime, spheres of heaven, our trek, our ascension would end here. KAMS is the Empyrean of Champaign life. Simply put, to experience KAMS is to be enveloped in all that is good, all that is beautiful, and most importantly everything that makes no sense to an ordinary human at all.",
+                "reviewer_id": "6a_Q4ZdkVGCMk6aGnlAHHA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.01808919330156603,
+                    "positive_probability": 0.9819108066984333
+                },
+                "stars": 5
+            },
+            {
+                "review": "By far the worst bar I have ever been to. The smell of vomit can be described as nothing less than an assault on the olfactory sense. IF you can brave the stench and reach the bar, be prepared to be waited on the most minimally trained bartenders to ever earn the title. Not only can they not make a drink, it takes them ten minutes to mess it up. Absolutely horrifying experience, please for the love of God, do not subject yourself to the horror that is Kams",
+                "reviewer_id": "7dK-eriybn_3b6v34DEnaw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9993246630642156,
+                    "positive_probability": 0.000675336935787183
+                },
+                "stars": 1
+            },
+            {
+                "review": "If you went there and are nostalgic for what Kam's is, you already know you like it. For everyone else, go once to say you went, but that's it. it smells horrible, your shoes stick to the ground, there's broken glass everywhere that they don't clean up, it's wall to wall people: so basically a huge fire hazard. Basically it's a college bar, so if you like that kind of thing, go for it.",
+                "reviewer_id": "7r4cFwRsjW02T__Lk4vwxQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6195475967885465,
+                    "positive_probability": 0.3804524032114538
+                },
+                "stars": 1
+            },
+            {
+                "review": "After seeing Jenna, Sarah and Melissa all give Kam's one star, I realized they are the most intelligent people reviewing Kam's and I had to follow in their footsteps. They're right - Kam's blows. It deserves ZERO stars. You know how you can pin point freshman when they come to the UIUC? Bingo! They're toting around bright orange Illini Union Bookstore bags. Same goes to the people who wait in line at Kam's. The majority are freshman. Underage drinkers who can't hold their liquor. Screw that.Some drunk guy peed on my foot here. True story. I was only eighteen and not proud to be in the bar.You can find cheap drinks with \"attractive\" and coherent people almost anywhere else in Champaign Urbana. LOOK!",
+                "reviewer_id": "7zSppEZd2C6ASpNeBebxAA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7221305745452476,
+                    "positive_probability": 0.2778694254547479
+                },
+                "stars": 1
+            },
+            {
+                "review": "This bar is the scummiest fucking shithole at UofI. Its littered with garbage vomit and broken glass. The answer to good for kids should be are you kidding.Went there to party, fun, but the establishment itself sucks. I ate a hotdog that they grill outside because they smelled great. Regretted that in 4 hours.Dont go here until someone buys it again its really a piece of shit",
+                "reviewer_id": "8pKMThobWTDOyR6L_jCHgg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8151621989083502,
+                    "positive_probability": 0.18483780109165437
+                },
+                "stars": 1
+            },
+            {
+                "review": "Five dollar cover? Are you joking?This place is a hellhole and a sorry excuse for a classic college dive bar.",
+                "reviewer_id": "8yNzQhH30cQWdMWsHJAVNA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4978661523565413,
+                    "positive_probability": 0.5021338476434561
+                },
+                "stars": 1
+            },
+            {
+                "review": "Rarely am I rendered speechless. However KAMS did it to me. These people we met at the football game randomly invited us. Even though my friends warned me, we went anyway. There is a distinct smell that hangs over this establishment like a proud banner, a beacon to the faithful. I had to alternate holding my breath and chugging in order to somehow banish the smell from my nostrils. I drank a Ed Hardy beer, which I didn't even know they made, because they were out of Corona and when will I ever be able to say again that I drank a Ed Hardy beer? (Obviously I am a beer connoisseur.) (It wasn't terrible.) All the games were on, the music was surprisingly good, and I did really have a good time. The guys were also buying shots, which helped a lot. I'd come back again, just for the LULZ.",
+                "reviewer_id": "_hz_dF3yYAUdbD8rwqbVPg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.37163377488040605,
+                    "positive_probability": 0.6283662251196028
+                },
+                "stars": 3
+            },
+            {
+                "review": "If you like puke, and freshmen, and freshmen puking, come here. The only time I'm ever here is during a bar crawl.",
+                "reviewer_id": "_Y-x3GQDSVHKSigTbSM9VA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5359102457505851,
+                    "positive_probability": 0.46408975424941473
+                },
+                "stars": 1
+            },
+            {
+                "review": "Say what you will about the smell and atmosphere, I never had a bad time at KAMS.  Ugh the smell - just walk past in the daytime and you wonder why you ever set foot in there at night.  You have to be in the right mindset - to get drunk and have a good time.  If you are in the mood for that, you WILL have a good time.  But if you want to sit back and have a few beers and talk, then go to Murphys or Legends.Small dance floor that's crowded when a good hip hop or pop song comes on, but the minute they play country or something slow, it gets empty as can be, til the next good song comes on.  KAMS is always filled with student athletes with the throngs of girls surrounding them.  Drinks are cheap - find a frat guy and he'll buy you drinks all night long in hopes you'll go home with him.  Cheap night out.",
+                "reviewer_id": "BcNdlyXsmyYYBMfHq6UFpQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.05417710906697127,
+                    "positive_probability": 0.9458228909330268
+                },
+                "stars": 3
+            },
+            {
+                "review": "Just for the location (across from Thetas), you get 5stars.Getting a theta to drop her book for 30 min for a beer across the street is an easier task because of the short bar crawl.I miss Kams and for all you mother scratchers there for the summer, I wish I were you!",
+                "reviewer_id": "CioHHb-1cON75GXnU8KwUg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8191444870373199,
+                    "positive_probability": 0.18085551296267716
+                },
+                "stars": 5
+            },
+            {
+                "review": "You know there's a problem when you've never been in this campus bar, but your 60-year-old father has read about it in Playboy and shouts from the psych building across the street: \"THERE'S KAMS! WOW!\" So then, of course, he wants an up-close view of it even though it's butt early in the morning and there's really nothing to see. Half asleep, you agree, trot across the street and then remember that overwhelmingly volatile vomit smell... All day, every day.",
+                "reviewer_id": "G73eGQJg3F_gvDYnlgWVMw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9846770462883392,
+                    "positive_probability": 0.015322953711661804
+                },
+                "stars": 1
+            },
+            {
+                "review": "This bar STINKS!! - LITERALLY!This is the stinkiest, slimiest, stickiest bar I've ever been to. If you are drunk enough to not use any of your sense, KAMs is your place.",
+                "reviewer_id": "HJqPTfyNUW5yy3ri49E5ww",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8100591104516477,
+                    "positive_probability": 0.18994088954835167
+                },
+                "stars": 1
+            },
+            {
+                "review": "Ah Kams, a unique form of campustown blight that eclipses all other bars in its propensity for stench and spewing of both human and non-human scum. Please don't support this establishment...it gets enough support from the Greek hegemony, despite the fact it imposes a variety of ills on the nearby sidewalk and air. I still don't know how people manage to navigate the miasma with enough strength left to even open the door. I suspect it is facilitated by a uniquely potent protective layer of bright sienna self-tanner, tube tops, and Abercrombie polos.",
+                "reviewer_id": "HqaXK9toBpQdcz-0-rVwKw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0001848243244942708,
+                    "positive_probability": 0.9998151756755072
+                },
+                "stars": 1
+            },
+            {
+                "review": "Drinks. Lots of them. I remember walking up to the bar and honestly ordering 50 shots for groups of friends on a regular basis.Yes, it's dirty. Yes, it's smelly. Yes there is some girl in a tube top trying to make out with you and/or puking. Hopefully the former before the latter.College binge drinking at it's finest. Not that that is necesarrily a good thing.I used to bartend there while I was in college, so I have to show it some love!",
+                "reviewer_id": "iGC1lFvv6ZLyoNPFExwulg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9903860993873013,
+                    "positive_probability": 0.00961390061270178
+                },
+                "stars": 3
+            },
+            {
+                "review": "Just walk by the place and be overwhelmed by the smell.  I've been in the place once and it is gross.  This isn't just an \"I hate frats\" thing or something either.  It has bad beer sticky floors and rude staff---though I must admit I understand why on the staff thing.  I can't imagine going to this place at a peak time.  One only imagines how many evenings that end in sexual assaults have started in Kams.",
+                "reviewer_id": "IXFGCmgnB8YY-jtPCaNYeQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.032813998291340594,
+                    "positive_probability": 0.9671860017086583
+                },
+                "stars": 1
+            },
+            {
+                "review": "Came here 10 years after my graduation...and not much has changed.  It still smelled like vomit, stale beer, and service sucked.  After 5 mins in the bar, the nastalgia faded, and we went to a better bar with clean floors, and a decent beer selection.",
+                "reviewer_id": "J3wHuqConRziCBkqCxY4UA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3960188441478052,
+                    "positive_probability": 0.6039811558521927
+                },
+                "stars": 1
+            },
+            {
+                "review": "Kam's is one of the best bars in the world.  20,000 watts of nightly sound, free shuttle bus, and darts help to make Kam's the #2 pregame party spot in the nation.Upon stepping into Kam's, you are greeted with a familiar neighborhood crowd and the aroma of fresh, tasty beer being poured.  A sophisticated, happy-go-lucky crowd draws you in and the fantastic selection of drinks will make you stay.The basement is fantastic for parties and the staff is very knowledgeable.  The free popcorn is of gourmet quality.All in all, Kam's is a wonderful place to bring a date or just have a night of wine-drinking.",
+                "reviewer_id": "koq3FTM6HzXgLQAxP5W5kw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0007052085750001115,
+                    "positive_probability": 0.9992947914249998
+                },
+                "stars": 5
+            },
+            {
+                "review": "Kam's is definitely an under age paradise. Most people (or should I say kids) there are under age, wearing almost nothing, basically having sex on the dance floor, and puking all over the place. I was a transfer student, and went there with some friends my first few weekends there. I definitely learned my lesson and never went back, although I was tempted with all the Real World people they have on random nights to draw in a crowd.",
+                "reviewer_id": "KUlS1BLQN05G4gEE7BlYdQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.639854209350969,
+                    "positive_probability": 0.3601457906490324
+                },
+                "stars": 2
+            },
+            {
+                "review": "Kams. Smells like a hamster cage in serious need of a bedding change. Drinks are totally average, albeit cheap. The first place townies and U of I students go when they turn 19, most of whom regret it.",
+                "reviewer_id": "KXTC-4RgPZhu-a90ZmKJEA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.20964325193430108,
+                    "positive_probability": 0.7903567480656946
+                },
+                "stars": 1
+            },
+            {
+                "review": "A UofI alum took me here when I was 20 and itching to go to 19+ bars. We hit this place up first, as it is apparently quite a popular place. I was disgusted, and even more so when my alumni, a former PKA told me he and his brothers peed while in their chairs at the bar.The place stunk. The drinks were worse and painfully weak. I was horrified to see people in formal wear. Guess they were pre-gaming it there?Ladies...pass this one up. You can do better!",
+                "reviewer_id": "lduQB8NLz0-uEvPGn94A2Q",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6261709984211886,
+                    "positive_probability": 0.3738290015788129
+                },
+                "stars": 1
+            },
+            {
+                "review": "Ok. The two stars are because the floors had many sticky diseases on it. WTF? Don't they clean the floors? But the bartenders did make me forget about the nastiness with the strong and cheap drinks. That was the only reason it didn't get one star. I'd go back if I'm in Champaign again.",
+                "reviewer_id": "mHue7FHUNh5uuzj6e8YSXg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9906223874385719,
+                    "positive_probability": 0.009377612561424137
+                },
+                "stars": 2
+            },
+            {
+                "review": "20,000 watts of awesome.Note: This review only applies to August 2006 - May 2007.  Whatever may have transpired at this establishment before or after that time has not been taken into consideration.  This time period is considered by the majority of scholars to be the Golden Era of Kams.(This review also applies to the lesser-known Koms)",
+                "reviewer_id": "N0X-ck_0j6TfsEBuP8LN-A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.16576345075194637,
+                    "positive_probability": 0.8342365492480509
+                },
+                "stars": 5
+            },
+            {
+                "review": "eww... if i was still a freshman... or if i loved the smell of throw up & the feel of sticky floors pulling my shoes off; then KAMS is the place to be. Of course this is one of the oldest campus bars, & alumni love it here, but they need to just realize that it has gone down hill very fast in the most recent years. The servers on more than one occasion have been to drunk to serve me let alone be working. & also on more than one occasion someone in my group has stepped in throw up. I will not miss this bar or ever return. Someone needs to mop it every once in awhile. I'll pass on this one & walk the extra half block to firehaus.. or actually id rather walk to any other bar but KAMS.",
+                "reviewer_id": "nJHZOlY_IxBKvLHcfth9pg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7467805981863125,
+                    "positive_probability": 0.2532194018136824
+                },
+                "stars": 1
+            },
+            {
+                "review": "Kams represents everything that college represents; debauchery, dirt cheap drinks, and FUN.  To the people who gave shitty reviews on Kams, do us all a favor and don't come back because we didn't want you there in the first place!  Go hang out at the Undergrad library, or better yet the Union cafeteria on a Friday night...now those people know how to party!  Ever wonder why you can't get laid?  Because you are a NERD",
+                "reviewer_id": "Ovj5Lwu1iTUFtED9ZwupYQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8659651576980519,
+                    "positive_probability": 0.13403484230195256
+                },
+                "stars": 5
+            },
+            {
+                "review": "What an absolute dump.Everyone who goes to Kams is underage. More likely to see a high schooler in Kams than a 21+ individual.There's nothing redeeming about Kams - music is terrible but loud, food's poor, beers are bad, and worst of all floors are infamously covered in some gelatinous sticky muck from spilled beers and god knows what else.",
+                "reviewer_id": "PoArLCMA9Pkf5NiV51GQOw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9987335025025093,
+                    "positive_probability": 0.0012664974974929317
+                },
+                "stars": 1
+            },
+            {
+                "review": "I think I first went to Kams about 30+ years ago and when I made my most recent visit this past weekend with my niece for \"Dad's Weekend\" all of the memories came rushing back with that first hit of vinegar & piss that assualts your nose as soon as you make it around the corner.Inside, same sticky floor and river of piss in the men's room, despite the early hour (suspect leftovers from previous night).Still, it is an institution and if you can score a \"Blue Guy\" from the bar and handle the ear-splitting volume of a dozen crate speakers, you'll have a synapse-snapping memory of your first college bar.Anybody expecting better from a campus bar missed their exit...3 hours north near Evanston...",
+                "reviewer_id": "qUTPYTK7pODDXR1Lh5JiBQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9644319036823613,
+                    "positive_probability": 0.035568096317636765
+                },
+                "stars": 3
+            },
+            {
+                "review": "Leading psychologists say that smells ring bells*. My bells were ringing hard last night when I went to KAMS because those smells filled my nostrils with visions of joy and wonder from my childhood. There is a popular drink served at this pub called the \"Blue Boy.\" It is tasty and good and sweet to the tongue. It dulls all the bad senses and electrifies the good ones. It instills confidence where there was none, and reinvigorates the soul. Now, that being said, utopias such as KAMS can become dystopias if you aren't careful. For one, avoid the basement around the end of October, because it can get pretty scary down there with all the halloween decorations. However when it's not halloween, the basement can be a heaven away from the heaven upstairs.One suggestion is to start serving food. A Blue Boy sandwich, now that is something.*https://www.psychologytoday.com/blog/brain-babble/201501/smells-ring-bells-how-smell-triggers-memories-and-emotions",
+                "reviewer_id": "rDU2IQDcc6z-sW0GcA-Prg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0021767874776770905,
+                    "positive_probability": 0.997823212522324
+                },
+                "stars": 5
+            },
+            {
+                "review": "I will first start out by saying that, of course a college town bar is going to be full of underage people (especially in a town when 19 year olds are legally allowed in bars!!!)!!!!  Who are you people giving these stupid reviews?!?!    Well, I went back to campus this weekend for the Michigan-Illinois game.  Wow, this bar is more disgusting than ever (I think it gets worse and worse every year - or maybe I get older and older every year and have less tolerance for grossness...)!  When you first step foot into the bar, your feet just stick to the floor.  Do they ever mop???  If your shoes aren't sticking to the floor, they're in an inch of piss/booze/broken glass etc.  I saw a girl laying flat on her back with her hair and skirt in the gross wet mess, and she had lost a shoe.  EWWW.Just get some toilet paper in the ladies room stalls!",
+                "reviewer_id": "rY3mFbwwNkPEAzRhaoGtSg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9984015662962393,
+                    "positive_probability": 0.0015984337037677101
+                },
+                "stars": 1
+            },
+            {
+                "review": "I have also never been inside Kam's, and that is causally related to the reason I can still give it one star:  I have to walk by its vomit stench lined exterior every fucking day during school to get to the psych building, and on unofficial I have to endure having riot police stationed in the lobby of my building to prevent the kam vomit and mayhem flow from infiltrating the psychology building.  The vomit smell is even there at like 8AM on Tuesday mornings!  When I was in college, I went to bars that didn't card too, but on the real I still don't understand why anyone would go to kam's.",
+                "reviewer_id": "sleEMt44E1StWrjz3mcujQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.08393743188206414,
+                    "positive_probability": 0.9160625681179452
+                },
+                "stars": 1
+            },
+            {
+                "review": "All time favorite bar on campus! This bar was rated in Playboy (haha) as one of the top campus bars! It's always extremely rowdy, probably too rowdy for me these days. It's not a nice bar by any means, more of a place to go with your friends in college to drink for cheap.",
+                "reviewer_id": "sUrU9l3_f1iWYZdLmop0Rw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.21725362146141305,
+                    "positive_probability": 0.7827463785385904
+                },
+                "stars": 4
+            },
+            {
+                "review": "One star is too much. I haven't been to Kams since I went to college. I went there for the memories. I told one of the bouncers and he put my group in the VIP line. When I got to the front with my group he acted like he had no idea who I was. This was humiliating at best. Kams sucks and we will never go back.",
+                "reviewer_id": "T1QVCKn-K572Y8CXn9tHtg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9558133582806375,
+                    "positive_probability": 0.04418664171936096
+                },
+                "stars": 1
+            },
+            {
+                "review": "Disgusting, revolting, terrible, smelly, I can't think of a better way to describe this place.  I went down to U of I for a football game around Halloween and uh, if I could choose to burn one building down in my lifetime, it'd probably be Kams. Granted, I'd imagine the building is going to collapse soon due to lack of maitenance and upkeep anyway.The second we stepped in the door the place smelled like stale beer, vomit, and pee.  My feet stuck to the floor throughout the entire bar. The tables probably hadn't been cleaned in years. I think it would have required a power washer and about 2000000 gallons of bleach to clean the place.The bathroom was the most disgusting bathroom I've ever been in other than one in China. That's saying something.The staff at this place was something else. The bar tender was so drunk she asked me to repeat my order of 3 bud lights 4 times in a row. She'd ask, turn around to get them, then turn around and ask what I ordered again...The only plus to this place was for some reason it was loaded with attractive girls (have to imagine it is the cheapest place to drink on campus) and the beer and alcohol was dirt cheap.Seriously, avoid this hole at all costs, or at least bring a clothes pin for your nose.",
+                "reviewer_id": "TBWi-AuPTGCsnJmX8xLA8g",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.31854532908779715,
+                    "positive_probability": 0.6814546709122085
+                },
+                "stars": 1
+            },
+            {
+                "review": "Worst bar I've been to, period. It looks awful, smells awful, and the nastiest, warmest beer on tap that I've ever drank came from KAMS. On top of that, the clientele are awful, too, unless you're looking to meet the most obnoxious people in the whole city when they're in full bar crawl mode.",
+                "reviewer_id": "try1NSovbCPo4zvAIxSfXQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8109380191610844,
+                    "positive_probability": 0.18906198083891126
+                },
+                "stars": 1
+            },
+            {
+                "review": "I've only been here once for Campustown Challenge, and believe me, that was one too many. The smell, what is it? A strange and powerful brew of vomit, cheap beer, and poor life decisions. And just when you can't stand it anymore and want to leave, you find your shoes sticking to the floor. Yeah, I went, but the only good thing I got out of it was a wristband.",
+                "reviewer_id": "w3K0UQHHT8Oht5eTSIAc4Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.09643788606150154,
+                    "positive_probability": 0.9035621139384962
+                },
+                "stars": 1
+            },
+            {
+                "review": "If you are going to KAMS, you should know what you are going to be getting into. Like everyone else said, wasted freshmen, disgusting bathrooms, bad smells. Recently voted as the best place in Champaign-Urbana to have a one night stand. So, if you know what are getting into, and want a night of debauchery, it gets five stars. If not, one star.",
+                "reviewer_id": "x6ybs0ZjnqsCKO-IZ3uRIw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.997538981126812,
+                    "positive_probability": 0.0024610188731863714
+                },
+                "stars": 3
+            },
+            {
+                "review": "I didn't go here at all until I was a senior, and had discovered the wonders of country night. On this night (Tuesday!) you'd go, pay $5 and get a mason jar to fill with beer for $1.50. You only ever had to buy the jar once and could bring it back again and again every single week. My friend Bob and I would go, drink buckets (or jars, whatever) or Miller Lite, and watch \"Married With Children\" on TV.And then I realized that the KAM'S bartenders have decent memories, and so long as you aren't asking them for big fancy drinks with lots of parts, they'll remember you and your face and your drink. If you tip them nicely, they'll have your drink waiting for you when you return to the bar. Or maybe that was just me, I can never be sure. Hell, maybe I stole someone else's beer.Regardless - it's a dirty, dumpy little dive full of underdressed, underaged children with popped collars and excessive skin-baring. And DESPITE all this, and DESPITE its sticky floors and weird clientele, I still really enjoyed myself every single time I was here.YAY KAM'S!",
+                "reviewer_id": "X_0sc9uUPaNRzH0YqM7pqg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9895168047719443,
+                    "positive_probability": 0.010483195228063633
+                },
+                "stars": 4
+            },
+            {
+                "review": "Worst. Bar. Ever. Find someone to buy you a pint of crappy Canadian whiskey, and then take your money to Espresso Royale and give them the business whilst drinking on the sly. Now.",
+                "reviewer_id": "xWk5yxPRN2a83D-c9TAyVg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8561142275500854,
+                    "positive_probability": 0.14388577244991377
+                },
+                "stars": 1
+            },
+            {
+                "review": "A must try once kind of bar for me. Had a great time here during the day after a bar scramble. Not so great at night when the typical crowd gets there. A little on the pale side for me. But when you get ranked by Playboy as a top college bar, you better have tons of drunk guys trying to hook up w/ slutty girls.",
+                "reviewer_id": "yvTtxvyU58xefHe-CNhfqQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7746139624343872,
+                    "positive_probability": 0.22538603756561595
+                },
+                "stars": 3
+            }
+        ],
+        "similar_restaurants": [
+            "27q7XsLrKPNwr8i5RcCOvQ",
+            "MVH3JOKpQvMTP4jxwBUhkA",
+            "EYFV3b2fkt1fOqYnasonfA",
+            "05FJCAvUFOAk8B_nIOqt7A",
+            "ufOY2lQHDgSvou3YLT8gHA",
+            "PeQ3gtLHAg9ov0YuM-m21A",
+            "JCqFWCn31OMSk-vqF5aYNQ",
+            "JhEA8qHfNmIh8c6OHXnaYA",
+            "-0GkcDiIgVm0XzDZC8RFOg",
+            "9p3O_KoH3muITR-9WgrSnA"
+        ]
+    },
+    "jKPEJgRE_WvryvExq7zogQ": {
+        "keywords": {
+            "bigrams": [
+                "noodles_company",
+                "fast_food",
+                "mac_cheese",
+                "noodle_dishes",
+                "pad_thai",
+                "indonesian_peanut",
+                "pretty_good",
+                "japanese_pan",
+                "pesto_cavatappi",
+                "macaroni_cheese"
+            ],
+            "unigrams": [
+                "noodles",
+                "good",
+                "food",
+                "place",
+                "noodle",
+                "pasta",
+                "cheese",
+                "great",
+                "menu",
+                "tried"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "beer_and_wine",
+                "Ambience": {
+                    "casual": false,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "Caters": false,
+                "Delivery": false,
+                "Good For": {
+                    "breakfast": false,
+                    "brunch": false,
+                    "dessert": false,
+                    "dinner": false,
+                    "latenight": false,
+                    "lunch": true
+                },
+                "Good For Groups": true,
+                "Good for Kids": true,
+                "Has TV": false,
+                "Noise Level": "average",
+                "Outdoor Seating": false,
+                "Parking": {
+                    "garage": false,
+                    "lot": false,
+                    "street": false,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 1,
+                "Take-out": true,
+                "Takes Reservations": false,
+                "Waiter Service": false,
+                "Wheelchair Accessible": false,
+                "Wi-Fi": "free"
+            },
+            "business_id": "jKPEJgRE_WvryvExq7zogQ",
+            "categories": [
+                "Italian",
+                "Asian Fusion",
+                "Comfort Food",
+                "Restaurants"
+            ],
+            "city": "Champaign",
+            "full_address": "528 E Green\nChampaign, IL 61820",
+            "hours": {
+                "Friday": {
+                    "close": "22:00",
+                    "open": "11:00"
+                },
+                "Monday": {
+                    "close": "22:00",
+                    "open": "11:00"
+                },
+                "Saturday": {
+                    "close": "22:00",
+                    "open": "11:00"
+                },
+                "Sunday": {
+                    "close": "22:00",
+                    "open": "11:00"
+                },
+                "Thursday": {
+                    "close": "22:00",
+                    "open": "11:00"
+                },
+                "Tuesday": {
+                    "close": "22:00",
+                    "open": "11:00"
+                },
+                "Wednesday": {
+                    "close": "22:00",
+                    "open": "11:00"
+                }
+            },
+            "latitude": 40.11052,
+            "longitude": -88.230628,
+            "name": "Noodles & Company",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media2.fl.yelpcdn.com/bphoto/yo196FM7I-Eots_7Jj67bQ/ms.jpg",
+            "review_count": 29,
+            "stars": 3,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "Noodles and Company is clean and has a nice ambiance that is missing from most campus-town restaurants. Noodles and Company is an okay place for lunch, and by okay I mean not that great. I'm just no longer willing to keep ordering until I finally find something that is ok. Can't go wrong with pesto cavatappi, but there were many times where whatever it is I've ordered, the dish would be bland... ",
+        "reviews": [
+            {
+                "review": "I was excited to try this place on campus. I got there at 6:30 and the dining room was a mess, I obviously had just missed rush. I ordered 3 items, no meat and no drink and the bill was $15. When I questioned that I explained I had wanted the small bowl, she hadn't ask, and the side soup. It came down to $10. I still felt that was pretty high. She seemed extremely annoyed that I was bothering her with this, and I kind of wanted to tell her \"honey, if you don't like your job, work someplace else.\" The food was just okay. At that price I would have liked enough to take home, but, the small portions were pretty measly and I finished it there. Someone had dumped an entire order of macaroni and cheese in the middle of the floor, and I got to stare at it while I ate. At no point did anyone come clean it up while I was there. I won't be going back anytime soon.",
+                "reviewer_id": "0JD_ay-qqS9tnOtYaZIQqg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5015299653759047,
+                    "positive_probability": 0.4984700346240987
+                },
+                "stars": 3
+            },
+            {
+                "review": "I loved Noodles and Company.  I like the concept of everyone ordering their own choice of food with different combinations of meat.  Service is fast, they bring food to the table.  Place is filled with students (but not loud), but then what do you expect in Urbana with University feeding all businesses in the area.There were 5 in our group and we tried: Penne Rosa, Pesto Cavatappi, Indonesian Peanut Saute, Pasta Fresca with Pork and Whole grain Tuscan Linguine.  Except for Penne Rosa, everything was very good.Small bowl is perfect size for one adult.  Regular can be shared.Service is fast and food is filling.  What more do you want at this price :)",
+                "reviewer_id": "2e6C8Ze2ofAbPjj7jLd0ag",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.01909548913471322,
+                    "positive_probability": 0.9809045108652823
+                },
+                "stars": 4
+            },
+            {
+                "review": "I actually fell in love with this chain when I lived in Minneapolis. Was very happy when they moved to Champaign.  Now I can at least get it when I come home.  Parking can be difficult since this is located in campustown, more-so when school is session, of course.  Frequently there is a line, so you may have to wait.  They do move through the ordering line quickly though.  They will give you a number and then either bring you your food (if you are staying in) or call you up (if you are doing take-out). i really like that you can pick whatever noodles/soup with whatever meat option you desire. I think there used to be a menu option that I got, but it doesn't exist anymore.  The last time I ate there, I got the pad thai- which was terrible.  I don't recommend that at all.  My parents love the thai curry soup...especially when under-the-weather. The bread is really good.  And their rice krispie treats are nice and gooey.",
+                "reviewer_id": "2niwhUC9pAeHH_W29cl9Cg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.05244719635495186,
+                    "positive_probability": 0.947552803645047
+                },
+                "stars": 4
+            },
+            {
+                "review": "I love noodles! The Japanese pan noodles are my favorite thing to order, and their Mac and cheese is also very good. It is a nice place to stop if you're in a rush . The service is quick, and they have good treats for dessert.",
+                "reviewer_id": "44GzCA_7s9Xq3kzl2xD1TQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.24372946480989816,
+                    "positive_probability": 0.7562705351901001
+                },
+                "stars": 5
+            },
+            {
+                "review": "Great alternative to regular fast food near U of I campus. Before an Illinois football game, the beer and burger places were overflowing. The fast food chains did not look appealing. But this little spot, with a huge selection, plenty of seating, and fast service, filled the bill perfectly. I can't give it four stars because the food was uneventful. I had the Indonesian peanut saute with grilled chicken. The rice noodles were decent, the sprouts and peanuts were fine, the seasoning was nice and spicy, and it came quick and warm. My wife had the tomato basil bisque off their Mediterranean menu. She said it was like eating spaghetti sauce without the spaghetti. Not a destination, but a good lunch alternative.",
+                "reviewer_id": "4k54NDPYyDVj_kUc8qv9xA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2994475209564645,
+                    "positive_probability": 0.7005524790435396
+                },
+                "stars": 3
+            },
+            {
+                "review": "this place is difficult to correctly categorize because of the various cuisines that are represented on their menu.  i always get the tofu pad thai though and find it completely satisfying.  the atmosphere is somewhere in between fast food and almost table service...i know that makes no sense.  just try it, it's a great location if you are on campus and it's always consistently good.  rather cheap too.",
+                "reviewer_id": "6pC5j-hfP4xLZB2W0Wi1vg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.19632750783098496,
+                    "positive_probability": 0.803672492169018
+                },
+                "stars": 4
+            },
+            {
+                "review": "Of the several times I have eaten at Noodles & Co., the food has been fairly decent, consistently good, but nothing to write home about. I like the variety of choices, but it can get a bit overwhelming, if you keep on wondering to yourself if the particular combination you picked will actually taste good or not. I have stuck with western-style pasta, as opposed to asian noodles (why eat faux noodles at this place when you can walk a block and have real pho noodles?). A regular bowl of noodles, meat, and a side soup will run you $8-10, which isn't enough to fill me up completely, but it is nice to enjoy some well-cooked noodles once in a while. The atmosphere is pretty great, perfect for groups of people and for individuals. It actually feels like a fast-food place disguised as a restaurant. It's very roomy inside, and there are huge windows that let you look out onto the busiest corner of campustown.",
+                "reviewer_id": "7s1iQISYzM7GEr3TTTuJww",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.009668614939218041,
+                    "positive_probability": 0.9903313850607877
+                },
+                "stars": 4
+            },
+            {
+                "review": "I've never liked the their concept of fusion cuisine when it first came to Champaign. They tried to introduce noodles from different places but they never tasted authentic. The Indonesian peanut noodle was not appetizing and their pastas were, uhm, never mind. Try it and you'll know.",
+                "reviewer_id": "CX4GcrCCnzfNyAl0cPqGbg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.023061019256267547,
+                    "positive_probability": 0.9769389807437286
+                },
+                "stars": 2
+            },
+            {
+                "review": "The employees are invariably lackadaisical, unwelcoming, and distracted. I try to avoid Noodles if I can. Their food is obviously just whatever fast food. But I really love that they have corkscrew pasta.A positive of Noodles is that they can provide you with information on what is vegan and what is not (and how to modify certain dishes to make them vegan). I don't particularly like their vegan options, but if I had to choose, I would go with a dairy-free Penne Rosa with tofu.",
+                "reviewer_id": "dzKYG04n0nLXv6tGFvJX0Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.06243460552569744,
+                    "positive_probability": 0.9375653944743034
+                },
+                "stars": 2
+            },
+            {
+                "review": "I thought this was a soup place. I was wrong. There's plenty of other noodle items such as pasta and pad thai. I had myself some beef stroganof. It was pretty good and the large bowl was enough to get me full and take some home for a future meal.",
+                "reviewer_id": "eFIlrOz3TnuZQeh2Y1e17Q",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5975319112605781,
+                    "positive_probability": 0.4024680887394175
+                },
+                "stars": 3
+            },
+            {
+                "review": "Avoid this place. Food tasted stale. I'm guessing the toppings (chicken, shrimp) are simply defrosted and places on the noodles or rice. Even the veggies tasted watery.",
+                "reviewer_id": "EMQ93eOzFcaPQ5-0-zTSKA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.43590480067541637,
+                    "positive_probability": 0.5640951993245824
+                },
+                "stars": 1
+            },
+            {
+                "review": "Restaurant reviewHow can a chain restaurant be so different from the rest. I recently got my free birthday meal coupon from Noodles and Company. I was looking forward to the beef stroganoff which use to be my favorite many many years ago. Luckily school is out so we got parking on the same street as the restaurant. Ordering was simple, you pick and chose from a picture menu. Many of the dishes require you to pay more for protein, some are built into the cost. The food came rather quickly. I agree with Yelp reviewer Xi S., portions are significantly smaller than I remember. I don't know if NC removed another size to the dish, but this was a lot smaller than I remember. The noodles were slightly under cook and the lack of sauce was rather troubling as many of my bites were just plain noodles. Also the employees do not appear that they want to be working here at all. Now that I have tried it, I think I will pass the next time I get an email coupon....Pros: Lots of different asian inspired noodle dishes, quickCons: small portion size, disinterested employees, under cooked noodle and lack of sauceHidden deals:1. Use the Hooked app which gives you additional savings. Dinner time savings was 2 dollar off an entree2. Sign up for the email club for a free pasta on your birthdayHealth code rating: B http://champaign.il.gegov.com/champaign/estab.cfm?facilityID=781",
+                "reviewer_id": "f1a9KwsObpE54Yp9A1fVoA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0717914737013746,
+                    "positive_probability": 0.9282085262986276
+                },
+                "stars": 2
+            },
+            {
+                "review": "The cashier person is so impatient, unfriendly and rude. The pasta itself is not fully cooked (it is still too hard). The taste is standard.",
+                "reviewer_id": "gLw3u6mF4XKuMeOnr429Ag",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.041084057131292935,
+                    "positive_probability": 0.9589159428687071
+                },
+                "stars": 1
+            },
+            {
+                "review": "This is your standard Noodles&Co. chain restaurant with nice seating and ambiance.  If you've been to one before, then you should know what to expect, it's more or less the same.  For those of you who haven't been to one, they offer slightly higher prices than you'd like to pay (but not enough that you'd outright stop going), and a somewhat large variety of noodles, ranging from Oriental to your standard Mac&Cheese options, as well as soups and salads.  Most of their more exotic dishes range from okay to the not-so-surprising 'WTH was I thinking when I ordered that' response, but a few are really good and worth coming back for.  Personally, I don't eat here unless someone else really wants to go, and then I usually order the Mac&Cheese which is my current favorite there.  Plain and simple noodles with a bunch of gooey freshly melted cheese.  Yum.  One good thing about it is that it is located in the heart of campus, so it's a convenient place to stop in for lunch or some other quick meal.  It is surrounded on several sides by completely glass windows, though, so it can be a little strange getting some private time with people from the street looking in at you.",
+                "reviewer_id": "HJZfQadmdoa9qsZ4R1xEGQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.003359240307828991,
+                    "positive_probability": 0.9966407596921513
+                },
+                "stars": 3
+            },
+            {
+                "review": "Noodles and Company is clean and has a nice ambiance that is missing from most campus-town restaurants. The menu is wide-ranging, with American, Asian, and Mediterranean selections, and you get chose your protein (or save money and not chose one at all). There are a huge amount of drink options, from wine to organic milk. Another great thing is that they have nice brochures with nutrition info and lots of healthy food options. Unfortunately, I find the food at  Noodles to be very inconsistent. Sometimes my field green salad is great, other times it is just a bunch of bland iceberg lettuce. Other selections, even those labeled spicy, are a little on the bland side. Unfortunately it's also quite pricey for campus-town and it's often incredibly crowded during lunch. Another thing that annoys me is the excessive packaging for takeout: fancy bags and containers resembling tupperware are wasteful even if they are labeled \"made with a chemical to speed up breakdown.\"But I still come back. They have food that is reasonably healthy and gives me a good dose of protein. I also like the variety of the menu. I love that I can get potstickers with my tomato soup, so that keeps me coming back.",
+                "reviewer_id": "HqaXK9toBpQdcz-0-rVwKw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.010085077966022737,
+                    "positive_probability": 0.9899149220339728
+                },
+                "stars": 3
+            },
+            {
+                "review": "I have been to Noodles and Company twice - and I have been very disappointed each time!  My first try was about 6 months ago.  I ordered the Pad Thai with chicken...and it was probably one of the most terrible things I've ever been served.  It was absolutely bland and half of the noodles weren't even cooked.  I couldn't eat it; I had to just throw it away!  I wasn't expecting a great Thai dish, just something edible.   So today I was running errands near Noodles and thought I would give it another try.  I ordered the Wisconsin Mac and Cheese, thinking I couldn't possibly go wrong with their \"most ordered' dish.  Unfortunately, my meal very disappointing again. It was just very plain.  Not enough sauce for all the noodles, and the sauce that was in the dish barely had any flavor.  Not worth it. I'm not sure if these issues are related to this particular store, to consistency issues, or just to poor recipes.  Either way, my two experiences warrant a rating around 1 or 2.  I'm going with a 2 since it is a nice-looking place....and they must be doing something right since it's always so crowded!  I'm just no longer willing to keep ordering until I finally find something that is ok.",
+                "reviewer_id": "Hz7So2SUB2-DJId-JynJuQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9605099133512798,
+                    "positive_probability": 0.039490086648709954
+                },
+                "stars": 2
+            },
+            {
+                "review": "Noodles and Company is an okay place for lunch, and by okay I mean not that great. It's located on campus, which makes it an easy destination for lunch. They serve Asian-style noodles, Italian pasta, and American pasta (think: macaroni and cheese etc). They also have soups and salads. You get to pick your size (regular or small), and can add ingredients (such as meat) if you like. I tried a couple of the Asian noodle dishes: they were alright but really not too impressive. I wouldn't mind so much if they were a dollar or two cheaper.",
+                "reviewer_id": "igrgFZl9wDohSem0UyoP6A",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7914388457792058,
+                    "positive_probability": 0.20856115422079588
+                },
+                "stars": 3
+            },
+            {
+                "review": "Can't go wrong with pesto cavatappi, but there were many times where whatever it is I've ordered, the dish would be bland...",
+                "reviewer_id": "LzLMTO88pQ7aBc-s7fOO6g (1)",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5726449949815681,
+                    "positive_probability": 0.4273550050184311
+                }
+            },
+            {
+                "review": "Can't go wrong with pesto cavatappi, but there were many times where whatever it is I've ordered, the dish would be bland...",
+                "reviewer_id": "LzLMTO88pQ7aBc-s7fOO6g",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5726449949815681,
+                    "positive_probability": 0.4273550050184311
+                },
+                "stars": 3
+            },
+            {
+                "review": "At first this place looked like another noodle chain. But, I was impressed! It reminded me of crepevine in California but for noodles! Did that even make sense?  I liked their trio combo for 7 bucks (soup/salad and pasta with meat)! I had the pesto, but I'm definitely going back to try more things on their menu. They also have passionfruit iced tea that's rumored to be awesome.",
+                "reviewer_id": "m8u49f6BQbnLBPujd6twaQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0014139323645523838,
+                    "positive_probability": 0.9985860676354498
+                },
+                "stars": 4
+            },
+            {
+                "review": "great food, maybe a tad expensive. The salad I had was one of the better salads I've had and it tasted very fresh as well. Indonesian peanut saute was very good.Service is quick as well.",
+                "reviewer_id": "Mwe28dBaUr_1dnPvs4pXug",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.01556225840326999,
+                    "positive_probability": 0.9844377415967313
+                },
+                "stars": 4
+            },
+            {
+                "review": "noodles is a chain-type place that specializes in...well, noodles? its a bit overpriced for the portion size but the mac and cheese and the tomato bisque are well worth it! the asian entrees are pretty good faux clones - and the few bites of the italian and american noodle dishes i've had are pretty good too. it's a great place to grab a bite in the campustown area if you want to be sure you'll have a good meal.",
+                "reviewer_id": "OdL7XAqENNpR7A1Z5yMPpg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.38557956637057816,
+                    "positive_probability": 0.6144204336294274
+                },
+                "stars": 4
+            },
+            {
+                "review": "Before I ever went in to noodles I was like \"oh yeah, I get it, it's a little healthier than like chipotle or antonio's, and it has lots of noodle dishes, sounds like a good idea to me.\"  Then I actually went for lunch one time.  There was nothing on the menu that looked at all appealing (too much broccoli in everything; I'm a hater,) so I ordered the mac 'n cheese because it was the least healthy looking option and therefore had the best chance of being tasty.  I got it with \"steak\" which cost like an extra $10 or some shit.  It was so expensive!  My macaroni and cheese came out, and it was so bland I put sriracha in it.  The \"steak\" was not worth the ridiculous $10, and was barely identifiable as any particular type of meat.It gets 2 stars instead of 1 because it has air conditioning and is clean.",
+                "reviewer_id": "sleEMt44E1StWrjz3mcujQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9902164493566254,
+                    "positive_probability": 0.009783550643381204
+                },
+                "stars": 2
+            },
+            {
+                "review": "At first, I completely ignored Noodles and Company because I used to look at the place and think, \"Is it really necessary to have thousands of different noodle dishes?\" Then I actually tried the place. I tried a dish from the American side, can't remember which one, but it was sooooo good. I couldn't stop eating it . I can't help but think that it has the most interesting taste. The seasoning kind of reminds me of the seasoning in Ramen noodles. Pretty good overall, but why in the world do they sell wine? Is that not random?",
+                "reviewer_id": "THZbpyV1VQDJiBrDBbWpfw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.16480713486252463,
+                    "positive_probability": 0.8351928651374787
+                },
+                "stars": 4
+            },
+            {
+                "review": "It is okay if you are really hungry. We ordered Japanese Pan Noodle. It tasted a little bit sweet, so we add spicy sauce. I think I will try something else next time.",
+                "reviewer_id": "USGuicC53ZOwIVN99d9LIg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.20861619468942563,
+                    "positive_probability": 0.7913838053105746
+                },
+                "stars": 3
+            },
+            {
+                "review": "I tried the Pesto Cavatappi with Chicken ($2.35 extra) at Noodles and Company.  Recommend it highly -- the curly pasta was well marinated in the pesto sauce, and the chicken was succulent! The menu was well laid out, and the service was prompt! There is three different sections to choose from for the main entrees: American, Italian, and Mediterranean.  I very much enjoyed my meal, and look forward to trying some of the their other stuff (salads, etc.).",
+                "reviewer_id": "VKdYOjzQwCOM66RWJgPRCA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.06463573161238274,
+                    "positive_probability": 0.9353642683876136
+                },
+                "stars": 4
+            },
+            {
+                "review": "Some co-workers wanted to go here for lunch, and I agreed, grudgingly.  I'd had it before when my company had a lunch catered, but I didn't find anything I liked then.  Today I tried the Japanese Pan Noodles with steak, and it is easily the best thing I've had from there before.  I've also tried the Pad Thai and the Steak Stroganoff, but I didn't care for those choices very much.   The noodles + a cookie (no drink) was $11.50, so I thought it was pretty pricey for an order of noodles that were average at best.I rarely go on campus except when school's out.  I can see why the students would like it though since it's pretty fast.  I'd go again if others dragged me there, but I think there are a lot better options both on and off campus.",
+                "reviewer_id": "xBejh2J752GEd7fdpMXP1A",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9051160630174786,
+                    "positive_probability": 0.09488393698252987
+                },
+                "stars": 3
+            },
+            {
+                "review": "Decent food for the price. Not the best atmosphere. But overall, not a bad choice for a casual meal.",
+                "reviewer_id": "ynt7GMNcqANCKZXlUzm4yQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.41285474171239467,
+                    "positive_probability": 0.5871452582876063
+                },
+                "stars": 2
+            },
+            {
+                "review": "Always pleased with this place...the suggestions of meat to add to the noodle bowls are perfect! it's inexpensive and I'm definitely full by the time I leave. Casual atmosphere, although the customer service at the register could use a little help. Overall, good experience, though.",
+                "reviewer_id": "yQZo0tJzB3uBG22d6e_0xA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6731675782298097,
+                    "positive_probability": 0.3268324217701916
+                },
+                "stars": 4
+            }
+        ],
+        "similar_restaurants": [
+            "doCqqCuoDsIQYDSY2gkUtQ",
+            "oP8KsXHOUA_otHHI5JHScQ",
+            "2SycDjGWWpFs1ODL-YBoHA",
+            "NMGkgrTGyNVAA5mnwYL5Ig",
+            "3BHId7STldaICUk-WVE7sA",
+            "dnRzZsej_I1URXYqEGGm7w",
+            "1A_4WE4hdpdU3pG6PWUOVw",
+            "wYT34MQMvjXU_j62UiyFtQ",
+            "ZSTTU_-duEqyIDZgLV45DA",
+            "1Vmbe7dsvPQMu4FuiH_LLQ"
+        ]
+    }
+}

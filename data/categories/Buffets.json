@@ -1,0 +1,391 @@
+{
+    "XW3R4wyKl3GPSO7q0_USiw": {
+        "keywords": {
+            "bigrams": [
+                "fried_rice",
+                "fried_bits",
+                "food_better",
+                "delicious_sauce",
+                "cheap_cheap",
+                "yolks_slivers",
+                "mwarm_university",
+                "topping_peking",
+                "crab_rangoon",
+                "stir_fried"
+            ],
+            "unigrams": [
+                "fried",
+                "food",
+                "cheap",
+                "egg",
+                "bits",
+                "buffet",
+                "rice",
+                "beef",
+                "family",
+                "chicken"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "none",
+                "Ambience": {
+                    "casual": false,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "Caters": false,
+                "Delivery": true,
+                "Good For": {
+                    "breakfast": false,
+                    "brunch": false,
+                    "dessert": false,
+                    "dinner": false,
+                    "latenight": false,
+                    "lunch": false
+                },
+                "Good For Groups": true,
+                "Good for Kids": true,
+                "Has TV": true,
+                "Noise Level": "average",
+                "Outdoor Seating": false,
+                "Parking": {
+                    "garage": false,
+                    "lot": true,
+                    "street": false,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 1,
+                "Take-out": true,
+                "Takes Reservations": false,
+                "Wi-Fi": "no"
+            },
+            "business_id": "XW3R4wyKl3GPSO7q0_USiw",
+            "categories": [
+                "Buffets",
+                "Chinese",
+                "Restaurants"
+            ],
+            "city": "Urbana",
+            "full_address": "1703 Philo Rd\nUrbana, IL 61802",
+            "hours": {},
+            "latitude": 40.097699,
+            "longitude": -88.191295,
+            "name": "Sunny China Buffet",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media2.fl.yelpcdn.com/bphoto/1K1I6posNXRjVStDVrL4Eg/ms.jpg",
+            "review_count": 7,
+            "stars": 3,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "It's really comfort food..will have to return again soon The food, well, is much better than what you expect from a $8 dinner buffet. I'm so bummed to have returned here while visiting family and see how badly the service has gone down to. The food could be better, but nothing beats the value here. ",
+        "reviews": [
+            {
+                "review": "Worst ever. Only go if you want to be sick for days. The food they have out has been sitting for ages and is not even hot. Rice is dried out. Floor hasn't been cleaned in years. Avoid!",
+                "reviewer_id": "aeFgjJJDLMsOZI61IKi_Vg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2777552114839386,
+                    "positive_probability": 0.722244788516062
+                },
+                "stars": 1
+            },
+            {
+                "review": "REVISIT storyI'm so bummed to have returned here while visiting family and see how badly the service has gone down to. The food is STILL great but the ladies here have grown callous and super rude.",
+                "reviewer_id": "ApioERn8BQGE-HWEEZMM_A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.10594909512185059,
+                    "positive_probability": 0.8940509048781499
+                },
+                "stars": 2
+            },
+            {
+                "review": "it's ok, very good for the price range. very cheap.",
+                "reviewer_id": "AT344FmZE5rHvjdO2lJYiw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4008928535146057,
+                    "positive_probability": 0.5991071464853946
+                },
+                "stars": 3
+            },
+            {
+                "review": "The service was impeccable. Qing-tan was so nice, she treats you just like family! The food could be better, but nothing beats the value here. We will come back here again when we visit our son Michael Mwarm at the University of Illinois. He is studying agribusiness.",
+                "reviewer_id": "dgTR-_W_lQhvWdLLkiwNig",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5876878175929778,
+                    "positive_probability": 0.4123121824070229
+                },
+                "stars": 5
+            },
+            {
+                "review": "The food, well, is much better than what you expect from a $8 dinner buffet.",
+                "reviewer_id": "dPjYfacluGoHiCRjDmIIlA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5699161451778075,
+                    "positive_probability": 0.4300838548221928
+                },
+                "stars": 4
+            },
+            {
+                "review": "Looking for a cheap - not high quality - chinese buffet? here ya go, you'll find all your classic american favorites (orange chicken, beef and brocolli, crab rangoon, fried rice etc) but the plus side, CHEAP CHEAP CHEAP. Good place for just a I'm starving but Broke restaurant",
+                "reviewer_id": "k23Uo-4EVB4xFLqUNckNbw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.07847192169488829,
+                    "positive_probability": 0.921528078305113
+                },
+                "stars": 3
+            },
+            {
+                "review": "It's ok every now and then. It's not the worst I've had, but very far from the best.",
+                "reviewer_id": "wWngIJ-A9zk8vPXgfxd4oA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7825249444294301,
+                    "positive_probability": 0.21747505557057056
+                },
+                "stars": 2
+            }
+        ],
+        "similar_restaurants": [
+            "TD11IPIlFL9sLAWbN9FzdA",
+            "6AHfkdtpx7yLOFetI38gHQ",
+            "fxYiDAxCK33ANk8-QemInA",
+            "6M1F5AECDtWff1Tu3uLEWA",
+            "pygZcdPZ-XMp8CY8_5tE8A",
+            "OQIDPNTLuOD8io9FoKKIKA",
+            "u06X5C_pIAVuOXOznIcPYw",
+            "vubRS4bmJ_8yXpn-67wNZA",
+            "umq8alp-uLf3hXnpSC99WA",
+            "rE8048_DAh3Z8Tep466wrA"
+        ]
+    },
+    "px_FHVv6bmidLZXlfEVhaQ": {
+        "keywords": {
+            "bigrams": [
+                "ordered_delivery",
+                "tapioca_balls",
+                "chinese_food",
+                "took_woman",
+                "looked_finished",
+                "called_make",
+                "buffet_affordable",
+                "rude_person",
+                "long_ppl",
+                "southeast_part"
+            ],
+            "unigrams": [
+                "food",
+                "came",
+                "time",
+                "don",
+                "ordered",
+                "called",
+                "long",
+                "chinese",
+                "tea",
+                "attitude"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Attire": "casual",
+                "Good For": {
+                    "breakfast": false,
+                    "brunch": false,
+                    "dessert": false,
+                    "dinner": false,
+                    "latenight": false,
+                    "lunch": false
+                },
+                "Good For Groups": true,
+                "Good for Kids": true,
+                "Price Range": 2,
+                "Take-out": true
+            },
+            "business_id": "px_FHVv6bmidLZXlfEVhaQ",
+            "categories": [
+                "Buffets",
+                "Restaurants"
+            ],
+            "city": "Champaign",
+            "full_address": "404 E Green St\nChampaign, IL 61820",
+            "hours": {
+                "Friday": {
+                    "close": "21:00",
+                    "open": "11:00"
+                },
+                "Saturday": {
+                    "close": "21:00",
+                    "open": "11:00"
+                },
+                "Sunday": {
+                    "close": "21:00",
+                    "open": "11:00"
+                },
+                "Thursday": {
+                    "close": "21:00",
+                    "open": "11:00"
+                },
+                "Tuesday": {
+                    "close": "21:00",
+                    "open": "11:00"
+                },
+                "Wednesday": {
+                    "close": "21:00",
+                    "open": "11:00"
+                }
+            },
+            "latitude": 40.1103289062151,
+            "longitude": -88.2317519285425,
+            "name": "Bobo China",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media4.fl.yelpcdn.com/bphoto/7GrfMFrLvnfJ06UzjrGo4Q/ms.jpg",
+            "review_count": 11,
+            "stars": 1.5,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "It took almost 2 hours to get my food. I called the restaurant immediately to let them know what was wrong and after the 10 minutes it took for me to get the woman on the phone to understand what was wrong and agree that there was a problem with my order, she said she would send someone. You need to choose what to eat wisely otherwise you may feel disappointed. ",
+        "reviews": [
+            {
+                "review": "Ordered for delivery about 6 months ago.  Food came after close to 2 hours.  It was cold when it came, and the driver was barely apologetic.  They were very unhelpful over the phone.  Food was mediocre, definitely not the best I've ever had, but also not the worst.  I was apprehensive because there have been claims of cockroaches in the food, but I had none.  I would definitely go with Cravings if you're in the area over Bobo China.",
+                "reviewer_id": "3_mxHteJaVswGKQAwbdXJA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.1230768300175835,
+                    "positive_probability": 0.8769231699824123
+                },
+                "stars": 2
+            },
+            {
+                "review": "WORST ATTITUDE EVER. Don't even go there. I don't even know how they are still open. The owner is so bad, she talks to us/other guests like demanding us. We waited so long and even the ppl came after us got their dishes. When we asked how long we still need to wait, the owner was like \"can't u just wait for a while?!\" It was literally so bad.",
+                "reviewer_id": "fRNS4GMOoQeCwzLDbKcOZQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8592343522160809,
+                    "positive_probability": 0.1407656477839166
+                },
+                "stars": 1
+            },
+            {
+                "review": "Sometimes waitresses may have horrible attitudes but sometimes it's nice though. Food is quiet traditional and all you can eat buffet is affordable. You need to choose what to eat wisely otherwise you may feel disappointed. If you like traditional noodles that taste like your grandma made it, you could order \"\" or \".\" These make me feel like home!",
+                "reviewer_id": "H-ClPrZm4MriWZXHhotqyQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0021106412454365005,
+                    "positive_probability": 0.997889358754562
+                },
+                "stars": 4
+            },
+            {
+                "review": "This was THE WORST takeout experience I have ever had. The service was horrible. It took almost 2 hours to get my food. When I called the delivery man to ask where he was he replied, \"I'll get there eventually. I have other deliveries.\" He was also very rude in person.The food was subpar. I ordered chicken and broccoli, and it was the most bland food I have ever had. I had to load it with soy sauce, which they DID NOT INCLUDE IN THE BAG so I had to go buy. I would absolutely never recommend this restaurant to anyone.",
+                "reviewer_id": "HJ_VkBN_V5WeEPO3gxTx2g",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.08674969277488677,
+                    "positive_probability": 0.9132503072251171
+                },
+                "stars": 1
+            },
+            {
+                "review": "DO NOT GO THERE, there are plenty of nice Chinese places within walking distance, don't risk your dinner. The attitude is horrible, we waited for 1h and it turned out they just forgot to cook. When we ask for refund, the women at front shot and acted like it was our fault. Worst Chinese place ever.",
+                "reviewer_id": "ly2R-kSNnU7bv9a1WELWAw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.292395279873603,
+                    "positive_probability": 0.7076047201263927
+                },
+                "stars": 1
+            },
+            {
+                "review": "I wish I could choose zero star. The worst attitude I've ever seen. Won't go there anymore.",
+                "reviewer_id": "M_dgG0GqgGydxyqKazwpEg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9185286397466865,
+                    "positive_probability": 0.08147136025331295
+                },
+                "stars": 1
+            },
+            {
+                "review": "We came in based on an assumption my husband had this Bobo's had not so great food but good boba tea because of their name. We've recently moved to Urbana from California and have been craving good bubble tea. We came in near closing time (9:30, not 9:00 as yelp indicated). They were friendly enough but it took them about 15 minutes to bring our drinks (we finally ended up with a regular and green milk tea after she told us they were out of half the flavors we requested). My hopes were quickly falling as each minute passed. Finally she brought the drinks out of the back, a partially open kitchen next to a sad looking buffet. My husband paid $8 total for our drinks which had a pitiful amount of tapioca balls in them. After my first drink I knew the tapioca balls were so so old, who knows how long they've been there?! Both teas were weak and sickly sweet. We couldn't finish and realized that was an $8 lesson well learned. Please don't get tea there. You are much better off trying Chatime down the street!",
+                "reviewer_id": "oue3n0h3W1cIBoYouS1DfQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9110484230766638,
+                    "positive_probability": 0.08895157692331757
+                },
+                "stars": 1
+            },
+            {
+                "review": "TERRIBLE ATTITUDE!!!!!! We ordered for delivery yesterday and THEY FORGOT TO GIVE US CHOPSTICKS OR KNIFE OR FORK OR SPOON. When I called them again the owner started asking who picked up my phone at the first time and started yelling at her employees. Then she even denied that I ordered food from them...when I insisted that she sent someone again she complaint as if it was my fault. WILL NEVER TRY THIS ONE AGAIN.",
+                "reviewer_id": "piHfqvlPPfmoJpgCtIp4Eg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.03752169565740778,
+                    "positive_probability": 0.9624783043425882
+                },
+                "stars": 1
+            },
+            {
+                "review": "This was my second time here and there will not be a third time.  Portion was less than half of what was given last time. The dishes were like leftover from other customers. It literally looked like someone just finished eating it. I also suspected sanitary issue with this place. I had bad diarrhea after having Bobo's food. Long story short, AVOID this place at all cost. I'll never return.",
+                "reviewer_id": "rTlW9PKaLgNvggh1vnJquQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.22993605295277464,
+                    "positive_probability": 0.7700639470472275
+                },
+                "stars": 1
+            },
+            {
+                "review": "I like Bobo. They have really authentic Chinese food. Best on campus. Off campus is Tang Denisty. If you are not from south/southeast part of China, you will definitely agree with me.",
+                "reviewer_id": "UNqulzGHGBE-0dcTQGW6lw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.15827018759641595,
+                    "positive_probability": 0.8417298124035835
+                },
+                "stars": 5
+            },
+            {
+                "review": "If I could choose zero stars I would've. Terrible customer service to match their terrible food. I received my order late, and it was wrong. I called the restaurant immediately to let them know what was wrong and after the 10 minutes it took for me to get the woman on the phone to understand what was wrong and agree that there was a problem with my order, she said she would send someone. After waiting an hour for the replacement food to come I called to make sure it was coming, only to be yelled at and told my problem wasn't that big and they were too busy to be bothered with me and then hung up on. DO NOT FOR THE LOVE OF GOOD CHINESE FOOD GO HERE!",
+                "reviewer_id": "WCZwDSYutWOws9AsbyBboQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9973965225507335,
+                    "positive_probability": 0.00260347744926653
+                },
+                "stars": 1
+            }
+        ],
+        "similar_restaurants": [
+            "XW3R4wyKl3GPSO7q0_USiw",
+            "Vi9dFbRNDO8BzXJuCdVufg",
+            "8LCPOZXh_yvigEOWg0ZR2g",
+            "OQIDPNTLuOD8io9FoKKIKA",
+            "kMcbuXZx3iILJVEPyLgPpQ",
+            "TD11IPIlFL9sLAWbN9FzdA",
+            "fxYiDAxCK33ANk8-QemInA",
+            "pygZcdPZ-XMp8CY8_5tE8A",
+            "CvYXcaFhgZ8WlM5iJ0uS5A",
+            "qRgEy-m4sejzTKphIFKFkw"
+        ]
+    }
+}

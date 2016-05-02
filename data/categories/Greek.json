@@ -1,0 +1,1557 @@
+{
+    "M-eAou5siImNKoxxcSEX-g": {
+        "keywords": {
+            "bigrams": [
+                "green_street",
+                "hooka_bar",
+                "serve_food",
+                "hookah_bar",
+                "smoking_hookah",
+                "pool_tables",
+                "least_think",
+                "places_town",
+                "reasonable_considering",
+                "three_times"
+            ],
+            "unigrams": [
+                "hookah",
+                "bar",
+                "place",
+                "experience",
+                "staff",
+                "drinks",
+                "went",
+                "cafe",
+                "back",
+                "good"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "full_bar",
+                "Ambience": {
+                    "casual": false,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "Caters": false,
+                "Coat Check": false,
+                "Delivery": false,
+                "Good For": {
+                    "breakfast": false,
+                    "brunch": false,
+                    "dessert": false,
+                    "dinner": false,
+                    "latenight": false,
+                    "lunch": false
+                },
+                "Good For Dancing": false,
+                "Good For Groups": true,
+                "Good for Kids": false,
+                "Happy Hour": true,
+                "Has TV": true,
+                "Music": {
+                    "background_music": false,
+                    "dj": false,
+                    "jukebox": true,
+                    "karaoke": true,
+                    "live": true,
+                    "video": false
+                },
+                "Noise Level": "loud",
+                "Outdoor Seating": false,
+                "Parking": {
+                    "garage": false,
+                    "lot": false,
+                    "street": false,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 1,
+                "Smoking": "yes",
+                "Take-out": false,
+                "Waiter Service": false,
+                "Wi-Fi": "free"
+            },
+            "business_id": "M-eAou5siImNKoxxcSEX-g",
+            "categories": [
+                "Bars",
+                "Mediterranean",
+                "Greek",
+                "Nightlife",
+                "Hookah Bars",
+                "Restaurants"
+            ],
+            "city": "Champaign",
+            "full_address": "35 E Green St\nChampaign, IL 61820",
+            "hours": {},
+            "latitude": 40.109909,
+            "longitude": -88.240973,
+            "name": "Green Street Cafe",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media4.fl.yelpcdn.com/bphoto/X58kr1PkTVk0TB8miJ4leA/ms.jpg",
+            "review_count": 9,
+            "stars": 3,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "My first experience with hookah was here! So we we looked in the hooka bar part and there were 6 people sitting in 1 booth hooka-ing. Their drink specials are still a good deal and they're one of the few places to smoke hookah in town (I haven't tried any others). ",
+        "reviews": [
+            {
+                "review": "Great social environment! I saw people here playing chess to just chilling alone on their laptops. I came here and no place to sit; sat by 3 strangers and became good friends with them at the end of the night. Great hookah, really affordable and really friendly staff. A high recommendation from me to anyone. There are lots of hookah lounges back in Cali., and this is probably better than more than half of the ones i go to back home. 5 stars! Will be coming back :).",
+                "reviewer_id": "27AxJYaFzAy_Ex1_1eFK4Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.017528389630958523,
+                    "positive_probability": 0.9824716103690389
+                },
+                "stars": 5
+            },
+            {
+                "review": "If I knew how to give them no-stars I would.  So we went here on a Sunday evening (6:30pm) for dinner thinking Hooka Bar and Cafe we would have a Mediterranean experience.  The location is in a strip mall located on Green Street. The are actually 2 separate storefronts. So we we looked in the hooka bar part and there were 6 people sitting in 1 booth hooka-ing. We went into the larger facility which was a bar. The worst bar I have ever been  in. Run down and shabby. Paint peeling off the walls. 3 booths all looked in need of a good cleaning and repair. I would like to say we were greeted by a bartender (or at least I think she was) who was sitting on a bar stool with her legs on another eating something that wasn't made there because \"Cafe\" is a joke. They didn't sell any food. She only spoke when I asked her where the cafe portion of the bar was. This is where she told us that they didn't serve food. We werr waiting for the rest of our party to arrive so we ordered diet sodas that tasted like pure carbonation. Lastly, I went to use the restroom but it was too dirty to use. This place was a huge disappointment for all of us. Overlooking the fact that they say they are a cafe, the staff failed in many ways.",
+                "reviewer_id": "5OFd3YKOFYM7jq-vm8UWvg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7941740670265445,
+                    "positive_probability": 0.20582593297345075
+                },
+                "stars": 1
+            },
+            {
+                "review": "Karaoke was fun, drinks were well-priced... but this is a DIVE.  No doubt about it.",
+                "reviewer_id": "fZSYNXP10YCyHqkKUsh-QA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4286260908561627,
+                    "positive_probability": 0.5713739091438377
+                },
+                "stars": 2
+            },
+            {
+                "review": "_Hookah bar_The only hope I had for a decent hookah bar on campus, and it's been dispelled from the first visit. Going down the list of flavors, 80% were 'out'. We had to switch hoses three times, each looking worse than last. We ended up with a hybrid of dirty cloth, disintegrating velvet, and duct tape, which provided a mood-setting lung-full of dust on first use.It gets one star because it's the only place on campus you can buy (low-quality, quick-light, chemical-laced) charcoal after the head shops close. Last I checked it was $2/roll. You can also buy small quantities of molasses, so it's a means of exploring flavors before investing in one (which you should buy online).The other star is for the staff that is (or tries to be) helpful. I think most of the blame goes on the owner who can't seem to understand the need to stock your menu's offerings or investment in new equipment. Staff could do a better job cleaning/maintaining the hookahs.",
+                "reviewer_id": "gkFiMysJhQC5NSd6zUwy_Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.22357380150922773,
+                    "positive_probability": 0.7764261984907675
+                },
+                "stars": 2
+            },
+            {
+                "review": "So I went back ... and i must say i found a decently pleasant hookah flavor... it's ownerflavor#2 . . . supposedly made of secret ingrediants, but it tasted exactly like a banana berry runt!",
+                "reviewer_id": "m8u49f6BQbnLBPujd6twaQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3261733997682069,
+                    "positive_probability": 0.6738266002317922
+                },
+                "stars": 4
+            },
+            {
+                "review": "I love this bar! If you've been here before and had a bad experience, I encourage you to try it again. The bar has undergone a change in ownership and management, a remodel, and the hookah and alcohol are now separate. The drinks are inexpensive and very strong. (They aren't joking when they call them Stron Islands!) They have 2 dart boards and 2 pool tables for the game-oriented, and new booths for those who aren't. My favorite night to go to Green Street is Tuesday. They have Outlaw Karaoke--the same awesome karaoke DJ who does White Horse Wednesday nights, but without the flooded bathrooms. Bud and Miller family bottles are only $2, and Mikey and Dan have a whole list of signature drinks if you're not into beer. Overall, Green Street is a great place to grab a drink, any night of the week.",
+                "reviewer_id": "VO4eCh5lDE3tFZj9otW14A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.012478901196198643,
+                    "positive_probability": 0.9875210988038041
+                },
+                "stars": 5
+            },
+            {
+                "review": "I loved this place when I was younger and they still served food. My more recent visits have been a little disappointing. Their drink specials are still a good deal and they're one of the few places to smoke hookah in town (I haven't tried any others). They do have a very \"small town bar\" feel to them, though, and I'm not sure how well that fits into the Champaign-Urbana bar scene.",
+                "reviewer_id": "YbkPwGiLcrdA2Vx4cjsIeg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.048668210042178105,
+                    "positive_probability": 0.9513317899578266
+                },
+                "stars": 3
+            },
+            {
+                "review": "I have experience in both sides of the business but I'll start with the hookah side.     This was my first experience in smoking Hookah, and it is now a favorite hobby of mine. The prices are reasonable considering how long a hookah can last. The staff is knowledgeable about hookahs and will glad strike up conversation about it or anything else.     The bar is also one of my favorite places in town. The drinks come cheap and they come strong. I'm not a beer drinking so I can't have much input there, but they mix plenty of things that are very tasty, in a fun environment.",
+                "reviewer_id": "zgKvSrWxl46DEW8Dilys_Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.008238720631590285,
+                    "positive_probability": 0.9917612793684136
+                },
+                "stars": 5
+            }
+        ],
+        "similar_restaurants": [
+            "9p3O_KoH3muITR-9WgrSnA",
+            "Aln3dngHMyG6OyPBe7fucw",
+            "RSk-BYX8s5027cKo_aELrw",
+            "dw6kMj7WSA2ZRk0FqqjqrQ",
+            "ufOY2lQHDgSvou3YLT8gHA",
+            "rm2OnyNDnlWkSNUSxETsGg",
+            "27q7XsLrKPNwr8i5RcCOvQ",
+            "oVX8BPEWRl4iBgApA3PBYw",
+            "-0GkcDiIgVm0XzDZC8RFOg",
+            "1T2rnvl67Gk9Uc0gzsCKQA"
+        ]
+    },
+    "QZBQBQkNEefPbTo5SIoE7A": {
+        "keywords": {
+            "bigrams": [
+                "italian_beef",
+                "gyro_meat",
+                "single_gyro",
+                "cheese_fries",
+                "gyro_fries",
+                "late_night",
+                "burgers_fries",
+                "gyro_burger",
+                "gyro_place",
+                "best_gyro"
+            ],
+            "unigrams": [
+                "gyro",
+                "gyros",
+                "fries",
+                "food",
+                "place",
+                "meal",
+                "order",
+                "greasy",
+                "good",
+                "meat"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "none",
+                "Ambience": {
+                    "casual": false,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "Caters": false,
+                "Delivery": false,
+                "Good For": {
+                    "breakfast": false,
+                    "brunch": false,
+                    "dessert": false,
+                    "dinner": false,
+                    "latenight": true,
+                    "lunch": true
+                },
+                "Good For Groups": false,
+                "Good for Kids": true,
+                "Has TV": false,
+                "Noise Level": "average",
+                "Outdoor Seating": true,
+                "Parking": {
+                    "garage": false,
+                    "lot": true,
+                    "street": false,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 1,
+                "Take-out": true,
+                "Takes Reservations": false,
+                "Waiter Service": false,
+                "Wheelchair Accessible": true,
+                "Wi-Fi": "no"
+            },
+            "business_id": "QZBQBQkNEefPbTo5SIoE7A",
+            "categories": [
+                "Greek",
+                "Restaurants"
+            ],
+            "city": "Urbana",
+            "full_address": "1007 W University Ave\nUrbana, IL 61801",
+            "hours": {
+                "Friday": {
+                    "close": "21:00",
+                    "open": "06:00"
+                },
+                "Monday": {
+                    "close": "21:00",
+                    "open": "06:00"
+                },
+                "Saturday": {
+                    "close": "21:00",
+                    "open": "06:00"
+                },
+                "Sunday": {
+                    "close": "21:00",
+                    "open": "06:00"
+                },
+                "Thursday": {
+                    "close": "21:00",
+                    "open": "06:00"
+                },
+                "Tuesday": {
+                    "close": "21:00",
+                    "open": "06:00"
+                },
+                "Wednesday": {
+                    "close": "21:00",
+                    "open": "06:00"
+                }
+            },
+            "latitude": 40.116102,
+            "longitude": -88.2216645,
+            "name": "Niro's Gyros",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media2.fl.yelpcdn.com/bphoto/pycrzARupAZKv_qqG0LDnw/ms.jpg",
+            "review_count": 33,
+            "stars": 3.5,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "Gyros, cheesburgers and gyro burger. I called them back at 1:00 AM and the man said that I ordered food and didn't come to pick it up. I make Italian beef at home sometimes and it's  hard to make the meat dry, so I don't what happened. ",
+        "reviews": [
+            {
+                "review": "Made an order over the phone for twelve guys. Guy tells me they don't deliver, but they'll make an exception for us because we are ordering so much food and are not far away. Guy gives us the total and we all throw our cash together and wait.Fast forward one hour. I call back because the food hasn't arrived. Owner takes the call. \"Yeah I fired the guy who took your order. He was a lazy scoundrel and never worked hard anyway. We didn't make any food for you.\"But that's not what bothers me. What bothers me is that no one called to tell us there wasn't going to be a delivery. Also, I'm sure no one got fired and the owner was just lying to me.#bebetter #overpromisedanddidnotdeliver",
+                "reviewer_id": "-mqE7uZSnGEAb_quhfcyJQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9433197991986414,
+                    "positive_probability": 0.056680200801354275
+                },
+                "stars": 1
+            },
+            {
+                "review": "My fav place for fast fiod",
+                "reviewer_id": "03SkIOh1Za8BlnyJiHxXZQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4656431007839627,
+                    "positive_probability": 0.534356899216037
+                },
+                "stars": 5
+            },
+            {
+                "review": "Just had the Tuesday special (Single Gyro fries and drink) for $6.89. Good amount of food for the money, sandwich was not lacking anything. Pita bread was nice and soft, everything tasted fresh. Only downside is there is no place to sit down and eat with others. There are 4 stools against the mirrored wall where you could eat if you wanted to, but not comfortably.",
+                "reviewer_id": "1FL7xwrA9cVdhsfPz72pDg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0570290874117827,
+                    "positive_probability": 0.94297091258822
+                },
+                "stars": 4
+            },
+            {
+                "review": "Drive through... check.Italian sausage... check.dipped... double check.",
+                "reviewer_id": "2g4y_xXf_tddha1oS8TcTg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5472972972972974,
+                    "positive_probability": 0.45270270270270246
+                },
+                "stars": 4
+            },
+            {
+                "review": "It has a large array of foods to choose from, so if you don't want a gyro that day, you can find something else.  The fries are ok -- they used to serve a lot more than they do now -- but opt for the onion rings.",
+                "reviewer_id": "AFK20uwV5Kr-f8at2_BV8Q",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5598772627855846,
+                    "positive_probability": 0.44012273721441836
+                },
+                "stars": 4
+            },
+            {
+                "review": "This is Greek food as I know it.  The kind that makes paper translucent, takes the edge off an upcoming hangover, and makes you feel crappy and satisfied simultaneously.  It's abundant in Chicago, but this is the best place in Chambana for a really greasy gyro.They have the requisite gyros and Chicago hot dogs here, but I recommend the equally staple pizza puff and the OMFG-YES gyro burger.  Think of a quarter pound cheeseburger with layers of gyro meat strips on it...makes me want to pound a few and take a cab all the way to Urbana.Oh, and the Urbana location is the original and a lot smaller than the Champaign one.  If you want your food quickly (or via drive-through) and want to avoid a mass of drunks late at night, go here.",
+                "reviewer_id": "agJz7qFAkwGbzoC3I03h0Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.10162250334293164,
+                    "positive_probability": 0.8983774966570639
+                },
+                "stars": 4
+            },
+            {
+                "review": "Solid cheap drunk food. And when you're having a greasy day, don't want to cook, and want something different. Their gyros are the only thing good.",
+                "reviewer_id": "Ba9fIJAmGNjFXU2Oc0fyxQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5746738943164812,
+                    "positive_probability": 0.425326105683518
+                },
+                "stars": 2
+            },
+            {
+                "review": "Love their chicken philly !",
+                "reviewer_id": "CcrzahdEMg5se-NMYXJTzQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.742264208679541,
+                    "positive_probability": 0.2577357913204579
+                },
+                "stars": 5
+            },
+            {
+                "review": "Lots of food and grease. Enuff said.",
+                "reviewer_id": "CX4GcrCCnzfNyAl0cPqGbg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5080000888898766,
+                    "positive_probability": 0.4919999111101234
+                },
+                "stars": 2
+            },
+            {
+                "review": "Love this place.  Several things are good on the menu: gyro, Italian beef, philly steak, pizza pocket.  Burgers and fries are hit-and-miss.",
+                "reviewer_id": "D38hx2ppvPq0ipo5e7JYnw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7931362581731466,
+                    "positive_probability": 0.20686374182685402
+                },
+                "stars": 4
+            },
+            {
+                "review": "These are some great gyros. The best time to come is in between 11:00am and 3:00pm when they have their specials. Every day, they have a special where you can get gyro and fries or Italian beef and fries for $6.19 (drinks not included). Here's a list of all their daily specials (which do include drinks): Monday: Italian beef meal $5.99Tuesday: Gyro meal $5.99 Wednesday: Chicken breast meal $5.09Thursday: Phili steak meal $6.09 Friday: Cod fish meal $5.09Saturday: Grilled chicken pita meal $6.29",
+                "reviewer_id": "eFIlrOz3TnuZQeh2Y1e17Q",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8741963337250934,
+                    "positive_probability": 0.125803666274908
+                },
+                "stars": 4
+            },
+            {
+                "review": "I ordered the Italian beef sandwich, which was priced at $5.25. No fries or drink. I didn't realize it was actually rang up as $7.48 until I had already left. The beef was underseasoned, and I'm glad I got mine dipped because the meat was super dry. I make Italian beef at home sometimes and it's  hard to make the meat dry, so I don't what happened. No where in the ball park of the Italian beef you find in the Chicago area. Maybe their gyros are better, but I'm not going back to find out because that was not worth $7.48.",
+                "reviewer_id": "EOjgKjLbfCssAqcGuBCm3w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.15835139676983948,
+                    "positive_probability": 0.8416486032301593
+                },
+                "stars": 2
+            },
+            {
+                "review": "I ordered online 40 minutes before close. That part was on me, but I called the place to check if I made the right order because I didn't know if I remembered to change the dropdown menu to say traditional gyro instead of chicken, as well as to make sure the order went through since it was late. I called the number at 12:40 AM and they said they were closed, although they close at 1 AM. The man who answered the phone was also extremely rude, had no idea what I was saying and just kept telling me that they were closed and my order would not be completed. I charged the order on my credit card, so I asked the man if he knew if the card would be charged. He didn't know what I was talking about and spewed a number at me to call.I did call the number and they reimbursed me for the order, as well as gave me a coupon for future use, which was nice. If this was all that happened, I would be okay with it.The man who picked up before called me back at 12:50 AM and I missed the call. I called them back at 1:00 AM and the man said that I ordered food and didn't come to pick it up. I told him that I called previously and he said that the restaurant was closed so I thought my food wouldn't be made, but he told me to come pick it up then and it was after hours. I asked if it was okay and if he was sure and he said he was. It took me 8 minutes to get there and when I got there, I pulled up to the drive thru and the man who picked up the phone told me he threw out the food because I came after hours, after he told me it was okay to come. Anyway, I didn't even try the food, but the customer service and miscommunication was enough for me to never come back.",
+                "reviewer_id": "F0DbAy4IsPFyomj6M2A10Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.031011331152686058,
+                    "positive_probability": 0.9689886688473169
+                },
+                "stars": 1
+            },
+            {
+                "review": "Restaurant reviewI can see why the reviews are all over the place for this Niro Gyro. Yes it is one of the few locations in town where you can get gyros. The prices are so so except for the specials. I ordered the everday special which included gyros and fries which was 6.89. Compared to the 8.99 weekend double gyro platter with fries and drink at the Super Niro Gyro this was quite expensive. The person taking the order was not friendly at all and I felt like I was doing a favor for them with ordering. Food was prepared quickly. Very oily and hot which I guess summarizes any gyro experience. The only other issue is with the super dinky parking lot. Overall since the other location open on prospect avenue, they have earned my business with good food, great deals, and friendly people.Pros: gyros, daily specialCons: unfriendly service, small parking lot, very greasyHidden deals:Daily SpecialsMonday: Italian Beef Meal for $6.89Tuesday: Gyro Meal for $6.89Wednesday: Chicken Breast Meal for $5.79Thursday: Philly Steak Meal for $5.79Friday: Cod Fish Meal for $5.79Saturday: Grilled Chicken Pita Meal for $5.79",
+                "reviewer_id": "f1a9KwsObpE54Yp9A1fVoA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9216115740649403,
+                    "positive_probability": 0.07838842593505153
+                },
+                "stars": 3
+            },
+            {
+                "review": "I used to get Gyro burger and pound of gyro meat from these guys. Very friendly and the food is also excellent. The pound of gyro meat is super cool considering its only $7.",
+                "reviewer_id": "go3_RCCCZBDTL_NPiWxVqA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6231544433624688,
+                    "positive_probability": 0.3768455566375307
+                },
+                "stars": 5
+            },
+            {
+                "review": "Excellent taste , reasonable price for the amount of meat.Zabiha +",
+                "reviewer_id": "hSkEHEaQe4ADjd8a72GlvA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5831650770930087,
+                    "positive_probability": 0.41683492290699037
+                },
+                "stars": 5
+            },
+            {
+                "review": "Delicious! This is the best gyro place in the C-U and the best gyro place ever. The quality of the food is amazing. The portions are generous and the prices are reasonable.",
+                "reviewer_id": "Hue_g9ZzrNWX65R0O8ifVg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.16780391019826424,
+                    "positive_probability": 0.8321960898017359
+                },
+                "stars": 5
+            },
+            {
+                "review": "I gave 5 stars because:1. It has great Gyro. I used to go to Zorba's for Gyros, but I think this Niro's does a better job.2. The have a deal for a free Gyro with the purchase of two Gyro meals. 3. Did I mention the Gyro is awesome?!4. They are open pretty late in the night. That singlehandedly deserves one star! It's close to my lab, so it's a savior for late night work.5. The people working there are friendly, and fellow students. Oh, and the Gyro is tasty!",
+                "reviewer_id": "I3qt_NaZfu3j5RfCQTiq4Q",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6994397200559644,
+                    "positive_probability": 0.3005602799440358
+                },
+                "stars": 5
+            },
+            {
+                "review": "The gyros here are def the best in town, hands down.  Nice flavor, not dry with the perfect grease level.  Fries are best here if you ask for them well done, they get crispier. Just as good are the Italian beef sammies.  Dear gob, get them dipped in au jus and inhale 'em quick while the bread turns into a somehow delightful sogginess. Urbana side of town is take-away and drive-thru only.",
+                "reviewer_id": "iWcr-TRqIuIXqMpd_MrdrQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6341094884851081,
+                    "positive_probability": 0.3658905115148932
+                },
+                "stars": 4
+            },
+            {
+                "review": "Their gyro is the only gyro I tried in my lifetime, so I'm not in a best position to talk about it.What I usually have when I visit this place is the half-pound burger meal. (plain, cheese, chilli cheese) Considering its price, the taste is surprisingly good. The patty is juicy enough and the fries are (almost always) like just fried. They rarely make mistakes in preparing the foods, which is the virtue that many restaurants in this town lack.One star was deducted because their service is not the best, and the tables are small.",
+                "reviewer_id": "JK1OeaxyMQo1FjIryBLrSw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.13135293610067694,
+                    "positive_probability": 0.8686470638993318
+                },
+                "stars": 4
+            },
+            {
+                "review": "This is the best gyro place in town, and one of the better meal values as well.  After 4PM there's a buy 2, get 3 deal on the gyros, which equates to dinner for you and a friend with either a snack for you when you get home at drunk-thirty, or when you wake up.",
+                "reviewer_id": "K1nTcbwalIxaDei6n7wQ8g",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.794875001882792,
+                    "positive_probability": 0.20512499811720358
+                },
+                "stars": 5
+            },
+            {
+                "review": "I have only had one experience from here. Ordered a gyro-cheeseburger as I was looking for something of the sort--fat & greasy. Read a lot of reviews and in the past I was real fond of gyros and have tried Zorba's & Geovantis. Geovantis's gyros being the better of those two. It was rather tasty, nothing spectacular though. Very fulfilling. However, the fries were extra greasy and looked like they had been fried in really old grease, tasted like it too.I would definitely say its worth a try if you're hungry and in the mood for such a meal. I am pretty sure their gyros are delicious.",
+                "reviewer_id": "kwQ7FNfDJ8Jz27EU-_wg0g",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.03457889006752631,
+                    "positive_probability": 0.965421109932478
+                },
+                "stars": 3
+            },
+            {
+                "review": "I was going to Zorba's to have gyros until I explored this place, and I'm regretful about the time which I wasted in Zorba's.Niro's Gyros (on University Ave.) is a great place to have gyros. Fast and delicious!!! Also cheap. You pay less than 8$ for a value meal. Also, they have a deal when you get 2 gyro sandwiches, you can get 1 free!!!Only disadvantage of the place is that they have no indoor area, because they work like a take-away.Anyhow, this is the best gyros place in C-U area.",
+                "reviewer_id": "le6Fd0VOPeaLWqsATnS1sA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.13268227096187543,
+                    "positive_probability": 0.8673177290381282
+                },
+                "stars": 4
+            },
+            {
+                "review": "The food is great. The delivery drivers are nice. Whoever answers the phone will bitch you out though. I had a simple question and she treated me like I was stupid. I get that customer service sucks, but at least act like you like your job. I don't think I'll be ordering from them again. I don't support people who employ assholes.",
+                "reviewer_id": "mlAoS4UJKWNGa86-qV6ulA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7684508384731847,
+                    "positive_probability": 0.23154916152682015
+                },
+                "stars": 3
+            },
+            {
+                "review": "Zorba's made me skeptical of gyros in Champaign-Urbana, and then I tried Niro's.  The gyros are delicious!  Here's a tip:  if you're getting more than one gyro, go for the double or triple gyro plate rather than getting individual gyros. The prices are pretty similar, but you get fries, more sauce, and more meat.  You have to assemble the gyro yourself then, but that way you can get the perfect sauce to meat ratio.  The meat is really greasy, so I usually blot away as much as I can with a napkin or two.  That's eating healthy, right?The fries are also pretty good, and I don't like fries all that much.  The cheese fries are awesome, but it's just a cup of cheese with an order of fries.  If you pay a bit more for the chili cheese fries, you get a ton more fries and cheese, plus chili.  It would be nice if the order of cheese fries was as large!I haven't really tried anything else on the menu.  My boyfriend has tried more and liked it all.  Take his word for it, if you want, or just stick with the greasy, but oh so good gyros.",
+                "reviewer_id": "qdL_6QKs8_U74ugjs0MpPg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.11390977125935085,
+                    "positive_probability": 0.8860902287406534
+                },
+                "stars": 5
+            },
+            {
+                "review": "I used to love this place as a student, and looked forward to my visits when I was back in town, but on my recent trip I was somewhat disappointed.  The quality and taste were down significantly from what i had been accustomed to.  Perhaps I caught them on a bad day, so if I try it again and it's back to its old form I'll update this.",
+                "reviewer_id": "Qf073leqNNYey-c9a6n6xA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4677486653728673,
+                    "positive_probability": 0.532251334627134
+                },
+                "stars": 3
+            },
+            {
+                "review": "One of the few halal places in Champaign. I have only ever tried three of their items. Gyros, cheesburgers and gyro burger. Cheeseburgers are mediocre but everything else is good. My only complain is the place is too small. Not much space inside to relax and eat. Also the fact that even water costs money is ridiculous.",
+                "reviewer_id": "R-en1tx1j5iW2KyHT49GiQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5065313965382109,
+                    "positive_probability": 0.49346860346179283
+                },
+                "stars": 4
+            },
+            {
+                "review": "I just spent 10 minutes of my life in the drive through!! There was 1car in front of me that obviously ordered everything. I ordered 1 regular gyro and I have no idea how it taste because after 10 minutes I put my car in reverse and left.  I saw a worker and manager worry more about getting the right to go containers out of their storage building that worry about the customers. They need to learn that time is money.",
+                "reviewer_id": "S4GXQnJFtt8ThEqgRWUKWQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.27215432544443247,
+                    "positive_probability": 0.7278456745555653
+                },
+                "stars": 1
+            },
+            {
+                "review": "I don't usually review chains, but since this is the only place in Champana you can get a descent gyros, I'll make an exception.Their gyros aren't amazing or anything, but will definitely quench that gyros craving. Yes, they are greasy, but all good gyros are -- I like mine with giardiniera. However, it is important to mention that I've had their Italian beef before and it was crappy! I'll definitely be back to Niro's whenever I'm in the mood for a greasy gyros.",
+                "reviewer_id": "UO5eCeTNpnUekttaryBCNw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.015198620749397849,
+                    "positive_probability": 0.9848013792505981
+                },
+                "stars": 3
+            },
+            {
+                "review": "Tasty!It looked like a good gyro should look, had the requisite onions and tomatoes and tzatziki sauce.  I ordered extra sauce, and for a nominal fee, was given a HUGE portion (awesome).  The fries were fine, and the price was right on par for a gyro combo meal.As far as taste goes it was pretty right on, but the tzatziki could have used a touch more garlic, because I don't still taste it every time I burp...Gross, I know, but, c'mon, you know what I mean.",
+                "reviewer_id": "VbGvSYdxH5eRIoOwr_qkKA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.06645658176830542,
+                    "positive_probability": 0.9335434182316943
+                },
+                "stars": 3
+            },
+            {
+                "review": "What the heck? Did I go to a fake Niro's Gyros? My experience was trash compared to the rest of the yelpers here.They had 2 burgers and fries for $5.99 on special. I thought I ordered that and even tried to point at the marker board to the woman taking my order, who clearly looked as if English was not her primary language. I also ordered 1 single gyro. It came out to $15.What I actually got was 2 burgers, a single gyro but no fries. I would have went back but didn't realize it until I was already home. I could have sworn I said \"THE TWO BURGERS AND FRIES\". Even after my order was taken I thought I heard her shout my complete, correct order to the cook. No receipt was given so who knows if it was right at all?Anyway, the burgers were most certainly not worth $3 each, they were mostly bread and only come with 2 pickles, ketchup and mustard. Cheese is also $0.50 per burger, and honestly was comparable in taste to a McDonald's \"burger\", if you even want to call that garbage a burger at all.Next was the gyro which I was hoping was going to be at least a little better than the burgers; it wasn't. Yes, it was a large portion of gyro meat but quantity does not make up for quality, for me. At nearly $6, this monstrosity was way too greasy. I know gyros are a greasy food, but this was excessive. The paper it was wrapped in was soaked and I had to pick it off in pieces. The grease content was similar to a $4, 1lb burrito you get in the bad neighborhoods of Chicago. Regardless, the two slices of tomato were fairly large but there were hardly any onions on it at all, maybe 2 small O slices, but I'm doubtful either of them were fresh. The tzatziki sauce was hard to taste from being drowned out by all the grease, making it more of a watery, greasy mess. I didn't care for this gyro at all, the only thing going for it was the quantity of meat. However, my local beef stand back in the suburbs has a gyro that isn't half as greasy and in my opinion is much better. Oh, did I mention it costs $2 less?I had high expectations for Niro's but my order was not correct, I got less food than I paid for and the food I got was poor, at best. Yes, the place was busy and maybe it was an honest mistake, but I spent $15, which can get you a lot of other [better] things in Champaign-Urbana that might actually include a drink, or perhaps a correct order.Sorry guys! 1 star for portions, if that.....P.S. I thought the gyro at Zorba's was MUCH better than Niro'!",
+                "reviewer_id": "XzIKZTb4I-7wW4BjKwV2Mw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.961191204264632,
+                    "positive_probability": 0.038808795735364894
+                },
+                "stars": 1
+            }
+        ],
+        "similar_restaurants": [
+            "UrxAu3jjRM_u6iQXDPzkSQ",
+            "8LCPOZXh_yvigEOWg0ZR2g",
+            "Fb3Pl0PO_ojEyChkM_SApA",
+            "rG55ylsEVyxPUYEGqShnJA",
+            "6AHfkdtpx7yLOFetI38gHQ",
+            "Rh2Zb7J4n9M60ByTndWH2A",
+            "jogjR7HQSQaco6U1ID6b3g",
+            "qgIAjfsGIqteEu0473miPg",
+            "o8NY7kXr7RVD2xSDkZ-TGQ",
+            "wGp0fgsmqCL8ovLwQrlSKw"
+        ]
+    },
+    "UrxAu3jjRM_u6iQXDPzkSQ": {
+        "keywords": {
+            "bigrams": [
+                "cucumber_sauce",
+                "green_street",
+                "gyro_meat",
+                "different_sizes",
+                "best_gyros",
+                "green_st",
+                "love_gyros",
+                "daily_specials",
+                "greek_salad",
+                "great_place"
+            ],
+            "unigrams": [
+                "gyros",
+                "gyro",
+                "zorba",
+                "fries",
+                "place",
+                "good",
+                "food",
+                "meat",
+                "great",
+                "sauce"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "beer_and_wine",
+                "Ambience": {
+                    "casual": true,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "BYOB": false,
+                "BYOB/Corkage": "no",
+                "Caters": true,
+                "Delivery": false,
+                "Good For": {
+                    "breakfast": false,
+                    "brunch": false,
+                    "dessert": false,
+                    "dinner": false,
+                    "latenight": false,
+                    "lunch": true
+                },
+                "Good For Groups": true,
+                "Good for Kids": true,
+                "Has TV": true,
+                "Noise Level": "average",
+                "Outdoor Seating": false,
+                "Parking": {
+                    "garage": false,
+                    "lot": false,
+                    "street": true,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 1,
+                "Take-out": true,
+                "Takes Reservations": false,
+                "Waiter Service": false,
+                "Wheelchair Accessible": true,
+                "Wi-Fi": "no"
+            },
+            "business_id": "UrxAu3jjRM_u6iQXDPzkSQ",
+            "categories": [
+                "Greek",
+                "Restaurants"
+            ],
+            "city": "Champaign",
+            "full_address": "627 E Green St\nChampaign, IL 61820",
+            "hours": {
+                "Friday": {
+                    "close": "22:00",
+                    "open": "11:00"
+                },
+                "Monday": {
+                    "close": "21:00",
+                    "open": "11:00"
+                },
+                "Saturday": {
+                    "close": "22:00",
+                    "open": "11:00"
+                },
+                "Sunday": {
+                    "close": "21:00",
+                    "open": "11:00"
+                },
+                "Thursday": {
+                    "close": "21:00",
+                    "open": "11:00"
+                },
+                "Tuesday": {
+                    "close": "21:00",
+                    "open": "11:00"
+                },
+                "Wednesday": {
+                    "close": "21:00",
+                    "open": "11:00"
+                }
+            },
+            "latitude": 40.110085,
+            "longitude": -88.229304,
+            "name": "Zorba's Restaurant",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media1.fl.yelpcdn.com/bphoto/cd-keFdK1sNsGMU-hzmyuw/ms.jpg",
+            "review_count": 88,
+            "stars": 4,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "Seriously try their gyros. Zorba's has the best gyros, hands-down. You like gyros? ",
+        "reviews": [
+            {
+                "review": "Gyros, tzatziki, fries, and friendly cooks and cashiers make this place a must-go.  My parents graduated from the U of I in 1981, and Zorba's was there back then!  Considering the relatively high turnover rate of Campustown restaurants, I think that's pretty impressive.",
+                "reviewer_id": "-C93MHl3n-O_5KU_zGjEgQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.17594754969150322,
+                    "positive_probability": 0.8240524503084977
+                },
+                "stars": 4
+            },
+            {
+                "review": "Zorba's burned to the ground March 23, 2011.",
+                "reviewer_id": "-mqE7uZSnGEAb_quhfcyJQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.60126582278481,
+                    "positive_probability": 0.3987341772151894
+                },
+                "stars": 2
+            },
+            {
+                "review": "This place is fantastic. Everything from their gyros to hummus to fries are all on point. Live jazz is great (I forget which nights) and their special deal on Tuesdays makes this a great lunch spot on Green Street. This place definitely exceeds expectations in Chambana, and I hope it continues to thrive!",
+                "reviewer_id": "0YlyigoFd3dNepDvNr3sVw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.023606936894607848,
+                    "positive_probability": 0.9763930631053931
+                },
+                "stars": 4
+            },
+            {
+                "review": "I usually eat healthy, well-balanced meals.  However, I occasionally indulge with something less health-friendly.  When I indulge, I go to Zorba's.  I order an enormous gyro with mountains of onion, tomato, cucumber sauce, and feta cheese.  A Zorba's gyro is heaven for the tastebuds.  Unfortunately, I usually get massive amounts of heartburn after eating at Zorba's, but it's totally worth it.I've been told that Zorba's has live music some nights, but I've never actually seen it.",
+                "reviewer_id": "27lOuVNMavQQhzvtz3pNGg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4546175052700155,
+                    "positive_probability": 0.5453824947299827
+                },
+                "stars": 5
+            },
+            {
+                "review": "Currently closed due a fire above them.  :(  I always look forward to eating here and was so sad when I came home in May and couldn't have any.  I wish them a speedy recovery.  I'll be back for the holidays and hope they have re-opened by then.My parents used to come here when they were dating back in the day.  They started taking me and my brother as kids.  The whole family enjoy the food.  It's the only place my dad will eat fries.  I, on the other hand, love fries, and while their fries are good, they aren't THAT good.   The gyros on the other hand are!  We get the lamb ones.  It's always a tough decision trying to figure out what size to get- sometimes your eyes are bigger than your stomach.  The food is consistent good and served quickly.  And I love the Illini memorabilia.  Hopefully, they will still have some to post when they re-open.Parking is an issue as they have no dedicated lot.  The best plan for when school is in session (if you don't live on campus) is to drop off someone, let the other person circle around to find parking, and take it with you.  Otherwise, be very patient with finding parking- especially during lunch time.",
+                "reviewer_id": "2niwhUC9pAeHH_W29cl9Cg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.028104213771853903,
+                    "positive_probability": 0.9718957862281263
+                },
+                "stars": 5
+            },
+            {
+                "review": "Came to Zorba's on the suggestion by a cousin who has, and I quote, \"never given a bad food recommendation\".And it was another hit!  Chicken gyros and fried mushrooms for dinner hit the spot.  At other Greek spots, I'm used to having a humongous foil wrapped hunk of a mess of gyro served to me that I inevitably finish... and end up feeling like a blob because I didn't want to waste food.  But Zorba's is here to help you with portion control!  I like how they offer their gyros in 4 different sizes.  Oh, and try the cucumber sauce.  You know you're in for a treat when it takes 9.8 seconds for the grease in your meal to seep through the bottom of the paper bag.",
+                "reviewer_id": "2sklUYBnk7LxzM-11yPUPg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9949441800135106,
+                    "positive_probability": 0.005055819986491712
+                },
+                "stars": 4
+            },
+            {
+                "review": "so greasy it burned the fuck down ! i am sure each gyro and basket of fries i ate there each knocked 6 months off of my lifespan. All I can say is I;m still alive so I obviously didn't eat there enough",
+                "reviewer_id": "4-26G78HUj9ttqQZxEtaNA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.16082839092744716,
+                    "positive_probability": 0.8391716090725495
+                },
+                "stars": 4
+            },
+            {
+                "review": "This was my favorite place to get Gyros in town. Despite the heated debate over who had the best gyros (Zorba's vs. Niro's Gyros), I always sided with Zorba's, the 'fixins' added to the gyro (tomato, onions and whatever else you wanted) were always fresh and great quality, something that NIro's seemed to lack on more than one occasion.Zorba's had daily specials (like Groovy Tuesdays: one dollar off classic gyro meals) which kept me coming back every Tuesday I attended classes at the University of Illinois. However, on Wednesday March 23, 2011 Zorba's was affected by the fire that started in the apartments above the business. As of now, I don't know when, if ever they'll re-open their shop on Green St. But here's to hoping!",
+                "reviewer_id": "4b_Yo9nopZRqRoTQRXp9EQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.03646493817144662,
+                    "positive_probability": 0.9635350618285541
+                },
+                "stars": 5
+            },
+            {
+                "review": "i used to eat the gyros here as a student and loved them...now that i'm all grown up i still love to eat here but i just eat the veggies on a pita with that yummy cucumber sauce and still love their fries.  i think what i love about this place more than the food is the fact that every single time i come here, i run into a friend, who is likely another uiuc alum, who happens to also have ended up living here, we strike up a conversation and realize the place feels even better when you're not procrastinating studying for an exam.",
+                "reviewer_id": "6pC5j-hfP4xLZB2W0Wi1vg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.016761084381763883,
+                    "positive_probability": 0.9832389156182375
+                },
+                "stars": 4
+            },
+            {
+                "review": "My friend introduced me to Zorba's, I love their special, it keeps me awake at night, drooling for it...Fries are good as well, overall great experience.",
+                "reviewer_id": "8hFMyX-CYPv6XEYojQ6Zbg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2897304251467952,
+                    "positive_probability": 0.710269574853204
+                },
+                "stars": 5
+            },
+            {
+                "review": "Fine times i have had here the fries sometimes are subpar and thats why three stars because how can you mess up frozen fries but they manage to so maybe take a look at your product or prep, gyros taste great to me.",
+                "reviewer_id": "8oJRVNV3Bi3VHAuI1Su7-A",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9739927241709756,
+                    "positive_probability": 0.02600727582902216
+                },
+                "stars": 3
+            },
+            {
+                "review": "Absolutely, the best gyro that I have ever eaten, and I have eaten a lot of them over the years.  I miss you Zorba's!",
+                "reviewer_id": "8uLYQm5YJnvpC7477FAwLw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3285047103441643,
+                    "positive_probability": 0.6714952896558364
+                },
+                "stars": 5
+            },
+            {
+                "review": "I never was really bold enough to try gyros until I landed in Chambana and was told Zorbas was worth a go. I do like their classic gyro and the price is good and it always goes well with the crinkle fries. The location is great for students on campus but often you need to work around the busy lunch hour or wait until summer when all the undergrads are gone. Watching the sports on television or listening to jazz on Thursday is also a draw in case you decide to come alone for lunch/dinner.",
+                "reviewer_id": "9i-36HhVvgCcjGA2xsCmCw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.016065827989196767,
+                    "positive_probability": 0.9839341720107959
+                },
+                "stars": 3
+            },
+            {
+                "review": "I am going to be the dissenting voice on this place, but I don't think it isn very good.  Everything it does, Niro's Gyros does both better and cheaper.  I honestly think Zorba's has kind of a privileged place due to nostalgia - it is an institution and one of the few places on Green Street that hasn't changed in the last decade (and beyond).So maybe I am not the target audience.  But the thing is, I love gyros!  They're greasy enough that I don't get them too often, but I do love them.  This brings us to the main problem: Zorba's gyros are not very good.  I have been used to the gyros in my hometown (gigantic), the ones in Naperville (huge), and the ones from Niro's (also huge).  The ones at Zorba's are comparatively small.  This is not a deal-breaker - I don't need the mountains of meat all the time.  The problem is that the meat is not very good.  It has kind of a gritty texture and an off flavor.  It reminds me of the frozen gyro meat you can get at grocery stores.  They offer an array of sauces, but the tzatziki is key and it's not very good either.  I see rave reviews of the fries, and while they are good, they aren't exceptional.  Even on a discount day, the fry and gyro meal is more than other places in town and I just did not like it as much.  I thought the first time might've been an unfair representation, but on the next visit I could not finish the gyro - the texture of the meat got to me.  Decor is old-fashioned as fits a local institution.  There is sort of a grease-haze that hangs in the air.",
+                "reviewer_id": "9LZXJu6RZ6UpIXYGSZWB7Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 4.937255198607707e-06,
+                    "positive_probability": 0.9999950627448051
+                },
+                "stars": 2
+            },
+            {
+                "review": "This is where I spend 20 minutes every Tuesday night.  Good gyros, cucumber sauce, etc., and thanks to Groovy Tuesdays you can get a kickass feta (+hummus, if you like) veggie pita for a little over $2.  Service is fast and it's not usually too crowded.  Nice, tall tables too.",
+                "reviewer_id": "_7VcEa3xUpsc9XUTFCqlhg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3854950207800169,
+                    "positive_probability": 0.6145049792199841
+                },
+                "stars": 4
+            },
+            {
+                "review": "I was trying to think of places I would miss when I finish my Master's program here in Champaign-Urbana and the top three are Murphy's, Canopy Club and Zorba's. I've always been a fan of gyros and I have to say that these are right up there with the ones I get in Chicago. In fact, Zorba's is better than some of the gyros I've gotten in Chicago before. This is my favorite place to eat on Green Street. Besides Antonio's, it's probably the only one that not a chain and I unequivocally love the Large Gyro combo plain with a Cherry Pepsi.",
+                "reviewer_id": "_9uvL80xzBxDjWzFM7Da5g",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.022176252232766328,
+                    "positive_probability": 0.977823747767235
+                },
+                "stars": 5
+            },
+            {
+                "review": "Awesome place! Great gyros and mushrooms!",
+                "reviewer_id": "_pk6Q_8ecI4AL_voX2dGYw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.5,
+                    "positive_probability": 0.5
+                },
+                "stars": 5
+            },
+            {
+                "review": "The joint that launched my love affair with the gyro. Their tzatziki sauce is still my favorite, and the chili is delicious.",
+                "reviewer_id": "A4QMKbj65m9Hbp0rmHDGcw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.03741969654926556,
+                    "positive_probability": 0.9625803034507356
+                },
+                "stars": 4
+            },
+            {
+                "review": "Great gyros and fries. Often crowded, so plan on a wait for food and a table.  Go on Tuesdays for discount prices.",
+                "reviewer_id": "AFK20uwV5Kr-f8at2_BV8Q",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5562559572523378,
+                    "positive_probability": 0.4437440427476635
+                },
+                "stars": 4
+            },
+            {
+                "review": "A Champaign Institution, great gyros, with even better service.  Definitely a can't miss when you are on Illinois' campus.  Check their daily specials before you go in some of them are great.  The fact that you can order a small, medium. or large gyro and customize it however you want make it good for any size appetite.",
+                "reviewer_id": "AttSWPB137v7Om8V1inovA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6452719722406746,
+                    "positive_probability": 0.35472802775932294
+                },
+                "stars": 4
+            },
+            {
+                "review": "This is simply one of my favorite spots in town. They say that consistency is the hallmark of excellence. Well I've been stuffing my face with their delicious gyros and assorted fried side dishes since high school, and I've yet to eat one that wasn't just totally fulfilling and delicious.  Actually, the hallmark of excellence is probably just making really fantastic gyros, which is a thing that Zorba's is all about. The staff is always friendly, and even at their busiest you're going to get your order quickly.My go to order has generally been the large chicken, however you can't go wrong with the classic. You can take either and pick a size to fit your small-large appetite, and then customize it from there, which is a little different, and better, than most other gyro joints I've visited. I also prefer subbing in onion rings or fried mushrooms for fries.The location is a little small, so it can get packed during the lunch hour, but even so there is usually a table open, or you can easily get your meal to go.If you find yourself on campus and don't check this place out, you're doing yourself an enormous disservice.",
+                "reviewer_id": "AZ9x-RhMQO_FwlW1reuE6w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.04475040441648174,
+                    "positive_probability": 0.9552495955835331
+                },
+                "stars": 5
+            },
+            {
+                "review": "Ah Zorba's, makes me feel young again.  I frequented this place all the time when I was a student at UofI.  YUM their gyros are some of the best.  I like that they have different sizes of gyros.  Definitely get the fried mushrooms, you won't be disapointed.  Pass on the spinach pie though, it's not very good.  They aren't the cheapest if you're a poor student, it can add up if you get fries and mushrooms and everything.  Cheap beers.  They used to have free jazz on Tuesdays, I think, not sure if they still do.YUM their cucumber sauce is awesome. They also have a wonderful honey dijon for the chicken gyros.  My bf sometimes has to go down to UofI for career fairs, I always make him to go Zorbas and get me a gyro with extra cucumber sauce.  I will eat it 3 hours later and cold, and it's still delicious.They call out your name when your order is ready, my friends and I would give them funny names like Shaft and one time I was Captain, and my friend was Tennille, but they called Tennille first, that blew.",
+                "reviewer_id": "BcNdlyXsmyYYBMfHq6UFpQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4608060316956026,
+                    "positive_probability": 0.5391939683043975
+                },
+                "stars": 5
+            },
+            {
+                "review": "Love the food at atmosphere.  And they keep that line moving.  Fries are something special and if you get the combo you get a small enough portion so satisfy your fryer need.  They don't have beer anymore which has helped university productivity.",
+                "reviewer_id": "BLQXixrG0gT1puIqXs5R-A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.052921101046571654,
+                    "positive_probability": 0.9470788989534232
+                },
+                "stars": 5
+            },
+            {
+                "review": "One of the regular spots on Green street, every time I make the painful decision not to eat at Antonio's and instead eat here, I'm a little surprised as how much I like Zorba's. I see a review saying Niro's is better and cheaper - Zorba's isn't that expensive - but I've never been to Niro's, so I can't compare. I will say that Zorba's has great fries - crinkle cut. Not much else to say - it's standard gyro stuff, for a pretty reasonable price (huge portion, fries and drink for like $7), and it's definitely one of the few places on that first block of Green that hasn't changes in I think 35+ years.",
+                "reviewer_id": "BQ-2i_EZ3EzYjuUrZkq4fQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7644190075361226,
+                    "positive_probability": 0.2355809924638796
+                },
+                "stars": 3
+            },
+            {
+                "review": "I absolultely LOVE gyros so this is a no-brainer for me. I feel like this place is a staple of quick, delicious campus food. It's pretty much a total hole in the wall, but it's totally Illini, everything about the decor just screams it. Not to mention the gyros are bomb. Go if you haven't already!",
+                "reviewer_id": "BvGV9lMMUmB5hLWkNlY3vw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7915600480888136,
+                    "positive_probability": 0.20843995191119088
+                },
+                "stars": 4
+            },
+            {
+                "review": "The gyros here are decent and they have live music on certain days. Expect to pay a cover for the music.",
+                "reviewer_id": "CX4GcrCCnzfNyAl0cPqGbg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6371086484453136,
+                    "positive_probability": 0.36289135155468627
+                },
+                "stars": 3
+            },
+            {
+                "review": "Finally made it to the store, having always enjoyed their gyros at Taste of Champaign.  I'm sorry we waited, the food in the shop is even better!",
+                "reviewer_id": "d1I7WgowWgblUJ9uWgRn6A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3970638264204049,
+                    "positive_probability": 0.6029361735795952
+                },
+                "stars": 5
+            },
+            {
+                "review": "This past weekend, my bf and I did a quick trip to Champaign, because we just needed to get out of Chicago for a couple of days.  When we parked our car and walked down Green St., there were a whole bunch of NEW restaurants compared to when I went to college years ago.  One familiar restaurant was Zorba's.  Got two med. gyros, fries, and drinks to go.  When we sat outside on the quad, we upwrapped a tightly rolled gyro.  So eating it outside on a windy day was not a problem at all!  Really good and the pita seemed fresh and light, not super greasy like the joints here in Chicago.  Don't think I'll go back to Champaign for a long time, but it's a great lunch/dinner option.",
+                "reviewer_id": "DbJHA6uuUeCcCrIiLxDawg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9697093630284852,
+                    "positive_probability": 0.030290636971522067
+                },
+                "stars": 4
+            },
+            {
+                "review": "Zorba's is still my favorite gyro place of all time.  The food is delicious and they have some pretty unique sauces.  The meat is always tender and flavorful, never dry or bland.  Definitely check out the Groovy Tuesday deal = $1 off original gyros (lamb + beef mix) and half off fries.  The fries are the best I've ever had--crispy yet not too skinny, and always piping hot.  Check them out!  I always stop by for a bite when I'm back in town.",
+                "reviewer_id": "DC5yifhqWT1gQdcazBA0jQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.38206934722853314,
+                    "positive_probability": 0.6179306527714626
+                },
+                "stars": 5
+            },
+            {
+                "review": "They sell their gyros in 4 sizes: 2 oz, 4 oz, 6 oz, and 8 oz. This is pretty neat as a large or medium gyro should be enough to suffice a hungry person. However, I have to say that their gyro meat isn't as succulent as I thought it'd be. The Greek salad wasn't anything special either. I gotta say that I prefer Niro's Gyros more.",
+                "reviewer_id": "eFIlrOz3TnuZQeh2Y1e17Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3642844232241489,
+                    "positive_probability": 0.6357155767758474
+                },
+                "stars": 2
+            },
+            {
+                "review": "Tender gyros meat at decent prices. Just stick with a gyros sandwich (the fries are mediocre). This place has been around since my parents were on UIUC's campus in the early-mid 70s and it's a great place to take them. I can't speak to the seating during peak hours because I usually would drop by here if there was a deal on Hooked midafternoon if I hadn't eaten lunch.",
+                "reviewer_id": "EiboDjzB7qfd3Vgu_U_Rgw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8200619461604214,
+                    "positive_probability": 0.17993805383958156
+                },
+                "stars": 4
+            },
+            {
+                "review": "Restaurant review:Look for gyros in Champaign, you can choose Niro or Zorba's as the most popular restaurants around, but on my recent lunch visit I was not that impressed. This location is right in the middle of campus and is super busy during lunch hours. We arrived before the rush and easily found a table, but if you come late, good luck. There is no large menu on the wall, but rather a menu at the table where you order which is sort of annoying as you can hold up the line if you are waiting to order or the menu along the wall. There are daily specials which is posted on the sign outside. Today Tuesday was dollar off classic gyro or 1/2 price fries. Other than that the combos are about 7-8 dollars a pop. This is where it falls short. The fries that come with the combo is a very small portion. I can't imagine that it is just a small helping of fries on a little serving basket. Usually that is a highlight when you go to gyro restaurants because it adds to the grease appeal. Additionally, they are quite stingy with the meat, i.e. they actually weigh and measure how much gyro meat you are getting. I have never been to one where you can get 4 different sizes of gyro meat. Overall a little disappointing. I can't say the large was very filling for me.. but who knows. One plus is that they have a dispenser for yogurt sauce so you can douse your gyro to your heart desire. Pro: fast service, self service no need to tipCons: limited seating, very small fries portion, personally the gyro sizes that are measured seems a little stingy come on...Hidden gem:1. You can use the belly card to earn points toward free items2. Daily specialsMonday- Medium gyro, sm greek salad, pepsi 8.25, large greek salad and pepsi 6.25Tuesday- 1 dollar of gyro and 1/2 price fries, 1 dollar off veggie sandwichesWednesday- 1/4 lb beef hot dog, fries, and pepsi 6 dollarsThursday- BBQ pulled pork, fries, pepsi 7 dollarsFriday- Fish sandwich, fries, pepsi 7.50",
+                "reviewer_id": "f1a9KwsObpE54Yp9A1fVoA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0018463654385399621,
+                    "positive_probability": 0.998153634561442
+                },
+                "stars": 2
+            },
+            {
+                "review": "Not a gyro expert but this was the most tender gyro I've ever had. Didn't know a gyro could achieve the melt in your mouth consistency. I usually am hungover when i eat gyros, but I was not hung over when I ate this. I almost want to binge drink so I can eat here the next day. Good stuff.",
+                "reviewer_id": "fDXALtk5kBuQgUD5GLkrhg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.18369249839266374,
+                    "positive_probability": 0.816307501607332
+                },
+                "stars": 5
+            },
+            {
+                "review": "I have been here multiple times and it is truly the best place for food on Green Street. I have gone with the gyros both times and have not been disappointed. The food is delicious and the prices are very reasonable. On top of it, the atmosphere gives you a feel to what our culture at U of I is like. Pass up the chains and go to Zorba's. Take it from an ILLINI - you won't be disappointed.",
+                "reviewer_id": "FE8MaLc2qM7sZvXvoRsSnA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.00603866095404848,
+                    "positive_probability": 0.9939613390459474
+                },
+                "stars": 4
+            },
+            {
+                "review": "I can't believe I walked past this place for three years.  What is more sad is that many of those times were likely while I walked into Subway across the street on a Tuesday afternoon to drop $5 on a Veggie Delight.  Little did I know I could get a delicious, warm, and fresh vegetable hummus pita across the street for a little over a dollar.  At least I have many more Tuesdays ahead to take advantage!",
+                "reviewer_id": "FKRl-IDVExxedNJvy9CCxQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0879115504457212,
+                    "positive_probability": 0.9120884495542776
+                },
+                "stars": 4
+            },
+            {
+                "review": "Overpriced, not a very expansive menu, gyros were average, ugly interior, I took my friend there from out of town because I thought it would be ok and was incredibly disappointed. Location is great. Won't go back",
+                "reviewer_id": "G2gXoLGSsUISDNGE98Ud3w",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5638031661296247,
+                    "positive_probability": 0.4361968338703745
+                },
+                "stars": 1
+            },
+            {
+                "review": "Well bellow average Gyros. Soft, tasteless pitas with bland meat and sauce. Seriously, turn the corner onto Wright street and step into Wonderdogs for an absolutely fabulous Gryo. Not the best I've ever had, but easily the best in town.",
+                "reviewer_id": "GsfC3nKxfT5XoCZ_ARwQ3A",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6139978390537636,
+                    "positive_probability": 0.3860021609462412
+                },
+                "stars": 2
+            },
+            {
+                "review": "Grab decent sandwiches and gyros, and enjoy live music if it's scheduled.  I was addicted as a student and still enjoy stopping in when I visit C-U, but it's a simple joint.  Right on campus near the quad.",
+                "reviewer_id": "HANb8-8InWnju-XzBQQSBw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.377785444693442,
+                    "positive_probability": 0.6222145553065556
+                },
+                "stars": 3
+            },
+            {
+                "review": "You like gyros? You like fresh fries? You like Green Street? Well, then you'll love Zorbas.  Zorbas was a staple during undergrad and it hasn't lost its taste in the years since I've left.  Regardless of where I move or visit, every gyro I have is compared to Zorbas - they're the gold standard in my mind.  The meat is always juicey and the fries always salty.  Perfect for a social lunch or a recovery meal.  Word to the wise - load that sucker up with extra meat and tzatziki sauce (or \"cucumber sauce\") for maximum flavor.",
+                "reviewer_id": "HlJzRpGyphvD0UI6Q2VCfw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.009420371759546981,
+                    "positive_probability": 0.9905796282404553
+                },
+                "stars": 4
+            },
+            {
+                "review": "Cool place for lunch on campus... It's right next door to Za's, where I've going a bit too often, so I'm glad I finally gave it a try. They're specialty is gyros sandwiches (on pita bread): pick your meat (lamb or chicken), size (small, medium, large), and sides (get the combo which comes with fries and a drink). I tried the chicken, and it was good, although I wish the meat had been a little more grilled (it wasn't crispy at all). Their fries are great! They also have a few other things on the menu (regular sandwiches etc), and they're open late most nights. I'll be back for sure.",
+                "reviewer_id": "igrgFZl9wDohSem0UyoP6A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.10711958025673138,
+                    "positive_probability": 0.8928804197432643
+                },
+                "stars": 4
+            },
+            {
+                "review": "Not a bad lunch spot. Don't think the food is anything to write home about but will do in a pinch. Cool that they do jazz on some nights.",
+                "reviewer_id": "IIRBF6_xbWYPbP_mjGI8RA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8169307292947146,
+                    "positive_probability": 0.18306927070528334
+                },
+                "stars": 3
+            },
+            {
+                "review": "Matt and his gang do a great job. Love the chicken Gyros.",
+                "reviewer_id": "j0PRrTf1B2f9ocv0DPLL2Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3801268140620786,
+                    "positive_probability": 0.619873185937922
+                },
+                "stars": 4
+            },
+            {
+                "review": "Mmmm... gyro.  I know that Zorba's isn't authentic Greek food-- I go to Chicago for that, but for what it is, it's excellent.  The service is always very friendly and speedy, and they have a fairly large menu and is inexpensive.  They also have Killians on tap and a fairly large bottle selection.  Zorba's is probably my favorite green street eatery.",
+                "reviewer_id": "jFB4m2Na8fTIhc3TAYoeYw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.40486279817798854,
+                    "positive_probability": 0.595137201822008
+                },
+                "stars": 4
+            },
+            {
+                "review": "This is some incredibly tasty and greasy food. I walked around like a confused tourist for a moment while looking for the menu. I'm pretty indecisive so I would prefer a menu that wasn't taped to the counter where you order. Being able to peruse a bit would have been nice. Even so, I ordered a falafel with feta and jalapenos and it was fantastic. Even the fries were delicious and I'm just not a potato fan. The biggest pro - They have a tzatziki dispenser! Most places charge you for extra and considering condiments are the highlight of my meal, this was fantastic! I also thought the gyros were delicious although it is tough to mess that up I think. The price is great, you can eat here for just about $5.",
+                "reviewer_id": "JgHGyWS2emyHq6aq144SLQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0013275590779417024,
+                    "positive_probability": 0.998672440922054
+                },
+                "stars": 4
+            },
+            {
+                "review": "Zorba's has the best gyros, hands-down. I grew up in Champaign and this was a favorite stomping ground! Having lived all over the US now, I have never found a better gyro anywhere, and have even been known to drive from whatever corner of the US (currently CO :) I'm in just to get Zorba's for the weekend. So glad that they rebuilt!! Coming back in July, Zorba's!!",
+                "reviewer_id": "kgYNx4haiRhzCy2VKrXwtA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5873573486463158,
+                    "positive_probability": 0.41264265135368267
+                },
+                "stars": 5
+            },
+            {
+                "review": "One word.  Disappointed.Good looking interior, and even had some of the old tables from the original Zorbas.I ordered my food and waited to pay.  The cashier left to take orders, and the line started backing up.  The fifteen minute wait time would be forgivable if the fries weren't old, overcooked, and the portions of meat, small.  There was literally 30-40 people crammed into this place ordering food and still got bad french fries...Green St. never really had good quality food, but there is a disturbing trend of places like Beef Stand and Sliders charging EXPENSIVE prices for college students and making subpar food.   Nero's on university charges about the same price for what I got, and their fries are fresh and hot, give you huge portions on gyro meat and have it cooked well.  The only thing I paid for was the convenience of eating on Green St.  As a college student, and someone who works summers and breaks to pay for food during the year, I'm looking for a DEAL or at the very least, willing to pay the price for good food.  All I got was something overpriced and meh.",
+                "reviewer_id": "kjAzzz0pYNwRrJsS75pOwQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9975133760054586,
+                    "positive_probability": 0.002486623994561356
+                },
+                "stars": 2
+            },
+            {
+                "review": "I think it says something that my friend has searched far and wide throughout all of Chicago and failed at finding another gyro place as good as Zorba's in Champaign.Throughout my 4.5 years in Chambana, never once did I have a less than spectacular meal here. Both their chicken and original (I believe it is a mix between beef and lamb) gyros are mouth-watering. I was afraid that the lamb would have that weird gamey taste, but it only made for a more complex flavor, which I totally didn't expect. They have a great selection of sauces that I am guilty of drowning my gyros in. Their fries are made to order and come out piping hot and are even more delectable with a dipping sauce concoction of my own (made by combining their honey mustard and cucumber sauces - must try). What I found surprising is that no one knew about their unlimited and FREE toppings list. You can get a whole assortment of other toppings on your gyro all at no charge!Two years ago, they started catering to the drunk, after-bars crowd on Fridays and Saturdays. However, those gyros are a fraction of the size and a fraction of the goodness of their regular ones. So I'd stick to One World to fulfill that drunken craving if I were you...*Also, I don't know if anyone else has noticed this, but I always come out of the restaurant smelling like I've dipped myself in frying oil. I'm thinking that their made to order fries has something to do with it.",
+                "reviewer_id": "KJZftTc-ct3fT4shisBb9Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.09142043770174622,
+                    "positive_probability": 0.9085795622982679
+                },
+                "stars": 5
+            },
+            {
+                "review": "The food is relatively good. The fries are the best. What I eat most from here are the gyros which I think they are stingy on the amount of meat you get for the price that you pay, but hey it could just be me. It's an ok restaurant, check it out!",
+                "reviewer_id": "kwQ7FNfDJ8Jz27EU-_wg0g",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8899694143643208,
+                    "positive_probability": 0.11003058563567933
+                },
+                "stars": 3
+            },
+            {
+                "review": "great place for weekly jazz music, amazing gyro sauce and falafel and hummus and fries and imported beer. when i ate meat the gyros were very good too! service is always friendly and the ambience is nice: i dig the high ceilings with its detailed patterns. i miss this place wish there was one in chicago.",
+                "reviewer_id": "lgNGOlBYaxoWIAPeydQ8cA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.004309356593569925,
+                    "positive_probability": 0.9956906434064321
+                },
+                "stars": 5
+            },
+            {
+                "review": "Best Gyros in Illinois. Fast and delicious. A campus treasure. A Champaign treasure.The gyros are authentic and the santiki (?) sauce is second to none.  Greek salads are another highlight.",
+                "reviewer_id": "lH1rXk40kv2suZan17llhg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.03880946735664507,
+                    "positive_probability": 0.9611905326433533
+                },
+                "stars": 5
+            },
+            {
+                "review": "The gyros were pretty good, but their fries came with this amazing sauce.It was a delish combination of honey mustard but smelled and tasted like there was bacon in it.  I'm not sure what exactly it was but we couldn't stop dipping our fries in it - so good!",
+                "reviewer_id": "lLmnsl9jR4Sx5vVGlw0IdA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.031228871430371376,
+                    "positive_probability": 0.968771128569625
+                },
+                "stars": 4
+            },
+            {
+                "review": "Good food and I love all the dipping sauces.  Best gyro I've had on campus.  Not a huge variety of food, though.",
+                "reviewer_id": "mF9fRrUQn8iBj-WSbxwifg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.19539454863135608,
+                    "positive_probability": 0.8046054513686429
+                },
+                "stars": 4
+            },
+            {
+                "review": "I am incredibly sad that I did not discover this place until my fourth semester at the University of Illinois. I made something of a ritual out of going there every Tuesday for their reduced vegee gyros and fries, and always left satisfied. They have incredibly fast service, the place is always clean, and I *love* all the sauce choices! The salad always came fresh and crisp with the dressing automatically on the side, which was great too. I think the world could definitely use more Zorba's locations..until then, I'll have to make sure to swing by every time I head back to the U-C.",
+                "reviewer_id": "MLeLne_YECGkZAiCdhh65w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.05306906126667748,
+                    "positive_probability": 0.9469309387333185
+                },
+                "stars": 5
+            },
+            {
+                "review": "I love the gyros here.I love their cucumber sauce even more :)You can pick the size of gyro you want, so you can load up on as much as as little meat as you please.Service is good and there is plenty of room to eat right in the restaurant.  The only \"problem\" is that you'll smell like gyro, onion, and grease when you leave.",
+                "reviewer_id": "OOkr8AHWyqnaN0sZlunzjw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.19900696542676663,
+                    "positive_probability": 0.8009930345732373
+                },
+                "stars": 4
+            },
+            {
+                "review": "My favorite restaurant right around the university. Phenomenal gyros. I'd say I still hold Zorba's as the golden standard of gyros. I was there every Tuesday in college for Groovy Tuesday - $1 off gyros - and i was probably there at least one other meal each week. Quick, cheap, delicious. Can't get better than that.I have a gyro or two every time I'm back in Champaign. Everyone should eat more Zorba's!!",
+                "reviewer_id": "PoArLCMA9Pkf5NiV51GQOw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5943706208734251,
+                    "positive_probability": 0.4056293791265769
+                },
+                "stars": 5
+            },
+            {
+                "review": "My goto spot in Champaign. Great gyros, awesome Jerusalem salad! I'm so happy they re-opened after the fire. I've been a customer for 30 years",
+                "reviewer_id": "pTtnH9Z7QByngCXpuQd22Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.11641494669906575,
+                    "positive_probability": 0.883585053300934
+                },
+                "stars": 5
+            },
+            {
+                "review": "I only went to Zorba's a couple times before it closed, and I remember being disappointed with it because I could get much better gyros back home.  I had given up on gyros on campus (until I went to niro's but that's another review) but I was willing to give Zorba's another chance when it reopened.  Many of my friends thought I was crazy for preferring niro's, so maybe I just remembered wrong?Well, it was pretty much the same as I remembered.  The meat is mediocre, and I feel like you definitely get more for your money at niro's.  I do like that they have different sizes so you don't have to get a giant gyro if you're not particularly hungry.Had I rated Zorba's before coming back, I would have given them four stars.  The food isn't bad; I've just had better.  But my favorite part of a gyro is the cucumber sauce, and it just wasn't right here.  Correct me if I'm mistaken, but isn't it supposed to be thick, white, and yogurty?  And nice and cold so you get that contrast between the cold sauce and the warm gyro meat?  Well, the sauce here was runny, warm, and almost clear.  I don't know, maybe something was just weird when I went, but with Niro's in my backyard (where I know they have the right sauce) and graduation in a month, I doubt I'll be back.",
+                "reviewer_id": "qdL_6QKs8_U74ugjs0MpPg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.003126691816038097,
+                    "positive_probability": 0.9968733081839672
+                },
+                "stars": 3
+            },
+            {
+                "review": "Hands down the most underrated place on campus. Everything they offer is at least good, while their gyros are nothing short of amazing (for Chambana, at least). The jazz shows are a nice touch, the prices are very reasonable, and the staff is always friendly. One of my favorite places to spend a break, whether it's between classes or during work.It doesn't offer enough food on the level of their gyros to warrant a five-star rating, but it deserves a strong four.",
+                "reviewer_id": "QktjbAmpOT6CPKxOLQRetg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0024720543674861426,
+                    "positive_probability": 0.9975279456325179
+                },
+                "stars": 4
+            },
+            {
+                "review": "Zorba's is another place that my parents remember from their time as graduate students in the late 70's, and it appears to be somewhat of an institution now in Champaign.  I went with my parents on a summer Tuesday right at opening time and our food came out quickly.  It's cafeteria-style seating and the place filled up within a half hour.We got 2 of the beef/lamb gyros and a Greek salad.  I thought the gyro was okay.  I mean, totally acceptable, but honestly I've had better at the Greek-fest thrown by the little Greek Orthodox church across the street from me in Boston.  The one I'm used to has a lot more of the meat, better sauce, and way more tomatoes and more thinly-sliced red onions (instead of the white onions used at Zorba's).  The fries that came with the combination platter were not good at all.  Those were mostly left untouched.Overall, Zorba's delivers reasonably good value, and was a quick, convenient lunch stop in Champaign.  I didn't think the food was great by any means, but it gets the job done.",
+                "reviewer_id": "QqXKGqTAh5jQsmkFPpsmzw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7671338845739091,
+                    "positive_probability": 0.23286611542609129
+                },
+                "stars": 3
+            },
+            {
+                "review": "It's pretty good. Nothing too special; I normally get the grilled chicken sandwich, which has been dry a few too many times for my taste. It's also a bit expensive compared to some of the other Campustown locations, but a nice change of pace every once in a while. I'm never unhappy at Zorba's. I will say that I wish the place hadn't caught fire- the memorabilia collection they have is nice, and I would have loved to see the old one.",
+                "reviewer_id": "qR6jQSCWN94STCjsnTU8vQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0034062985312831823,
+                    "positive_probability": 0.9965937014687164
+                },
+                "stars": 3
+            },
+            {
+                "review": "The Meat: Piece of bone or something in the meat..... grinded my teeth on it, then annoyingly couldn't find it amidst the food so I can spit out the bone and had to spit the food out. Any gyro I've ever had in Chicago the meat would be cooked nice and crisp, here it's soggy and not fresh tasting. The bread is like wonder bread in terms of gyros breads, and I don't mean toasted with PB & J I mean wonder bread and baloney sandwich. Doesn't have that lightly greasy, crunchy, and fresh taste I'm used to in gyros.Other thoughts and comments: Hooked app got me 2 gyros for 5.50 including tax... normally 1 of these bad boys is 5.50 (WTF that means two is $11?!?!? And it's not even enough to get full). The guy assembling them had to move the meat to a scale on the other side of the kitchen, and he was really bad and annoying at it. This is literally what he did: Move a few small pieces of gyro meat with his tongs at a time (liquid dripping on floor and everything, nothing under the tongs). He went back and forth between the pot it was stored in and the scale, then picked up the pieces of meat from the scale piece by piece onto the sandwich. Oh yeah when he was going back and forth he would make sure it was the perfect amount to the GRAM. He would sit at the pot for like 5 seconds debating whether to take an extra 1cm square piece of gyro meat in his tongs or not. Something about that just makes it ADDITIONALLY less appetizing and annoying... I don't expect much from a Green St. restaurant to be honest (to name some bad ones would be: Wingin out, this place, papa d's), but this one just topped the lows EASILY. The only worse place Usually when I see 4 stars on Yelp that's actually a good place to eat... but... dang son",
+                "reviewer_id": "QricGnURbG_caoL6ZHfGCA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.942770594528425,
+                    "positive_probability": 0.05722940547155923
+                },
+                "stars": 1
+            },
+            {
+                "review": "The best gyro's in town , I recommend it highly!!!!!!!!!!!!!!!!!!!!!!!!",
+                "reviewer_id": "RYopM3wT5SfJ_5sDr_HPAA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2864904921240542,
+                    "positive_probability": 0.7135095078759455
+                },
+                "stars": 5
+            },
+            {
+                "review": "Please note that this closure is temporary...there was a fire above the restaurant and part of the building has been gutted.",
+                "reviewer_id": "S3dhPGW9PJfK6ZuQoJhKfA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0621923786761564,
+                    "positive_probability": 0.9378076213238439
+                },
+                "stars": 5
+            },
+            {
+                "review": "The salad doesn't have enough cheese!",
+                "reviewer_id": "s8Ni-6g50Ld5aA2YgYDrcQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.542602855324,
+                    "positive_probability": 0.4573971446760001
+                },
+                "stars": 1
+            },
+            {
+                "review": "Have only been there once but was a big fan of the gyros. Had an large original gyro with fries and was a pretty good deal for $7.50. Very tasty",
+                "reviewer_id": "SKhnKL9P9-LrUWzsw9oYNA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5878982060547935,
+                    "positive_probability": 0.41210179394520585
+                },
+                "stars": 4
+            },
+            {
+                "review": "Reliably decent gyros, although I haven't seen much else that's very exciting about the place as of yet.  It does have its location going for it, though.",
+                "reviewer_id": "SpKVX3rt892E-BrL-yeqiw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3928666267728417,
+                    "positive_probability": 0.6071333732271572
+                },
+                "stars": 3
+            },
+            {
+                "review": "Great Greek food including awesome Gyros!! They also have live music here a lot which is a great escape from doing your homework!  This place gets busy as lunch because it's right by the quad!",
+                "reviewer_id": "sUrU9l3_f1iWYZdLmop0Rw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.07812289842778698,
+                    "positive_probability": 0.9218771015722134
+                },
+                "stars": 4
+            },
+            {
+                "review": "I don't know if it's my love of Zorba's or my love of gyros that's compelling me to write this review. Either way, when I'm down at U of I, I try to stop here. Zorba's has spits of chicken and lamb, as well as sauces to complement them. I've been happy with both kinds of gyros. Now, I only wish there were a Zorba's in my college town.",
+                "reviewer_id": "uB_SdM3xfIDjWsZlXhV5tA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6989602790241133,
+                    "positive_probability": 0.3010397209758843
+                },
+                "stars": 5
+            },
+            {
+                "review": "The best gyros I've had anywhere, which is saying something since I was born and raised in Europe, and live in Los Angeles. The meat isn't dried up and charred like I've hat at so many other places - it's fresh, juicy, and flavorful. No bland, thin pita or cucumber sauce here. The only downside is that there aren't any Zorba's in LA, because now I'm addicted.",
+                "reviewer_id": "uiM0_A783IDKHpeXoUF1Sw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.01188147799830117,
+                    "positive_probability": 0.9881185220016995
+                },
+                "stars": 5
+            },
+            {
+                "review": "Best gyros (authentic, taste great, and affordable) on campus.This place is a U of I must-eat!",
+                "reviewer_id": "vc9CpTxi5j09ON5EGA0oWQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5101391759106879,
+                    "positive_probability": 0.4898608240893121
+                },
+                "stars": 5
+            },
+            {
+                "review": "Great restaurant! Being that I was hanging out in Everitt for most of my stay in Chambana - I got very familiar with Zorba's!What to say about it... Service is always great. The people that work there always seem happy and treat you well. Prices are totally reasonable. I went almost every Tuesday as it was cheaper on Tuesday. Their gyros are great - though if you get a normal gyro you will be left smelling, well, like a gyro. The chicken gyro never had that effect for whatever reason. So good.I went almost every Tuesday and I'd get a large normal gyro with a side of fries. I'd bring a textbook and study for an hour or two while enjoying my amazing food. Great place to study ( at least for me) as there was always enough noise to keep my mind from wandering - but little enough noise so that I could concentrate.Never eat here before a test. You'll go into a food coma and not do well on your test. I learned this the hard way. The very, very hard way.",
+                "reviewer_id": "we3wNaG0cZujkRpzzKHmuQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.057769903466332415,
+                    "positive_probability": 0.9422300965336639
+                },
+                "stars": 5
+            },
+            {
+                "review": "Zorbas is amazing and an important part of my UIUC experience! After a hard work out and swim at the ARC, there's nothing like a zorbas's gyro and their iced tea. Will be missed greatly once I graduate!",
+                "reviewer_id": "WGK7ejWVp4omzygiMzqbHA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.1544539754022043,
+                    "positive_probability": 0.8455460245977944
+                },
+                "stars": 5
+            },
+            {
+                "review": "A great place for gryos, their cucumber sauce is the best! I also like that they have different sizes of gyros so you can choose based on how hungry you are.",
+                "reviewer_id": "xGkgSpo-PHONO9wIpTcQ4w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.083041754419076,
+                    "positive_probability": 0.916958245580923
+                },
+                "stars": 5
+            },
+            {
+                "review": "Welcome back Zorbas! Green Street didn't feel the same without you since you burned down.Zorba's new space is much more roomy with the cashier on the right and near the back, directly opposite from where it was located before. Although the ambiance is much improved, my gyro lacked taste. Sure it had all of the fixings without me asking: yogurt sauce, cucumber, tomato, onion...but the meat was bland.My expectations for food quality are high even though this restaurant is located in the midst of collegiate-drunken-food-ville where food in this area is generally bland.",
+                "reviewer_id": "XOnwygK-EerILmQSxP2K6Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.017513656038894123,
+                    "positive_probability": 0.98248634396111
+                },
+                "stars": 2
+            },
+            {
+                "review": "After my horrendous experience with Niro's I was optimistic that Zorba's might have a better gyro.The store is right on Green street and impossible to miss walking by. Inside is pretty cool, open style kitchen and lots of indoor seating. The menu is on the counter where you order, which could be problematic if you are like me and take 5 minutes to look at a menu and there are people behind you!I decided on a 4oz gyro and mac and cheese bites. My name was taken and I was called when it was ready. Interestingly enough, you also pay right when your food is ready, which was different, but I liked it!I dashed home and unwrapped everything, anxious to try it. My gyro was actually pretty small and almost resembled a taco in size and shape. I did think that this gyro was really on point though. The meat was thicker, flavorful, not too greasy and of a good consistency. The tzatziki was really good, too! Kind of creamy but not too yogurt-y or watered down like some places. The mac and cheese bites were also surprisingly good. Usually these are just dry pieces of mush but on the inside they were warm, gooey and tasty! Overall I would definitely say the Zorba's has the best gyro in the CU area, but I still need to try more places.The only thing I did not like was the portion/price. My gyro was not very big, I probably could have ate 2-3 of them. However, quality over quantity any day of the week and this was one tasty gyro that would really give my suburban favorites a run for their money.I'll be back to try more!",
+                "reviewer_id": "XzIKZTb4I-7wW4BjKwV2Mw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8399758565549755,
+                    "positive_probability": 0.16002414344504373
+                },
+                "stars": 4
+            },
+            {
+                "review": "Yep, it lived up to the hype. Great gyro sandwiches with a cool local feel. The pita is soft and the gyro meat is some of the most tender I've found. Brilliantly seasoned too, the meat is definitely what sets these gyros apart. I also liked that there are multiple size options for the sandwiches. The place has a nice, local college hotspot feel. Not wild and crazy, but more the kind of place students stop by on their way to and from class.",
+                "reviewer_id": "Z7_WpgPFm_WSHoJhbEY6zw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.013062194011070533,
+                    "positive_probability": 0.9869378059889318
+                },
+                "stars": 4
+            },
+            {
+                "review": "Gyros are soooo tasty, I keep coming back for more. Price is okay and service is fast. Only complaint would be portion size for their salads...their small was much smaller than in most places, but it was yummy. Seriously try their gyros.",
+                "reviewer_id": "ZB5yx64AVO-O1An2rMadzg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.036698978326264994,
+                    "positive_probability": 0.9633010216737359
+                },
+                "stars": 4
+            }
+        ],
+        "similar_restaurants": [
+            "QZBQBQkNEefPbTo5SIoE7A",
+            "qgIAjfsGIqteEu0473miPg",
+            "8LCPOZXh_yvigEOWg0ZR2g",
+            "rG55ylsEVyxPUYEGqShnJA",
+            "DjJS8vJXzmpwMUEAcxCexg",
+            "TRNYNeiLLY-1yobo4rArxQ",
+            "zWywRjPZSKVieUVnzE1eLA",
+            "6M1F5AECDtWff1Tu3uLEWA",
+            "1tK0k-vRgGFC3oSZNUJ58Q",
+            "o8NY7kXr7RVD2xSDkZ-TGQ"
+        ]
+    }
+}

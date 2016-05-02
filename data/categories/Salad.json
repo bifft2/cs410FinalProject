@@ -1,0 +1,1667 @@
+{
+    "H0D2HYqLd9MRCq68rtbTyQ": {
+        "keywords": {
+            "bigrams": [
+                "olive_garden",
+                "bread_sticks",
+                "soup_salad",
+                "breadsticks_salad",
+                "chain_restaurant",
+                "real_food",
+                "salad_breadsticks",
+                "ten_minutes",
+                "make_sure",
+                "food_good"
+            ],
+            "unigrams": [
+                "food",
+                "salad",
+                "olive",
+                "garden",
+                "good",
+                "service",
+                "time",
+                "soup",
+                "breadsticks",
+                "meal"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "full_bar",
+                "Ambience": {
+                    "casual": true,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "Delivery": false,
+                "Good For": {
+                    "breakfast": false,
+                    "brunch": false,
+                    "dessert": false,
+                    "dinner": false,
+                    "latenight": false,
+                    "lunch": true
+                },
+                "Good For Dancing": false,
+                "Good For Groups": true,
+                "Good for Kids": true,
+                "Happy Hour": false,
+                "Has TV": false,
+                "Noise Level": "average",
+                "Outdoor Seating": false,
+                "Parking": {
+                    "garage": false,
+                    "lot": true,
+                    "street": false,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 2,
+                "Smoking": "no",
+                "Take-out": true,
+                "Takes Reservations": false,
+                "Waiter Service": true,
+                "Wheelchair Accessible": true,
+                "Wi-Fi": "no"
+            },
+            "business_id": "H0D2HYqLd9MRCq68rtbTyQ",
+            "categories": [
+                "Bars",
+                "Salad",
+                "Wine Bars",
+                "Nightlife",
+                "Italian",
+                "Restaurants"
+            ],
+            "city": "Champaign",
+            "full_address": "30 E Anthony Dr\nChampaign, IL 61820",
+            "hours": {
+                "Friday": {
+                    "close": "23:00",
+                    "open": "11:00"
+                },
+                "Monday": {
+                    "close": "22:00",
+                    "open": "11:00"
+                },
+                "Saturday": {
+                    "close": "23:00",
+                    "open": "11:00"
+                },
+                "Sunday": {
+                    "close": "22:00",
+                    "open": "11:00"
+                },
+                "Thursday": {
+                    "close": "22:00",
+                    "open": "11:00"
+                },
+                "Tuesday": {
+                    "close": "22:00",
+                    "open": "11:00"
+                },
+                "Wednesday": {
+                    "close": "22:00",
+                    "open": "11:00"
+                }
+            },
+            "latitude": 40.135851981612,
+            "longitude": -88.241127950452,
+            "name": "Olive Garden Italian Restaurant",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media3.fl.yelpcdn.com/bphoto/Tf-wLnyKTjkS0yIJx8e8tQ/ms.jpg",
+            "review_count": 39,
+            "stars": 3,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "(Expect at least a 30 minute wait during dinner hours) but after we finally got seated, our service and food was always surprisingly good. We got a table right away, but we waited about 15 minutes before our waitress arrived. Olive Garden's soups are pretty good, I'll grant them that. ",
+        "reviews": [
+            {
+                "review": "Ask for the peach tea.  Very good.  $12.99 for a meal there and then another meal to take home.  Average pasta with no meat, but a really good value.",
+                "reviewer_id": "21rgESVI2FOWWOiV9dVinQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.07640138680453688,
+                    "positive_probability": 0.9235986131954653
+                },
+                "stars": 3
+            },
+            {
+                "review": "This rating is based on my most recent visit because it had been quite a long time since I had been here.Nuts and bolts: Went with the family to celebrate a birthday.Order: 1 app, 3 orders of soup, salad, and breadsticks, 1 rosemary chicken, and 1 lasagna.Pros: Everybody left content and very full. Our waiter kept the breadsticks and salad coming. Multiple orders of soup were taken. Love the extra cheese on top of anything you want. Great price- got all that food for around $60 plus tip. Our waiter was very attentive and made us laugh a few times. Even wished my dad a happy birthday because he overheard us mentioning it being his birthday lunch.Neutral: Rosemary chicken was OK. Chicken gnocchi soup could have been a bit spicier. Minestrone was OK.Take home: Kinda wish I had tipped my server more (I did a bit over 20%). He was wonderful.",
+                "reviewer_id": "2niwhUC9pAeHH_W29cl9Cg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.014549400016760085,
+                    "positive_probability": 0.9854505999832441
+                },
+                "stars": 4
+            },
+            {
+                "review": "This Olive Garden really emphasizes excellent service in everything they do. Olive Garden is number one on my list for affordable Italian without sparing the classy ambiance. The food here is wonderful - I always start by sharing the smoked mozzarella fonduta before moving on to the always flavorful minestrone soup. Whatever you order for your entree, make sure you save room for dessert - the white chocolate raspberry cheesecake is to die for!But more than the food and environment, the customer service here is what makes this Olive Garden unmatched. I have never been greeted by a more cheerful and enthusiastic wait staff; they genuinely enjoy working there and making pleasant conversation with the diners. I always tip my servers well, because they really do make us feel like part of the family!",
+                "reviewer_id": "36Xod9g9fK8O4nkOWtH4Dw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.001971584251343295,
+                    "positive_probability": 0.9980284157486596
+                },
+                "stars": 5
+            },
+            {
+                "review": "We went in there on Sunday for lunch, it was packed-well the foyer was at least. After sitting there for ten minutes we were led to a dinig area that was maybe 1/3 full of customers. I was a bit confused on their use of host and hostesess. There was one person taking names, another checking the names, two other standing their alternating taking the diners to their seats in the dated dining room. Christ the only reason we went to this place is because we had a gift card and I'm hoping the gift giver next year makes a better choice. So my wife ordered the fettucini alfredo with Chicken (she has a standard) and I ordered some sort of entre that appeals to men that only eat beef, toss it with some pasta and voila, Dinner!  The humorous moment was when the server asked me how I would like my braised beef done-it's braised, look it up. Anyhow the sauce with it was a cream base, had some portabella mushrooms with it and some fresh parsley (to make it appear fresh) though my entre looked like it has been sitting under the hot lights for a good 10 minutes. The salad we got was marginal (I don't get what the big deal is) and the breadsticks seemed like they'd been sitting in the basket for 10 minutes (not so hot)- While our food  wasn't absolutely horrible, I don't understand why this place is full all the time. I would love for it to be another 10 years (or more) until I eat here again....glad I wasn't paying for it!",
+                "reviewer_id": "38rvarCrnlmAvungUKUPRQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.09096827082854769,
+                    "positive_probability": 0.9090317291714494
+                },
+                "stars": 2
+            },
+            {
+                "review": "Great soup and Shrimp caprice. The only reason why I go there.",
+                "reviewer_id": "3qFI4GeLEDUtWNRpLBY68Q",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7920001498204428,
+                    "positive_probability": 0.20799985017955713
+                },
+                "stars": 4
+            },
+            {
+                "review": "Commercial Italian - had a gift card so needed to use it.  Moderately priced value for what is presented and always something to bring home",
+                "reviewer_id": "5Been7LfMV9GKBSqABGScA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.21158991585455367,
+                    "positive_probability": 0.7884100841454471
+                },
+                "stars": 3
+            },
+            {
+                "review": "We got there around 3:15 Saturday told 15 min for a table, more like 35.  AFTER we ordered we were told there was at least a 45 min wait for food.  No apology, nothing.  I had soup & Salad the other person had alfredo.  Not complicated to pour some sauce on the noodles!  Had to ask for drink & salad/bread refils.  Over 2 hours for an average meal.  It's always slow when we go, but that was just insane.",
+                "reviewer_id": "6nCuP3lx1ibS4sBCdzuGHg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2596824573894994,
+                    "positive_probability": 0.740317542610504
+                },
+                "stars": 1
+            },
+            {
+                "review": "I've been here twice and both times were great experiences for me despite the bad reviews on here.This location does get ridiculously packed all the time for some reason.  (Expect at least a 30 minute wait during dinner hours) but after we finally got seated, our service and food was always surprisingly good.  The complimentary and delicious bread sticks and salad always came out to our table within 5 minutes, and let's not forget these are endless!  Drinks and food came really quick, surprisingly quick actually considering the huge crowd waiting outside.  Our servers have always been attentive and friendly.Food is priced very expensive, but I think one knows that before they come here.  If you don't... well then you're in for a surprise.  Everything I've ever ordered though has been delicious and a big enough portion that I have enough for two big meals.  I don't go here all the time because of the price,  but when I do, the experience has always been great.  Let's not forget that every time I went they were offering complimentary wine, pouring us full glasses of it.  If you don't mind the wait to get seated, I definitely recommend this restaurant.",
+                "reviewer_id": "7JQ8n15WeW4D5AnNulQOCQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0008474226770044796,
+                    "positive_probability": 0.999152577322987
+                },
+                "stars": 5
+            },
+            {
+                "review": "Service was relatively slow. Foods were salty: the breadsticks were salty, the soup was salty, and the pasta was salty too. The service and foods don't worth the price.",
+                "reviewer_id": "C74BJGf0RuKdYKxjm7SDuQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.42451272551704855,
+                    "positive_probability": 0.5754872744829501
+                },
+                "stars": 3
+            },
+            {
+                "review": "I wish I could say something different than most of the other comments but alas I cannot. The service was the worst I have had in some time. We waited ten minutes for two glasses of sangria, when that finally arrived the waiter took our order (some couples combo that included an appetizer). The the size of my drink was quite small so I finished it rather quickly and waited for our server to have another ten minute personal conversation with the table next to ours meanwhile we were still waiting for our breadsticks and salad... After about ten more minutes the waiter showed up with the breadsticks and salad. At that very same time our main entree came out. We sent it back since we had not had our salad or even our appetizers yet. I then ordered another drink. Ten minutes go by while we gnawed on old cold breadsticks and soggy salad still waiting on my drink and our appetizers while intently listening to our waiter recall his hometown antics with the table next to us. Finally the drink and appetizers arrive after about five more minutes, shouldn't have waited for it though The ravioli was cold and chewy, I mean cowhide chewy... Then our main course comes back out. Back out as in from the heat lamp. One bite in we realized the cheese had separated and it was barely warm. Needless to say after a small chat with the manager explaining how I would not return due to poor food and even worse service we left without being charged. In the end, save your time, save your money, and do not eat here, there are much better establishments in champaign.",
+                "reviewer_id": "Dbg9yuoogsZI1diMksU5SQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0037824906202186103,
+                    "positive_probability": 0.9962175093797683
+                },
+                "stars": 1
+            },
+            {
+                "review": "Typical Olive Garden, standard menu, nothing special. The 2 stars is due to the area. Typically restaurants right off the interstate are in a good neighborhood, this certainly didn't feel like a good part of town",
+                "reviewer_id": "DD5KHioFqgSZ82T2PV2CDQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3007157315790441,
+                    "positive_probability": 0.6992842684209585
+                },
+                "stars": 2
+            },
+            {
+                "review": "I love olive garden, but this one seems to have poor service.  The only reason why I keep coming here is for the salad and breadsticks.  I went here for my birthday this past Saturday and it was probably the best service I got and it still wasn't that great.   The wait wasn't as long as usual but that could be cause it's summer.  I wish they let us enjoy our salad longer, but that's probably cause they don't want us to eat several bowls of it cause it's unlimited",
+                "reviewer_id": "dPYiwCNKSV4OFOvc8-hZAw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5123629808094672,
+                    "positive_probability": 0.4876370191905356
+                },
+                "stars": 3
+            },
+            {
+                "review": "Yes. It's a chain restaurant and yes, it's pretty average. The entrees are bit prciey; this is due to the fact that each entree comes with unlimited breadsticks, soup, and/or salad. With tip, a meal costs around $20 so it would behoove you to take advantage of the unlimited side items. I gotta say that the breadsticks were the best part of my meal even though it was a bit too salty.",
+                "reviewer_id": "eFIlrOz3TnuZQeh2Y1e17Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.1747002992728545,
+                    "positive_probability": 0.8252997007271412
+                },
+                "stars": 3
+            },
+            {
+                "review": "Restaurant review:It was a stormy fall night and we had just finished shopping at the local Toy R Us. We decided to take a quick dinner here and was hoping for a solid Italian dinner. Alas not so good. I ordered the steak medallion Gorgonzola fettuccine alfredo. While waiting for dinner, we had the unlimited breadsticks which were good along with the soup. Somehow my two bowls of soup came out lukewarm which was quite disappointing. The dinner that I had ordered had overcooked fettuccine alfredo with 4 piece of \"steak medallion\". Unfortunately, not a good cut of beef as they were tough and chewy. Even though I had ordered it medium rare, the steak was close to medium to well. Even before we finished eating the waiter asked if we would like dessert and promptly threw down the check when we said no. Overall I will have to pass from eating here again.Pro: unlimited soup/breadsticks or salad if you wantCons: overcooked pasta, the quality of the meat for the dish was not goodHidden gem:Check sunday paper for coupons. Unlimited soup and breadstick. Sign up online for the e-club for a free appetizer with the purchase of 2 entrees.",
+                "reviewer_id": "f1a9KwsObpE54Yp9A1fVoA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9285341569152968,
+                    "positive_probability": 0.07146584308469324
+                },
+                "stars": 2
+            },
+            {
+                "review": "This Olive Garden leaves me very confused. Went here two weeks ago and the food was as good as any other Olive Garden I've had. However, yesterday we went with a larger group and the food that my girlfriend and I got (Mixed Grill and Chicken Alfredo) was really subpar. I don't know if this is because it was a Friday night and they were rushing the food, or some other reason, but it was really disappointing.The service was good (even though the waiter was a bit awkward). The restaurant also seems a bit worn compared to other Olive Gardens I've visited.",
+                "reviewer_id": "FAlyRdRLzCJ5djjGl99ExQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.04134008588887452,
+                    "positive_probability": 0.9586599141111295
+                },
+                "stars": 3
+            },
+            {
+                "review": "Enjoyed the sample of red wine while waiting for the lunch rush to vacate, about 30 minutes. Once seated we had a couple of staff stop by our table to offer us another free sample, but it was the 3rd person who took our order. He was funny, attentive, and kind... When my meal had a salad and my friend's didn't he brought two salad bowls so she could \"steal\" some salad, too. The shrimp fettuccine was delicious; my friend commented that the zuppa soup had a different sausage than previously used in the past, that this time the sausage was less spicy.I ordered the long island limoncello, was good, but not what I expected. I would definitely go back and would recommend to friends... just wait til about 230-300 in afternoon when the craziness dissipates :)",
+                "reviewer_id": "GQ4WZbwsmjgQ1KmTttRc8Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3229959096686563,
+                    "positive_probability": 0.6770040903313408
+                },
+                "stars": 4
+            },
+            {
+                "review": "In General, I consider the Olive Garden chain to be one of the upper-average casual chain restaurant choices.  The Champaign Olive Garden has declined significantly within the last year.  I believe this is due to a change in management, but I am not 100% certain.  My last meal there was in November and the standards were that of poorly-run fastfood restaurant.  This is what I wrote about it at the time:\"Remember how Olive Garden used to be a 'nice' place to have a casual meal?  Even though it was a chain restaurant and you knew most of the food was heated up in a microwave, it looked like real food and it almost tasted like it had been cooked.  It seemed a little nicer than your T.G.I. Fridays and your Applebee's.  Well, it's not like that anymore.  Not the one in C-U anyway.  I don't think I will be going back there ever again.   The first thing I noticed when I walked in was that the entire place reeked like a sour towel.  Someone had obviously wiped all of the tables down with a cheap disinfectant solution that had gotten a bit... ripe.  It was disgusting.  I proceeded to the bathroom to wash my hands before my meal where I found two employees lounging about and chatting while pretending to clean the restroom.  Since they did not find it prudent to tone down their conversation whilst a guest was in their presence, I got to enjoy a pre-dinner melodrama.  Apparently an employee of the Olive Garden is trying to file a sexual harassment suit and the management had been asking both ladies if they had experienced any inappropriate behavior.  And while the accused sometimes gets a \"wild hair up their ass\" they did not consider themselves harassed.  Speaking of sex, Manuel looked FINE this morning and when he came into work they were like \"oh my GOD!\"  When I got back to my seat, our waiter (who I admit was nice and attentive) served us a sample of white zinfandel that had the distinct vinegary taste of a wine that has been left uncorked for too long.  The food, which tasted decent, no longer looks, tastes or feels like real food.  Both the dinner and dessert had an artificiality to it that resembled an expensive TV dinner.  The textures were waxy and the cheese was lardlike.  While the flavors were bold, they tasted man-made and had a processed mouth-feel.  It was to real food what Velveeta is to real cheese.  The dessert, the chocolate torte, especially had the look of something that had just been plopped out of it's microwavable container.   The vanilla sauce was practically flavorless and the torte was only heated halfway, resulting in a jello-pudding like consistency to the fudge filling.  It is also made with artificial sugar now, which adds to its alien flavor and texture.  In truth, the food quality is comparable to a fast food restaurant.  The only difference is that they offer more variety and a few more low quality ingredients per dish.I know it's just Olive Garden.  I know it's an evil chain restaurant and a glorified McDonalds.  I guess the thing is that it didn't used to be this way.  I think I've heard that they are under new management.  It used to be satisfying in a guilty pleasure flavor overload sort of way and it made you feel sort of ok about it because it deceived you into thinking it was real food.  But now it's not.  The seams are showing.  Quality of service and presentation has gone way down.  Corners are being cut and it shows.  You can tell it is just a fancier Fazoli's and it's really had to pay $25-$30 bucks a person for some sour wine and some microwaved Italian Velveeta in a place that smells like mildew.",
+                "reviewer_id": "h_aCvGeKvptFw5MnfCuK-Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3717199280213166,
+                    "positive_probability": 0.6282800719786555
+                },
+                "stars": 1
+            },
+            {
+                "review": "We visited 6/6/15 around 6:30-7. Party of 2. We were seated right away. The host said our server would be right with us to take our drink orders. We waited about 15 mins just to order lemonade. By the time Meghan took our drink order, we were ready to order our appetizer. Good thing because it took 45 minutes for our smoked mozzarella to come to our table. The other guests seated around us all seemed to have better service and didnt have much of a wait. Our server ignored our requests for refills and more bread sticks and had to be reminded a couple times. Our cups sat empty for most of our meal. Not even 5 minutes after our appetizer (almost and hour into our meal), we got our entrees. We didn't have enough time for our app. I have zero complaints about our food, just the service was awful. At the end of our meal, Meghan boxed up our left overs and said she would return with a bad for our bread sticks, but she never came back.  The only thing crappier than the service was the parking lot with potholes that could swallow my Hyundai whole. We will be going back to Olive Garden, but not to this location.",
+                "reviewer_id": "HlYlAW3RupW0Ig4jcyg8bA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8838542024731457,
+                    "positive_probability": 0.11614579752683842
+                },
+                "stars": 2
+            },
+            {
+                "review": "My friend and I went here earlier this week and had an awful experience with the server. We asked another server for refills, she promptly brought them and sent the manager to our table. We explained what happened and we were understanding because the server was relatively new. The manager comped our entire meal. This is not what we were expecting nor wanting...we simply wanted refills. I really appreciate that the manager went above and beyond for the customer.",
+                "reviewer_id": "hRflciflE77Ekmg5gGNwiQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6025943874883745,
+                    "positive_probability": 0.3974056125116226
+                },
+                "stars": 3
+            },
+            {
+                "review": "Love it!!! Never a bad experience!! We always hope manager Susan Is working!! Food is worth every penny and service is awesome!!",
+                "reviewer_id": "IYWApzKpv03GYuw0gYlHAQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6878738180333965,
+                    "positive_probability": 0.31212618196660225
+                },
+                "stars": 5
+            },
+            {
+                "review": "The little point of sale device on the table was a waste of space and only a way to sell game play time. They are so inn our face saying \"make sure you pay\". I hope they removed these so Olive garden will return to being a nice friendly place to eat instead of money grabber.",
+                "reviewer_id": "lB6ykNiO-Sbn46rmffd7dg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7321649913262699,
+                    "positive_probability": 0.2678350086737283
+                },
+                "stars": 1
+            },
+            {
+                "review": "Went with a friend recently. Food was typical Olive Garden fare, great soup and bread sticks, and OK-ish entrees. But the service wasn't the best (I am not sure if the bread sticks came out late because they were being baked or if the waitress forgot, but we had wait for about 15 minutes after ordering our food before reminding her - I mean come on, their bread sticks and soup is one of the few reasons I even go to that place !). Other than that, their smoked mozarella fonduta was pretty good. Nothing much to write about the rest of the experience.",
+                "reviewer_id": "lC1UNgZlTmS7UZcTh5dIQQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9677774121133664,
+                    "positive_probability": 0.03222258788663124
+                },
+                "stars": 3
+            },
+            {
+                "review": "Jeff was awesome! Made us feel very welcome.",
+                "reviewer_id": "Nu0Xw_gbP6ZLZt_7ulg7yA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.35207103185865174,
+                    "positive_probability": 0.6479289681413481
+                },
+                "stars": 4
+            },
+            {
+                "review": "Food was good but our waitress Keisha S. Was not friendly at all. We had to practically beg for refills. Not to mention 2 of the waiting staff members making out in front of me and other families around. Good food but lacks a family friendly environment.",
+                "reviewer_id": "OHv_12jUQ7hD7dIvqdxvPQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2606758678839379,
+                    "positive_probability": 0.7393241321160625
+                },
+                "stars": 2
+            },
+            {
+                "review": "Man, this place is packed with moms, dads, and their UIUC-enrolled kids.  I swear, they used this location to film their latest commercial, about a college girl, her parents, and her (freeloading) roommates/friends.Sometimes you gotta fill a craving, and that means waiting an hour for a table.  And all Conan O'Brien/Jim Cramer jokes* aside, it's a pretty damn good place to go for the money. And the chairs have wheels! WEEEEEE!I swear, the soup/salad/breadsticks have sprinkles of crack and MSG, they're pretty addicting.  And I'm pretty sure they use one can of Morton's salt per serving bowl of salad.Tip: Make sure you ask for more salad and breadsticks as soon as you get your first batch, or the waiter will disappear until your entrees arrive.  By then, they know they got you pinned against a psychological wall, because who eats more salad with their entree?  Break past that wall of uncomfortability and continue to ask for refills until the check arrives.  Heck, ask for it after the check arrives.  It's like a glass of water - it should always be full.FYI, the sangria is f-ing expensive. BEWARE!*If you haven't seen Conan's impression of an Italian grandfather going to Olive Garden or the Conan/Cramer interview about Olive Garden, do so immediately.",
+                "reviewer_id": "oNFUMUk20aK9ZaaDmVLssA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.28248163969035783,
+                    "positive_probability": 0.7175183603096333
+                },
+                "stars": 4
+            },
+            {
+                "review": "Best food ever! End of discussion. I love coming here! Friendly waiters and delicious breadsticks!",
+                "reviewer_id": "pzaj07ZqUWAnTaVYfcM49w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3004803300121162,
+                    "positive_probability": 0.6995196699878843
+                },
+                "stars": 5
+            },
+            {
+                "review": "Overpriced just \"okay\" italian food.  My dinner included overcooked (mushy) pasta and overcooked shrimp...husbands chicken had gross fat and chewy sections.  Not worth the $50 price tag...should have ate at a local joint.",
+                "reviewer_id": "qiwYvgxCJlX-y2TkymSwHQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.07795460301630953,
+                    "positive_probability": 0.9220453969836926
+                },
+                "stars": 2
+            },
+            {
+                "review": "This Olive Garden is more crowded and a little dirtier than other Olive Garden's I've been to in the past.  Last time I was there, our waiter dropped half of my friend's meal on the floor right in front of her, put some of it back on her plate, and then didn't replace the rest.  This time, we had a really nice friendly waitress.  So I guess it's about what you'd expect from a chain; sometimes the service is good, sometimes it's not.",
+                "reviewer_id": "sleEMt44E1StWrjz3mcujQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.24743329084224217,
+                    "positive_probability": 0.7525667091577591
+                },
+                "stars": 3
+            },
+            {
+                "review": "We had a gift card and we were crusing through on a road trip. Why not. Alexis was great. She was new. Thought she did well.",
+                "reviewer_id": "uANCvwZ5zsvw4QSEHqP-HQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7133315635488445,
+                    "positive_probability": 0.2866684364511559
+                },
+                "stars": 4
+            },
+            {
+                "review": "Extremely poor service !  Waiter always making excuses,  food not as good as in past!",
+                "reviewer_id": "UIiZ5-y4oUd6Amgd_HCBZA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6234637939144035,
+                    "positive_probability": 0.3765362060855956
+                },
+                "stars": 2
+            },
+            {
+                "review": "I have tried this Olive Garden over the several years that it has been in Champaign and not once have I liked ANYTHING.  I don't get why it is so crowded all the time and people are willing to wait a long time just for a table.  The house salad is awful and so are all the soups.  I have tried several items on the menu over the years and I have always felt ripped off because it's so expensive as well as awful.  I try really, really hard not to go here but sometimes there are \"those\" people who choose this place to have their birthday dinner or graduation lunch and I am forced to go.",
+                "reviewer_id": "W4ojW7f30haCertr4CzFJw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4544526580779324,
+                    "positive_probability": 0.5455473419220626
+                },
+                "stars": 1
+            },
+            {
+                "review": "Let me begin by saying that our waiter was very friendly! Although he was really pushing the add an item into the bill. Asking us what we would like to chose between an apple dish or lemon cake.. It almost made us feel guilty for not ordering.. On the other side, the food was disgusting. I was extremely disappointed with my salad, I ordered an extra side of shrimp that cost so much and only came with four pieces. (Waiter said it was 8 or 12) My boyfriend ordered spaghetti that had such little sauce that i asked them to recook or toss it. I am usually extremely satisfied with Champaign restaurants but this visit was pitiful.",
+                "reviewer_id": "XvYTf92Zykv4SntHD0QlBw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.07647925451373426,
+                    "positive_probability": 0.9235207454862675
+                },
+                "stars": 2
+            },
+            {
+                "review": "Another date night! This one wasn't my choice though, and knowing how I feel about chains as well as my high standards for Italian cuisine, I bit my tongue and hoped for the best.We had to wait about 10 minutes on a Tuesday night to be seated. Apparently Olive Garden is a hot commodity in Champaign....We were seated and I was quite indecisive about what to get. I settled on a build-your-own-pasta with alfredo/cream sauce and added Italian sausage. For my choice of soup, I got the Tuscan bean, and of course the notorious breadsticks. The soup was pretty tasty, it had like beans and zucchini and onions and a bunch of other things in a tasty tomato-y broth. Not bad! The pasta I got wasn't too bad either, the noodles may have been a little overcooked but the sauce was pretty creamy. I did not like the sausage. I'm no tubular meat expert but this tasted really institutional and for the upcharge it cost to add it to my pasta, I probably should have just went meatless or ordered the chicken, like my smarter date did....The thing that really upset me about the experience though was the service. I don't remember the server's name, he was actually quite personable, but our meal felt very very rushed. Our soups came out quick which was good, but I was not even halfway done with mine before our dinners had arrived and we had to move our soups out of the way to eat our dinner. I'd consider myself a fast eater, too so this was frustrating, especially since I wanted to actually talk to my date, you know, the reason why I'm here in the first place!! This wasn't the last straw though, I was probably 75% done with my entre when the server comes up and asks if we are interested in desert. Ugh! We looked at each other and both agreed this meal was unnecessarily rushed. At that point I just asked for the bill which he pulled up on those tacky tablet things a lot of chain restaurants have now.The food wasn't even as bad as I thought it was going to be, but the hurriedness of the service really put me off. 2/5",
+                "reviewer_id": "XzIKZTb4I-7wW4BjKwV2Mw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6444522731465818,
+                    "positive_probability": 0.3555477268534006
+                },
+                "stars": 2
+            },
+            {
+                "review": "Very poor quality food. The only bright side of this dinner was the pleasant waitress.  Our pizza was mushy and undercooked. I ordered the chicken toscano and it tasted like straight up balsamic vinegar and the risotto was pretty bad. I couldn't eat it. The description was nothing like the actual entree.  But the staff is really nice.",
+                "reviewer_id": "YpyFCH3XGwgvRcyMG9a-hA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.17288515461535492,
+                    "positive_probability": 0.8271148453846485
+                },
+                "stars": 1
+            },
+            {
+                "review": "I have been to this Olive Garden so many times over the years. And this is the first time I was disapointed. Our poor waiter was so over worked. The blond female manager had sent people home and they then got a rush. The funny as heck black bald waiter we had was the best. He handled 10 tables with grin and a joke for each. He was as fast as he could be. The food was okay. But our waier honestly made the visit as good as it was.",
+                "reviewer_id": "Z5SBgJ9QHAwPH1XCJUUfZg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7097977515778953,
+                    "positive_probability": 0.2902022484220998
+                },
+                "stars": 3
+            },
+            {
+                "review": "I just don't get why people wait in line to get into this place.  My family and I go here from time to time, but I think today's visit will be our last.  We got a table right away, but we waited about 15 minutes before our waitress arrived.  She apologized and said no one had told her that we were there. I ordered bruschetta and salad and my companions had soup and salad.  Olive Garden's soups are pretty good, I'll grant them that.  But the bruschetta was just awful.  It was just toast with chopped tomatoes, no garlic, salt or olive oil at all.  The breadsticks and salad  were just ok; I don't see why people rave over them.  Salad did have pepperoncini peppers, which were a nice touch. The waitress was polite but seemed to be either new or overwhelmed. She never refilled any of our drinks and just seemed sort of distracted. We left her a nice tip though.  I've been a waitress and know how hard it can be, especially at a chain restaurant where the crowds and their demands are never-ending.  I'm no food snob, but Olive Garden seems to aspire to lowest-common-denominator, faux-Italian food for people who've never had the real thing and don't know what they're missing.",
+                "reviewer_id": "zaAnvzBTJh6mMrEJXUD4ig",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0007004318288238847,
+                    "positive_probability": 0.9992995681711685
+                },
+                "stars": 2
+            }
+        ],
+        "similar_restaurants": [
+            "CcsJm10_5ULE0j41DkcQ6g",
+            "JlcbIU8V6ohFCwfuMr7tBg",
+            "h9xdY1NO4GnNijNChTy-8A",
+            "1Vmbe7dsvPQMu4FuiH_LLQ",
+            "RSk-BYX8s5027cKo_aELrw",
+            "2SycDjGWWpFs1ODL-YBoHA",
+            "9p3O_KoH3muITR-9WgrSnA",
+            "rm2OnyNDnlWkSNUSxETsGg",
+            "oVX8BPEWRl4iBgApA3PBYw",
+            "oP8KsXHOUA_otHHI5JHScQ"
+        ]
+    },
+    "d1ZT8gm7MTNHipyHEphKYA": {
+        "keywords": {
+            "bigrams": [
+                "customer_service",
+                "cinnamon_roll",
+                "iced_tea",
+                "horseradish_tomato",
+                "sierra_turkey",
+                "panera_usually",
+                "heat_cinnamon",
+                "taste_buds",
+                "roll_heated",
+                "try_order"
+            ],
+            "unigrams": [
+                "panera",
+                "food",
+                "good",
+                "don",
+                "order",
+                "sandwich",
+                "soup",
+                "salad",
+                "bread",
+                "coffee"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "none",
+                "Ambience": {
+                    "casual": false,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "Caters": true,
+                "Delivery": false,
+                "Good For": {
+                    "breakfast": true,
+                    "brunch": true,
+                    "dessert": false,
+                    "dinner": false,
+                    "latenight": false,
+                    "lunch": false
+                },
+                "Good For Groups": true,
+                "Good for Kids": true,
+                "Has TV": false,
+                "Noise Level": "quiet",
+                "Outdoor Seating": true,
+                "Parking": {
+                    "garage": false,
+                    "lot": true,
+                    "street": false,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 2,
+                "Take-out": true,
+                "Takes Reservations": false,
+                "Waiter Service": false,
+                "Wi-Fi": "free"
+            },
+            "business_id": "d1ZT8gm7MTNHipyHEphKYA",
+            "categories": [
+                "Soup",
+                "Sandwiches",
+                "Salad",
+                "Restaurants"
+            ],
+            "city": "Champaign",
+            "full_address": "1903 Convenience Place\nChampaign, IL 61820",
+            "hours": {
+                "Friday": {
+                    "close": "22:00",
+                    "open": "05:30"
+                },
+                "Monday": {
+                    "close": "21:00",
+                    "open": "05:30"
+                },
+                "Saturday": {
+                    "close": "22:00",
+                    "open": "05:30"
+                },
+                "Sunday": {
+                    "close": "21:00",
+                    "open": "07:00"
+                },
+                "Thursday": {
+                    "close": "21:00",
+                    "open": "05:30"
+                },
+                "Tuesday": {
+                    "close": "21:00",
+                    "open": "05:30"
+                },
+                "Wednesday": {
+                    "close": "21:00",
+                    "open": "05:30"
+                }
+            },
+            "latitude": 40.138507,
+            "longitude": -88.243173,
+            "name": "Panera Bread",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media4.fl.yelpcdn.com/bphoto/KhQZMP2TXTqbKna1AYR6-A/ms.jpg",
+            "review_count": 22,
+            "stars": 2,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "It's a chain, but a damn friendly one, filled with soup and delicious sandwiches, topped off by hot coffee and free wi-fi. I have been to Panera several times. But they are frequently out of coffee (one time completely out at 9:10 am and after waiting 5 min. ",
+        "reviews": [
+            {
+                "review": "Panera is usually where my wife and I go when we don't really know what we want, but this one was terrible. To start things off the staff was just kind of rude. Then, my wife wanted tea..there was no sweet tea so she decided to have unsweet. Unfortunately BOTH of the unsweet teas were just about empty. She got half a cup and wasn't able to get more till we were leaving. The place was also filthy! There were a ton of open tables, but not one clean table and no one was cleaning tables. We picked the cleanest one and wiped it off ourselves. Also, the floor was littered with trash. On our way out my wife was refilling her tea, since she never got a full cup to start with, and a worker was straightening out the condiments, nodded to herself about a job well done and left. She also left another complete mess as there was sugar spilled all over the place. We will not be back.",
+                "reviewer_id": "0BG18g4AMZRViepqiccrMA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.009968369868061745,
+                    "positive_probability": 0.9900316301319445
+                },
+                "stars": 1
+            },
+            {
+                "review": "I had the Greek Salad and Strawberry Fruit Smoothie. Both were excellent.",
+                "reviewer_id": "3qFI4GeLEDUtWNRpLBY68Q",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5326928813950776,
+                    "positive_probability": 0.46730711860492263
+                },
+                "stars": 5
+            },
+            {
+                "review": "I tried this place for the 1st time and will never go back I was ordering a sandwich and asked if I could get it on a different type of bread they could have no and I would have been fine with that but instead they went on to tell me that the bread they use is the best bread for that sandwich when I told I dont like that bread they got into an argument with me about what bread was good with that. I think its way overpriced for what you get",
+                "reviewer_id": "5QwDvcqj2780HHi8N7cmwQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9473391752994788,
+                    "positive_probability": 0.052660824700523724
+                },
+                "stars": 1
+            },
+            {
+                "review": "16 minute wait in drive thru with only 2 cars in front of me. The guy made me repeat my order twice cause he said he forgot for my 2   items. Car in front of me was asked to move up he waited 6 mins and gave up he did not even wait for the coffee he paid for. Took them 5 mins to just acknowledge me at the window. Got my sandwich and he asked if I wanted cream and sugar I said yes. And now I'm drinking black coffee.",
+                "reviewer_id": "5ZIbB1o742vx77ZgO67ZQw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9985924138774132,
+                    "positive_probability": 0.0014075861225897298
+                },
+                "stars": 1
+            },
+            {
+                "review": "This location's customer service could really use improvement. I continue to eat at Panera because I like their food and it's a healthy-ish option close to home but the staff always seem annoyed, irritated that you are there, and like you have severely inconvenienced them. I've started ordering online and picking it up through the drive thru just to avoid the staff.",
+                "reviewer_id": "60juruDHOc7-yhc2bE2Elw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5120107342057978,
+                    "positive_probability": 0.48798926579419927
+                },
+                "stars": 2
+            },
+            {
+                "review": "grabbed breakfast here this morning and enjoyed the spinache artichoke souffle and a coffee.  do not try to order a latte or other espresso drink because you will be disappointed.  just opt for their house blend or their columbian.  i like this panera better than the one at old farm shoppes because the clientelle seems a bit more diverse.  free wi-fi is a plus too.  yummy soups and salads but don't try to order any of the panini sandwiches without meat...they'll tell you no.  they are all premade and just waiting for the sandwich iron...kind of makes you glad you weren't allowed to order one.",
+                "reviewer_id": "6pC5j-hfP4xLZB2W0Wi1vg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.19679593567319278,
+                    "positive_probability": 0.8032040643267989
+                },
+                "stars": 4
+            },
+            {
+                "review": "I stood and watched a man put on gloves on then rub his dirty hat with them. He then proceeded to use his hands to prepare my salad. Needless to say it was tossed it the garbage and I will never be returning. The staff needs training in preparing food in using safe and sanitary measures.",
+                "reviewer_id": "9oUanpbyyuAfFAVpTkr2eg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9377501920164043,
+                    "positive_probability": 0.06224980798359752
+                },
+                "stars": 1
+            },
+            {
+                "review": "I have gone to Panera for YEARS and usually they are top notch and reliable....This location, however, is not.  Before I put my review, let me say that I have had to contact corporate TWICE to try and see any type of resolve...Let's hope this second time will actually work... I have gone to the same Panera for the past three days and apparently they do not feel the need to pay attention to detail to those in the drive thru.  The first two days, I ordered exactly a large black iced tea with a cinnamon roll heated up.  The first day, they heated up and placed it inside the bag without a box, completely unsanitary.  The second day, they said \"we don't heat up cinnamon rolls here.\" I had to in fact inform the employee that they did heat cinnamon rolls, however, yet again, my cinnamon roll was thrown into a bag with my napkins and such thrown on top.  The third day took the cake.  I decided to spell it out for them because clearly they did not understand that a cinnamon, like any other pastry, goes in a box. So, I ordered a large black iced tea with a cinnamon roll heated up in a box.  And what did I get? A cinnamon roll, in a bag, not heated up.  The customer service here is beyond poor.  Upper management needs to step in because clearly the management at the store is not providing proper training.",
+                "reviewer_id": "CxYbWShHHDnNiQ00xSKciw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.00030196128726021123,
+                    "positive_probability": 0.9996980387127529
+                },
+                "stars": 1
+            },
+            {
+                "review": "Good Food, Good Coffee.  And you can get a genuine ceramic mug, very civilized!",
+                "reviewer_id": "d1I7WgowWgblUJ9uWgRn6A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.39614267473303605,
+                    "positive_probability": 0.603857325266964
+                },
+                "stars": 4
+            },
+            {
+                "review": "Horrible customer service, since it was the first time we order from the lunch menu we asked the cashier questions about what's in the soba bowl, the cashier, Robin, was very rude and acted like she cannot understand me when I placed my order. Don't eat here unless you want to be treat like an idiot.",
+                "reviewer_id": "DGot8Hab8qNGQMGFfAF_8Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.27499393080665296,
+                    "positive_probability": 0.7250060691933425
+                },
+                "stars": 1
+            },
+            {
+                "review": "I'd give them a five for food, but a 3 for customer service. Our cashier was Kellie jo and she was so polite and warm and friendly. She gets a 5! However, as we were standing in line, Robin was open at the cashier next to her and had no customers as she stood there and did not ask to help us while Kellie was busy with another customer. When it was our turn to be waited on by kellie, Robin then turned around and talked with another employee. Other than that, kellie needs a raise and i will come back, if she's working. The food, however is always wonderful and makes my taste buds want more.",
+                "reviewer_id": "GlLMYh0etCbXzSIpAyeq2g",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0006618056351731113,
+                    "positive_probability": 0.9993381943648313
+                },
+                "stars": 3
+            },
+            {
+                "review": "Don't know why I haven't done this before but absolutely the worst Panera I've ever experienced. Gave them many chances because I do like their food and they are convenient to work. But they are frequently out of coffee (one time completely out at 9:10 am and after waiting 5 min. Still no coffee!) customer service? Worst ever! Management? Disengaged at best. Downright worthless the rest of the time. Corporate needs to wake up. I've boycotted this location for the past 4 months and feel much better for it!",
+                "reviewer_id": "jvTmrtXOXecph-UPyV1wVQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9905972262568062,
+                    "positive_probability": 0.00940277374319166
+                },
+                "stars": 1
+            },
+            {
+                "review": "The worst Panera I have ever been to.  One of the worst places in the C-U. We went there to get some bread, and stood in line for 5 minutes while receiving awkward looks from their employees.  No one came to help us or take our order.  There must have been at least 10 employees standing around, doing absolutely nothing, ignoring us.  It was so bad we left, along with the other customers behind us.  Do not waste your time at an establishment that cannot be bothered to take your money.",
+                "reviewer_id": "mlxwcI_dMNzdwwYzjADn-A",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9834090775665019,
+                    "positive_probability": 0.01659092243349122
+                },
+                "stars": 1
+            },
+            {
+                "review": "This national chain is going to save my life because it is probably one of the healthiest chains now available in most locales across America. I had the kale salad with the French Onion Soup. Yes, maybe the soup is a little salty - but hey, salt gives flavor. The kale salad is new and has the name ingredient, romaine, parmesan, some sort of little wafer-like crouton and chicken. They give a 1/2 lemon and simple olive oil for dressing. Delicious! Oh, and get the unsweetened Acai Iced Tea! Maybe they have new management, maybe I was there on a good night, maybe I'm not that critical... I don't know what the other reviewers are talking about... service was friendly and professional... and no Panera is quick, duh, it's considered slow fast food just like 5-Guys and some other relatively new chains, you have to wait 5-10 minutes for your food because they make it to order. When you expect that and you see they are especially busy, I suppose 15 minutes could happen. I don't know. I had a good experience here and I enjoyed my meal. It sure beats MacDonalds...Cheers!",
+                "reviewer_id": "P6DpZi2xvUZBylskBhu9fQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.16984437629524005,
+                    "positive_probability": 0.8301556237047518
+                },
+                "stars": 4
+            },
+            {
+                "review": "This is the worst Panera I have ever visited. Whomever was is charge around 3: 30pm was extremely rude. He was condescending to the other employees, and seemed to be on a power trip. I saw employees rolling their eyes behind his back. I had ordered one full salad and a half salad. They both were the same size. When I brought it to their attention that both were half salads, they insisted that one with the bigger bowl was the full salad.",
+                "reviewer_id": "p940gbT1Z4fZXdbUalTa_w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0691577864313537,
+                    "positive_probability": 0.9308422135686424
+                },
+                "stars": 1
+            },
+            {
+                "review": "Panera's generally very good, but this location is... well, not. Today, I ordered a sandwich to go (the Asiago Steak, which is normally good) but asked for no horseradish or tomato. Lo and behold, when I get home... there's horseradish and tomato. This is after they gave me chips instead of the baguette I wanted, which I managed to catch.When you're paying $10 for a sandwich and a side, especially one made right there, I don't think that it's an unreasonable request to take off the condiments. If Subway will do it... Anyway, I've learned my lesson.",
+                "reviewer_id": "qR6jQSCWN94STCjsnTU8vQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.12523573969138901,
+                    "positive_probability": 0.8747642603086063
+                },
+                "stars": 1
+            },
+            {
+                "review": "Being a chain, the food is pretty much the same no matter what branch you go to. What sets this place apart from the other branches I frequent are the sour expressions on all 3 people behind the counter. At 6:00 a.m., it would be nice to see even a half smile from the lady taking our order. Nope! This place scores zero on customer service.",
+                "reviewer_id": "rzBxepHfdWxMGgAeD95R_w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.13798810012801713,
+                    "positive_probability": 0.8620118998719878
+                },
+                "stars": 1
+            },
+            {
+                "review": "It's a chain, but a damn friendly one, filled with soup and delicious sandwiches, topped off by hot coffee and free wi-fi.  Great spot.However, just a word of warning.  If you're there to take a breather and collect yourself, avoid move-in week.  Stressed soccer moms with their soon to be inebriated freshmen children do not help keep one's sanity in the newly packed environment.That said, great job, Panera for giving us grad students free wifi and great food.  Excellent.",
+                "reviewer_id": "SpKVX3rt892E-BrL-yeqiw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.023425187593340134,
+                    "positive_probability": 0.9765748124066631
+                },
+                "stars": 5
+            },
+            {
+                "review": "One of the better Panera's in IllinoisThey have Apple Pay! Don't find that in many places even though Apple made it seem like it was the future.The girl behind the counter was friendly and efficient.The food came out fast and the soup was hot and delicious.I have been here 3 times and it's always a pleasant experience. No surprises just a solid Panera",
+                "reviewer_id": "twF_2RKnDgJqmKMU3K9A5w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.06839813918071429,
+                    "positive_probability": 0.931601860819283
+                },
+                "stars": 5
+            },
+            {
+                "review": "Less than full soup and no replacements as promised.  5$ a bowl is too much money anyway.  Will probably not return.",
+                "reviewer_id": "uPjjcNgxbUK3otgj5X42zA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9207820876323685,
+                    "positive_probability": 0.07921791236763259
+                },
+                "stars": 1
+            },
+            {
+                "review": "I have been to Panera several times.  The broccoli cheese soup and french onion soup are the best,.  However, I have never had a good apple from Panera.  EVER.  They are always tasteless and thick skinned.  I am not sure where they get their apples from but it might not be bad idea to shop around and have someone with taste buds pick the apples.The Sierra turkey is a really good Cafe sandwich but the onions on it are a bit hot and strong.  I picked them off. The Chipolte mayo was a little spicy but added great flavor to the sandwich. It comes on Asiago cheese focaccia which I probably would have picked a different bread. I have tried other sandwiches and I have liked most of them.I tried one of the new pasta dishes the other day and was not overly impressed.  But I am not a pasta person.I went through the drive through for the first time today and I was really impressed with how quickly I got in and out of it.  It seems you wait longer for you food when you dine in.",
+                "reviewer_id": "W4ojW7f30haCertr4CzFJw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9308471007544258,
+                    "positive_probability": 0.06915289924557404
+                },
+                "stars": 3
+            },
+            {
+                "review": "Panera is usually a pretty reliable place to stop when traveling, but this location left much to be desired.  The person who waited on us was not friendly at all; a smile or a \"hi\" would have been nice.  The food wasn't up to par, either  There was one small dot of chipotle mayo on my Sierra turkey; guess they were rationing condiments that morning. The pricing structure on the You Pick Two has changed, now each thing is individually priced .  Our lunch was over $18; we drink water.....pretty pricey for a half sandwich with a salad or soup.  Bathroom needed some work as well.  Won't be back here.",
+                "reviewer_id": "zm3VcsS2h2OdB_7-TThhiw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.998385438882236,
+                    "positive_probability": 0.0016145611177593065
+                },
+                "stars": 2
+            }
+        ],
+        "similar_restaurants": [
+            "q4raCE4a8wMEETPG45HgAA",
+            "j9N_fG1PVCSY-3HY1TRQ5Q",
+            "ey7-ihj-OjM4sEOwWTc06Q",
+            "jv-VfERRGsx0-MF7kLj8XQ",
+            "mSTjlawGZcbg8YBQx9UxFg",
+            "leH24AjTrmcImAbsdh4HFQ",
+            "elwuxXreWA3IVAW5qNOw3g",
+            "uhzZM-WwNsaVuvGRjv3mXw",
+            "4PatE4TUcea0Dj0hKICGJw",
+            "Fb3Pl0PO_ojEyChkM_SApA"
+        ]
+    },
+    "q4raCE4a8wMEETPG45HgAA": {
+        "keywords": {
+            "bigrams": [
+                "great_place",
+                "panera_bread",
+                "black_bean",
+                "pretty_good",
+                "broccoli_cheddar",
+                "leaves_desired",
+                "cheddar_soup",
+                "bean_soup",
+                "breakfast_sandwich",
+                "luke_warm"
+            ],
+            "unigrams": [
+                "panera",
+                "good",
+                "place",
+                "soup",
+                "great",
+                "food",
+                "bread",
+                "free",
+                "pretty",
+                "salad"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "none",
+                "Ambience": {
+                    "casual": true,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "Caters": true,
+                "Delivery": false,
+                "Good For": {
+                    "breakfast": true,
+                    "brunch": false,
+                    "dessert": false,
+                    "dinner": false,
+                    "latenight": false,
+                    "lunch": true
+                },
+                "Good For Groups": true,
+                "Good for Kids": true,
+                "Has TV": false,
+                "Noise Level": "average",
+                "Outdoor Seating": false,
+                "Parking": {
+                    "garage": false,
+                    "lot": false,
+                    "street": false,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 2,
+                "Take-out": true,
+                "Takes Reservations": false,
+                "Waiter Service": false,
+                "Wheelchair Accessible": true,
+                "Wi-Fi": "free"
+            },
+            "business_id": "q4raCE4a8wMEETPG45HgAA",
+            "categories": [
+                "Soup",
+                "Sandwiches",
+                "Salad",
+                "Restaurants"
+            ],
+            "city": "Champaign",
+            "full_address": "616 E Green Street\nChampaign, IL 61820",
+            "hours": {
+                "Friday": {
+                    "close": "21:00",
+                    "open": "07:00"
+                },
+                "Monday": {
+                    "close": "21:00",
+                    "open": "07:00"
+                },
+                "Saturday": {
+                    "close": "21:00",
+                    "open": "08:00"
+                },
+                "Sunday": {
+                    "close": "21:00",
+                    "open": "08:00"
+                },
+                "Thursday": {
+                    "close": "21:00",
+                    "open": "07:00"
+                },
+                "Tuesday": {
+                    "close": "21:00",
+                    "open": "07:00"
+                },
+                "Wednesday": {
+                    "close": "21:00",
+                    "open": "07:00"
+                }
+            },
+            "latitude": 40.1106295,
+            "longitude": -88.2296312,
+            "name": "Panera Bread",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media1.fl.yelpcdn.com/bphoto/EuDzr8Ck6iR75qjAftrnHQ/ms.jpg",
+            "review_count": 16,
+            "stars": 3,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "Great place. The food is good. Panera is great. ",
+        "reviews": [
+            {
+                "review": "This may be a concern that relates to all Panera Bread locations so keep that in mind. Generally it seems that Panera puts decent food out. My complaint is the constant implication that they are all about healthy eating when they offer a single item on the menu that is vegan and it is only sporadically on the menu. The Black Bean soup is supposed to be vegan and is the only thing - other than a small side salad or an apple - that is a vegan meal. My issue other than the fact that there is no selection is that the Black Bean Soup is only on the menu certain days and not always reliably. Thus, it isn't worth going in to even try the place.  I raised the issue with an employee and she said they are \"working on it.\" That is pretty far behind the times and how hard is it to put a few more vegan items or to offer the one you have consistently? This is not generally and overall a healthy place to eat and really tries to make it look like it is. I hope someday they catch up and offer some vegan choices and more vegetarian fare also.",
+                "reviewer_id": "1QBi1Cx0mWaVY2xtZqtYzA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.00082797206617369,
+                    "positive_probability": 0.9991720279338338
+                },
+                "stars": 2
+            },
+            {
+                "review": "I love panera bread!! This specific location has always provided great service to me . Their food is always fresh and tastes great. It is a great place to meet up with friends or sit down and do homework while enjoying food! Their panera rewards program is also really great. It is free, so you should enroll for discounts and free items!! :)",
+                "reviewer_id": "44GzCA_7s9Xq3kzl2xD1TQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9133178048086378,
+                    "positive_probability": 0.08668219519135845
+                },
+                "stars": 5
+            },
+            {
+                "review": "Panera is great. The salads, sandwiches, and soups are wonderful. I really like that you can customize your order by replacing an ingredient or going without it. Makes your order a little healthier. I have cravings for their Mediterranean egg white sandwich. The salad varieties are always creative. The asiago cheese bagel is delicious! I also like their granola parfaits. You really can't go wrong with any of the options there. The service is fast and friendly too. Great place for a U of I student to grab a bite and study at the same time. I had an oatmeal raisin cookie there once and it was perfectly chewy (got it for free). I also like that the MyPanera rewards card gets you rewards like free drinks, pastries, soups, etc. The only thing I don't like about Panera is the calorie count of their foods, but it's nice to splurge every once in a while. I'm so grateful they post their nutrition information online, and in the store.",
+                "reviewer_id": "cwk-2n5y1FjSZZRnqb7XZw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.07319623098182895,
+                    "positive_probability": 0.9268037690181613
+                },
+                "stars": 5
+            },
+            {
+                "review": "I would give it four or five stars if it weren't for the terrible customer service. Some of the employees are okay, but many of the employees on the registers are unfriendly and cold. Paneras are known for their friendly and welcoming workers, but this location shows otherwise.",
+                "reviewer_id": "dWrsoRZSOfbwvdwXGI_5RA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6350463527156827,
+                    "positive_probability": 0.3649536472843165
+                },
+                "stars": 3
+            },
+            {
+                "review": "The paninis are generally the best sandwiches to order. Overall, this place is fairly average. You get a pretty solid sandwich if you're hungry.",
+                "reviewer_id": "eFIlrOz3TnuZQeh2Y1e17Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4856313525277833,
+                    "positive_probability": 0.5143686474722157
+                },
+                "stars": 3
+            },
+            {
+                "review": "So a Panera is a Panera, I guess... in general they range for me, averaging somewhere around a 4-star, I mean they are a chain but I tend to crave some of their soups and sandwiches... and they have free wireless... which should be standard now-a-days but isn't.This location was just okay because my soup was only luke warm and did not come with any bread. I'm pretty sure a bowl of soup comes with bread; if it doesn't it should.  What am I supposed to dip into my soup? Since it was only luke warm and all I had was an apple I turned my broccoli cheddar soup into fondue.Meh, I'll search for a local place next time.",
+                "reviewer_id": "F24V0h4b9IalOxWSSQPNSQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9531664936305979,
+                    "positive_probability": 0.046833506369399355
+                },
+                "stars": 3
+            },
+            {
+                "review": "I went in to get some cupcakes but there were flies sitting all over the cakes and scones ... I lost my appetite and left the place. They should at least have a plastic cover for all of the pastries like Atlanta Bread. It was disgusting... Sanitary issueeeee",
+                "reviewer_id": "fsFtniglGtomYpcFud8GEQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9628993587571704,
+                    "positive_probability": 0.037100641242828705
+                },
+                "stars": 1
+            },
+            {
+                "review": "Great place. Great atmosphere. Great food. Coffee leaves something to be desired however. And there is an unfortunate lack of electrical outlets. Laptoppers, beware!",
+                "reviewer_id": "Lj1dmFYx5iBtFAGRiDrC7Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4977396346004092,
+                    "positive_probability": 0.5022603653995918
+                },
+                "stars": 4
+            },
+            {
+                "review": "I've always enjoyed Panera since they first showed up on campus many years ago on John Street.  I prefer patronizing the paces off campus where you can get seats.  On campus, students take up space doing homework while diners walk around looking for seats.  The food is good.  The sandwichs are interesting and tasty.  The soups are mostly good, especially in a bread bowl.  Salads are also tasty and you can mix and match the sandwich, soup, and salads.  The Mediterranean Veggie is a fav, but the consistency of its assembly leaves much to be desired.  Sometimes it's sloppily slapped together and may be missing an ingredient or have a small amount of it.  The Baked Potato soup is quite good.  The seasonal Wild Mushroom soup is awesome.  They've had some other great soups on occasion, like Fire Roasted Corn.  The bagel selection is good but they're really nothing like New York bagels.  More bread than bagel.  The breads are excellent and the bakery items decadent.  Great Bear Claws and Danish and the Cobblestones are pretty good, though sometimes dry.  The Cinnamon Rolls are good in the centers but the outer edges are usally dry.",
+                "reviewer_id": "OZCzq4BvNGdTpBE2iUg0Tw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9306397644928817,
+                    "positive_probability": 0.06936023550710063
+                },
+                "stars": 4
+            },
+            {
+                "review": "The food was what I expected from Panera. The apple Fuji salad was delicious. My wife enjoyed her salad too. Although, they forgot to put dressing on her salad. When I brought it to their attention that they forgot the dressing they insisted that they did, but gave me salad dressing still. The most irritating part was that after we started to eat, they decided to clean around our table. They were cleaning the AC vent and the hanging light fixtures that were hanging above and around the table. A little consideration would be nice! Having dirt fall on you from above, and around you, is not a pleasant way to eat your food.",
+                "reviewer_id": "p940gbT1Z4fZXdbUalTa_w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0052820320171763,
+                    "positive_probability": 0.9947179679828261
+                },
+                "stars": 2
+            },
+            {
+                "review": "Don't get me wrong. The food is always delicious. However, they are pretty expensive for a place that cooks all the paninis at 6 in the morning and then leaves them in a fridge for the day. They also overcharge for the soup considering the fact that is has been frozen in a bag for a few days and then warmed up in warm water. They do have the loyalty card which does come in handy but you have to be a regular customer to actually receive good rewards.",
+                "reviewer_id": "qND0y_3FE2MIRkwocUBu_A",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.862308106480491,
+                    "positive_probability": 0.13769189351950423
+                },
+                "stars": 3
+            },
+            {
+                "review": "As many people that crowd this Panera Bread, there should be more reviews for this place! This is a hangout spot for a lot of people, including me. They are a great place to grab breakfast, lunch, and dessert. Their hot sandwiches are delicious and I always get the chips with one, even though you also have the choice of a baguette or apple. I took the unhealthy route with chips, but they're pretty good.Their bagels are a staple there. My favorite is the French Toast and the honey walnut cream cheese is to die for.Their breakfast sandwich, the Power Breakfast Sandwich, or whatever it's called, is really good and you should try it was sausage instead of ham and add some jelly.The pastries are also really good. The mini Pineapple Upside Down cake is delicious and not too sweet. Their brownies are some of the best I've had from a to-go food place. The chocolate chip cookies (get them in the bag) are so good, I'm curious how they get them to be that good.I'm a die hard Panera fan and I recommend you go because there are options for everyone.",
+                "reviewer_id": "THZbpyV1VQDJiBrDBbWpfw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.1731407781212936,
+                    "positive_probability": 0.8268592218787127
+                },
+                "stars": 5
+            },
+            {
+                "review": "Nothing feels better for a sore throat than warm chicken noodle soup (which is exactly what I had here last night for dinner)!I can't even begin to explain how excited I was when I learned a Panera was opening right on Green St. this summer.  It's one of my staples back home, and while it is a chain, they still have a great selection of food and baked goodies.Typically, I'll get their you-pick-2 (frontega chicken + broccoli cheddar soup = YUM!).  I love dipping their sourdough baguette into the warm soup.It's definitely a good place to stop by for lunch as they're quick, and you can always grab it to go.  Always a safe bet.  Plus!  Free wi-fi!",
+                "reviewer_id": "urDog6OhPoNKPJFUDob7AA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.15919597489474457,
+                    "positive_probability": 0.8408040251052477
+                },
+                "stars": 4
+            },
+            {
+                "review": "Went by after work (which isn't that late, around 5pm) to pick up some bagels for breakfast, and discovered that this location closes at 3pm. I could have sworn that I've had dinner at Panera before, so it must be a quirk of this particular one.",
+                "reviewer_id": "wBtPzdzr-IUVuEXdcViEYA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9039612047253278,
+                    "positive_probability": 0.09603879527467396
+                },
+                "stars": 3
+            }
+        ],
+        "similar_restaurants": [
+            "d1ZT8gm7MTNHipyHEphKYA",
+            "ey7-ihj-OjM4sEOwWTc06Q",
+            "uhzZM-WwNsaVuvGRjv3mXw",
+            "VI-zVIlK11AUz47mro8nMA",
+            "elwuxXreWA3IVAW5qNOw3g",
+            "YkKEsYsSpOkDBbHBGKuWQA",
+            "j9N_fG1PVCSY-3HY1TRQ5Q",
+            "Rh2Zb7J4n9M60ByTndWH2A",
+            "mSTjlawGZcbg8YBQx9UxFg",
+            "Uw1DZhEtTmLzMcXmdpR8Pw"
+        ]
+    },
+    "zO0xbqEznVuzPl54RExymg": {
+        "keywords": {
+            "bigrams": [
+                "style_pizza",
+                "chicago_style",
+                "old_chicago",
+                "deep_dish",
+                "thin_crust",
+                "pizza_buffet",
+                "beer_selection",
+                "chicago_pizza",
+                "pizza_good",
+                "pizza_hut"
+            ],
+            "unigrams": [
+                "pizza",
+                "chicago",
+                "good",
+                "place",
+                "style",
+                "food",
+                "don",
+                "beer",
+                "service",
+                "restaurant"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "full_bar",
+                "Ambience": {
+                    "casual": true,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "Caters": false,
+                "Delivery": false,
+                "Good For": {
+                    "breakfast": false,
+                    "brunch": false,
+                    "dessert": false,
+                    "dinner": false,
+                    "latenight": false,
+                    "lunch": true
+                },
+                "Good For Groups": true,
+                "Good for Kids": true,
+                "Has TV": true,
+                "Noise Level": "average",
+                "Outdoor Seating": true,
+                "Parking": {
+                    "garage": false,
+                    "lot": true,
+                    "street": false,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 2,
+                "Take-out": true,
+                "Takes Reservations": false,
+                "Waiter Service": true,
+                "Wheelchair Accessible": true,
+                "Wi-Fi": "free"
+            },
+            "business_id": "zO0xbqEznVuzPl54RExymg",
+            "categories": [
+                "American (Traditional)",
+                "Pizza",
+                "Salad",
+                "Restaurants"
+            ],
+            "city": "Champaign",
+            "full_address": "1910 N Neil St\nChampaign, IL 61820",
+            "hours": {
+                "Friday": {
+                    "close": "01:00",
+                    "open": "11:00"
+                },
+                "Monday": {
+                    "close": "23:00",
+                    "open": "11:00"
+                },
+                "Saturday": {
+                    "close": "01:00",
+                    "open": "11:00"
+                },
+                "Sunday": {
+                    "close": "23:00",
+                    "open": "11:00"
+                },
+                "Thursday": {
+                    "close": "23:00",
+                    "open": "11:00"
+                },
+                "Tuesday": {
+                    "close": "23:00",
+                    "open": "11:00"
+                },
+                "Wednesday": {
+                    "close": "23:00",
+                    "open": "11:00"
+                }
+            },
+            "latitude": 40.139794,
+            "longitude": -88.243786,
+            "name": "Old Chicago",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media3.fl.yelpcdn.com/bphoto/Uts1gMMMrRfCnynGYfGCJw/ms.jpg",
+            "review_count": 42,
+            "stars": 3,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "This wasn't Chicago pizza. I'm not here for a particular style of pizza, I'm here for good pizza. Because the 50% hadn't been taken off my pizza. ",
+        "reviews": [
+            {
+                "review": "Old Chicago is a chain restaurant I never knew existed, even though I'm from the Chicago area.  Oh wait, that's because Old Chicago has NOTHING to do with the city of Chicago itself.  It's based in Boulder, Colorado.  This would explain why the \"Chicago-Style Pizza\" was...not Chicago-style.  Yes, it's pizza baked in a pan, with a thickish crust, but when the sauce is not on top, it's not Chicago-style.  GET IT RIGHT OR PAY THE PRICE (to quote a favorite childhood TV show).Moving on.  I perused the website before we went, and was excited to see that on Thursday nights, they have $2.50 pina coladas and strawberry daiquiris.  I mean, $2.50??  Hell yeah!  See below:http://oldchicago.com/champaign/specialsWhen I mentioned these specials to the waitress, she looked dumbstruck.  After checking with her manager, she came back and said all they had were margaritas.  I sighed and said, sure, I'd have a margarita.  When she brought it, she informed me that she'd only charge me $2.50 for that one, but nothing else, because they didn't do specials anymore.  I responded that that was fine, but maybe they should TAKE THE SPECIALS OFF THEIR WEBSITE?  I mean, just a thought.  Oh wellz, the margarita was gross anyway.The one redeeming thing about Old Chicago is that it has a ridiculous beer selection.  Like, in the triple digits.  I have to respect that.  Otherwise, this place is pretty mediocre.",
+                "reviewer_id": "-C93MHl3n-O_5KU_zGjEgQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9676862208889769,
+                    "positive_probability": 0.03231377911103205
+                },
+                "stars": 2
+            },
+            {
+                "review": "I got what I expected when I went to this restaurant......above average deep dish Chicago style pizza. I really liked the atmosphere of the sports bar/pizza joint. This would be a great place to go to watch the game. All in all the food is good, but slightly overpriced in my opinion.",
+                "reviewer_id": "17f0wrjVsBh7TR-PsU6hjA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8665370514657459,
+                    "positive_probability": 0.13346294853425686
+                },
+                "stars": 3
+            },
+            {
+                "review": "Service wasn't that great, probably just our server though. The first time I went with my family it was fine, the other night sucked. When someone wants the chicken Alfredo without the chicken and wants veggies instead, you don't charge extra for the veggies. It's called \"special instructions\" on the POS. Granted it only cost $0.99 for the   substitution, but it's the principal of the cost of chicken vs the cost of veggies. Also, the veggies they gave were shredded carrots and broccoli with one sliver (literally one) of red pepper. There are better ways of going about substitutions.",
+                "reviewer_id": "1DeSfxo0l7n8lOec_qd5DA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5077773105497476,
+                    "positive_probability": 0.4922226894502488
+                },
+                "stars": 2
+            },
+            {
+                "review": "This place has really went down hill. We have had a couple terrible experiences here. Food is barely average and serve is up to par. I contact corporate about or last bad experience and I never received any reply back from anyone corporate or store level. Don't waste you time or money!",
+                "reviewer_id": "2d6bYq_7cfi8zp0lswZjOQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7073187476289959,
+                    "positive_probability": 0.29268125237100323
+                },
+                "stars": 1
+            },
+            {
+                "review": "Okay, still a fan, I do have to say though, the girl at the hostess stand that was (I assume) training probably needed to wear some pants that aren't see thru. I don't doubt that management probably suggested that she wear dark colored pants as she left this afternoon, evening but wow...there wasn't much left to the imagination...it's a family place people!",
+                "reviewer_id": "38rvarCrnlmAvungUKUPRQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.05498912758782028,
+                    "positive_probability": 0.9450108724121807
+                },
+                "stars": 4
+            },
+            {
+                "review": "Love that they have Coupons from yelp,  tends to be good food and a good value for what you pay.",
+                "reviewer_id": "5Been7LfMV9GKBSqABGScA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.577423991187139,
+                    "positive_probability": 0.4225760088128608
+                },
+                "stars": 4
+            },
+            {
+                "review": "An alright restaurant - friendly and quick staff in a spacious setting but the food isn't anything special. In this trip I tried 4 different items.Chicago 7 pizza: Good thing about this pizza is that it was loaded with toppings (Green peppers, Italian sausage, red onions,  Pepperoni, mushrooms, etc.) -- but the sauce was a bit too sour and it could have used additional cheese. The crust itself was tasteless and too hard to chew -- not really what you'd find in any of the great Chicago pizza restaurants.Classic wings -- Light and crispy but really lacking in flavor and meat juciness. The dish itself is too dependent on the sauce to have any flavor.Molten chocolate cake -- Not really a lava cake but the fudge was nice and rich and went well with the ice cream.The big cookie -- Wasn't great, wasn't bad -- the oatmeal chocolate chip cookie dough was a bit on the dry side and ice cream is almost mandatory otherwise the dish is too plain.Overall, the prices aren't bad and the portion sizes are good but the execution of the food could be improved.",
+                "reviewer_id": "5BNI8ukGTlwUI2CCeyjZOw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.001388745591642603,
+                    "positive_probability": 0.9986112544083514
+                },
+                "stars": 3
+            },
+            {
+                "review": "We went for the pizza buffet and the kid's root beer tour.  The pizza was fairly good, not too saucy, yet still flavorful, especially for sitting out on a buffet under heat lamps.  The buffet selection is very small, but they change it out frequently (every time I went up, there was a different selection).  I don't know if it matches \"Chicago style\" pizza, and frankly I don't care.  I'm not here for a particular style of pizza, I'm here for good pizza.The kid's root beer tour is a very nifty idea.  Kids get to order different root beers (nowhere did I see a menu, but the one our server recommended was pretty good), and once they've ordered enough, they get a T-shirt.Speaking of our server, he was fantastic.  Our drinks never ran out, he worked well with our kids, and he was very friendly without being bothersome.",
+                "reviewer_id": "6-1EpdgmA4aCq2lwPvxEPg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0007231937427177536,
+                    "positive_probability": 0.9992768062572758
+                },
+                "stars": 4
+            },
+            {
+                "review": "Good pizza and the buffet at lunch pretty cheap, always end up eating too much. Beer selection okay too. Half price pizza tuesday nights.",
+                "reviewer_id": "8oJRVNV3Bi3VHAuI1Su7-A",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8449343625821818,
+                    "positive_probability": 0.15506563741781598
+                },
+                "stars": 4
+            },
+            {
+                "review": "Seriously lacking as a beer bar.  Go downtown Champaign to the Blind Pig, Piglet, or several other places.  Crane Ally or Black Dog in Urbana.  Seriously lacking as a pizza spot as well.  Go to Papa Del's for Chicago pizza.  The rest of the menu is typical for any chain.  Which has that sterile and boring chain vibe that makes me want to shoot myself.  Ugh, two stars cause they try to have a decent beer list, and a cheep lunch buffet that is slightly better than Cicis.",
+                "reviewer_id": "aF4FWUbU0Tq6jH0FZKSQlw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6106187735788755,
+                    "positive_probability": 0.389381226421122
+                },
+                "stars": 2
+            },
+            {
+                "review": "Old Chicago is a Chambana favorite of my friends and I.  We usually end up going on Tuesdays because pizza is priced half off, and we are poor college students.  Overall, the food is pretty good and the atmosphere is nice when it isn't completely crowded.  It is a chain restaurant, so don't expect unique gourmet cooking.  The 'Chicago-style' pizza is more like a standard thick crust pizza as opposed to REAL Chicago-style pizza.  Try Papa Del's or Amano's if you're looking for more legit Chicago-style pizza.All that aside, Old Chicago is a nice place to go with friends and/or family.  I have usually had good service, and there is a full bar if you want a drink or two.  The prices are a little steep if you don't go on Tuesdays though.  PROS: Cheap on Tuesdays, decent food, pretty good service, family-friendly atmosphereCONS: Pricey on most days, NOT real Chicago-style pizza, loud when restaurant is crowded",
+                "reviewer_id": "aOMwP73M6H0Oh2FPsZW3Rw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0679937200122658,
+                    "positive_probability": 0.9320062799877279
+                },
+                "stars": 3
+            },
+            {
+                "review": "Love this place!! Amazing deep dish pizza! The appetizers are great also. Highly reccomend. Has a fun atmosphere and great service! Highly reccomend this place.",
+                "reviewer_id": "ARenjaZY3rmfhE7Sg5GFFg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.08105813003161959,
+                    "positive_probability": 0.9189418699683817
+                },
+                "stars": 5
+            },
+            {
+                "review": "I went here last night because of the Yelp check in offer, and me wanting to try a new restaurant. It was okay, decent or I think I'm more incline to say so so. The service is good, and our waitress was so kind that although she said she can't use the yelp offer on all checks (because they were split checks), she did so. The food is so so for me. First we had the trio sampler appetizer, the cicilian pepperoni roll is quite good, and the itallian nachos taste more like crab rangoon minus the crab stick, but that two was the best one for me. The pizza, taste okay, but I didn't eat the deep dish one, so I couldn't judge on the pizza. Lastly we got the captain's catch which was also taste so so, really didn't leave much impression on me",
+                "reviewer_id": "C9Wnjo-C2Ftc9aUXDVIfhg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.49481751361045384,
+                    "positive_probability": 0.5051824863895436
+                },
+                "stars": 3
+            },
+            {
+                "review": "Stay far far away from this place. Lackluster food and staff moves so slowly and are all quite rude. Likely will be out of business when their lease is up.",
+                "reviewer_id": "caluWO9tlhaM4K0dW-KnrQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.22237756987979979,
+                    "positive_probability": 0.7776224301202022
+                },
+                "stars": 1
+            },
+            {
+                "review": "It's a chain pizza place and the pizza would be told it dosen't belong here if it ever went to Chicago. With that being said we got the Chicago seven on thin crust it got to the table just smokin hot and your frist slice is served to you, we were happy with the pizza tons o cheese thats a good thing as far as I'm concerned, nice toppings good sauce and the crust was good, so overall the pie was good you know not great but high end chain stuff. 110 beers don't hurt anything either. The service, it just sucked no other way to put it, get the really big beer because a refill may not be in your future. This place is not cheap 3 beers cost as much as the pie. This is a might go back and if I do I'm seeing a to go thing happening.",
+                "reviewer_id": "CKvc4tdLWAKS-OMEojiRkg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.008736613084572374,
+                    "positive_probability": 0.9912633869154248
+                },
+                "stars": 2
+            },
+            {
+                "review": "This place is your average 'ole diner. Nothing too amazing and nothing too horrible. They seem to focus on their pizza selection, but I had a club sandwich which was pretty good. I also even tried their big cookie dessert which was alright as well. Service was quite amiable but nothing stands out about this place in the very end.",
+                "reviewer_id": "eFIlrOz3TnuZQeh2Y1e17Q",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8996981317667155,
+                    "positive_probability": 0.10030186823328183
+                },
+                "stars": 3
+            },
+            {
+                "review": "Alright pizza for 10 bucks at lunch. Raspberry iced tea was good and the waiter was sincere.",
+                "reviewer_id": "EM3qgcLfUzPU2boJIL77eQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.23284054361850484,
+                    "positive_probability": 0.7671594563814963
+                },
+                "stars": 3
+            },
+            {
+                "review": "Restaurant review:AYCE Chicago style pizza in Champaign, I couldn't pass up the chance to eat the pizza lunch buffet during the weekday. I quickly hopped into my car and jetted to this location for my lunch hour. I was surprised to find that there was plenty of seating in the restaurant. Staff was super friendly and I was off to the races to eat pizza. Now the \"Rush Street\" pizza bar is 8.49 Monday to Friday 11AM to 1:30 PM. They give you a choice of salad or the two soups (tomato bliss or chicken green chili soup). I was took the tomato bliss, very rich tomato soup. I wish they had some cheese to go with it. I proceeded to gorge on the pizza selection and the calzone. My impression is that they don't have any deep dish pizzas which is unfortunate when you think chicago style pizza the deep dish is the cornerstone. Lots of other pizza selection from meat lover to veggies to hawaian. The calzones were prepared well. The pizza is super hot so let it cool down just a little bit before diving in. Overall the pizza is comparable to other restaurant quality pizza and a bit better than the chains (papa johns and pizza hut). They are not kidding when they tell you that this is for the rush hour lunch crowd. Before I finished my soup, the check was on the table in case I had to pay and run. Service was friendly. Also and FYI you can request pizza for the buffet. So all and all the pizza is relatively good quality, but missing a deep dish would have pushed it over the top. Finally the chocolate chip cookie is a bit too small and just a odd way to end the meal. You get just a small one...Pro: AYCE lunch pizza buffet, better than papa john or pizza hut, super fast serviceCons: No deep dish pizza, if it is not busy you may have a very limited selection. There was 4 pizza types and the calzones and breadsticksHidden gem:AYCE Lunch pizza buffet. For the pizza lovers",
+                "reviewer_id": "f1a9KwsObpE54Yp9A1fVoA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7489599348661208,
+                    "positive_probability": 0.2510400651338891
+                },
+                "stars": 3
+            },
+            {
+                "review": "While browsing for a place to find dessert in C/U, I noticed that Old Chicago had 3.5 stars.   I blurted out, \"3.5 stars?  Who is writing these reviews?\"  Seriously, that guy above me, or that girl below, who gave this place 4 stars.  They don't know what good food is.  Don't listen to them.  Sorry, but it's true.This place is a blaspheme of Chicago as a restaurant city.  The owners should write an apology and make cash reparations to the city for besmirching its reputation and as a consolation for anyone coming into this place thinking they would be getting true Chicago food.First off, you walk in, and the obligatory Chicago street sign, for Rush Street no less, is in orange.  Orange?  I grew up in Chicago.  Not once did I ever see an orange street sign.  Black on yellow or white on green.  We have orange highway hazard cones.  Hmmm, strike one.  Onto the menu.  The restaurant was started by a bunch of guys from Boulder Colorado who had never even been to Chicago.  Well, that sounds like the kind of people you want dishing up authentic Chicago food, doesn't it? The pizza combos used ingredients that no authentic Chicago pizzeria would ever be caught dead using.  Pineapple?  Chicken?  Anaheim chilis?  Oh, and then there's the lame \"Chicago Seven\" name to try and tie it all into Chicago.  Otherwise, the pizza names resemble something  you'd find at California Pizza Kitchen.  And I don't mean California Avenue, where Giordano's, a REAL Chicago pizza place, was founded.   Strike two.The pizza got to the table fast.  I do mean fast.  When pizza gets to your table in 15 minutes or less, that means one of two things:  wood burning oven, or frozen pizza warmed up in a conventional oven.  I'll leave the reader to guess which choice is correct.  Taste test time.  I've lived on the north side and the south side.  I know what the different neighborhood pizzas taste like, and what a Chicago pizza should taste like in general.This wasn't Chicago pizza.  The crust was cardboard-like.  Chicago isn't world-renown for its thin crust pizza.  But those neighborhoods pizza places that focus on thin crust do it in a cracker-style.  Not cardboard.   The mushrooms looked canned.  The tomato sauce was bleh.  Strike three.Oh, and just for good measure, the spinach artichoke chip seemed to be devoid of spinach, but not of salt.They do have a good beer selection.  I assume this is so you are tempted into drinking enough beer so that you do not notice how bad the pizza is.Avoid.  Steer clear.  There is a Rosati's in C/U as of the time of this writing, and that is representative of a Chicago-style pizza.  Ironically enough, Rosati's is based in Chicago, not Boulder Colorado.  Old Chicago would be a good place to bring a group, if you wanted to drink, watch a game on one of the 2,382 TVs they have, and don't care about the quality of the food you are about to eat.POST-SCRIPT:  about three days after getting this review, I got an email from the marketing department of the corporate parent of Old Chicago.  Basically saying that they are sorry we were dissatisifed with the experience and offering a voucher for free food.  This is the saddest part of the experience.  It was obviously just a form letter.  The folks didn't even bother to read the review to see why I was dissatisfied.  Strike 4 if that is even possible.  A restaurant that is non-responsive to their customer's concerns is the worst kind of restaurant.",
+                "reviewer_id": "gjsckOlv8DZAIwBz4tmQdw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.43463870707705565,
+                    "positive_probability": 0.5653612929229497
+                },
+                "stars": 1
+            },
+            {
+                "review": "My boyfriend and I decided to try this place out because we love pizza. All I can say is that the pizza was about as good as the service. The food really wasn't that great at all, and the wait staff didn't really tend to their guests as they should. We did a lot of waiting around for our waitress and witnessed some really unprofessional behavior while there. We definitely won't be returning.",
+                "reviewer_id": "GuI0CNeLXEIVAtoye0WJgQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.07336328883382338,
+                    "positive_probability": 0.9266367111661745
+                },
+                "stars": 1
+            },
+            {
+                "review": "I gave this place a second chance and the service was much better and the food was pretty dang good.  Had a personal chicken artichoke pizza.  I would get it again.  Must have been there on an off night at first.",
+                "reviewer_id": "iAjaSKsA1ADUdUaz_REuQg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.337286113239451,
+                    "positive_probability": 0.6627138867605495
+                },
+                "stars": 3
+            },
+            {
+                "review": "Old Chicago isn't my first choice when I think of pizza.  I come here when I want a fun atmosphere that is kid-friendly and an extensive beer selection.  I don't think their pizza tastes anything like what you find in Chicago.  Their food isn't bad, by any means, just not that amazing.",
+                "reviewer_id": "JgHGyWS2emyHq6aq144SLQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.11573633933604689,
+                    "positive_probability": 0.8842636606639522
+                },
+                "stars": 3
+            },
+            {
+                "review": "Meh.  Old Chicago changed their pizza menu and it's definitely not as good.  Their new \"Tavern style\" pizza is basically a less-good version of their NY-style pizza (which they no longer sell).  Both mine and my friend's pizzas were really salty.  Wasn't impressed.One of my biggest food-service pet peeves is staff who don't know what they're talking about.  I understand that just because you work somewhere doesn't mean you have all the answers--but if you don't know something, you shouldn't just LIE to the customer.  I asked our waitress if the Specialty pizzas were included in the half-off deal for Tuesday nights.  She said yes.  We got our bill--which she checked before giving to us--and I paid.  Of course, after we left I realized that our bill was about $5 too high.  Because the 50% hadn't been taken off my pizza.  Because specialty pizzas aren't included in the half off deal.  Won't be back to Old Chicago--not a fan of how they've changed their pizza, and the mistake on the bill was enough to keep me from returning.",
+                "reviewer_id": "kltu5MyodHXondt_qvdAHw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7624369373431239,
+                    "positive_probability": 0.23756306265686655
+                },
+                "stars": 2
+            },
+            {
+                "review": "The pizza is always good, but when management allows them to reuse coasters to the point of them being moldy on the table, it makes you wonder how clean the kitchen is.",
+                "reviewer_id": "Mc-HwQ4g44on75UTIe5JUg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.07355045504879833,
+                    "positive_probability": 0.9264495449512002
+                },
+                "stars": 3
+            },
+            {
+                "review": "Food was great!  Service was fantastic. Folks ate very friendly!",
+                "reviewer_id": "ND0w29FLcYKsS_kxh_3TAA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.13970667167623826,
+                    "positive_probability": 0.8602933283237612
+                },
+                "stars": 5
+            },
+            {
+                "review": "I was pleasantly surprised, though my expectations were low. They were lowered further by the atmosphere/decor. This chain restaurant is indeed offensive on many levels to a person from Chicago: typical corporate chain restaurant wall flair is everywhere, and that schlock is indeed Chicago themed. There is a scoreboard that looks like Wrigley's, a sign for Rush Street, and everywhere you look are old timey pics of landmarks etc. etc. This in and of itself would not be so bad, but the fact that the chain so buttfucks the idea of Chicago deep dish pizza is irredeemable. The thing that they call deep dish likely has most of the ingredient groups of a Chicago Style pizza, but it is so unlike a Chicago Style pizza I refuse to discuss it anymore for fear I will throw my keyboard in rage. A quick look at their corporate website and you will note that this place has dozens, if not hundreds of locations, with only one in Chicagoland (Elk Grove, on the Iowa side of O'Hare).So why does this patently offensive joint get an 'A-OK'? The thin crust pizza was pretty good. It was not New York Style, but the cheese had the same saltiness and was cooked to perfection: crispy, with slightly orange cheese, and served hot as hell but not yet burnt. I had it with basil and roasted garlic, which were chopped up and added under the cheese and complimented the pizza very well. Their Cheesy Garlic bread is absolutely divine; I have to get that again next time. They also have beer. Basically every mainstream domestic and popular import you have ever heard of. About 30 on tap. Not as many obscure micros and craft beers as you will find at the Pig and Crane Alley or even at Radio Maria, Boltini and Seven Saints, but it is a great selection for a chain restaurant. Kinda disappointing in that regard, but understandable as this is obviously a company that buys thousands, if not millions of barrels yearly and is not interested in getting a cask here and there.I went on Tuesday night, when they have 1/2 price pizzas and $2.99 Two Brothers' Beers. This made the meal much more palatable. My 14\" thin crust pizza full price would have been about $15-16 with 2 toppings, which is a little much for a pizza that feeds two (they say 2-3, but dont do that to yourself). Service was great. Jacob (Jake) was attentive, efficient, and accurate. He was courteous and intuited our needs. We were playing trivia there via the NTN boxes, so of course he always seemed to come by when a question was being asked, but that is just how life seems to work.They have a ton of TVs, most of which are flatscreen HD. They also have a bunch of very high quality video games including new golden tee and new safari hunter as well as a few others. This would be an excellent place to watch a game.So, the experience was pretty darn good, even if it was in an obnoxious corporate atmosphere. Prices would have been a little higher than is reasonable for Chambana, but I went on a night with a deal (check their website for that). Had a talented server, and that made all the difference.",
+                "reviewer_id": "NGX1PZwHET_oQOT7vkkxag",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0009252847816566179,
+                    "positive_probability": 0.9990747152183452
+                },
+                "stars": 3
+            },
+            {
+                "review": "Honestly the top 3 worst food I've had. My family enjoys calzones and strombolis, but not running, soggy ones. These were terrible. Made fries soggy, and my daughter couldn't even chew through her chicken sandwich. She said it was like attempting to eat chicken if it were jerky. Wife complained to awful rude female manager, who said it's brown on top so it's cook. Wow really. Lol. Then she grabs the food out of my wifes hands. Smh. And now we are stuck with a ci. Saves coupon we spent money on.",
+                "reviewer_id": "nVBa_xC77arkOueXZWWvTQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9156696199843242,
+                    "positive_probability": 0.0843303800156829
+                },
+                "stars": 1
+            },
+            {
+                "review": "This place touts itself as a beer bar but the selection was substandard for any serious beer aficionado.  I opted instead for an Arnold Palmer.  My BBQ Bacon Cheddar burger was decent but the fries were off.  They tasted like they had been waiting around for awhile.  My buddy liked his thin crust pizza.  I doubt I'll return to this place.  In Champaign-Urbana, there are much better burgers (Farren's) and much better beer bars (Crane Alley, Seven Saints, Radio Maria).  Old Chicago just doesn't cut it.",
+                "reviewer_id": "OZCzq4BvNGdTpBE2iUg0Tw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9850112933362728,
+                    "positive_probability": 0.014988706663729177
+                },
+                "stars": 2
+            },
+            {
+                "review": "They are the only decent place to eat open later than 11 pm. The food is good and they get good games",
+                "reviewer_id": "Qa6zh0pjR0OqRGvPKFaPGA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5468479514387191,
+                    "positive_probability": 0.45315204856127883
+                },
+                "stars": 4
+            },
+            {
+                "review": "You know, despite the name and all that, I never really expected authentic Chicago style pizza here.  So, while I can understand the disappointment voiced in several reviews here, I didn't feel it myself.I've only gotten the \"Chicago-style\" pizza here, but like I said, I wasn't expecting Lou Malnati's.  I was expecting a normal pizza with a thick crust.  Like the deep dish at Domino's or Pizza Hut.  I don't know why, that's just how it was.  And that's exactly what I got.  And I'll be honest, it tastes like a more flavorful Pizza Hut pizza.  I don't really know what to say besides that.  It's not the best pizza, but it's not the worst.  And sometimes you just get a craving for pizza like this.Just don't go in expecting something great and you'll be fine.",
+                "reviewer_id": "qdL_6QKs8_U74ugjs0MpPg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.07677736845982516,
+                    "positive_probability": 0.9232226315401737
+                },
+                "stars": 3
+            },
+            {
+                "review": "The appearance and customer service are great, but as a native Chicagoan I gotta say that I was disappointed with the pizza. Perhaps its because I ordered a simple pepperoni, but it definitely NOT Chicago-style pizza. If you are a native Chicagoan, don't waste your time.",
+                "reviewer_id": "SpQVjAfQayqeG2slRX55EQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.11127053236729129,
+                    "positive_probability": 0.8887294676327082
+                },
+                "stars": 3
+            },
+            {
+                "review": "Pizza review only!!!1) Their beer tastes good2) Their entres look like stuff you'd find anywhere else and at least smelled and looked good3) The place looks niceBUT...the pizza claiming to be \"Authentic Chicago Deep Dish\"...sucks...think Personal Pan Pizza from Pizza Hut...remember the doughy texture, the flavor, the look, etc...then you've eaten Old Chicago's deep sigh...just a waste...AND the personal pan (which the waitress said she 'split' with her friends cuz it was sooooooo much ran me almost $13 and barely filled me up.However, I would go back to try their other offerings...if I have time.",
+                "reviewer_id": "ulrXedUcfJhgElRJnvh6rA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.49152922528374304,
+                    "positive_probability": 0.5084707747162655
+                },
+                "stars": 2
+            },
+            {
+                "review": "I have to start by saying, I used to work at an Old Chicago in the NW Chicago suburbs a few years ago. The location since changed to a different restaurant per property owners choice, which upset a lot of guests and staff. Now that I'm in Champaign for business over the next 6 weeks, I jumped at the chance to go in for a few of my favorites! Of course, since the last time I had Old Chicago food, the menu has changed... But for the BETTER! I went in thinking I knew exactly what I would order, but I found myself reading the entire menu trying to choose from the new, or sticking with my old favorites. I ended up choosing a favorite, the Chi-Town Trio (formerly, Signature Trio) which consists of small portions of the Italian Nachos, Cheesy Garlic Bread and the Pepperoni Rolls. I also took the Chopped Salad to-go for lunch for the next day. Aside from the menu choices, I had an excellent dining experience. Upon walking in I was greeted by the hostess who honored my request to sit at a comfy booth. I told her I used to work at an OC and she engaged in polite conversation about when and where. Awesome. Then my server Bradley was just so polite and courteous. Dining alone and totally beat from a long day at work as a restaurant manager, it was refreshing to have such great service. He perfectly timed out my dine in order with my take out order and presented my check just as I was about to ask for it. He even anticipated my thoughts and brought me a fresh side of marinara to take home with me for the last Pepperoni Roll and Cheesy Garlic Bread slice I had left. Needless to say, I'll be back over the course of my business trip. I can't wait to try some of the new entrees and snack on my old favorites. Well done, OC-Champaign!",
+                "reviewer_id": "V2Set_DeY-NFa4WiPelX8w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 2.7429360190891802e-06,
+                    "positive_probability": 0.9999972570639933
+                },
+                "stars": 5
+            },
+            {
+                "review": "I only give this place one star because zero or negative stars is not an option. Me and my boyfriend came here after hearing my sister and brother in law rave it, however we were beyond disappointed. First, it took the bartender over 10 minutes to even acknowledge us and another 10 to get us our beers. When we were finally asked for refills, the wrong beers were brought to us. Please dont ask us if we want the same thing when you dont remember what kind if beer we ordered to begin with.I ordered the calzone and got a pizza, when I corrected the bartender, she assured me my CORRECT order was on its way. This time I actually did get a calzone, but it had the one ingredient I could not eat...the dreaded peppers. The bartender got her manager who informed me it was my fault because I wouldn't eat peppers...I kindly explained to her through clenched teeth, that I ordered the sausage and spinach calzone NOT one with peppers. I declined any further offers for corrections and left hungry in fear if a lugee being launched in my food. That was only my meal.My boyfriend ordered fish and chips (at a pizza place, I have no idea why). His one request was for coleslaw as a side, he never got it....even after multiple requests....big surprise. He was also looking forward to the savory vinegar described on the menu that would coat his fries...that was not present either, even after he asked again for it. To the managers credit, she did comp our meals (even though I never got one) and gave us a gift certificate for a future visit.We decided to give it another try tonight and ran into the same issues...slow service, wrong orders and being blamed when the wrong stuff is brought out. I have honestly lost respect for my sister and brother in law for recommending this place and all of the other patrons who frequent this establishment. Shame on you!",
+                "reviewer_id": "Vh_eIQIpfS-AXJ8ngEZDhg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0019415975798922104,
+                    "positive_probability": 0.998058402420096
+                },
+                "stars": 1
+            },
+            {
+                "review": "If zero stars were available I'd give this \"joint\" zero. The wait staff is well trained and actually competent; the bad news is that they can only serve what the kitchen prepares.Our orders:Appetizer for 2 - artichoke & spinach dip. Served in a round smallish soup type bowl, this awful tasting, white looking glop that looked to have been slopped in the bowl with a large kitchen spoon should have been a clue as to what was to follow. We didn't eat any of it nor we're we offered a refund on this unbelievably bad dish.Main course - \"Tuscan\" pizza, deep dish (what the hell. It's supposed to be a \"Chicago\" place, no?) We were lead to believe that, among other things, the pizza would be served with sauted spinach and chicken breast. What was delivered arrived with approx 5 to 6 leaves if spinach in the center and some rock hard \"chicken\" bites that I'd bet dollars to donuts was what's known as \"chunked and formed.\"Later that night I had, shall we say, terrible gastric distress.SO NOT VISIT THIS PLACE!!",
+                "reviewer_id": "VX3GrWuMoZjjoQxJYJ3ujQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9877190711749332,
+                    "positive_probability": 0.012280928825078684
+                },
+                "stars": 1
+            },
+            {
+                "review": "I went at lunch and had the pizza bar because I wanted to try their different pizzas. The thin crust one was just OK. The thick crust was a little better. They had a Mexican thick crust which was interesting. I also tried the Stromboli and I really liked it. A soup or salad is included with the pizza bar. The server will bring you the salad. They make their own ranch dressing and that's a plus in my book. You get a chocolate chip cookie with your ticket. And it is really good. This is NOT Chicago style pizza. I'm not sure why they chose that name. Unless there is something I am not aware of. When I go to Chicago I have Chicago style pizza like Gino's. Now that's a Chicago style pizza!",
+                "reviewer_id": "W4ojW7f30haCertr4CzFJw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8363347182849776,
+                    "positive_probability": 0.16366528171501726
+                },
+                "stars": 3
+            },
+            {
+                "review": "Pretty much a total disappointment.  The buffalo wings are clearly frozen from a bag.  The food, while plenty to choose from, leaves me unsatisfied on every visit.  There isn't a single item here I can't have somewhere else in town and have it better.I've tried 3 different times, that's it.  No more.Good beer selection....",
+                "reviewer_id": "xZhXEZnxK9eJ-gMzAn5GRg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.15667377635723956,
+                    "positive_probability": 0.8433262236427589
+                },
+                "stars": 2
+            },
+            {
+                "review": "I've only done the lunch buffet here, so that's what my review will be for. It's cool they have a huge beer selection. The lunch pizza buffet comes with soup/salad, the buffet which has breadsticks, some kind of stramboni things, and various mix of pizzas. they give you a choc-chip cookie for dessert. The pizza is good, but I wouldn't say it's the best in town, or \"chicago\" style pizza. The buffet sometimes doens't have any \"normal\" pizza up there. Ususally you can ask the waitress to request they make a certain pizza though. But sometimes they have some very weird stuff up there like cheeseburger pizza, pinapple and ham, or whatever they feel like on any given day. Also it seems they always want to put me on the farthest side away from the buffet as possible on lunch even when there are a ton of open tables around the lunch buffet (which most people get during lunch hours). I hate having to walk aroudn the entire bar to get to the buffet. I realize I could just ask to sit closer, but when I  tell the hostess 2 for the bufet, I almost want to see where they will sit me, and they always sit me the farthest booth away from the buffet as possible.",
+                "reviewer_id": "yrcGGL8XNTPsT7CfE02dBA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2716304287744959,
+                    "positive_probability": 0.7283695712255102
+                },
+                "stars": 3
+            },
+            {
+                "review": "I'm not sure why there seem to be mostly okay reviews for this place. A few days ago we stopped there for the 2nd time while in Champaign, and I thought the pizza was so good the first time that I ordered it again this time. My husband also ordered the same thing! I got an individual size thin crust cheese pizza with extra cheese and it's a great pizza. Hubby got the double mushroom swiss burger again. This thing is huge. My child got the pepperoni rolls and gives them a \"9\" on a scale of 1-10. The first time we were there our server was Josh, and he was fantastic. I used to be a waitress, so I always appreciate and tip good wait staff. I asked him questions about different things on the menu, and he was able to answer confidently. He refilled our drinks without being asked to. Checked on us multiple times. Just great service. Our waitress the second time wasn't so hot, but we will for sure be eating here again.",
+                "reviewer_id": "yuXT3Tns4EdB9cUN66cC6A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.009369503470160023,
+                    "positive_probability": 0.9906304965298445
+                },
+                "stars": 4
+            }
+        ],
+        "similar_restaurants": [
+            "R-0IVFEKseAL9wYgIhPy1w",
+            "zMN8UGd1zDEreT58OCdnyg",
+            "Rj0EiZoTEHqUo_wt-MTd0g",
+            "hXjOPGuc2mbzQNregzer9g",
+            "pPWre8lbVAssER6CN0uWMw",
+            "1A_4WE4hdpdU3pG6PWUOVw",
+            "-Fwt0yM17CvpDv12ld6mmw",
+            "M73ttBKGZsw1Jg0XbNuKsw",
+            "zLkok9inSL4lzVoSzfpxAA",
+            "MSMdhoUraQ0DLLwmLbM28A"
+        ]
+    }
+}

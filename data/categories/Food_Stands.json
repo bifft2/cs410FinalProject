@@ -1,0 +1,159 @@
+{
+    "m19xUciXTS5zcjkYiy4xUQ": {
+        "keywords": {
+            "bigrams": [
+                "chicken_salad",
+                "beckman_cafe",
+                "lunch_counters",
+                "pecan_cranberry",
+                "avocado_chicken",
+                "days_food",
+                "salad_bar",
+                "beef_steak",
+                "cranberry_chicken",
+                "ground_beef"
+            ],
+            "unigrams": [
+                "salad",
+                "food",
+                "good",
+                "chicken",
+                "don",
+                "beckman",
+                "nice",
+                "cafeteria",
+                "university",
+                "things"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "none",
+                "Attire": "casual",
+                "Caters": false,
+                "Delivery": false,
+                "Good For": {
+                    "breakfast": false,
+                    "brunch": false,
+                    "dessert": false,
+                    "dinner": false,
+                    "latenight": false,
+                    "lunch": true
+                },
+                "Good For Groups": true,
+                "Good for Kids": true,
+                "Has TV": true,
+                "Outdoor Seating": true,
+                "Price Range": 1,
+                "Take-out": true,
+                "Takes Reservations": false,
+                "Waiter Service": false
+            },
+            "business_id": "m19xUciXTS5zcjkYiy4xUQ",
+            "categories": [
+                "Sandwiches",
+                "Food Stands",
+                "Restaurants"
+            ],
+            "city": "Urbana",
+            "full_address": "Beckman Institute\n405 N Mathews Ave\nUrbana, IL 61801",
+            "hours": {
+                "Friday": {
+                    "close": "14:00",
+                    "open": "09:00"
+                },
+                "Monday": {
+                    "close": "14:00",
+                    "open": "09:00"
+                },
+                "Thursday": {
+                    "close": "14:00",
+                    "open": "09:00"
+                },
+                "Tuesday": {
+                    "close": "14:00",
+                    "open": "09:00"
+                },
+                "Wednesday": {
+                    "close": "14:00",
+                    "open": "09:00"
+                }
+            },
+            "latitude": 40.115813,
+            "longitude": -88.227516,
+            "name": "Beckman Cafe",
+            "neighborhoods": [],
+            "open": true,
+            "review_count": 5,
+            "stars": 3,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "The specials change daily, and it is a pretty great deal for homemade soups and sandwiches or if you are in the area and need a cup of coffee and a snack! The ladies working there are super friendly and nice to every single person that walks in, and they always make my day. They'll sneak you extra food and not charge you for it if you are even a little nice to them. ",
+        "reviews": [
+            {
+                "review": "Beckman Cafe has the nicest staff, and worthy of 5-stars simply for that. The ladies working there are super friendly and nice to every single person that walks in, and they always make my day. The food is good too, standard cafeteria fare as well as some unique options. They always have one or two vegetarian entrees in addition to the salad bar, so that's a plus for those who don't eat meat. The only drawback is they don't accept credit cards, just cash or check.",
+                "reviewer_id": "ajRNWxjcTHKnpGf5HXzGOw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.051552252215786645,
+                    "positive_probability": 0.9484477477842093
+                },
+                "stars": 5
+            },
+            {
+                "review": "A great place to get decently healthy, reasonably priced food in the area. Far better than the other options in the area. Its not a hard choice between Perkins, Don Juan, Hot Wok, Taco Bell or the Beckman Cafe.There are days where food here is 4 star worthy and there are days where the food quality just lets you down. So it's pretty hit or miss. The nice thing about their online menu is that you can plan things out ahead of time. The cooks/servers can also have their off days for sure. Sometimes they're so friendly, it freaks me out. They can also get so picky about things that don't matter and give you quite the attitude. I suppose I might feel similarly if I was a career line cook.",
+                "reviewer_id": "D98vylCT1fLKBIU6iAKxhw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.01666836724050562,
+                    "positive_probability": 0.9833316327594962
+                },
+                "stars": 3
+            },
+            {
+                "review": "I tried the pecan-cranberry chicken salad and it had the perfect amount of mayo! yay! It was verrrry chunky though.. prepare yourself by grabbing a fork too!I've also now tried the tomato bisque, which is delicious.",
+                "reviewer_id": "DJbX0XH6Kn3Nm5uo58lu9A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2566125179412744,
+                    "positive_probability": 0.7433874820587275
+                },
+                "stars": 4
+            },
+            {
+                "review": "The Beckman Cafe is notable among University of Illinois lunch counters --and probably lunch counters the world over-- for having the friendliest lunch ladies around.Greek Salad day is a winner:  sometimes it's all that gets me through my 65 hour long grad student work week.",
+                "reviewer_id": "sleEMt44E1StWrjz3mcujQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.137557775100826,
+                    "positive_probability": 0.8624422248991787
+                },
+                "stars": 2
+            },
+            {
+                "review": "This is a strange place but it has its pleasures. It is a cafeteria with extremely plain mid Midwestern offerings. My take: It is what it is. Sometimes I want Midwestern cafeteria comfort food. If I do, it is OK to come here. But if I'm honest I can't tell you that \"this is a good restaurant.\" (Hence the two-star rating.)Five funny things about it:1. It's male. It is always full of scientists and engineers from the Beckman and CSL. Perhaps for that reason it is one of the few establishments that I have entered on a busy day and noticed that of the 20 patrons there are zero women.2. It's university-run. Since it is run by the university, a sign says that you can pay by university purchase order if you want to.  I have never seen anyone do this.3. The secret garden. You can eat in a garden that almost no one uses or knows about -- to find it you must leave via the West door. It is dedicated to women in science.4. The regulars. Some people show up at the counter and are served without ordering. I asked a staff member about this and she said, \"He's been wanting the mac and cheese for thirteen years.\"5. The almost-free salad. I stuff as much into the container as I can and yet after it is weighed I am charged something like 82 cents. (Dressing extra.) Although it is a very plain salad bar.Most of the food is actually prepared at a food service warehouse somewhere else. I asked when I saw \"tortilla crusted tilapia with long grain wild rice and Kyoto mixed vegetables\" and the \"lemon mist cake.\" Once you see the place, you'll have a hard time imagining them preparing the tilapia and baking the cake from scratch in the back room, and it turns out they don't.  (But both dishes are OK.) Some of the offerings don't bother. Cream-based soups are a disgusting glop.Some of the naming conventions on the menu make me smile. \"with white sauce.\" (?)  \"Ground beef steak\" = a hamburger patty.Some things... Heck yeah. Jambalaya is good. The pot roast is good. The hamburger (\"ground beef steak\") is good. I agree with Sarah H. -- the pecan-cranberry chicken salad is the big winner. Delicious. And the staff are delightful.  They'll loan you money. They'll change the dishes around for you.  They'll sneak you extra food and not charge you for it if you are even a little nice to them.You can check the menu online before you go: http://www.beckman.illinois.edu/cafe/Note that they run out of their main dishes almost every day, usually after about 90 minutes.In sum. It's a strange little cafeteria. But it may be worth visiting at least once just to hang around a weird cafeteria full of weird scientists.",
+                "reviewer_id": "zq815p7o2OM1kNHG8OdobA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 1.1700178560612805e-05,
+                    "positive_probability": 0.99998829982144
+                },
+                "stars": 2
+            }
+        ],
+        "similar_restaurants": [
+            "mSTjlawGZcbg8YBQx9UxFg",
+            "Fb3Pl0PO_ojEyChkM_SApA",
+            "j9N_fG1PVCSY-3HY1TRQ5Q",
+            "uhzZM-WwNsaVuvGRjv3mXw",
+            "Uw1DZhEtTmLzMcXmdpR8Pw",
+            "elwuxXreWA3IVAW5qNOw3g",
+            "ey7-ihj-OjM4sEOwWTc06Q",
+            "jv-VfERRGsx0-MF7kLj8XQ",
+            "79hY0d7j45ZRjTAB2d0jQQ",
+            "leH24AjTrmcImAbsdh4HFQ"
+        ]
+    }
+}

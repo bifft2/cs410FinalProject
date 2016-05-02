@@ -1,0 +1,540 @@
+{
+    "NhxR5j9Qnao-iteD3ZiQXA": {
+        "keywords": {
+            "bigrams": [
+                "korean_bbq",
+                "kogi_truck",
+                "food_truck",
+                "bbq_taco",
+                "korilla_bbq",
+                "bbq_tacos",
+                "taco_truck",
+                "pork_belly",
+                "top_lettuce",
+                "sweet_spicy"
+            ],
+            "unigrams": [
+                "taco",
+                "tacos",
+                "truck",
+                "good",
+                "roks",
+                "bbq",
+                "food",
+                "korean",
+                "sauce",
+                "size"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Attire": "casual",
+                "Delivery": false,
+                "Good For": {
+                    "breakfast": false,
+                    "brunch": false,
+                    "dessert": false,
+                    "dinner": false,
+                    "latenight": false,
+                    "lunch": false
+                },
+                "Good For Groups": true,
+                "Good for Kids": true,
+                "Has TV": false,
+                "Price Range": 1,
+                "Take-out": true,
+                "Takes Reservations": false,
+                "Waiter Service": false
+            },
+            "business_id": "NhxR5j9Qnao-iteD3ZiQXA",
+            "categories": [
+                "Food",
+                "Korean",
+                "Food Trucks",
+                "Restaurants"
+            ],
+            "city": "Champaign",
+            "full_address": "Champaign, IL",
+            "hours": {
+                "Friday": {
+                    "close": "02:00",
+                    "open": "22:00"
+                },
+                "Monday": {
+                    "close": "21:00",
+                    "open": "18:00"
+                },
+                "Saturday": {
+                    "close": "02:00",
+                    "open": "21:00"
+                },
+                "Thursday": {
+                    "close": "21:00",
+                    "open": "18:00"
+                },
+                "Tuesday": {
+                    "close": "21:00",
+                    "open": "18:00"
+                },
+                "Wednesday": {
+                    "close": "21:00",
+                    "open": "18:00"
+                }
+            },
+            "latitude": 40.1164204,
+            "longitude": -88.2433829,
+            "name": "ROKs Tacos - Korean BBQ Tacos",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media1.fl.yelpcdn.com/bphoto/PFcil2nFmzLLaWdId-gE6A/ms.jpg",
+            "review_count": 8,
+            "stars": 3,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "Where Roks taco's are bigger than Kogi Truck's, they are the same size as Korilla's, but again, here in Champaign, it was difficult to justify $4 a taco to myself. It's a difficult because as much as I've been waiting for a Korean BBQ Taco truck in Champaign for a long time, Roks, where their tacos are delicious, I can't see myself going there more than once a month. Their tacos are actually really good. ",
+        "reviews": [
+            {
+                "review": "I got the pork belly taco. It was a very nice full taco with delicious pickled flavored veggies. The texture of the veggies were nice. One major major problem with this taco was that the flavor of the pork belly is completely lost. It almost tastes like you're eating just the veggies and the sauce. The sauce is only good if there is a fatty meat flavor that goes with it.They probably didn't season the pork belly at all. And that's such a shame. I'd probably season it and cook it in sesame oil to bring out the flavor. For 4 dollars this taco was not worth it. I'd give it a 2.5/5 but I'll round up.",
+                "reviewer_id": "9nyfJOEP7U5kjKrd2o4SEA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9851501960446319,
+                    "positive_probability": 0.014849803955375808
+                },
+                "stars": 3
+            },
+            {
+                "review": "Roks Korean BBQ Taco Truck is trying to do in Champaign what is successfully being done in places like LA with Kogi Truck, and Korilla BBQ in NYC.  Review based on the metrics of taste, service, and value. The two most successful Korean BBQ trucks, Kogi Truck in California, and Korilla BBQ in New York are where I base my comparison for these three metrics.  I can say safely that Roks Korean BBQ Taco Truck sits comfortably ranked second among the three.Korilla BBQ, where they charge more, can back up the prices they charge with quick and professional service, and Korean BBQ Tacos that are ridiculously delicious.  Well balanced, deep and heavy flavor in the proteins, paired with bright notes in the slaw and sides that come with it.  Though I would spend more money at Korilla compared to Kogi Truck in LA or Roks, I would never feel like it was wasted money by any means.  Korilla still stands as the defacto standard of delicious Korean BBQ Tacos.Now enter in Roks, trying to build on the success of Korean BBQ Taco trucks, and you find that they build on many of the same principles that Korilla has done so well.  Looking at the metric of taste, Rok's does a great job.  The protein is well seasoned, and supported well with bright balanced notes through radish and lettuce.  The gohchoojjang based sauce they put on top of the lettuce is sweet more than spicy, and ties everything together nicely.  Tacos are a little unwieldy to eat though, and since the sauce is on top of the lettuce, you may find yourself spilling sauce covered lettuce all over yourself while you eat.  They may want to consider putting the sauce over the protect, and then packing in clean lettuce on top.  From a taste perspective however, Rok's is on point as they pay respect to the Korean BBQ taste both of the pork and bulgogi, while keeping it fresh and delicious for the American palette.  Definitely a 4/5 on taste.Now Service.  As well as can be expected for a food truck.  A friendly face at the window, a clear ticket written for my order, money taken, and their off and running to make my food fresh.  The wait was about 4 minutes for the 4 tacos I ordered, which isn't terrible, and they were kind enough to wrap my tacos in a paper bag for me as I was taking my order to go, and wasn't going to eat it right there truck side.  Inside the truck looked nice and clean, which is important to me, and catching a glimpse of a hand sanitizer dispenser is always a welcome sight for a food service truck, just so long as they aren't getting triclosan in my food. =) Definitely a 5/5 on service.Value.  Admittedly, for all of my reviews, it's near impossible to get a 5/5 on value.  But this is probably the most important metric for people these days.  Especially in the food truck industry which is more about function and value, more than it is about a unbridled desire to get high quality delicious food.  At Roks, each taco ran $4.  Coming from my experience with Korilla and Kogi Truck, my immediate reaction was to scoff at the price.  I had a $20 bill in my hand and was expecting to get about $10 back after buying my lunch, and tipping them.  But with a $20, I bought 4 tacos, and tipped them the rest.  It was difficult getting around that price point knowing that Kogi Truck in LA charges something like $2.50 per taco, and have combo deals, 3 tacos and a drink for $8, etc.  But when I got my tacos, and looking at the serving size, it was semi-justifiable, but not really.  Where Roks taco's are bigger than Kogi Truck's, they are the same size as Korilla's, but again, here in Champaign, it was difficult to justify $4 a taco to myself. If I wasn't buying so many tacos so that I could try them and write a review, I would be hard pressed to justify spending $12 or $16 on 3 or 4 tacos.  Considering that Roks is in Champaign, IL, $4 a taco is close to an outrageous price per taco, especially when the serving size would necessitate 3 or 4 tacos as a lunch portion.  So for value, Roks gets a 2/5 rating.  I'm sure on paper, someone can justify $4, to account for operating costs, overhead, and margins, but as a customer who just cares about how much food, and for how much, the taste, while very delicious, still does not justify the $4 cost per taco.It's a difficult because as much as I've been waiting for a Korean BBQ Taco truck in Champaign for a long time, Roks, where their tacos are delicious, I can't see myself going there more than once a month.  The wife however is a big fan and vows to return. She's the reason why the overall rating is 4/5 and not 3/5.A food truck has to work towards gaining daily, or several visits weekly support if it is to be sustainable with decent margins.  But at the $4 price point per taco, it has shifted out of affordable with justifiable value range, to \"once in a while.\"  Good service and tacos, but it has to taste good to my palette AND my wallet for repeat business.  Change it to $3/taco, and I'd be there more often.",
+                "reviewer_id": "caluWO9tlhaM4K0dW-KnrQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 1.2885895789734715e-13,
+                    "positive_probability": 0.9999999999998423
+                },
+                "stars": 3
+            },
+            {
+                "review": "Had lunch while they were in Research Park.  Had the bulgogi taco, pork katsu taco, and the kimchi fried rice balls.  Bulgogi taco was great, sweet and spicy as advertised.  Pork katsu was good but found it a little bland?  Maybe that's because I had it following the rice balls which were outstanding.  They were nicely crisped with a nice spicy aoli on top.  Although it would have been better to have the sauce on the side for dipping.  I'll have to ask next time.Service is steady as there was a several person line the 15 minutes I was there.  I probably waited 5 minutes after placing my order.  Definitely a good place to grab something different for lunch.",
+                "reviewer_id": "cD9qmKcysqI31o8I40KxFw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.012138535142914094,
+                    "positive_probability": 0.9878614648570938
+                },
+                "stars": 4
+            },
+            {
+                "review": "LOLOLOL WUT. I ordered the taco sampler. One of my tacos straight up had like nothing on it. Each tortilla was the diameter of my finger (actually). I understand that it's a taco sampler, so each one of them was going to be smaller than regular size tacos, but this is ridiculous. There was almost no meat on any of them. Four tiny tortillas (actually more like three) with almost nothing on them, costing $10. I had such high hopes for roks. I honestly hope they see this review-not so they can know that I'm angry at them, but rather that they will change.For now, if you're craving Korean tacos, just go to spoon house. Their tacos are actually really good.",
+                "reviewer_id": "lJw_0CG8isgttEMIVUEtkg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.19574085162192056,
+                    "positive_probability": 0.8042591483780852
+                },
+                "stars": 1
+            },
+            {
+                "review": "Food's good - portions are quite small. Price is very good for what you're getting. Tortillas are kind of stale sometimes, falling apart often. Sometimes the tacos are assaulted with sauce and this comes pretty inconsistently. Upsides: Fast, good, would recommend.",
+                "reviewer_id": "mm7EL1TCXy1qlIfwjeRF2Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3921469467038151,
+                    "positive_probability": 0.6078530532961827
+                },
+                "stars": 4
+            },
+            {
+                "review": "Everything was amazing. They bring what used to be only available in major cities to the Champaign-Urbana area. So if you want your taste buds to do a Chuck Norris round house kick in your mouth this is the place. Make sure to try one of everything! I would recommend following them on Twitter or Facebook  to see where they are located for the day.(it is a food truck)",
+                "reviewer_id": "R-3xAlIwgdSfIU6mZEbhOg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.06490492955536718,
+                    "positive_probability": 0.9350950704446298
+                },
+                "stars": 4
+            },
+            {
+                "review": "Bugolgi was good. The quality overall was good, but the tacos were way too small for price. It was good, but I'm not sure if I'd pay that much for a bite/fun size taco.",
+                "reviewer_id": "Sl3VNSxBsi6MnQ-BCnYQgA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.36844870181734085,
+                    "positive_probability": 0.6315512981826591
+                },
+                "stars": 3
+            },
+            {
+                "review": "A new truck to the Champaign area which we noticed after stumbling out of Joe's one night.Korean BBQ tacos sounded pretty good, so each of us ordered something. I believe what I had was called an Ace-Deuce, it had a spicy sauce, lettuce and a few other things on it and the main meat was like seasoned pork. Overall it tasted really good. Definitely a unique flavor that even drunk me was able to remember and now rave about. Perhaps I'm just not experienced with Korean flavors but this was definitely quite good. Lots of good texture, the meat tasted to be of decent quality, fresh veggies, etc.My only qualms, like many others here, is the price. These tacos are expensive, and they are especially small. Like really small, too small to charge $4/taco. My friend was quite let down with the size of the sampler, which, at $10 plus the upcharge he paid for kimchee, was also underwhelming and we both found ourselves hungry after getting home. The problem here is that hungry students know what they can get for X amount of $. If I'm not mistaken, almost all the Mexican places on campus (Maize, Chipotle, El Charro, Burrito King) have a massive burrito that is even less $ than 2 of ROKs tacos. Granted, the better of those places aren't as unique and also not as conveniently open late, but anyone who has been to ROKs and is looking for a full meal knows it probably can't be had there for under $10. Not to mention the often difficult task of having to locate a food truck when it's not in it's usual spot, and potentially having to travel farther. Unfortunately uniqueness and flavor are often overlooked in favor of portion size.If the portion size was improved, I'd be a regular for sure. ROKs has a lot of potential.",
+                "reviewer_id": "XzIKZTb4I-7wW4BjKwV2Mw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.00039938406846945273,
+                    "positive_probability": 0.9996006159315327
+                },
+                "stars": 3
+            }
+        ],
+        "similar_restaurants": [
+            "cab8Jri_Zdz2487hG5em6w",
+            "U2VUcIbuxGT6rK1EETf8aA",
+            "dvO4zlxg3GoK_CiqbvtxbQ",
+            "h1kMWbt6gjkIy4VC8VqVuQ",
+            "7QyBU6vqp1R9JnZYfPtNPQ",
+            "wGp0fgsmqCL8ovLwQrlSKw",
+            "QUZUgIHFKgYEgM-QNROgHw",
+            "U8fJ4fEhoFGqxYLK_VNoEQ",
+            "0mLadTWoDC6K_NFLMe29mA",
+            "R3dSeFD8k_Z-EHNLlUELiw"
+        ]
+    },
+    "cab8Jri_Zdz2487hG5em6w": {
+        "keywords": {
+            "bigrams": [
+                "dragon_fire",
+                "food_truck",
+                "brick_oven",
+                "fire_pizza",
+                "red_dragon",
+                "spicy_food",
+                "make_pizzas",
+                "neapolitan_style",
+                "downtown_champaign",
+                "crunchy_chewy"
+            ],
+            "unigrams": [
+                "pizza",
+                "dragon",
+                "pizzas",
+                "fire",
+                "food",
+                "spicy",
+                "oven",
+                "make",
+                "truck",
+                "good"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "none",
+                "Ambience": {
+                    "casual": true,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "Caters": true,
+                "Delivery": false,
+                "Dogs Allowed": true,
+                "Good For": {
+                    "breakfast": false,
+                    "brunch": false,
+                    "dessert": false,
+                    "dinner": false,
+                    "latenight": false,
+                    "lunch": true
+                },
+                "Good For Groups": true,
+                "Good for Kids": true,
+                "Has TV": false,
+                "Noise Level": "quiet",
+                "Outdoor Seating": false,
+                "Price Range": 1,
+                "Take-out": true,
+                "Takes Reservations": false,
+                "Waiter Service": false,
+                "Wheelchair Accessible": true,
+                "Wi-Fi": "no"
+            },
+            "business_id": "cab8Jri_Zdz2487hG5em6w",
+            "categories": [
+                "Food",
+                "Pizza",
+                "Food Trucks",
+                "Restaurants"
+            ],
+            "city": "Champaign",
+            "full_address": "Champaign, IL",
+            "hours": {
+                "Friday": {
+                    "close": "14:00",
+                    "open": "11:00"
+                },
+                "Monday": {
+                    "close": "14:00",
+                    "open": "11:00"
+                },
+                "Saturday": {
+                    "close": "14:00",
+                    "open": "10:00"
+                },
+                "Thursday": {
+                    "close": "14:00",
+                    "open": "11:00"
+                },
+                "Tuesday": {
+                    "close": "14:00",
+                    "open": "11:00"
+                },
+                "Wednesday": {
+                    "close": "14:00",
+                    "open": "11:00"
+                }
+            },
+            "latitude": 40.1164204,
+            "longitude": -88.2433829,
+            "name": "Dragon Fire Pizza",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media2.fl.yelpcdn.com/bphoto/EF1BGOiUQRuopcunqdzicg/ms.jpg",
+            "review_count": 13,
+            "stars": 4.5,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "The pizza is OK. I like spicy food so I order their green dragon every time (my favorite). Really, really tasty, with lots of flavor options, and a crunchy-chewy-slightly-toasty crust that's something special. ",
+        "reviews": [
+            {
+                "review": "We stopped by when we noticed the new food truck at the Boneyard Creek Celebration in Urbana. It looked really attractive with the brick oven and everything. We came up to read the menu and I found the woman at the register to be a pushy sales person. When we finally decided on a pizza and were getting ready to pay, she interjects a comment about how we should leave a tip for the baker. How rude to insist that we tip? Doesn't the baker make a full wage? He's no waitress after all. We probably would have tipped anyway but it felt strange to be pressured like that. Also, I'm almost positive that they're grossly abusing the term \"local\" because it's trendy. The peppers were all listed as locally grown...then it occurred to me, it's April in central illinois, what kind of crazy magician is able to grow bell peppers right now?? News Flash: no perversion of the english language could allow for California, Mexico, or Florida to be considered local to central illinois! I would have even accepted \"regional\" but local? No way. In the end, the pizza was okay, just okay.",
+                "reviewer_id": "D98vylCT1fLKBIU6iAKxhw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9815539334868482,
+                    "positive_probability": 0.018446066513146307
+                },
+                "stars": 2
+            },
+            {
+                "review": "Very good pizza.  Their green dragon sauce is delicious.  Spicy, but not overwhelming.  They also had the option of ghost pepper cheese to turn up the heat a bit.  It sounds scary, but was very good (and not too spicy).I'm also fascinated that they managed to install a wood-fired brick oven on a food truck.  Such a neat idea, and they executed it well.  With pizza, you worry about how long it will take to get an order out, but they can pump out pizzas quickly.  We used them for a kids party, and they were able to turn out 50+ pizzas in under an hour.  It was incredible.  We'd use them again in a heartbeat for a party.  They were very accommodating.  It was nice to have the guests get whatever they wanted without worrying about appeasing everyone with my topping choices.The ingredients are quite good too.  The Neapolitan style dough is thin and crispy and delicious.  You may want to ask them to leave it in the oven a bit longer if you want it crispier.",
+                "reviewer_id": "EMxz314z1gFKqCZau7ye0g",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9951860542787865,
+                    "positive_probability": 0.004813945721214937
+                },
+                "stars": 5
+            },
+            {
+                "review": "I went to the Tuesday night farmer's market downtown Champaign and saw the Dragon Fire Pizza food truck. I heard about it and have seen my friends eat some of their pizza. So I decided to give it a try. They have seven specialty pizzas that already have toppings picked out. There is also the option of creating your own pizza. I ordered the Margherita pizza and a Red Dragon pizza. While I was waiting for the pizzas to come out of the oven, I asked the workers about how they make the pizzas and what was unique about them. They make the pizzas \"neopoliton\" style which refers to the way Italians make their pizza. The dough is hand-tossed and the pizza is baked in a ceramic oven. The workers were really friendly and helpful in choosing a pizza that I would like. We took the pizza home, which was about 15 minutes away. The pizza was still warm, but not as warm as it would have been when coming out of the oven. In my experience, I would take my pizza and eat it as soon as it was ready. Dragon Fire pizzas are not like regular American pizza's because the crust isn't seasoned and there isn't an overload of cheese. It is an acquired taste that I would recommend delving into.",
+                "reviewer_id": "eWjqh5F-2tHtWhZODsJAyA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0295000744532642,
+                    "positive_probability": 0.9704999255467346
+                },
+                "stars": 4
+            },
+            {
+                "review": "If you'd told me a year ago that I'd see a portable brick oven tooling around Champaign-Urbana, selling pizza that they bake with fire in just a few minutes, I'd have said you were crazy. But that's exactly what Dragon Fire Pizza is. And their pizza is amazing.I'd never heard of Neapolitan-style pizza--I'm usually a deep-dish fan myself--but this pizza is seriously fantastic. Really, really tasty, with lots of flavor options, and a crunchy-chewy-slightly-toasty crust that's something special. Plus, the people are really friendly and you can tell they earnestly want you to have the best experience possible. I've visited their truck a number of times, and I always come away happy.Also, they're big on supporting the community--and great with kids! We invited them to my son's cub scout troop and they very handily taught a bunch of rowdy kids how to stretch their own pizza dough and make their own pizzas. It was unforgettable--the kids AND the parents enjoyed it a lot.When you see them out and about--and they're hard to miss!--do yourself a favor and check 'em out!",
+                "reviewer_id": "fYQ6QeKwonOv7GgY7Mt1hw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.004833586053893146,
+                    "positive_probability": 0.9951664139461087
+                },
+                "stars": 5
+            },
+            {
+                "review": "Excellent pizza. Really great addition to the champaign urbana food scene. Great spot to eat at lunch with short wait times and high quality ingredients.After eating here again, I still think it is great. I'd definitely recommend ordering your pizza with fresh mozzarella as one of the ingredients.",
+                "reviewer_id": "IIRBF6_xbWYPbP_mjGI8RA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.46419618344540153,
+                    "positive_probability": 0.5358038165545972
+                },
+                "stars": 5
+            },
+            {
+                "review": "I've had the pleasure of having almost everything on the Dragon Fire menu, and I have to say I'm very impressed. I like spicy food and I was pleased with their self-named \"Dragon Fire\". Spicy isn't the only thing they do though. The Red Dragon is probably my second favorite.I'm not a vegetarian, but I was impressed with the large number of vegetarian pizza choices they have. And for the non-vegetarians out there, with most of them you don't even know you're eating something without meat.Probably the best aspect of their pizzas is the dough. It's very chewy, but not undercooked. It kind of reminded me of a warm flat-bread (like the kind you would use for a gyro) but thinner and warm. It folds easily so it's not droopy.Probably the best advice I can give would be for you to bookmark the \"Finder\" page on their website. They keep a current calendar and Twitter feed on there so you'll always know where they are.",
+                "reviewer_id": "jMFl10Ic-e7GWmgUG7pMzg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0005755390460733568,
+                    "positive_probability": 0.999424460953928
+                },
+                "stars": 5
+            },
+            {
+                "review": "ERMAGERD PIZZA. Yeah, so now that I said that.... This was a random last minute early lunch choice and dang... just....dang.So first of all the owner is super friendly with his customers. This dude obviously has a sense of humor and likes his job. I got a Gold Dragon and it was amazing. I went to Italy and I feel like a crust snob. It needs to be crunchy and chewy at the same time for me to really love it. Dragon Fire Pizza nailed it. (Yeah for you!)  The pizza size is just enough to look like you can't eat it all, but then somehow you magically can. Boom! It's just gone. So needless to say, I ate the whole thing myself. It was hot, it was fresh, it was flavorful and it was pizza. Do I really need to say more? Like the owner said \"What American doesn't like pizza\"Just go. And don't plan to share.",
+                "reviewer_id": "kGVK_HmOjliHrKiPGiXmxQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6629608465625071,
+                    "positive_probability": 0.3370391534374836
+                },
+                "stars": 5
+            },
+            {
+                "review": "The pizza is OK. I had a margherita - it's unbearably salty.  Like, tears in your eyes salty.  Mozzarella behaves strangely and it's loaded with some kind of oil I can't identify.  Anyway, it's a pretty decent pizza for the price (Around $8).  Edit: Spoke with the owner, and have since had much, much better pizzas :) I'll keep an eye on this place and keep going - I think I just got them on an off day!",
+                "reviewer_id": "mm7EL1TCXy1qlIfwjeRF2Q",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6246863479741777,
+                    "positive_probability": 0.37531365202582095
+                },
+                "stars": 4
+            },
+            {
+                "review": "Awesome I absolutely loved the yummy pizza you got to love this place it has all your wildest dreams",
+                "reviewer_id": "TA1H0-VFVtzsJofn6qKgDg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5114927329888378,
+                    "positive_probability": 0.4885072670111635
+                },
+                "stars": 5
+            },
+            {
+                "review": "Best food truck. I like spicy food so I order their green dragon every time (my favorite). Could be a little spicy to people who don't like spicy food.",
+                "reviewer_id": "wVQab8RRmPwhQ2fGiQnhyA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.241590269874512,
+                    "positive_probability": 0.758409730125487
+                },
+                "stars": 5
+            },
+            {
+                "review": "Easily one of my favorite food trucks here in town!  I have had both the Bronze Dragon (sausage, mushroom, peppers with tomato sauce) and the Dragon Fire (sausage, peppers, onions, jalapeos with spicy green sauce), and both are excellent.  I tried one of their weekly specials (BBQ chicken pizza) last week and I did not care for it as much (and it was much more expensive).  They offer it on cardboard rounds if you are eating immediately, or in a box if you are taking it to go.  They also offer a ghost pepper cheese add-on to the Dragon Fire that I have not been brave enough to try yet, but I've heard that is good as well.  Very friendly staff, and it's freshly made pizza brick-oven pizza in just a few minutes.",
+                "reviewer_id": "xBejh2J752GEd7fdpMXP1A",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9946002081086587,
+                    "positive_probability": 0.005399791891333054
+                },
+                "stars": 5
+            },
+            {
+                "review": "My favorite food truck in CU. I haven't had a bad pizza yet. They come to Downtown Champaign on occasion and the line gets long quickly--and for good reason! They are able to quickly make their delicious pizzas and they're consistently tasty.I have tried the Red Dragon a couple of times; great for those who only want mild spice from pepperoni and onion. My husband took the Dragon Fire pizza challenge--it is spicy to the max.I have also gotten a custom veggie pizza with spinach, peppers, and onion, and was very pleased. Even though the crust is thin, it holds up well with multiple toppings. I like folding the slices in half, NYC style, to get all the good stuff in one bite.Courteous, fast, professional, and tasty pizza to go for $10? Yes, please.",
+                "reviewer_id": "XXaUQHIcjaROjFhXkllw7A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.03186105990317248,
+                    "positive_probability": 0.9681389400968229
+                },
+                "stars": 5
+            }
+        ],
+        "similar_restaurants": [
+            "Z4ZP0LwHhG8SMTkvEcVvpg",
+            "RbThUOAzsx7am1xaft29zg",
+            "-Fwt0yM17CvpDv12ld6mmw",
+            "Rj0EiZoTEHqUo_wt-MTd0g",
+            "MSMdhoUraQ0DLLwmLbM28A",
+            "pXZtvvXtVSXHgodcGfiX_g",
+            "1A_4WE4hdpdU3pG6PWUOVw",
+            "zLkok9inSL4lzVoSzfpxAA",
+            "AEqvyxNHm3YFzArBinr2_Q",
+            "OkNhrobZUhpybZlpHAA_bQ"
+        ]
+    },
+    "shwDnhZS6pvQZXaN903XgQ": {
+        "keywords": {
+            "bigrams": [
+                "drunk_order",
+                "counter_futbol",
+                "friendly_guys",
+                "disgusting_telling",
+                "jarritos_horchata",
+                "time_didn",
+                "delivery_time",
+                "good_place",
+                "possibly_burrito",
+                "street_entering"
+            ],
+            "unigrams": [
+                "burrito",
+                "food",
+                "place",
+                "bad",
+                "good",
+                "wrap",
+                "absolutely",
+                "mexican",
+                "disgusting",
+                "liquid"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Good For Groups": true,
+                "Take-out": true
+            },
+            "business_id": "shwDnhZS6pvQZXaN903XgQ",
+            "categories": [
+                "Food",
+                "Mexican",
+                "Food Trucks",
+                "Restaurants"
+            ],
+            "city": "Urbana",
+            "full_address": "902 W University Ave\nUrbana, IL 61801",
+            "hours": {},
+            "latitude": 40.116597,
+            "longitude": -88.220285,
+            "name": "Burrito King",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media4.fl.yelpcdn.com/bphoto/cR4f6kMjzfGEBZVi8jK0SA/ms.jpg",
+            "review_count": 3,
+            "stars": 2.5,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "Good fast Mexican food right on green st. They make their own hot sauces and have margaritas and Jarritos and horchata. Friendly guys behind the counter if you like futbol it's always on. ",
+        "reviews": [
+            {
+                "review": "When ever I'm drunk enough to order good from this place it's always a let down. Bad delivery and one time they didn't even wrap my burrito. Food isn't bad but everything else is subpar at best",
+                "reviewer_id": "is9ZzX-PNddHSW0swUaHPA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.45987979953361324,
+                    "positive_probability": 0.5401202004663848
+                },
+                "stars": 2
+            },
+            {
+                "review": "If it were possible to give this place 1/8 of a star I would. Quite possibly the worst burrito/food/slop on a plate that I have ever consumed in my life. They cover your burrito in a liquid cheese that's absolutely disgusting without telling you that's how it comes. I ate this while under the influence of alcohol and am this strongly opinionated on how bad it was. Imagine if this was eaten while sober? I would suggest eating the gravel off the side of the street before entering this place. I'm going to stop typing now because thinking about this atrocious burrito is making me nauseous.",
+                "reviewer_id": "KNMBTSwCqDbKUbR51Mjrsw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6483408928099406,
+                    "positive_probability": 0.35165910719006876
+                },
+                "stars": 1
+            },
+            {
+                "review": "Good fast Mexican food right on green st. They make their own hot sauces and have margaritas and Jarritos and horchata. Friendly guys behind the counter if you like futbol it's always on.",
+                "reviewer_id": "tBiAJtAB4RsXiB4uWxtWrA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3198226546322413,
+                    "positive_probability": 0.6801773453677604
+                },
+                "stars": 5
+            }
+        ],
+        "similar_restaurants": [
+            "R3dSeFD8k_Z-EHNLlUELiw",
+            "RRCF1uUIkmLcQdZauqZJAQ",
+            "NhxR5j9Qnao-iteD3ZiQXA",
+            "cab8Jri_Zdz2487hG5em6w",
+            "cFivwA18popY5GH2tJtXlQ",
+            "ivZo1goh7HXdep03NfA7Cg",
+            "_tYZuomgsRsye59b1baGSQ",
+            "cT9uP_Lr5bz6jhIqZPlLcw",
+            "UBriZt4m5BzkvNqnCeuGmw",
+            "iYaDjwYdtqhLMY_tQFRlKA"
+        ]
+    }
+}

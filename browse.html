@@ -1,0 +1,113 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Stick a Fork in It</title>
+    <link rel="stylesheet" type="text/css" href="style.css"/>
+    <link rel="stylesheet" type="text/css" href="slick/slick.css"/>
+    <link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/>
+</head>
+<body bgcolor="black">
+
+	<div id="master">
+        <ul>
+            <li><a class="active" href="index.html">Home</a></li>
+            <li id="web_title"><b>Stick a Fork in It</b></li>
+            <li id="logo"><img height="45" src="fork_PNG3068.png"></li>
+        </ul> 
+
+		<script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+        <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+        <script type="text/javascript" src="slick/slick.min.js"></script>
+
+        <script>
+            function setSessionVariables(restaurantID) {   
+                sessionStorage.restaurantID = restaurantID;
+                window.location.href = window.location.pathname.substring( 0, window.location.pathname.lastIndexOf( '/' ) + 1 ) + 'browse.html';
+            }
+        </script>   
+
+        <script>
+        	$(document).ready(function(){
+      			var restaurantID = sessionStorage.restaurantID;
+                 $.ajax({
+                    url: '/data/final_output.json',
+                    success: function (data) {
+                        var currentRestaurant = data[restaurantID];
+                        var city = currentRestaurant.metadata.city;
+                        $.ajax({
+                            type: "GET",
+                            url: 'https://www.googleapis.com/customsearch/v1?key=AIzaSyBZ4XDn56vWqsePz6GCKvgNCB6HgTpfcMc&cx=000865311947915661536:ejbrxesx5ic&q=' + currentRestaurant.metadata.name  + '%20'+ city +'&searchType=image&fileType=jpg&imgSize=large&alt=json',
+                            data: "{}",
+                            contentType: "application/json; charset=utf-8",
+                            dataType: "json",
+                            cache: false,
+                            success: function (image_data) {
+                                $('#master').append('<h1>'+ currentRestaurant.metadata.name + '</h1>');
+                                $('#master').append('<img id="google_image" src="'+image_data.items[0].link+'">');
+                                $('#master').append('<p>'+currentRestaurant.metadata.full_address +'</p>');
+                                $('#master').append('</br><h2>Keywords</h2>');
+                                var unigrams = currentRestaurant.keywords.unigrams;
+                                var bigrams = currentRestaurant.keywords.bigrams;
+                                $('#master').append('<p id="unigrams">');
+                                for(i = 0; i < unigrams.length-1; i++) {
+                                    $('#unigrams').append(''+unigrams[i]+', ');
+                                }
+                                $('#unigrams').append(''+unigrams[i]+'</p>');
+
+                                $('#master').append('<p id="bigrams">');
+                                for(i = 0; i < 7; i++) {
+                                    var currentBigram = bigrams[i].replace("_", " ");
+                                    $('#bigrams').append(''+currentBigram+', ');
+                                }
+                                $('#bigrams').append(''+bigrams[i].replace("_", " ")+'</p>');
+
+                                $('#master').append('</br><h2>Similar Restaurants</h2>');
+                                $('#master').append('<div id="similar_carousel" style="height: 300px; margin: auto; padding: 20px; width: 95%;"></div>')
+                                var keys = currentRestaurant.similar_restaurants;
+                                for(var j = 0; j < keys.length; j++){
+                                    var photo = data[keys[j]].metadata.photo;
+                                    var restaurantName = data[keys[j]].metadata.name;
+                                    var restaurantID = keys[j];
+                                    if(photo == undefined){
+                                        photo = "http://www.parentcenterhub.org/wp-content/uploads/2014/03/No-Image-.jpg";
+                                    }
+                                    $('#similar_carousel').append('<div id="r'+ j +'" class="restaurant"><a><img class="carouselImage" id="' + restaurantID + '" src="' + photo + '" border="1" onclick="setSessionVariables(\'' + restaurantID + '\')"></a><p id="name">' + restaurantName + '</p></div>');
+
+                                }
+                                $('#similar_carousel').slick({
+                                    infinite: true,
+                                    slidesToShow: 6,
+                                    slidesToScroll: 1,
+                                    arrows: true
+                                });
+
+                                $('#master').append('<h2>Reviews</h2>');
+                                $('#master').append('<p><b>'+ currentRestaurant.review_summary+'</b></p></br>');
+                                $('#master').append('<table id="myTable" style="width:100%"></table>');
+
+                                var reviewsList = currentRestaurant.reviews;
+                                for(i = 0; i < reviewsList.length; i++){
+                                    var sentiment = "";
+
+                                    if(reviewsList[i].sentiment.label == "neg"){
+                                        sentiment = "Negative";
+                                    } 
+                                    else {
+                                        sentiment = "Positive";
+                                    }
+                                    $('#myTable').append('<tr><td>'+reviewsList[i].review+'</td></tr>');
+                                    $('#myTable').append('<tr><td>Sentiment: <span class="'+sentiment+'Sentiment">'+sentiment+'</span></td></tr>');
+                                    $('#myTable').append('<tr><td>Stars: <span class="stars">'+reviewsList[i].stars+'</span></td></tr>');
+                                    $('#myTable').append('<tr><td><p></p></td></tr>');
+                                }
+
+                            }
+                        });
+    		        }
+                });
+            });
+        </script>
+	</div>
+</body>
+</html>

@@ -1,0 +1,1063 @@
+{
+    "bcW-OuYklAXeEZWBgc7TaA": {
+        "keywords": {
+            "bigrams": [
+                "baked_goods",
+                "red_pepper",
+                "coffee_shop",
+                "downtown_champaign",
+                "turkish_coffee",
+                "outdoor_seating",
+                "roasted_red",
+                "ham_cheese",
+                "coffee_shops",
+                "fresh_baked"
+            ],
+            "unigrams": [
+                "coffee",
+                "good",
+                "bread",
+                "place",
+                "pekara",
+                "great",
+                "crepes",
+                "nice",
+                "food",
+                "sandwich"
+            ]
+        },
+        "metadata": {
+            "attributes": {
+                "Accepts Credit Cards": true,
+                "Alcohol": "none",
+                "Ambience": {
+                    "casual": true,
+                    "classy": false,
+                    "divey": false,
+                    "hipster": false,
+                    "intimate": false,
+                    "romantic": false,
+                    "touristy": false,
+                    "trendy": false,
+                    "upscale": false
+                },
+                "Attire": "casual",
+                "BYOB": false,
+                "BYOB/Corkage": "no",
+                "Caters": true,
+                "Delivery": false,
+                "Good For": {
+                    "breakfast": false,
+                    "brunch": true,
+                    "dessert": false,
+                    "dinner": false,
+                    "latenight": false,
+                    "lunch": false
+                },
+                "Good For Groups": true,
+                "Good for Kids": true,
+                "Has TV": false,
+                "Noise Level": "average",
+                "Outdoor Seating": true,
+                "Parking": {
+                    "garage": false,
+                    "lot": false,
+                    "street": true,
+                    "valet": false,
+                    "validated": false
+                },
+                "Price Range": 1,
+                "Take-out": true,
+                "Takes Reservations": false,
+                "Waiter Service": false,
+                "Wheelchair Accessible": true,
+                "Wi-Fi": "free"
+            },
+            "business_id": "bcW-OuYklAXeEZWBgc7TaA",
+            "categories": [
+                "Food",
+                "Gelato",
+                "Creperies",
+                "Sandwiches",
+                "Restaurants"
+            ],
+            "city": "Champaign",
+            "full_address": "116 N Neil St\nChampaign, IL 61821",
+            "hours": {
+                "Friday": {
+                    "close": "20:00",
+                    "open": "07:00"
+                },
+                "Monday": {
+                    "close": "20:00",
+                    "open": "07:00"
+                },
+                "Saturday": {
+                    "close": "20:00",
+                    "open": "07:00"
+                },
+                "Sunday": {
+                    "close": "19:00",
+                    "open": "08:00"
+                },
+                "Thursday": {
+                    "close": "20:00",
+                    "open": "07:00"
+                },
+                "Tuesday": {
+                    "close": "20:00",
+                    "open": "07:00"
+                },
+                "Wednesday": {
+                    "close": "20:00",
+                    "open": "07:00"
+                }
+            },
+            "latitude": 40.1170088,
+            "longitude": -88.2432482,
+            "name": "Pekara Bakery and Bistro",
+            "neighborhoods": [],
+            "open": true,
+            "photo": "https://s3-media3.fl.yelpcdn.com/bphoto/-KKEfug3VUnGJ627oBh0Tg/ms.jpg",
+            "review_count": 110,
+            "stars": 3.5,
+            "state": "IL",
+            "type": "business"
+        },
+        "review_summary": "The bread here is so good. Good sandwiches and their fresh baked breads are amazing,  however their coffee is weak and just overall taste bad. The coffee was good. ",
+        "reviews": [
+            {
+                "review": "I discovered Pekara this summer and I like it!! Friendly place where you can meet up with friends and have a nice meal!! Deserts are fantastic!",
+                "reviewer_id": "-l3pFzHMtpSDMDhzM4PfWg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2600840536933974,
+                    "positive_probability": 0.7399159463066026
+                },
+                "stars": 4
+            },
+            {
+                "review": "I absolutely adore this place for the following reasons: a) inexpensive, quality coffee, easily the best value in the Chambana area, b) deliiiiccciiiouuus pastries!!!!  Think fruit tarts, chocolate raspberry cake...yum yum, c) decent, wide selection of foods; besides the usual soup, sandwich, salad coffee shop fare, they also have some serviceable crepes, and d) lots of seating, with smaller 2 person tables for studiers/couples, and larger tables in the back for groups/families (plus a nice outdoor seating area in the back).  Oh, and free wifi as well!One star off for their relatively limited hours...only open till 9 M-Sat, and till 5 (ouch!) on Sundays.",
+                "reviewer_id": "-Yk1KPbMJGY5OkRUeo8jlw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.060255970264553496,
+                    "positive_probability": 0.939744029735454
+                },
+                "stars": 4
+            },
+            {
+                "review": "This place has great pastry items, their carrot cake and tiramisu are amazing. The quiche are just right(all organic eggs), the breakfast bagel with eggs and cheese is very yummy as well as the the Cuban sandwich!!! It does get a little crowded 12-1 lunch time and on weekends during brunch hours. Their prices are so cheap compared to big cities, for the quality foods you are getting :)",
+                "reviewer_id": "0sE-bd7FqAwbu9O1_LZA-Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.127783604679581,
+                    "positive_probability": 0.8722163953204147
+                },
+                "stars": 5
+            },
+            {
+                "review": "Great for breakfast.  Wonderful treats and bread.",
+                "reviewer_id": "19MN_BLvpQe-isX7oPWypg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3803950003452799,
+                    "positive_probability": 0.6196049996547197
+                },
+                "stars": 4
+            },
+            {
+                "review": "Pekara has decent coffee and reasonably fast wifi.  The crepes are tasty but inconstant.  Depending which chef makes the crepes, they can range from soggy to burnt.  Still, Pekara can be a nice retreat from the crowded, noisy campus.",
+                "reviewer_id": "27lOuVNMavQQhzvtz3pNGg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.47171950139571567,
+                    "positive_probability": 0.5282804986042838
+                },
+                "stars": 3
+            },
+            {
+                "review": "I dont like the cakes but the bread is excellent, at the level of any good german Beakerei",
+                "reviewer_id": "2AW7yt8DX8rHWykivJcWww",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7935359031657117,
+                    "positive_probability": 0.20646409683428643
+                },
+                "stars": 3
+            },
+            {
+                "review": "Their Cuban sandwich on fresh baked bread is seriously delicious, and not what you're going to get elsewhere. Love the baked croissants they keep in the display case--good if you're trying to keep the budget on track.Coffee is decent, but I wouldn't go for just coffee.",
+                "reviewer_id": "3zxHXzxP6D6K6kvDImzMAQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9319471024008379,
+                    "positive_probability": 0.06805289759916294
+                },
+                "stars": 4
+            },
+            {
+                "review": "Service is friendly and prompt and willing to give recommendations to customers, wifi is usually functional, and their chai lattes are a zillion times better than the ones I've had at Aroma or Espresso Royale in town. Kopi's is on par for comparison, but I think I like Pekara's more because it's served in a porcelain cup...something about it is more pleasant that way. The bakery is delicious, but the sandwiches are a little too salty/heavy for my taste. The same goes for the soups; tasty, but way too rich and creamy. That's a preference thing and I'm sure many people will like it, but just in case others are sensitive to textures, there it is.Overall, it's not a super-special kinda coffee shop, but for downtown Champaign, it does well, and its a local business with awesome staff that I feel really good about supporting. I also think it trumps downtown urbana shops by a long shot; looking at you Flying Machine.",
+                "reviewer_id": "4Yz9hX-0KgwyllGAB7AMCw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 2.366080828774548e-06,
+                    "positive_probability": 0.9999976339191721
+                },
+                "stars": 4
+            },
+            {
+                "review": "I love the napoleons and peppermint mochas!!",
+                "reviewer_id": "5-Om7fBz-cOkTi9Z712H1w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4537511308831431,
+                    "positive_probability": 0.5462488691168569
+                },
+                "stars": 5
+            },
+            {
+                "review": "I am in love with the new Pekara stand at the Soulard Farmers Market. I have a horrible weakness for bread. If I try and go on a diet, bread is one thing that I cannot give up. I love it so!!  Pekara is now my go-to spot for bread at the market. The wide selection of bread and baked goods immediately catches your eye. In a glass case, there are croissants and other goodies.  Next the case is a table filled with fresh baked breads that all look mouthwatering. I have purchased the Herb Focaccia and the Baguette.  Woah, both were amazing!!! The Focaccia had the perfect amount of rosemary and salt on it and it was perfect for dipping in some olive oil with parmesan cheese.  The baguette had a rustic look to it and had the right amount of crustiness.   It went great with the Italian Wedding Soup I made for dinner that evening. The gentleman at the stand is also very nice and I will for sure be a regular customer from here on out! Thanks Pekara!!",
+                "reviewer_id": "58Fwh5D-zv6Hc7kujllKgA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0038417351109230396,
+                    "positive_probability": 0.9961582648890835
+                },
+                "stars": 5
+            },
+            {
+                "review": "Pekara seems to be one of those restaurants that lacks a true identity. It's a bit more upscale in atmosphere and food choices, but the food isn't exactly gourmet. All the items I tried, from bakery goods to omelettes weren't bad but they weren't great (for the price) either. With that said, there's also a lack of upscale cafe/bakeries in general in the area so it's not a bad place to visit for breakfast if you're around.",
+                "reviewer_id": "5BNI8ukGTlwUI2CCeyjZOw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0456191653948205,
+                    "positive_probability": 0.9543808346051788
+                },
+                "stars": 3
+            },
+            {
+                "review": "First, the things Pekara does well. I frequently encounter quiche with an unappetizing dense, crumbling texture, so I was absolutely over the moon when I discovered Pekara's quiche lorraine--instead of a piece of dried-out egg cake, the filling is so superbly soft and velvety that it literally melts in your mouth. At the Urbana farmers' market, I'll stop by their stall and pick up a filled croissant, which are always crisp and flaky beyond belief (not the sad, soggy pastries that croissants can sometimes be). I also crave their savory roasted red pepper and Gouda soup--but I bet they buy it packaged from some wholesaler as I've eaten nearly identical versions at several other places in town.Next, the things I'm not so happy with. One morning I decided to stop in and pick up some treats for my workplace's coffee hour. Thinking it'd probably be a good bulk investment, I opted for a loaf of the pumpkin bread, which came out to more than $10. I've been able to pick up a loaf at other bakeries in town for around $5, so I was admittedly shocked, especially because the bread was very dry and not particularly special in any way. Some of their baked goods are fairly inconsistent in quality--so much that I've sometimes wondered if they switched owners/bakers. Recently, they've made attempts to introduce some of the classic items you'd see in a New York Italian bakery, but unfortunately their attempts lack heart. It's as if some of the cookies weren't properly taste-tested before making it to the shelves.For Pekara, I'd recommend the savory items (omelettes, sandwiches, salads, quiches) over the sweets.",
+                "reviewer_id": "6nqakbu2zU6fjOmbE83_-A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.12432122937916794,
+                    "positive_probability": 0.8756787706208414
+                },
+                "stars": 3
+            },
+            {
+                "review": "i've been here twice.  this place is confused.  my 12 year old son was totally unimpressed after they completely screwed up what he ordered.  the staff are maybe too focused on the whole hippie schtick to realize that paying customers don't really care about the staff's identities and really just expect to get what they pay for.if you need a coffee and/or food, walk around the corner to kopi.",
+                "reviewer_id": "6pC5j-hfP4xLZB2W0Wi1vg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.537995333633623,
+                    "positive_probability": 0.462004666366375
+                },
+                "stars": 1
+            },
+            {
+                "review": "Went here once for lunch with co-workers.  Seemed to be like just a little sandwich/soup/salad plus bakery type of place.  The food was average at best.  Unfortunately, the reason for the low review was the price.  I paid something like $8 for a sandwich on two of the smallest slices of sourdough bread I've ever seen and a handful of chips.  I felt ridiculously ripped off, and was left feeling hungry.  Actually, quite a few of my co-workers with more money in their pockets ended up buying seconds just to fill their appetites.  It took a little while for the food to come out as well.  The sandwich wasn't bad, just very average and ridiculously overpriced.  Soup and salad were the same.   I'll be staying away.",
+                "reviewer_id": "7JQ8n15WeW4D5AnNulQOCQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9879564554376917,
+                    "positive_probability": 0.012043544562304343
+                },
+                "stars": 2
+            },
+            {
+                "review": "Ok, so A bunch of us went down to U of I for the weekend and someone we know said we should try this place. It looks nice and their pastries are delicious...BUT...their crepes..are meh...I ordered the strawberry and cream crepes and I didn't like them much. Their crepes had too much cream and the cream was very strong, over powering the crepes. Strawberries weren't ripe, so a little sour in taste and the crepe was just ok. Overall, the taste wasn't pleasing and I will only be coming here if I have to, or for their bakery items.",
+                "reviewer_id": "7NQnjJXCY43EAYt39j8Efg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.49962870243370183,
+                    "positive_probability": 0.5003712975663018
+                },
+                "stars": 2
+            },
+            {
+                "review": "Breakfast bagel is really good but not super filling if you're very hungry. The pastry selection is very impressive. The music was very loud relative to other coffee shops; too loud to study for me personally. Very cute venue. A+ for breakfast or lunch with a friend",
+                "reviewer_id": "8a-MSlychkIfZZ-XbtaHPA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2438169085547223,
+                    "positive_probability": 0.7561830914452802
+                },
+                "stars": 5
+            },
+            {
+                "review": "With nearly 30 reviews already, I am not sure what I have to add.  I think this place has a lot of potential but is rough around the edges.  I went with my wife and son so we sampled a lot of things;I got both a plain croissant and a chocolate croissant (which they should have labeled \"pain au chocolat\"!).  The plain one was good but the chocolate one had the bread all wrong.My son got a cheese omelete but it was kind of hard on the outside and he didn't like it.My wife got the chicken pesto crepe, which she said was good.We also had some samples of a brownie they had out on the table.  You order at the counter and they give you a number to put on the table and then bring out the food to you when it's ready.The location is nice (and there's an outdoor part out back).  Bathroom was clean.Prices are a little high but there are some less expensive items on the menu.  Nothing really wrong with this place, I feel like there's more on the menu to try and I'll probably find a favorite.   I will probably end up checking it out again if I am in the area after I have tried a few other places on my list first.A 3-star type establishment.",
+                "reviewer_id": "8mgyJHYKxIV5iccyJwdxyg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3204457416478761,
+                    "positive_probability": 0.6795542583521279
+                },
+                "stars": 3
+            },
+            {
+                "review": "The pastries are beautifully presented & impressive. I like the Swedish oatmeal cookies (yay! no raisins!) and macaroons. Then there's the baklava and the pretty cakes... Besides amazing pastries, they have delicious sandwiches. The Cuban and Hot Chicken sandwiches are my favourites. Omelettes & crpes are meh. There's a decent selection of fresh bread too. I like the jalapeo cheese pretzels & ciabatta when they're available. The baguettes have been hard & stale on occasion. I like to go in for an espresso & a sandwich before I work night shift. I get a pastry to go or pick up one in the morning when I get off work. For ambiance, there's a rotation selection of artwork. It's often loud inside & not conducive of conversation. The baristas are sometimes attentive & sometimes they just ignore me until I flag them down. All in all, I like their pastries & some of the sandwiches, but it's not my favourite place to hang. This place is kinda hit or miss.",
+                "reviewer_id": "8O97RbJ486J3qQVOq98Obg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0014596269086824788,
+                    "positive_probability": 0.998540373091324
+                },
+                "stars": 3
+            },
+            {
+                "review": "Pekara has a lot going for it. The staff are really friendly and they have a really focused lunch menu. My favorite soups are the tomato and red pepper bisques, and they've gone out of their way to heat some up even if it's not on the day's menu which is really going the extra mile. I've had their turkey, blt and mushroom sandwiches and all were very tasty. Their breads are really great, too and you can't beat the price for a half soup and half sandwich at lunch. The best thing are the portion sizes! When Penara or Atlanta Bread Co. give you a half sandwich it's more like a 1/4 sandwich. There are times at Pekara i can't imagine how large a full sandwich would be! I haven't tried much of their baked goods but they look amazing.",
+                "reviewer_id": "8ufCKZCjsaqf-hhSs3K4eg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9804743312866351,
+                    "positive_probability": 0.019525668713368964
+                },
+                "stars": 4
+            },
+            {
+                "review": "It was a lifesaver a number of times being close to the Blind Pig and when I am STARVING or if I want to improvise up a few appetizers for guests. They have reasonably priced sandwich combos and I usually go for their italian meat option which often changes from month to month. It is worth trying when you don't feel like something too heavy (Guidos, etc.). A sandwich is always a good complement to your beer too...",
+                "reviewer_id": "9i-36HhVvgCcjGA2xsCmCw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.22264019325482828,
+                    "positive_probability": 0.7773598067451729
+                },
+                "stars": 3
+            },
+            {
+                "review": "High quality food and super friendly staff. Great espresso in the most interesting cups ever! Perfect for lunch or bring home a euro style baguette under your arm-authentic!!",
+                "reviewer_id": "9K013bOSmGBmZqAV2YDfpA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.10443854765197079,
+                    "positive_probability": 0.8955614523480314
+                },
+                "stars": 5
+            },
+            {
+                "review": "Treated extremely rudely. The food is good, but your staff needs to learn how to treat customers.",
+                "reviewer_id": "9QUoealG4Ham_CLEtWgPgA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.09360554227000976,
+                    "positive_probability": 0.906394457729991
+                },
+                "stars": 2
+            },
+            {
+                "review": "Good sandwiches and their fresh baked breads are amazing,  however their coffee is weak and just overall taste bad.",
+                "reviewer_id": "_EB2O2GjkTkUdGLi01O5hw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5592571481779864,
+                    "positive_probability": 0.44074285182201445
+                },
+                "stars": 3
+            },
+            {
+                "review": "Cute little place! I definitely recommend walking here on a nice day. Pekara has a variety of great pastries that cannot be found anywhere else in champaign! They also have great bread, i like the jalepeno cheddar focaccia bread  and the opera cake. I also really like the chicken pesto sandwich they have! They also have really good quiche, overall great place!",
+                "reviewer_id": "_KZ5ryxqtn2MDaVfpIGzMw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.41937991936233165,
+                    "positive_probability": 0.5806200806376643
+                },
+                "stars": 4
+            },
+            {
+                "review": "The breads here are what you might expect at a good bakery in Europe. The selection is somewhat limited, but the quality is great. We also tried their apple almond tart and mint gelato--both were excellent. The gelato scoop is typical for European gelaterias but small in comparison to your standard ice cream expectations. They also have excellent tables with wifi as well as salads and sandwiches, if you get hungrier.I thoroughly recommend visiting this cafe.",
+                "reviewer_id": "aloUkx_X7_AIs8W3n3jqag",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5756034512250376,
+                    "positive_probability": 0.4243965487749655
+                },
+                "stars": 5
+            },
+            {
+                "review": "Mmm! This place is THE place to go to, in Champaign-Urbana, for freshly-baked sweets. Albeit their cornucopia of napoleons, cinnamon rolls, fruit tarts, danishes, pies, cakes and miscellaneous sweet treats, they also have a very nice selection of sandwiches. They are a bit pricey, and the servers could include cutlery with the plates so you don't have to get up and get them yourself, but it's worth a visit for sure.",
+                "reviewer_id": "ApioERn8BQGE-HWEEZMM_A",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9796616405919755,
+                    "positive_probability": 0.020338359408028854
+                },
+                "stars": 4
+            },
+            {
+                "review": "I was genuinely excited to finally try this place out after hearing how great it was. But things didn't turn out as I had expected...I will give it two stars because the store has a nice atmosphere and good layout.  But...Baklava was dry, squished, and tasted stale.The crepes almost tasted raw and was almost rubbery to the texture.But the worst travesty was the Turkish coffee they had, which isn't really real Turkish coffee. They put a tiny cezve and the cup on a large plate; in reality they should be serving it already in the cup with the grounds already settled, without the cezve; there should be an accompanying glass of cold water (without ice), and finally it shouldnt be served with sugar cubes. The only way to truly sweeten Turkish coffee is during the brewing process when you are heating the cezve over the fire. Which means they should ask you how much sugar they want upon ordering it. Even were I to ignore this blatant trampling on the etiquette of Turkish coffee, it just tasted like incompletely made Nescafe put into a cezve and served lukewarm. Distinctly under-average establishment.",
+                "reviewer_id": "aX8hmnedCsrLJ7HmD8hwvQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.26427003745911304,
+                    "positive_probability": 0.7357299625408878
+                },
+                "stars": 2
+            },
+            {
+                "review": "Just popped in for a quick coffee while my party figured out where we wanted to go for brunch.  I ordered a hot Americana and my brother got a cheese Danish.  I tried the Danish and found it nice and flakey with a good amount of cheese filling.  Americana was simply but good.  We got our drinks very quick.  Its an interesting layout with two rooms separated by a long hall way.  Seems like a decent place to do some studying and get a nice cup of coffee. If I lived in the area I could see myself frequenting Pekara.  It also has a nice outdoor patio for those wanting to enjoy the weather.",
+                "reviewer_id": "ayyC3EJRKIoa6p3W3qisNA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6608691804690487,
+                    "positive_probability": 0.33913081953094687
+                },
+                "stars": 3
+            },
+            {
+                "review": "This review is not about the baked goods. I am reviewing the \"bistro\" here. The \"bakery\" is fine.The sandwiches here are so obscenely over-priced. I don't understand how they manage to make everything so plain and unappetizing. I ordered a \"ham and cheese melt\" that had ham and melted cheese on sourdough. The sourdough was vaguely stale and warm, but it was not clear that it had been toasted. The cheese had been melted on the bread, not the meat; there was a single, sad slice that didn't even cover all of the sourdough. The ham was overly salty, cut thick. Nothing else comes on the sandwich -- the bread isn't clearly buttered, pressed, or anything. No condiments. Just generally unappetizing. In retrospect I should have asked for a refund.This is the most recent sandwich disappointment. I don't think I'll make the mistake of getting anything that isn't pure sugar again.",
+                "reviewer_id": "bD1bQ-TbqrY5zNzbt-LZCw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9348893969805357,
+                    "positive_probability": 0.06511060301946209
+                },
+                "stars": 2
+            },
+            {
+                "review": "Just had a fantastic Cuban sandwich for breakfast medium roast coffee delightful. And of course a bunch of cookies to go that melt in your mouth we will be back next week",
+                "reviewer_id": "BD4uvQHEmwGRK_zHF7fcFA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5095395270073205,
+                    "positive_probability": 0.49046047299267886
+                },
+                "stars": 5
+            },
+            {
+                "review": "It's sad. I had a reasonably pleasant croissant two days ago and was very pleased with the quality of the baguettes. I bought two and they were delicious. HOWEVER. The cappuccino was a piece of mess. It was more close to a caffe latte. It wasnt even a foamy latte. Hardly any foam. and then, i wanted to try something sweet so i ordered a cannoli. yeah. could not have been more disappointed. I paid almost 5 bucks for a small cannoli and it was like paper soaked in water. very heavy in texture. Could not finish it. But since the baguette was the reason I had gone there for the first place, i give them two stars. Want to try their opera and other sweet pastries. but i will just order a doppio espresso. No no cappuccinos.",
+                "reviewer_id": "BZtmsneNdoYDtvG1NQuzWA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.035164322355720874,
+                    "positive_probability": 0.964835677644284
+                },
+                "stars": 2
+            },
+            {
+                "review": "Purchased a 1/2 sheet chocolate/yellow cake with raspberry filling for a special family event.  The cake was nicely decorated, however, the end pieces were dry. Also there was very little raspberry filling.  Too $$$$ for the cake quality.",
+                "reviewer_id": "CH7KtRqzDx1vw7Qp4ZDKiw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.10785304751295197,
+                    "positive_probability": 0.892146952487047
+                },
+                "stars": 2
+            },
+            {
+                "review": "I have never tried their sandwiches before but as far as I know, this is the only place in Chambana that serves Turkish coffee in a small boiling pot. It is not the cheapest definitely but I am just fascinated by it. I just love it when I get to play with tools and make my own food with it =). The atmosphere is just wonderful for studying. The only downside is that it is rather inconvenient for people who don't have cars to stay a little late.",
+                "reviewer_id": "CX4GcrCCnzfNyAl0cPqGbg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2301641486446559,
+                    "positive_probability": 0.7698358513553463
+                },
+                "stars": 3
+            },
+            {
+                "review": "I have only purchased cakes and desserts from this place for quite a number of times so my review is based on their desserts. When they are fresh, they are really good, particularly the flourless chocolate cake or brownie. The quality is inconsistent because some of the cakes they sell aren't fresh - you know they are days old when the texture is dry and the icing falls off the cake in clumps. I would be trying out their sandwiches in the future. Perhaps this might give them a more favorable rating. There's quite a variety of cakes and desserts in this bakery though - they sell everything from macaroons, cookies, baklavas, to cakes. I sure wish that the quality was more consistent with baked goods.",
+                "reviewer_id": "e9EwDGaBUmJXfApWZMM_mQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.38076988250119026,
+                    "positive_probability": 0.6192301174988046
+                },
+                "stars": 3
+            },
+            {
+                "review": "You want to get their crepes because they add value to your digestive system. I had a sandwich and it was alright.",
+                "reviewer_id": "eFIlrOz3TnuZQeh2Y1e17Q",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9501763864984056,
+                    "positive_probability": 0.049823613501591736
+                },
+                "stars": 3
+            },
+            {
+                "review": "Really cute place to stop for lunch on a snowy day! I recommend the Caesar salad! I got it with the roasted red pepper and Gouda soup. The desserts taste as amazing as they look. And the lattes are Great too!! Bread is half price on Sundays by the way!",
+                "reviewer_id": "ENO4EJzjTS1xOziL4ietUw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3241291104210747,
+                    "positive_probability": 0.6758708895789215
+                },
+                "stars": 4
+            },
+            {
+                "review": "Had the banana bread again..... warmed it up in the oven.... crack! On a gluttony binge. They also got a great pumpkin bread...... yum.",
+                "reviewer_id": "eOm5hjZHEn4DZgLnCQDUjg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.09505048845507037,
+                    "positive_probability": 0.9049495115449314
+                },
+                "stars": 5
+            },
+            {
+                "review": "I love the bread, the crepes (especially the nutella crepe!), desserts and tea here. I can't comment on the coffee since I don't drink coffee. There is outdoor seating on the sidewalk out front as well as on the back patio. Sometimes on weekends it is so crowded that you can't find a place to sit. Once in the winter, one of the employees brought a table from outside in for me to sit at. The prices are reasonable and the quality and quantity of food is just right. I absolutely love the roasted red pepper soup, yum! The atmosphere is pleasant and sometimes they feature art pieces by local artists. There are frequent buyer cards for drinks and sandwiches. I have yet to feel disappointed at this restaurant.",
+                "reviewer_id": "f8whKgtvAF6NOExa-D0nuQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0021591787565275592,
+                    "positive_probability": 0.9978408212434682
+                },
+                "stars": 5
+            },
+            {
+                "review": "Some of the best cinnamon rolls I've ever had! I was in town for my niece's graduation and Pekara became a daily fixture for me. On my last day I also tried the breakfast sandwich on a sourdough bagel. The bagel was toasted to perfection and delicious but the sandwich could have used an extra couple slices of bacon. I bought a loaf of bread to take home...thankfully, they have instructions on how to keep your bread fresh for the longest period of time, as their breads do not have preservatives. Highly recommend this place!",
+                "reviewer_id": "FhWz0raS7no74MH-di9KVg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0029873456311224947,
+                    "positive_probability": 0.9970126543688691
+                },
+                "stars": 5
+            },
+            {
+                "review": "stop selling  day-old items as fresh and lying about it! c'mon!",
+                "reviewer_id": "FpPj4gJwkZQdZMmpo8mWSA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5488236962663086,
+                    "positive_probability": 0.4511763037336918
+                },
+                "stars": 1
+            },
+            {
+                "review": "Great quick lunch spot downtown.  Roasted Red Pepper Gouda soup is  wonderful and I usually get the salad of the day.  One thing I wish they did was post their daily specials online on Facebook or Twitter so I knew when my favorite salad or sandwich was on the menu.  That would cause me to go a lot more.  Downtown Champaign has very few quick lunch options, and I would consider this the best.",
+                "reviewer_id": "gKGEuQU-BZbS0YaPEhvI-g",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6401708291460816,
+                    "positive_probability": 0.3598291708539232
+                },
+                "stars": 5
+            },
+            {
+                "review": "The food here isn't bad but it isn't anything to write home about and the servings are small and prices large. I spent $7.50 for a small lukewarm portebella sandwich and my husband got a very small and flavorless omelet with lukewarm bread that was supposed to be toast for $5.50. There are definitely better deals to be had in town. Their bread and pastries are better than their meals but still overpriced.",
+                "reviewer_id": "Hd7KPlC4ZUM-4rOsigJi0Q",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5114096931398641,
+                    "positive_probability": 0.48859030686013255
+                },
+                "stars": 2
+            },
+            {
+                "review": "A nice place to get lunch or some sweet baked goods. Sandwiches are on nice fresh-baked bread and you can get them toasted or cold. Each comes with a side or grapes and chips. There are also some sweet and savory crepes. Baked goods range from chocolate cake to cute pink cookies. It's right next to Aroma, so if you hungry from studying you can migrate here. Outdoor patio has a perfect view of one of downtown's nicest art deco buildings.Only caveat is the prosciutto crepes...I don't know what type they are using, but it is not the appetizing Italian variety. In fact, it was so unappetizing, that I have downgraded my review. I love their other items, but that experience has made this place less desirable.",
+                "reviewer_id": "HqaXK9toBpQdcz-0-rVwKw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.025411790569042674,
+                    "positive_probability": 0.9745882094309657
+                },
+                "stars": 3
+            },
+            {
+                "review": "Sometimes Pekara is awesome.  Other times, not so much.  I recently purchased a dozen cookies for my staff and they were hard as rocks.  Utterly embarrassing.",
+                "reviewer_id": "hzarzyXpPk_r2s4BSaOA4g",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2728986795726011,
+                    "positive_probability": 0.7271013204273977
+                },
+                "stars": 3
+            },
+            {
+                "review": "I stopped by Pekara Bakery for dinner on Saturday, and unlike the other (fancier) downtown Champaign dining venues, it was almost empty that night. It's nothing fancy: you order from the counter and they bring the food to your table. They have a pretty wide selection of sandwiches (warm or cold), salads, pizzas and crepes. I went for the smoked salmon pizza, which came with cucumber and dill cream cheese... a somewhat unusual and unexpected combination, but it wasn't bad and it was pretty cheap ($8 or so?). I'm guessing this might be better place for lunch than it is for dinner. I'll probably give it another try sometime soon.",
+                "reviewer_id": "igrgFZl9wDohSem0UyoP6A",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9737352763197653,
+                    "positive_probability": 0.026264723680239726
+                },
+                "stars": 3
+            },
+            {
+                "review": "Wow. Love the cinnamon rolls here. Microwave for fourth seconds in the back...? That seems uncouth, but whatever. Great icing. Great texture. It's a good breakfast spot. Come. Their quiche are huge, too.",
+                "reviewer_id": "iQi489oTJ-0knfz6-pOGpg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.6535653063181417,
+                    "positive_probability": 0.34643469368185975
+                },
+                "stars": 5
+            },
+            {
+                "review": "I've had the tiramisu here before and it was fab.  But the last time I went, it was disgusting.  The texture was gloppy and gelatinous.  It reminded me of very nasty bodily excretions.Freakin' yuck.",
+                "reviewer_id": "iWcr-TRqIuIXqMpd_MrdrQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.09823524500979301,
+                    "positive_probability": 0.9017647549902086
+                },
+                "stars": 2
+            },
+            {
+                "review": "I used Pekara Bakery as the source for my wedding cake, and I couldn't be happier. Samantha was excellent to work with, and gave suggestions and guidance about making a cake that suited us. The cake was very good and looked lovely. The pricing was on par with the area at $3.50 a slice (as of August 2013). My husband and I tried three other bakeries in town before we found Pekara, and this one stood out as the best in our opinions.",
+                "reviewer_id": "jJQ86DSdCilGxevVzh8L1g",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.19125884714407215,
+                    "positive_probability": 0.8087411528559305
+                },
+                "stars": 5
+            },
+            {
+                "review": "It is one of my favorite cafes in town. Awesome food and nice place to spend your time at.",
+                "reviewer_id": "kE9ZiCwUR1VhXtlylYiL6Q",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.1772299495939834,
+                    "positive_probability": 0.8227700504060176
+                },
+                "stars": 4
+            },
+            {
+                "review": "This is my favorite place to get lunch in Downtown Champaign.  They have so many options, I try something new every time I go and have not been disappointed. I love their baked goods, especially the Maple Bacon Croi'nuts.  Today I had a veggie quiche and it was so good, the texture was silky like cheesecake- I highly recommend it.",
+                "reviewer_id": "KvS17GuYhSnF-1qu3jTEEA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.10343458549240948,
+                    "positive_probability": 0.8965654145075899
+                },
+                "stars": 5
+            },
+            {
+                "review": "I'm surprised this bakery/cafe has not had more reviews. It is one of a very few that actually MAKE their food, including breads, baked goods, crepes, soups, sandwiches, individual pizzas, and salads, in addition to coffee drinks.Pekara has now moved its baking operations to its own dedicated building (now that says something for a local successful biz, doesn't it?) to do more wholesale for local retail establishments (for example, you can find their bread at Common Grounds Food Coop, cookies at the Latte Da coffee shops in the public libraries and Carle on Windsor and baked goods at Pages for All Ages independent bookstore.I like their niche; the desserts are homey, yet professional (and they can do higher level European cakes and pastries). They have THE best spanokopita-type dish (much better than Greek versions-more like a spinach/cheese custard in filo), lovely cupcakes, great combos for soup/salad/sandwiches, and savory croissants. Oh, and did I say individual Babkas? Seating is a smart row of two chair/table setups with plenty of outlets down the hall, with a counter/bar stools in front, and larger table combos, couch/club chairs in the back. Warm weather brings a couple of tables in front, and a bricked patio in the back. The only problems I have seen are: parking (now w/the road closed, but at nights and weekends you can use the bank across the street), and sometimes poor staffing (the owners cannot be there 24/7) although this is to be expected with the high turnover of food service jobs. I have noticed that the past six months have gotten better with a couple of 'managerial'  level employees who are keeping the staff professional. This is a casual, nice place to bring someone for lunch, breakfast, a bit to eat in the evenings, to study, etc. It is not a sit down restaurant, and it can sometimes get complicated if you are eating with a group of four or more and you want to pay the bill for everyone (getting the orders in and together).  Lunchtime can get a bit crowded. Each person orders individually and the staff brings you your meals. The food arrives quickly, even the made to order crepes. They do nice box lunches, catering, and platters as well.",
+                "reviewer_id": "KWmqmR-wF74zw--vM7Ub-g",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.003871026982644966,
+                    "positive_probability": 0.9961289730173508
+                },
+                "stars": 5
+            },
+            {
+                "review": "3.5 stars is really more realistic.....My husband and I showed up to meet a friend for breakfast. We were there a little early and said emphatically that we wanted coffee and it was our first time there, and were met with silence and attitude. We finally decided on a lemon/cheese danish and a berries and cream cheese crepe. The girl working there apparently confused \"lemon and cheese danish\" for pumpkin and cream cheese muffin, which she stated they did not have. So I repeated the order, and she got to work. It didn't take too long to get the crepe (less than 5 min), but when my friend ordered, I went up to the counter with her and the girl asked me \"if she could help me\" to which I replied no, I was getting water and talking to my friend. That girl had a serious problem with apathy and attitude. Later, she climbed up into the visible \"attic\" storage and THREW things down (like paper towels, boxes, etc.)The prices could be better, but it was around $12 for a crepe, a pastry, and two cups of coffee. The crepe was really tasty and the coffee was good too, but the pastry was nothing special, I've had better at Panera.",
+                "reviewer_id": "l_vRCjYILaY9PYWevubPwQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.040841770680130826,
+                    "positive_probability": 0.9591582293198518
+                },
+                "stars": 3
+            },
+            {
+                "review": "I ordered a bagel with egg and feta sandwich. I expected it to be pretty plain, just something to eat for a snack or whatever, but when it came I was amazed with how good the bagel was. I was like \"hold up homie, does that say bakery on the wall? Wowzas they made this bagel here from scratch. That's amazing. Can't wait to yelp review this\"And here I am, reviewing it. It was good. The stuff they bake is awesome.",
+                "reviewer_id": "ljG8IJlliAkQXw-yCVMEug",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8106851009677425,
+                    "positive_probability": 0.18931489903225374
+                },
+                "stars": 4
+            },
+            {
+                "review": "Great local bakery in the heart of downtown Chambana.  Awesome to drop in in the evening and get a good dessert.  Love the cheesecake baklava and I recommend their fresh ciabatta bread as well.",
+                "reviewer_id": "M-QnQdXP3pec4FvpSnox3A",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.5502359360376852,
+                    "positive_probability": 0.44976406396231705
+                },
+                "stars": 4
+            },
+            {
+                "review": "I like the crepes here! It's a great brunch/quick study place.",
+                "reviewer_id": "m8u49f6BQbnLBPujd6twaQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.2030185892079054,
+                    "positive_probability": 0.7969814107920943
+                },
+                "stars": 4
+            },
+            {
+                "review": "Had a tuna sandwich, which was OK, and a cup of flat coffee that I didn't finish.  This was $9.50... a bit steep. The layout is awful... the kitchen bisects the seating area, and all of the kitchen noise is audible (read: deafening) in the seating areas.  I asked for milk in coffee and was told the half and half was behind me.  Half and Half is the farthest thing from milk in the universe. Won't be back.",
+                "reviewer_id": "mm7EL1TCXy1qlIfwjeRF2Q",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9748269065234639,
+                    "positive_probability": 0.02517309347653803
+                },
+                "stars": 2
+            },
+            {
+                "review": "Very accommodating and good tasting eggs.  I stayed at the Hilton during homecoming week and I'm gluten & dairy free.  All I wanted was some poached or scrambled eggs that didn't have dairy in them.  This was very hard to find at 7 am on a Saturday.  This place made a special order for me and they were delicious, served with some spinach and organic eggs.  The people were very nice, high quality food, fast service and reasonably priced.  If I'm in town again I would go there in a moment.",
+                "reviewer_id": "MmnenoNt1H5TQ1K_zCOw3g",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.1762397173703633,
+                    "positive_probability": 0.8237602826296399
+                },
+                "stars": 5
+            },
+            {
+                "review": "The caramel machiato is amazing. The only reason I am giving it 4 star is because it's kinda pricy.",
+                "reviewer_id": "MVlMIVlxvmnWLubSuGBLjg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7660915310865928,
+                    "positive_probability": 0.23390846891340647
+                },
+                "stars": 4
+            },
+            {
+                "review": "In all of the lists of must-visit spots in Chambana that I've found Pekara always makes an appearance and for good reason. Upon entering, I was greeted by the friendly cashier. When I asked for her recommendations she gladly offered a variety of her favorite treats and then gave me adequate time to decide what I'd like to try for myself.After much deliberation, I went with the scotch oatmeal cookie that the lovely cashier recommended along with an iced coffee. Just a heads up for anyone interested, their oatmeal cookies are the real deal, made with shortening and lots of love. So while the cookie was the perfect balance of \"crunchy AND chewy\" that the cashier promised it would be, this treat definitely serves as a more once in a while splurge in my book. There were a number of other delicious looking pastries, tiramisu, and cakes on display; it really was tough to choose!My total came to $3.25 which I thought was extremely affordable considering the use of local ingredients and the fact that, at some other coffee shops in town, you'd pay that much alone for a cookie or a coffee separately.I thoroughly enjoyed my cookie, but I also just really enjoyed the space. The noise level was prime for sitting down and getting some studying and busywork done on a lazy Friday late afternoon.The combination of friendly and accommodating staff, delicious products, and the cool bakery/coffee shop ambiance give Pekara a thumbs up in my book. I definitely hope to be back in the next week or two!",
+                "reviewer_id": "mXG-1WYYCDS8o1-3W0eezA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 7.633661800930334e-06,
+                    "positive_probability": 0.9999923663382014
+                },
+                "stars": 4
+            },
+            {
+                "review": "A dear bakery & cafe in the nice part of Champaign. Enjoyed a breakfast here and was pleasantly surprised with the quality and prices. The interior is clean and there is decent amount of space without some outdoor seating. Cashiers were nice and friendly.We enjoyed two crepes, a quiche, and a soup for breakfast. I really liked the quiche here. It's more eggy like an omelet but it was very aromatic with the bacon on the bottom. I think I ordered the Florentine quiche? The crepes are nice as well. It's not a very thin, delicate crepe, but I really liked the sweet cream inside along with the fruit. Its stuffed with the cream and what's nice is that it wasn't too sweet and it had a hint of acidity. I would skip the tomato soup with gouda here. It was too heavy in my taste - almost like a sauce. It does come with a lot of bread though.With it's price point, I'd definitely want to come back when I have the chance!",
+                "reviewer_id": "nd3n5T1H8TWADtrKf0FnVQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.00032320834495834933,
+                    "positive_probability": 0.9996767916550512
+                },
+                "stars": 4
+            },
+            {
+                "review": "This is the place in Downtown Champaign that you go for the best pastries. They have a daily array of yum yums that may include some of these: bagels, danish, bear claws, turnovers, cheesecake, cookies baklava(excellent), tarts, tortes, fruit/nut bars, quiche, rolls, and much more. Every one of these that I have tried has been very good.They also have really good daily soups (with surprisingly high prices) and good lunches. Their lunches are pretty expensive for what you get, but all sandwiches come on their awesome bread. They make crepes here that are pretty good, but again, the prices are pretty high for what you get. It can get crowded at lunch time, also. They have staff to deliver the meals to your tables after you order at the counter.Coffee comes in little (one size) cups and is often weak. Get your coffee next door at Aroma, people bring product from one cafe to the other all the time.It may seem like I am way too down on this place for a 4 star review, but for what I am looking for (pastries!) they are solid.",
+                "reviewer_id": "NGX1PZwHET_oQOT7vkkxag",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.0013446042604772718,
+                    "positive_probability": 0.9986553957395153
+                },
+                "stars": 4
+            },
+            {
+                "review": "Worst Crepe !!!!!!! Being an European cafe if they don't know how to make a extremely simple Crepe, don't know what to write. We ordered 4 crepes, and they all were bad, uncooked crepe, very little filling. We are having stomach aches as well. Tried calling them and they kept us on hold for over 15 minutes..Weird!!!!  Don't know about other stuff but crepes are HORRIBLE..stay away if you are going there in the hope of a good Crepe as we did....",
+                "reviewer_id": "NKzHfuLFpHlCSX3j7ZaYNA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.04157020573121004,
+                    "positive_probability": 0.9584297942687866
+                },
+                "stars": 1
+            },
+            {
+                "review": "This is the kind of high-quality bakery that you find in cities.  Everything that I've had here is good.  Their bread is sooo fluffy.  The soup is great, I tried the cheesy broccoli (I love broccoli).  The coffee is fine, not amazing, but not bad.  I also like the random assortment of mugs that you get to pick from.They just got bagels here!  And they look like the real boiled thing!  Who else understands how big of a deal this is in urbana champaign?  The hours of 7-7pm also make it perfect for a real breakfast place. Free wifi and the fact that it's relatively empty on weekdays (unfortunately for them) makes it a fantastic place to work or power-study.  The caffeine + excellent sugar filled pastries keep you going.",
+                "reviewer_id": "nmh7Z99urzgy2xmh9v_pYA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.03218135604169636,
+                    "positive_probability": 0.9678186439583093
+                },
+                "stars": 4
+            },
+            {
+                "review": "This review is based not on a dining experience, but as a coffeeshop experience.I've been to Pekara several times in an attempt to have coffee and  work. I keep trying because I like the atmosphere more than Aroma or Kopi.  But, the wireless is always spotty. Most recently, last Friday night, the wifi wasn't working at all. We talked to a staff member, and she tried to reset it, but it never ended up working, and we ended up leaving.  The frustrating part is that we had made several purchases, were clearly there to work, and there was no indication prior to ordering that the wifi was having any problems.  I think that in these cases, if wifi is faulty, customers should be given notification before they settle in. This has happened at least twice now.I ordered a pumpkin latte, which was tasty.  The sugar cookie tasted too much like almond extract for my preferences.  I prefer purer tasting sugar cookies.I might return to Pekara in the future for bread or to have a drink when I don't need the Internet to work.",
+                "reviewer_id": "oRCWQ7eaS0IM0DHeCMwBKw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.24373779772643742,
+                    "positive_probability": 0.7562622022735461
+                },
+                "stars": 2
+            },
+            {
+                "review": "Good quality food fairly priced. What more could you ask. Great place to stop in and have a bite. Their bread is excellent.",
+                "reviewer_id": "oucWQnXb2fyesSK3BoZocQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.44252937340734805,
+                    "positive_probability": 0.5574706265926509
+                },
+                "stars": 4
+            },
+            {
+                "review": "The desserts are always so good and pretty. The coffee is great and employees are very kind. Every time I'm in town, I always look forward to coming here.",
+                "reviewer_id": "OxpMMJrR6oOm3ebPxJOmPw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.18414167253837133,
+                    "positive_probability": 0.8158583274616307
+                },
+                "stars": 5
+            },
+            {
+                "review": "i'm convinced i ordered the wrong thing. bakeries and locally grown produce supporters will always have a place in my heart, but pekara definitely let me down. i made a last minute switch from the mushroom & swiss croissant to the hummus vegetarian sandwich. (if i was a time traveler, i would go back and order the croissant) i got it to go and was incredibly unpleased when i saw a bag of lay's in my take out box... definitely one of my biggest pet peeves. don't cop out and throw a bag of the least popular chips in the world in there. it's like a slap in the face. anywho, the sandwich itself was nothing memorable, and definitely not worth $8. great bread, 2 slices of tomato, maybe 5 super thin slices of cucumber, a leaf of lettuce, and spread of hummus. that's it? that's all you got, pekara? like i said, complete disappointment.3 stars for the yummy bread, beautiful display of baked goods (that i stupidly ignored), and the biased potential I believe this place has. haha. but negative stars for the bag of lay's, the server who refused to step in while I went back and forth between menu items, and weak hummus sammie. like i said, soft spot for places like these, i'll be back and im hoping pekara wont go down without a fight.",
+                "reviewer_id": "oYT1eRGFQxzPCR0h_JyvIw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9997717410533922,
+                    "positive_probability": 0.00022825894659968092
+                },
+                "stars": 3
+            },
+            {
+                "review": "I went here for brunch just last week. Great ambience, great staff and amazing food. What more can you want? We ordered a savory crepe and omelette to share. Everything went swimmingly, from the fresh bread samples at the register, to the lightning fast service and readily available condiments. Best of all, Pekara is big on natural food, so you feel quite healthy after a meal here.I really enjoy their gorgeous backyard with great outdoor seating.",
+                "reviewer_id": "pD0ntLKZOopi2KmaVxSw_A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.026484806460671934,
+                    "positive_probability": 0.9735151935393239
+                },
+                "stars": 5
+            },
+            {
+                "review": "Pekara's okay. I think the baked goods are a tad overrated, though they're not bad (and probably the best in the area- though that doesn't say much- it's a long slope down from Pekara). I'm not a coffee drinker, so I can't comment on that. The food was pretty good. I had a Cuban when I went, and it was alright. It's certainly not as good as Radio Maria, but understandably so. Still, I can't help but think it was lacking something. The soda was also a bit flat. I will say that the french baguette was delicious, and I like day-old bread, so it's great for that.",
+                "reviewer_id": "qR6jQSCWN94STCjsnTU8vQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.1792555658745214,
+                    "positive_probability": 0.8207444341254754
+                },
+                "stars": 3
+            },
+            {
+                "review": "Love it!! One of my favorite places to go!",
+                "reviewer_id": "rgjdVmK5nYVOxrK6YeQJNQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.4693029810226389,
+                    "positive_probability": 0.5306970189773615
+                },
+                "stars": 5
+            },
+            {
+                "review": "I'm really a fan of Pekara's crepes and baked items in general. When you walk in, you can't help but to stare at their displays of baked items; all of which look delicious and the ones I have tried have tasted delicious so far.During my visit I tried the La Parisienne crepes and the person I was with had the Nutella crepes with banana and walnut. I would highly recommend either of those sweet crepes if you are fiending for something savory and sweet for breakfast (or any time of the day).Overall, it's a nice little establishment to stop in and grab a bite to eat or grab a coffee. I will definitely be returning in the future because crepes are life.",
+                "reviewer_id": "RvYWDZSFv-wL4waACRswrQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.3741393346040527,
+                    "positive_probability": 0.6258606653959482
+                },
+                "stars": 4
+            },
+            {
+                "review": "Great atmosphere and excellent deserts.",
+                "reviewer_id": "smK6Icvf3sDxeQJd2Q821A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.1560546311435989,
+                    "positive_probability": 0.8439453688564006
+                },
+                "stars": 4
+            },
+            {
+                "review": "Pekara's got a hippie sort of charm that I'm down for, and some DELICIOUS sandwiches.  Yes, the caps are necessary.  The best part?  They serve coffee in a series of mismatched store-owned mugs.  That makes me very happy, and it's far less wasteful than say a Starbucks which would just make a thousand disposable goods.I did get elbowed aside by a pushy older Caucasian gentleman who then glared at me for half of my coffee experience, but his class privilege is not the fault of Pekara (or is it....!?), so no stars lost there.I like you Pekara, and I see you and I having a delicious sandwichy future.",
+                "reviewer_id": "SpKVX3rt892E-BrL-yeqiw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9298313541961144,
+                    "positive_probability": 0.070168645803893
+                },
+                "stars": 4
+            },
+            {
+                "review": "The bread here is so good. Got the baguette from a place that sources their bread from Pekara and froze it. Reheated it in the oven two days later (16m on 375,  if you're wondering) and it was so good I just ate it plain. Made the best garlic bread from the rest. One star removed for sloooooow service and rather overpriced selections of other things, but man their pastries are good. Sandwiches can be hit or miss and heavy. Ambiance is typical locally-owned college town coffee shop, with eclectic furnishings and local art on the walls etc. Outdoor patio seating is great for nice days. Very walkable location, not so much driveable, parking is limited and metered.",
+                "reviewer_id": "tBiAJtAB4RsXiB4uWxtWrA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.007922779821255459,
+                    "positive_probability": 0.9920772201787375
+                },
+                "stars": 4
+            },
+            {
+                "review": "A bit conflicted about this caffe because last night I had a delicious cookie and noticed they had a sign saying they serve breakfast all day. So this morning came in expecting a delicious meal; because the cookie I had the night before was homemade (plus on Monday's they give you a free chocolate  chip cookie with your purchase). So this morning my omelet was good but the butter croissant was tough. The coffee was good. The tab came to $17; a bit expensive. But I was still thinking a 4 star would be an ok rating for this caffe, that is until I asked for a coffee refill and the women attending the counter said there is a $.50 charge. I read in the menu that is posted on the wall, that  you can have a espresso shot for $.30 added to your cup of coffee. Up to this point I was still ok with their way of conducting business (although it made me appreciate coffee shops in California that refill at no charge). However I had to take the rating down to three stars because once I asked for the refill and a shot of espresso the woman attending the counter said I would have to buy a new cup of coffee. If the owner of this coffee shop reads this review, please note you should change the writing in the large menu  written in the wall and clarify the coffee refill situation. The customer service was also inconsistent the first time (night) I came in to buy my cookie the gentleman attending the counter was great. The next morning I order my $17 omelette, croissant and coffee a nice African American lady took my order. But the woman with very short light brown hair was not customer service oriented when dealing with my coffee refill issue. I came in happy to be a return customer but left not sure if I would return.",
+                "reviewer_id": "tgyjx8ekJ92_GPznIniC5w",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 3.388002477804028e-05,
+                    "positive_probability": 0.9999661199752076
+                },
+                "stars": 3
+            },
+            {
+                "review": "Pekara is a bakery in Champaign with an inviting storefront. When I got there, I ordered a Ham and cheese croissant, which was good and cheap. However after that, it began to get expensive. I originally came here for a crepe, and I must say that I think their savory crepes are better than their sweet ones.The Salmon crepe that my friend ordered was good, however, the chocolate banana crepe I ordered was horrible! It was tough to cut through, there wad hardly any nutella or chocolate on it, and it tasted flavorless. I was disappointed.I ordered a fruit tart, which was good (you can't go wrong with those), but pricey. And their French sodas are okay, but also pricey.Since the main reason I came was for the crepe and the crepe I had was terrible, I can't give this rating no more than three stars.",
+                "reviewer_id": "THZbpyV1VQDJiBrDBbWpfw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9043495508110502,
+                    "positive_probability": 0.09565044918894616
+                },
+                "stars": 3
+            },
+            {
+                "review": "Uhh Huh...pastry and my sixteen year old loves their Cuban",
+                "reviewer_id": "TXx9DpLh1Bd1EGFP0bAxMw",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.26240039208775956,
+                    "positive_probability": 0.7375996079122397
+                },
+                "stars": 4
+            },
+            {
+                "review": "I'd say this is the best dessert place in the town. Unlike the other American desserts which are tooooo sweet and rich, everything tastes right on the spot. 5 stars.",
+                "reviewer_id": "UQ8iuU6IKnS8vzUTcL7VLA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.11451743811713774,
+                    "positive_probability": 0.8854825618828605
+                },
+                "stars": 5
+            },
+            {
+                "review": "So glad they now have a stand at Soulard Farmers' Market in St. Louis. Just had their whole wheat bread for the first time, a real artisan treat - with great crust, crumb and flavor. Look forward to trying other types.",
+                "reviewer_id": "utL8ZdA_XV5uzcUGunOJLg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.00918773651216383,
+                    "positive_probability": 0.9908122634878309
+                },
+                "stars": 5
+            },
+            {
+                "review": "I saw a cockroach here once.  Their ciabatta bread and crepes are almost delicious enough for me to look the other way, but I'm a little too grossed out to ever frequent this place again.",
+                "reviewer_id": "VbGvSYdxH5eRIoOwr_qkKA",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.10301102766429043,
+                    "positive_probability": 0.8969889723357108
+                },
+                "stars": 1
+            },
+            {
+                "review": "Great service! A little hesitant to the cheese the use, so if you're picky about your cheese, ask! Love the coffee barista, does an amazing job!",
+                "reviewer_id": "vBZCe3fkFt39Sgzw2L6GYg",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7338560223555367,
+                    "positive_probability": 0.2661439776444648
+                },
+                "stars": 4
+            },
+            {
+                "review": "Yummy croissants and breads, and kind servers...nice atmosphere all-around.  Chicken tortilla soup packs a little punch, so if you are sensitive to spice, be aware!",
+                "reviewer_id": "VlYk1osWjBdhzkBl2kkr5A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.15575506805016764,
+                    "positive_probability": 0.8442449319498316
+                },
+                "stars": 3
+            },
+            {
+                "review": "Coffee was okay, but honestly one of the least friendly experiences I remember. Apparently my purchase was getting in the way of other work. Only customer there...staff just kept loading the case. Once they decided to take my order, they were still apparently angry I had slowed their work.",
+                "reviewer_id": "VxPj91CYfXdyLo8xydnaJw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.7205428482373513,
+                    "positive_probability": 0.27945715176264396
+                },
+                "stars": 2
+            },
+            {
+                "review": "Parisian Macaroon (Red) is very bitter. I don't know if it is because of the dye or the almond flour. I can't finish it ;(The filling is great tho.",
+                "reviewer_id": "W_T4uSdcda770k9kwmnFUQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.14216539452899443,
+                    "positive_probability": 0.8578346054710045
+                },
+                "stars": 3
+            },
+            {
+                "review": "This place has delicious lunch and baked goods. I love their tuna salad sandwich - the tuna salad is AMAZINGLY GOOD! It has bits of white cheese (I'm still trying to figure out what kind, but it's sooo tasty!) and berries in it that set it apart from other tuna salads. Paired with a fluffy, buttery croissant, the combination of flavors is wonderful!I have also had the red pepper and smoked gouda bisque, which has been on their specials board for a couple of weeks. So good! And it comes with a generous helping of fresh bakery bread.The only thing I didn't entirely enjoy was a mango smoothie.  This is mainly because it was quite pricey for the quality IMO, since it was made with pre-squeezed mango and other juices from a container, versus using real, fresh fruit.",
+                "reviewer_id": "x7Qec9s8yGSqh1E2wLDwMQ",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9874168146898139,
+                    "positive_probability": 0.012583185310186755
+                },
+                "stars": 4
+            },
+            {
+                "review": "Although Pekara has delicious food, the lack of attention to getting orders correct may be dangerous for those with allergies.Originally intending to go to Aroma for breakfast, I decided to finally check out Pekara's beautiful display of baked goods. I was elated to see that they had filled croissants like spinach and cheese, ham and cheese, and mushroom and cheese. I ordered the ham and cheese with a cup of cocoa - but they mistakenly gave me a mushroom and cheese croissant. I did not complain since I am an equal opportunity eater, but I know if I brought my friend here who is deathly allergic to mushrooms, well, it would have been bad.The croissant itself was beautifully flaky and tasty - not rubbery store-bought crud. I also like how Pekara prides itself in not using preservatives!However, the cocoa was awful - entirely made of Hershey's syrup that congealed at the bottom of the gigantic mug. At least the drink was beautiful.I know I'll be back, but just for the food. Additional tip: They sell half price day old bread.",
+                "reviewer_id": "XOnwygK-EerILmQSxP2K6Q",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.9622699047555431,
+                    "positive_probability": 0.03773009524444342
+                },
+                "stars": 3
+            },
+            {
+                "review": "There isn't a 2.5 star rating so I notched it up to 3 because when Pekara is good, it's good. But when it's bad, it's terrible.I've had a multitude of mixed experiences here, both in service and food quality. When the baked goods are fresh, some of them can be outstanding. But when they've dried and/or gone stale and they're still selling them, it's like throwing money in the trash. (And sometimes when you ask what's fresh and you get it, it's still sub par.) The bread leaves something to be desired--I do not go here for their bread items.Pekara is not an inexpensive place to eat, either. Sometimes the service is fast and friendly and other times it's indifferent and slow. While most local businesses have a policy for a minimum spending amount to use a debit/credit card, most shop owners will still let you use your card if you're out of cash and making a purchase. Not here. I was thirty cents below the minimum and had no other means of paying for my purchase and I did not want to add on another $3 item, so the cashier took my item back and I walked out the door. It just baffles me that they'd rather lose a sale/customer than let you use your card for a $2.20 purchase.In sum: hit or miss. Could be top notch with a few changes, in this reviewer's opinion.",
+                "reviewer_id": "XXaUQHIcjaROjFhXkllw7A",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.02695169705128283,
+                    "positive_probability": 0.9730483029487184
+                },
+                "stars": 3
+            },
+            {
+                "review": "Love me some of those roasted veggie and chicken pesto crepes... :) I, also, can't forget those delicious blueberry scones....YUM!",
+                "reviewer_id": "yZ4OdqCoeFQPta2KoeeWdQ",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.260784530468416,
+                    "positive_probability": 0.739215469531584
+                },
+                "stars": 4
+            },
+            {
+                "review": "What I'd do next time: order my crepe 'golden' to make sure it's cooked enough, and ask for toppings on the side because they load them up. Also, watch out for low grade cheese. But I'll come back for a second visit, definitely.",
+                "reviewer_id": "Z0LGJMUT9E_xpeM8iSlDmw",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8694043670773363,
+                    "positive_probability": 0.13059563292266443
+                },
+                "stars": 3
+            },
+            {
+                "review": "Pekara has recently become my go-to spot if I want to spend a few hours sitting downtown. The coffee is good, the service is friendly, and there's a great selection of food whether you are looking for a snack, a meal, or something sweet.The crepes and the omelets here are outstanding! Especially the vegetarian options. And all the pastries and baked-good I've had are delicious.There are a few tables out front and a patio in the back if you want to sit outside. In the back, they have a couch and an armchair and a taller table that works well for small groups.The only weird thing is that they don't bring cutlery out when you order the food so unless you think ahead, you have to walk back over to the counter. Not a big deal, but it would be a nice thing for them to do.",
+                "reviewer_id": "zdn3U_9GzaC1C3HZM2-ziA",
+                "sentiment": {
+                    "label": "neg",
+                    "negative_probability": 0.8733063824085947,
+                    "positive_probability": 0.1266936175914091
+                },
+                "stars": 4
+            },
+            {
+                "review": "The turkey melt here is amazing! A perfect portion of soft, warm sourdough bread with turkey, cheddar, and bacon. With a pickle on the side and a bag of chips it's a great lunch. I'm also a huge fan of the black currant iced tea. I've sampled a couple of the bakery items and they're always good and I love that they have smaller cookies for $.75 so you can still satisfy your sweet tooth without having to gorge on calories.Some negatives - inside seating is limited so it may be hard to get a table during lunch. Also, the line can move a little slowly, but the staff is pleasant.",
+                "reviewer_id": "Zi1UeAxAHu36Fv6vZcTRNg",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.003542058740335896,
+                    "positive_probability": 0.9964579412596584
+                },
+                "stars": 4
+            },
+            {
+                "review": "I'm not impressed with the pastries, bread, food or coffee here.  Everything is way overpriced and nothing too special.  I ordered an omelet and got a thin egg tortilla filled with cold veggies and un-melted cheese!  I still go here sometimes when Aroma is full.  They do have free wi-fi and the space is clean and comfortable.",
+                "reviewer_id": "zkRH-NOAdIjJjU2ASeXZ1g",
+                "sentiment": {
+                    "label": "pos",
+                    "negative_probability": 0.24093382676893785,
+                    "positive_probability": 0.7590661732310606
+                },
+                "stars": 2
+            }
+        ],
+        "similar_restaurants": [
+            "YkKEsYsSpOkDBbHBGKuWQA",
+            "p8GMdsCCy-NV_wZuDaU2Jw",
+            "uhzZM-WwNsaVuvGRjv3mXw",
+            "ey7-ihj-OjM4sEOwWTc06Q",
+            "bkbOmsZ9cOggOnpKsxOyiQ",
+            "9nmeU-OOyxkn8vRy5dolNg",
+            "elwuxXreWA3IVAW5qNOw3g",
+            "d1ZT8gm7MTNHipyHEphKYA",
+            "j9N_fG1PVCSY-3HY1TRQ5Q",
+            "G7td0ad3wqtEODTJpNjEZQ"
+        ]
+    }
+}
