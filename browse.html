@@ -31,7 +31,7 @@
         	$(document).ready(function(){
       			var restaurantID = sessionStorage.restaurantID;
                  $.ajax({
-                    url: '/data/final_output.json',
+                    url: './data/final_output.json',
                     success: function (data) {
                         var currentRestaurant = data[restaurantID];
                         var city = currentRestaurant.metadata.city;

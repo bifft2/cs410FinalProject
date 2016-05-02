@@ -39,7 +39,7 @@
                     var restaurantCategoryWithSpaces = item.split("_").join(" ");
                     $('.dropdown-content').append('<a href="#'+item+'">'+restaurantCategoryWithSpaces+'</a>');
                     $.ajax({
-                        url: '/data/categories/' + item + '.json',
+                        url: './data/categories/' + item + '.json',
                         success: function (data) {
                             $('#master').append('<a name="'+item+'"></a>');
                             $('#master').append('<h1>'+ restaurantCategoryWithSpaces + '</h1>');
