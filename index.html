@@ -34,16 +34,20 @@
         <script>
             $(document).ready(function(){
                 var dataCategoriesList = ['American--New', 'American--Traditional', 'Arabian', 'Arts_and_Entertainment', 'Asian_Fusion', 'Bakeries', 'Barbeque', 'Bars', 'Breakfast_and_Brunch', 'Bubble_Tea', 'Buffets', 'Burgers', 'Cafes', 'Cajun-Creole', 'Caterers', 'Cheesesteaks', 'Chicken_Wings', 'Chinese', 'Coffee_and_Tea', 'Comfort_Food', 'Creperies', 'Delis', 'Desserts', 'Diners', 'Dive_Bars', 'Empanadas', 'Ethnic_Food', 'Event_Planning_and_Services', 'Fast_Food', 'Fish_and_Chips', 'Food_Stands', 'Food_Trucks', 'Gastropubs', 'Gelato', 'Gluten-Free', 'Greek', 'Grocery', 'Hookah_Bars', 'Hot_Dogs', 'Hot_Pot', 'Ice_Cream_and_Frozen_Yogurt', 'Indian', 'Irish', 'Italian', 'Japanese', 'Juice_Bars_and_Smoothies', 'Karaoke', 'Korean', 'Kosher', 'Latin_American', 'Lounges', 'Malaysian', 'Meat_Shops', 'Mediterranean', 'Mexican', 'Middle_Eastern', 'Mongolian', 'Music_Venues', 'Nightlife', 'Pizza', 'Pool_Halls', 'Pubs', 'Salad', 'Sandwiches', 'Soul_Food', 'Soup', 'Southern', 'Spanish', 'Specialty_Food', 'Sports_Bars', 'Steakhouses', 'Street_Vendors', 'Sushi_Bars', 'Szechuan', 'Taiwanese', 'Tex-Mex', 'Thai', 'Vegan', 'Vegetarian', 'Venues_and_Event_Spaces', 'Vietnamese', 'Wine_Bars'];
+                
 
                 $.each(dataCategoriesList, function (i, item) {
                     var restaurantCategoryWithSpaces = item.split("_").join(" ");
+                    $('#master').append('<a name="'+item+'"></a>');
+                    $('#master').append('<h1>'+ restaurantCategoryWithSpaces + '</h1>');
+                    $('#master').append('<div id="' + item + '" style="height: 300px; margin: auto; padding: 20px; width: 95%;"></div>')
                     $('.dropdown-content').append('<a href="#'+item+'">'+restaurantCategoryWithSpaces+'</a>');
                     $.ajax({
                         url: './data/categories/' + item + '.json',
                         success: function (data) {
-                            $('#master').append('<a name="'+item+'"></a>');
-                            $('#master').append('<h1>'+ restaurantCategoryWithSpaces + '</h1>');
-                            $('#master').append('<div id="' + item + '" style="height: 300px; margin: auto; padding: 20px; width: 95%;"></div>')
+                            // $('#master').append('<a name="'+item+'"></a>');
+                            // $('#master').append('<h1>'+ restaurantCategoryWithSpaces + '</h1>');
+                            // $('#master').append('<div id="' + item + '" style="height: 300px; margin: auto; padding: 20px; width: 95%;"></div>')
                             var keys = Object.keys(data);
                             for(var j = 0; j < keys.length; j++){
                                 var photo = data[keys[j]].metadata.photo;
