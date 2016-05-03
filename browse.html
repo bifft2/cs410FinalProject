@@ -83,8 +83,11 @@
                                 });
 
                                 $('#master').append('<h2>Reviews</h2>');
-                                $('#master').append('<p><b>'+ currentRestaurant.review_summary+'</b></p></br>');
                                 $('#master').append('<table id="myTable" style="width:100%"></table>');
+                                $('#myTable').append('<tr><td>Summary Review:<tr><td>')
+                                $('#myTable').append('<tr><td style="text-align: center;"><b>'+ currentRestaurant.review_summary+'</b><tr><td>');
+                                $('#myTable').append('<tr><td><p></p></td></tr>');
+                                $('#myTable').append('<tr><td><p></p></td></tr>');
 
                                 var reviewsList = currentRestaurant.reviews;
                                 for(i = 0; i < reviewsList.length; i++){
