@@ -45,9 +45,6 @@
                     $.ajax({
                         url: './data/categories/' + item + '.json',
                         success: function (data) {
-                            // $('#master').append('<a name="'+item+'"></a>');
-                            // $('#master').append('<h1>'+ restaurantCategoryWithSpaces + '</h1>');
-                            // $('#master').append('<div id="' + item + '" style="height: 300px; margin: auto; padding: 20px; width: 95%;"></div>')
                             var keys = Object.keys(data);
                             for(var j = 0; j < keys.length; j++){
                                 var photo = data[keys[j]].metadata.photo;
